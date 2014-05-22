@@ -21,8 +21,9 @@ function cria_grafico() {
     x.overrideMax = new Date("2014-05-20"); //TODO: pegar a maior data usando a d3 e lendo a base de dados e somar 1
     //x.timeInterval = 4;
     myChart.addMeasureAxis("y","intencao");
-    s = myChart.addSeries("candidato",dimple.plot.line);
-    myChart.addSeries("candidato", dimple.plot.bubble);
+	
+    myChart.addSeries("candidato",dimple.plot.line);
+	s = myChart.addSeries("candidato", dimple.plot.bubble);
     legend = myChart.addLegend(720, 2, 195, 220, "right");
     myChart.assignColor("Aécio Neves","#1C4587");
     myChart.assignColor("Dilma Rousseff","#CC0000");
@@ -33,7 +34,7 @@ function cria_grafico() {
 	
 	//arruma ordem da legenda
 	legend._getEntries = function () {
-	    var orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Branco e Nulo","Não sabe"];
+	    var orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Outros","Branco e Nulo","Não sabe"];
 	    var entries = [];
 	    orderedValues.forEach(function (v) {
 	        entries.push(
@@ -50,6 +51,11 @@ function cria_grafico() {
 
 	    return entries;
 	};
+	
+	//customiza a tooltip
+	
+	
+	
 	
     myChart.draw();
     

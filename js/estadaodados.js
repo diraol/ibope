@@ -1,8 +1,6 @@
 var complete_data = null;
 var meuGrafico = null;
 
-var data_url = "https://s3-sa-east-1.amazonaws.com/blogedados/eleicoes2014/recortes_ibope_2014.csv"
-
 function carrega () {
   //desenha grafico
     d3.csv("dados/recortes_ibope_2014.csv", function (data) {
@@ -15,7 +13,7 @@ function carrega () {
 function cria_grafico() {
     var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", "total"), "variavel", "total");
     var myChart = new dimple.chart(svg,data);
-    myChart.setBounds(40,25,850,290);
+    myChart.setBounds(40,5,750,290);
     var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%Y-%m-%d");
     x.addOrderRule("");
     x.title = "";
@@ -25,7 +23,7 @@ function cria_grafico() {
     myChart.addMeasureAxis("y","intencao");
     myChart.addSeries("candidato",dimple.plot.line);
     myChart.addSeries("candidato", dimple.plot.bubble);
-    myChart.addLegend(360, 2, 500, 20, "right");
+    myChart.addLegend(720, 2, 200, 220, "right");
     myChart.assignColor("Aécio Neves","#1C4587");
     myChart.assignColor("Dilma Rousseff","#CC0000");
     myChart.assignColor("Eduardo Campos","#E69138");

@@ -136,56 +136,60 @@
             </div><!-- /btn-group-->
           </div><!-- /input-group-->
         </div--><!-- /.col-xs-6-->
-        <div class="col-xs-1">
-          <div class="input-group">
+        <div class="col-xs-6 text-right">
+          Intenção de voto dos candidatos no eleitorado:
+        </div>
+        <div class="col-xs-6 text-left">
+          <div class="input-group recorte">
             <div class="input-group-btn">
-              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Recorte<span class="caret"></span></button>
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao">Total</span><span class="caret"></span></button>
               <ul class="dropdown-menu">
-                <li class="cat_label">Avaliação do Governo</li>
-                <li><a href="#" onClick="atualiza_recorte('avaliacao_do_governo','otimo_bom')">Ótimo/Bom</a></li>
-                <li><a href="#" onClick="atualiza_recorte('avaliacao_do_governo','regular')">Regular</a></li>
-                <li><a href="#" onClick="atualiza_recorte('avaliacao_do_governo','ruim_pessimo')">Ruim/Péssimo</a></li>
-                <li class="cat_label">Condição do Município</li>
-                <li><a href="#" onClick="atualiza_recorte('condicao_do_municipio','capital')">Capital</a></li>
-                <li><a href="#" onClick="atualiza_recorte('condicao_do_municipio','periferia')">Periferia</a></li>
-                <li><a href="#" onClick="atualiza_recorte('condicao_do_municipio','interior')">Interior</a></li>
-                <li class="cat_label">Escolaridade</li>
-                <li><a href="#" onClick="atualiza_recorte('escolaridade','fundamental_1')">Fundamental</a></li>
-                <li><a href="#" onClick="atualiza_recorte('escolaridade','fundamental_2')">5&#170; a 8&#170; série</a></li>
-                <li><a href="#" onClick="atualiza_recorte('escolaridade','medio')">Ensino Médio</a></li>
-                <li><a href="#" onClick="atualiza_recorte('escolaridade','superior')">Ensino Superior</a></li>
-                <li class="cat_label">Idade</li>
-                <li><a href="#" onClick="atualiza_recorte('idade','16_a_24')">16 a 24 anos</a></li>
-                <li><a href="#" onClick="atualiza_recorte('idade','25_a_34')">25 a 34 anos</a></li>
-                <li><a href="#" onClick="atualiza_recorte('idade','35_a_44')">35 a 44 anos</a></li>
-                <li><a href="#" onClick="atualiza_recorte('idade','45_a_54')">45 a 54 anos</a></li>
-                <li><a href="#" onClick="atualiza_recorte('idade','55_ou_mais')">55 ou mais anos</a></li>
-                <li class="cat_label">Raça</li>
-                <li><a href="#" onClick="atualiza_recorte('raca','branca')">Branca</a></li>
-                <li><a href="#" onClick="atualiza_recorte('raca','preta')">Preta</a></li>
-                <li><a href="#" onClick="atualiza_recorte('raca','outras')">Outras</a></li>
-                <li class="cat_label">Região</li>
-                <li><a href="#" onClick="atualiza_recorte('regiao','norte_e_centro_oeste')">Norte e Centro Oeste</a></li>
-                <li><a href="#" onClick="atualiza_recorte('regiao','nordeste')">Nordeste</a></li>
-                <li><a href="#" onClick="atualiza_recorte('regiao','sudeste')">Sudeste</a></li>
-                <li><a href="#" onClick="atualiza_recorte('regiao','sul')">Sul</a></li>
-                <li class="cat_label">Renda (SM)</li>
-                <li><a href="#" onClick="atualiza_recorte('renda','ate_1')">Até 1</a></li>
-                <li><a href="#" onClick="atualiza_recorte('renda','1_a_2')">Mais de 1 a 2</a></li>
-                <li><a href="#" onClick="atualiza_recorte('renda','2_a_5')">Mais de 2 a 5</a></li>
-                <li><a href="#" onClick="atualiza_recorte('renda','mais_de_5')">Mais de 5</a></li>
-                <li class="cat_label">Religião</li>
-                <li><a href="#" onClick="atualiza_recorte('religiao','catolica')">Católica</a></li>
-                <li><a href="#" onClick="atualiza_recorte('religiao','evangelica')">Evangélica</a></li>
-                <li><a href="#" onClick="atualiza_recorte('religiao','outras')">Outras</a></li>
-                <li class="cat_label">Sexo</li>
-                <li><a href="#" onClick="atualiza_recorte('sexo','masculino')">Masculino</a></li>
-                <li><a href="#" onClick="atualiza_recorte('sexo','feminino')">Feminino</a></li>
+                <li><a href="#" onClick="atualiza_recorte('total','total','Total')">Total</a></li>
+                <li class="cat_label">do Sexo</li>
+                <li><a href="#" onClick="atualiza_recorte('sexo','masculino','do sexo masculino')">Masculino</a></li>
+                <li><a href="#" onClick="atualiza_recorte('sexo','feminino','do sexo feminino')">Feminino</a></li>
+                <li class="cat_label">da Região</li>
+                <li><a href="#" onClick="atualiza_recorte('regiao','norte_e_centro_oeste','das regiões Norte e Centro Oeste')">Norte e Centro Oeste</a></li>
+                <li><a href="#" onClick="atualiza_recorte('regiao','nordeste','da região Nordeste')">Nordeste</a></li>
+                <li><a href="#" onClick="atualiza_recorte('regiao','sudeste','da região Sudeste')">Sudeste</a></li>
+                <li><a href="#" onClick="atualiza_recorte('regiao','sul','da região Sul')">Sul</a></li>
+                <li class="cat_label">com nível de Escolaridade</li>
+                <li><a href="#" onClick="atualiza_recorte('escolaridade','fundamental_1','com Ensino Fundamental 1')">Fundamental</a></li>
+                <li><a href="#" onClick="atualiza_recorte('escolaridade','fundamental_2','com Ensino Fundamental 2')">5&#170; a 8&#170; série</a></li>
+                <li><a href="#" onClick="atualiza_recorte('escolaridade','medio','com Ensino Médio')">Ensino Médio</a></li>
+                <li><a href="#" onClick="atualiza_recorte('escolaridade','superior','com Ensino Superior')">Ensino Superior</a></li>
+                <li class="cat_label">com Renda Familiar (Salário Mínimo)</li>
+                <li><a href="#" onClick="atualiza_recorte('renda','ate_1','com renda Até 1 SM')">Até 1</a></li>
+                <li><a href="#" onClick="atualiza_recorte('renda','1_a_2','com renda de 1 a 2 SM')">Mais de 1 a 2</a></li>
+                <li><a href="#" onClick="atualiza_recorte('renda','2_a_5','com renda de 2 a 5 SM')">Mais de 2 a 5</a></li>
+                <li><a href="#" onClick="atualiza_recorte('renda','mais_de_5','com renda maior que 5 SM')">Mais de 5</a></li>
+                <li class="cat_label">cujo município é</li>
+                <li><a href="#" onClick="atualiza_recorte('condicao_do_municipio','capital','cujo município é Capital')">Capital</a></li>
+                <li><a href="#" onClick="atualiza_recorte('condicao_do_municipio','periferia','cujo município é da Periferia')">Periferia</a></li>
+                <li><a href="#" onClick="atualiza_recorte('condicao_do_municipio','interior','cujo município é do Interior')">Interior</a></li>
+                <li class="cat_label">com Idade na faixa de</li>
+                <li><a href="#" onClick="atualiza_recorte('idade','16_a_24','com idade de 16 a 24 anos')">16 a 24 anos</a></li>
+                <li><a href="#" onClick="atualiza_recorte('idade','25_a_34','com idade de 25 a 34 anos')">25 a 34 anos</a></li>
+                <li><a href="#" onClick="atualiza_recorte('idade','35_a_44','com idade de 35 a 44 anos')">35 a 44 anos</a></li>
+                <li><a href="#" onClick="atualiza_recorte('idade','45_a_54','com idade de 45 a 54 anos')">45 a 54 anos</a></li>
+                <li><a href="#" onClick="atualiza_recorte('idade','55_ou_mais','com idade de 55 ou mais anos')">55 ou mais anos</a></li>
+                <li class="cat_label">cuja Raça é</li>
+                <li><a href="#" onClick="atualiza_recorte('raca','branca','cuja raça é Branca')">Branca</a></li>
+                <li><a href="#" onClick="atualiza_recorte('raca','preta','cuja raça é Preta')">Preta</a></li>
+                <li><a href="#" onClick="atualiza_recorte('raca','outras','de outras raças')">Outras</a></li>
+                <li class="cat_label">cuja Religião é</li>
+                <li><a href="#" onClick="atualiza_recorte('religiao','catolica','Católico')">Católica</a></li>
+                <li><a href="#" onClick="atualiza_recorte('religiao','evangelica','Evangélico')">Evangélica</a></li>
+                <li><a href="#" onClick="atualiza_recorte('religiao','outras','de outras religiões')">Outras</a></li>
+                <li class="cat_label">que avalia o Governo como</li>
+                <li><a href="#" onClick="atualiza_recorte('avaliacao_do_governo','otimo_bom','que avalia o governo como Ótimo/Bom')">Ótimo/Bom</a></li>
+                <li><a href="#" onClick="atualiza_recorte('avaliacao_do_governo','regular','que avalia o governo como Regular')">Regular</a></li>
+                <li><a href="#" onClick="atualiza_recorte('avaliacao_do_governo','ruim_pessimo','que avalia o governo como Ruim/Péssimo')">Ruim/Péssimo</a></li>
               </ul>
             </div><!-- /btn-group-->
           </div><!-- /input-group-->
         </div><!-- /.col-xs-6-->
-        <div class="col-xs-11">
+        <div class="col-xs-12 text-center">
           <div id="grafico"></div>
         </div>
   </section>

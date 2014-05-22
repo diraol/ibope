@@ -13,14 +13,15 @@ function carrega () {
 }
 
 function cria_grafico() {
-    var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", "escolaridade"), "variavel", "medio");
-    console.log(data);
+    var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", "total"), "variavel", "total");
     var myChart = new dimple.chart(svg,data);
-    myChart.setBounds(40,30,850,300);
+    myChart.setBounds(40,25,850,290);
     var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%Y-%m-%d");
-    x.addOrderRule("data");
-    //x.overrideMin = new Date("2014-03-16"); //TODO: pegar a menor data usando a d3 e lendo a base de dados e subtrair 1
-    //x.overrideMax = new Date("2014-04-15"); //TODO: pegar a maior data usando a d3 e lendo a base de dados e somar 1
+    x.addOrderRule("");
+    x.title = "";
+    x.overrideMin = new Date("2014-03-16"); //TODO: pegar a menor data usando a d3 e lendo a base de dados e subtrair 1
+    x.overrideMax = new Date("2014-05-20"); //TODO: pegar a maior data usando a d3 e lendo a base de dados e somar 1
+    //x.timeInterval = 4;
     myChart.addMeasureAxis("y","intencao");
     myChart.addSeries("candidato",dimple.plot.line);
     myChart.addSeries("candidato", dimple.plot.bubble);
@@ -34,16 +35,17 @@ function cria_grafico() {
     myChart.draw();
     x.shapes.selectAll("text").attr("transform",
         function (d) {
+            //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
             return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
         });
     window.chart=myChart;
 }
 
-function atualiza_recorte(recorte, variavel){
-    console.log(window.complete_data, recorte, variavel);
+function atualiza_recorte(recorte, variavel, texto){
     var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", recorte), "variavel", variavel);
     chart.data = data;
-        chart.draw(1000);
+    chart.draw(1000);
+    $(".botao-selecao").html(texto);
 }
 
 $(document).ready(function(){

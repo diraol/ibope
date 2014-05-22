@@ -93,3 +93,8 @@ footer p {
 footer {
   border:0;
 }
+
+.recorte {
+  margin-top: -5px;
+  margin-bottom: 10px;
+}

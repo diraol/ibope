@@ -14,7 +14,7 @@ function cria_grafico() {
     var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", "total"), "variavel", "total");
     var myChart = new dimple.chart(svg,data);
     myChart.setBounds(40,20,750,390);
-    var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%Y-%m-%d");
+    var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%d/%m	");
     x.addOrderRule("");
     x.title = "";
     x.overrideMin = new Date("2014-03-16"); //TODO: pegar a menor data usando a d3 e lendo a base de dados e subtrair 1
@@ -52,10 +52,25 @@ function cria_grafico() {
 	    return entries;
 	};
 	
+	//arruma as fontes
+	legend.fontFamily = "Arial";
+	legend.fontSize = "82%";
+
+	x.fontFamily = "Arial";
+	x.fontSize = "95%";
+	
+	y = myChart.axes[1]
+	
+	y.fontFamily = "Arial";
+	y.fontSize = "95%";
+	y.title = "Intenção de Voto"
+	
 	//customiza a tooltip
-	
-	
-	
+	s.getTooltipText = function (e) {
+	    return [
+			e.aggField[0]+": "+ e.y
+	    ];
+	};
 	
     myChart.draw();
     

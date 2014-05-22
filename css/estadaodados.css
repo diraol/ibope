@@ -83,6 +83,11 @@ footer p {
   padding-right: 5px;
 }
 
+.dimple-tooltip {
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  font-size:100% !important;
+}
+
 /*ESPECÍFICO DA PÁGINA/PROJETO*/
 .cat_label {
   font-size: 0.8em;
@@ -94,3 +99,4 @@ footer p {
   margin-top: -5px;
   margin-bottom: 10px;
 }
+

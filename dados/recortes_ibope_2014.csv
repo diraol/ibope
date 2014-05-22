@@ -1,4 +1,4 @@
-data,instituto,recorte,variavel,candidato,partido,intencao,Turno
+data,iBranco e Nulotituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,regiao,nordeste,Dilma Rousseff,PT,54,1
 2014-03-17,Ibope,renda,ate_1,Dilma Rousseff,PT,54,1
 2014-03-17,Ibope,escolaridade,fundamental_1,Dilma Rousseff,PT,47,1
@@ -23,12 +23,9 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,regiao,sul,Dilma Rousseff,PT,35,1
 2014-03-17,Ibope,cor,branca,Dilma Rousseff,PT,34,1
 2014-03-17,Ibope,regiao,sudeste,Dilma Rousseff,PT,33,1
-2014-03-17,Ibope,cor,outras,Nulo,nulo,32,1
 2014-03-17,Ibope,renda,mais_de_5,Dilma Rousseff,PT,30,1
-2014-03-17,Ibope,regiao,sudeste,Nulo,nulo,29,1
-2014-03-17,Ibope,condicao_do_municipio,capital,Nulo,nulo,29,1
-2014-03-17,Ibope,condicao_do_municipio,periferia,Nulo,nulo,29,1
 2014-03-17,Ibope,escolaridade,superior,Dilma Rousseff,PT,27,1
+<<<<<<< HEAD
 2014-03-17,Ibope,idade,45_a_54,Nulo,nulo,27,1
 2014-03-17,Ibope,escolaridade,superior,Nulo,nulo,27,1
 2014-03-17,Ibope,escolaridade,medio,Nulo,nulo,26,1
@@ -181,10 +178,11 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,condicao_do_municipio,interior,Outros,Outros,0,1
 2014-03-17,Ibope,renda,mais_de_5,Outros,Outros,0,1
 2014-03-17,Ibope,cor,branca,Outros,Outros,0,1
+=======
+>>>>>>> dados na ordem certa
 2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Dilma Rousseff,PT,78,1
 2014-04-14,Ibope,renda,ate_1,Dilma Rousseff,PT,52,1
 2014-04-14,Ibope,regiao,nordeste,Dilma Rousseff,PT,51,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Nulo,nulo,48,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Dilma Rousseff,PT,46,1
 2014-04-14,Ibope,cor,outras,Dilma Rousseff,PT,44,1
 2014-04-14,Ibope,renda,1_a_2,Dilma Rousseff,PT,42,1
@@ -199,7 +197,6 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,sexo,feminino,Dilma Rousseff,PT,37,1
 2014-04-14,Ibope,idade,16_a_24,Dilma Rousseff,PT,37,1
 2014-04-14,Ibope,idade,35_a_44,Dilma Rousseff,PT,37,1
-2014-04-14,Ibope,religiao,outras,Nulo,nulo,37,1
 2014-04-14,Ibope,total,total,Dilma Rousseff,PT,37,1
 2014-04-14,Ibope,escolaridade,medio,Dilma Rousseff,PT,36,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Dilma Rousseff,PT,36,1
@@ -207,28 +204,14 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,renda,2_a_5,Dilma Rousseff,PT,35,1
 2014-04-14,Ibope,religiao,evangelica,Dilma Rousseff,PT,35,1
 2014-04-14,Ibope,idade,25_a_34,Dilma Rousseff,PT,34,1
-2014-04-14,Ibope,regiao,sul,Nulo,nulo,32,1
 2014-04-14,Ibope,regiao,sudeste,Dilma Rousseff,PT,31,1
-2014-04-14,Ibope,regiao,sudeste,Nulo,nulo,30,1
 2014-04-14,Ibope,cor,branca,Dilma Rousseff,PT,30,1
-2014-04-14,Ibope,idade,25_a_34,Nulo,nulo,29,1
-2014-04-14,Ibope,escolaridade,superior,Nulo,nulo,29,1
 2014-04-14,Ibope,regiao,sul,Dilma Rousseff,PT,29,1
-2014-04-14,Ibope,cor,branca,Nulo,nulo,29,1
-2014-04-14,Ibope,condicao_do_municipio,periferia,Nulo,nulo,28,1
-2014-04-14,Ibope,sexo,feminino,Nulo,nulo,27,1
-2014-04-14,Ibope,escolaridade,medio,Nulo,nulo,27,1
-2014-04-14,Ibope,condicao_do_municipio,capital,Nulo,nulo,27,1
-2014-04-14,Ibope,renda,mais_de_5,Nulo,nulo,27,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Dilma Rousseff,PT,27,1
-2014-04-14,Ibope,idade,45_a_54,Nulo,nulo,26,1
-2014-04-14,Ibope,renda,mais_de_5,Aécio Neves,PSDB,26,1
 2014-04-14,Ibope,renda,mais_de_5,Dilma Rousseff,PT,26,1
-2014-04-14,Ibope,renda,2_a_5,Nulo,nulo,26,1
 2014-04-14,Ibope,escolaridade,superior,Dilma Rousseff,PT,25,1
-2014-04-14,Ibope,idade,35_a_44,Nulo,nulo,24,1
-2014-04-14,Ibope,escolaridade,fundamental_2,Nulo,nulo,24,1
 2014-04-14,Ibope,religiao,outras,Dilma Rousseff,PT,24,1
+<<<<<<< HEAD
 2014-04-14,Ibope,religiao,evangelica,Nulo,nulo,24,1
 2014-04-14,Ibope,total,total,Nulo,NS,24,1
 2014-04-14,Ibope,idade,16_a_24,Nulo,nulo,23,1
@@ -358,54 +341,9 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,cor,outras,Eduardo Campos,PSB,3,1
 2014-04-14,Ibope,renda,1_a_2,Pastor Everaldo,PSC,3,1
 2014-04-14,Ibope,religiao,outras,Pastor Everaldo,PSC,3,1
+=======
+>>>>>>> dados na ordem certa
 2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Dilma Rousseff,PT,3,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Pastor Everaldo,PSC,3,1
-2014-04-14,Ibope,regiao,sudeste,Outros,Outros,3,1
-2014-04-14,Ibope,religiao,catolica,Outros,Outros,3,1
-2014-04-14,Ibope,avaliacao_do_governo,regular,Outros,Outros,3,1
-2014-04-14,Ibope,sexo,masculino,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,sexo,feminino,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,idade,25_a_34,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,idade,35_a_44,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,escolaridade,fundamental_1,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,escolaridade,fundamental_2,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,escolaridade,medio,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,regiao,norte_e_centro_oeste,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,regiao,nordeste,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,regiao,sudeste,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,condicao_do_municipio,interior,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,renda,2_a_5,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,renda,ate_1,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,cor,branca,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,cor,preta_parda,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Eduardo Campos,PSB,2,1
-2014-04-14,Ibope,avaliacao_do_governo,regular,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,sexo,feminino,Outros,Outros,2,1
-2014-04-14,Ibope,idade,25_a_34,Outros,Outros,2,1
-2014-04-14,Ibope,escolaridade,fundamental_1,Outros,Outros,2,1
-2014-04-14,Ibope,regiao,nordeste,Outros,Outros,2,1
-2014-04-14,Ibope,regiao,sul,Outros,Outros,2,1
-2014-04-14,Ibope,condicao_do_municipio,periferia,Outros,Outros,2,1
-2014-04-14,Ibope,condicao_do_municipio,interior,Outros,Outros,2,1
-2014-04-14,Ibope,renda,ate_1,Outros,Outros,2,1
-2014-04-14,Ibope,cor,preta_parda,Outros,Outros,2,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Outros,Outros,2,1
-2014-04-14,Ibope,total,total,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,total,total,Outros,Outros,2,1
-2014-04-14,Ibope,idade,45_a_54,Pastor Everaldo,PSC,1,1
-2014-04-14,Ibope,escolaridade,superior,Pastor Everaldo,PSC,1,1
-2014-04-14,Ibope,condicao_do_municipio,capital,Pastor Everaldo,PSC,1,1
-2014-04-14,Ibope,renda,mais_de_5,Pastor Everaldo,PSC,1,1
-2014-04-14,Ibope,religiao,catolica,Pastor Everaldo,PSC,1,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Pastor Everaldo,PSC,1,1
-2014-04-14,Ibope,idade,55_ou_mais,Outros,Outros,1,1
-2014-04-14,Ibope,escolaridade,fundamental_2,Outros,Outros,1,1
-2014-04-14,Ibope,renda,2_a_5,Outros,Outros,1,1
-2014-04-14,Ibope,cor,outras,Outros,Outros,0,1
-2014-04-14,Ibope,religiao,evangelica,Outros,Outros,0,1
-2014-05-19,Ibope,cor,preta_parda,Não sabe,NS,9,1
 2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Dilma Rousseff,PT,82,1
 2014-05-19,Ibope,renda,ate_1,Dilma Rousseff,PT,56,1
 2014-05-19,Ibope,escolaridade,fundamental_1,Dilma Rousseff,PT,51,1
@@ -434,18 +372,74 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-05-19,Ibope,condicao_do_municipio,capital,Dilma Rousseff,PT,35,1
 2014-05-19,Ibope,renda,2_a_5,Dilma Rousseff,PT,35,1
 2014-05-19,Ibope,cor,branca,Dilma Rousseff,PT,35,1
-2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Aécio Neves,PSDB,35,1
 2014-05-19,Ibope,regiao,sudeste,Dilma Rousseff,PT,33,1
 2014-05-19,Ibope,avaliacao_do_governo,regular,Dilma Rousseff,PT,33,1
 2014-05-19,Ibope,escolaridade,superior,Dilma Rousseff,PT,32,1
-2014-05-19,Ibope,cor,branca,Pastor Everaldo,PSC,32,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Dilma Rousseff,PT,5,1
+2014-03-17,Ibope,renda,mais_de_5,Aécio Neves,PSDB,23,1
+2014-03-17,Ibope,escolaridade,superior,Aécio Neves,PSDB,21,1
+2014-03-17,Ibope,regiao,sudeste,Aécio Neves,PSDB,18,1
+2014-03-17,Ibope,cor,branca,Aécio Neves,PSDB,18,1
+2014-03-17,Ibope,renda,2_a_5,Aécio Neves,PSDB,17,1
+2014-03-17,Ibope,sexo,masculino,Aécio Neves,PSDB,16,1
+2014-03-17,Ibope,idade,45_a_54,Aécio Neves,PSDB,16,1
+2014-03-17,Ibope,regiao,sul,Aécio Neves,PSDB,16,1
+2014-03-17,Ibope,idade,25_a_34,Aécio Neves,PSDB,14,1
+2014-03-17,Ibope,idade,35_a_44,Aécio Neves,PSDB,14,1
+2014-03-17,Ibope,escolaridade,medio,Aécio Neves,PSDB,14,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Aécio Neves,PSDB,14,1
+2014-03-17,Ibope,idade,55_ou_mais,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,total,total,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,idade,16_a_24,Aécio Neves,PSDB,12,1
+2014-03-17,Ibope,sexo,feminino,Aécio Neves,PSDB,11,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Aécio Neves,PSDB,11,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Aécio Neves,PSDB,10,1
+2014-03-17,Ibope,renda,1_a_2,Aécio Neves,PSDB,10,1
+2014-03-17,Ibope,cor,preta_parda,Aécio Neves,PSDB,10,1
+2014-03-17,Ibope,cor,outras,Aécio Neves,PSDB,8,1
+2014-03-17,Ibope,regiao,nordeste,Aécio Neves,PSDB,6,1
+2014-03-17,Ibope,renda,ate_1,Aécio Neves,PSDB,4,1
+2014-04-14,Ibope,renda,mais_de_5,Aécio Neves,PSDB,26,1
+2014-04-14,Ibope,cor,outras,Aécio Neves,PSDB,23,1
+2014-04-14,Ibope,escolaridade,superior,Aécio Neves,PSDB,22,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Aécio Neves,PSDB,21,1
+2014-04-14,Ibope,regiao,sudeste,Aécio Neves,PSDB,20,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Aécio Neves,PSDB,19,1
+2014-04-14,Ibope,sexo,masculino,Aécio Neves,PSDB,17,1
+2014-04-14,Ibope,idade,55_ou_mais,Aécio Neves,PSDB,17,1
+2014-04-14,Ibope,renda,2_a_5,Aécio Neves,PSDB,17,1
+2014-04-14,Ibope,cor,branca,Aécio Neves,PSDB,17,1
+2014-04-14,Ibope,idade,25_a_34,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,idade,45_a_54,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,religiao,catolica,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,escolaridade,medio,Aécio Neves,PSDB,14,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Aécio Neves,PSDB,14,1
+2014-04-14,Ibope,total,total,Aécio Neves,PSDB,14,1
+2014-04-14,Ibope,idade,16_a_24,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,idade,35_a_44,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,religiao,evangelica,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,religiao,outras,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,sexo,feminino,Aécio Neves,PSDB,12,1
+2014-04-14,Ibope,regiao,sul,Aécio Neves,PSDB,12,1
+2014-04-14,Ibope,cor,preta_parda,Aécio Neves,PSDB,12,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Aécio Neves,PSDB,11,1
+2014-04-14,Ibope,renda,1_a_2,Aécio Neves,PSDB,10,1
+2014-04-14,Ibope,regiao,nordeste,Aécio Neves,PSDB,8,1
+2014-04-14,Ibope,renda,ate_1,Aécio Neves,PSDB,7,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Aécio Neves,PSDB,4,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Aécio Neves,PSDB,35,1
 2014-05-19,Ibope,escolaridade,superior,Aécio Neves,PSDB,28,1
-2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Nulo,nulo,28,1
 2014-05-19,Ibope,renda,mais_de_5,Aécio Neves,PSDB,25,1
 2014-05-19,Ibope,regiao,sudeste,Aécio Neves,PSDB,24,1
 2014-05-19,Ibope,regiao,norte_e_centro_oeste,Aécio Neves,PSDB,23,1
 2014-05-19,Ibope,idade,55_ou_mais,Aécio Neves,PSDB,22,1
-2014-05-19,Ibope,regiao,sul,Nulo,nulo,22,1
 2014-05-19,Ibope,renda,2_a_5,Aécio Neves,PSDB,22,1
 2014-05-19,Ibope,cor,branca,Aécio Neves,PSDB,22,1
 2014-05-19,Ibope,condicao_do_municipio,interior,Aécio Neves,PSDB,21,1
@@ -453,128 +447,179 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-05-19,Ibope,idade,25_a_34,Aécio Neves,PSDB,20,1
 2014-05-19,Ibope,idade,45_a_54,Aécio Neves,PSDB,20,1
 2014-05-19,Ibope,religiao,catolica,Aécio Neves,PSDB,20,1
-2014-05-19,Ibope,religiao,outras,Nulo,nulo,20,1
 2014-05-19,Ibope,avaliacao_do_governo,regular,Aécio Neves,PSDB,20,1
 2014-05-19,Ibope,total,total,Aécio Neves,PSDB,20,1
 2014-05-19,Ibope,sexo,masculino,Aécio Neves,PSDB,19,1
 2014-05-19,Ibope,idade,16_a_24,Aécio Neves,PSDB,19,1
 2014-05-19,Ibope,escolaridade,medio,Aécio Neves,PSDB,19,1
-2014-05-19,Ibope,regiao,sudeste,Nulo,nulo,19,1
-2014-05-19,Ibope,condicao_do_municipio,capital,Nulo,nulo,19,1
 2014-05-19,Ibope,escolaridade,fundamental_2,Aécio Neves,PSDB,18,1
 2014-05-19,Ibope,condicao_do_municipio,capital,Aécio Neves,PSDB,18,1
 2014-05-19,Ibope,cor,preta_parda,Aécio Neves,PSDB,18,1
 2014-05-19,Ibope,religiao,evangelica,Aécio Neves,PSDB,18,1
 2014-05-19,Ibope,religiao,outras,Aécio Neves,PSDB,18,1
-2014-05-19,Ibope,cor,branca,Nulo,nulo,18,1
-2014-05-19,Ibope,idade,45_a_54,Nulo,nulo,17,1
-2014-05-19,Ibope,escolaridade,fundamental_2,Nulo,nulo,17,1
 2014-05-19,Ibope,regiao,sul,Aécio Neves,PSDB,17,1
 2014-05-19,Ibope,renda,1_a_2,Aécio Neves,PSDB,17,1
 2014-05-19,Ibope,idade,35_a_44,Aécio Neves,PSDB,16,1
 2014-05-19,Ibope,condicao_do_municipio,periferia,Aécio Neves,PSDB,16,1
 2014-05-19,Ibope,cor,outras,Aécio Neves,PSDB,16,1
-2014-05-19,Ibope,renda,2_a_5,Nulo,nulo,16,1
-2014-05-19,Ibope,renda,1_a_2,Nulo,nulo,16,1
 2014-05-19,Ibope,escolaridade,fundamental_1,Aécio Neves,PSDB,15,1
+2014-05-19,Ibope,regiao,nordeste,Aécio Neves,PSDB,11,1
+2014-05-19,Ibope,renda,ate_1,Aécio Neves,PSDB,9,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Aécio Neves,PSDB,5,1
+2014-03-17,Ibope,regiao,nordeste,Eduardo Campos,PSB,12,1
+2014-03-17,Ibope,escolaridade,superior,Eduardo Campos,PSB,10,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Eduardo Campos,PSB,9,1
+2014-03-17,Ibope,renda,mais_de_5,Eduardo Campos,PSB,9,1
+2014-03-17,Ibope,sexo,masculino,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,idade,35_a_44,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,idade,45_a_54,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,regiao,sul,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,renda,1_a_2,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,renda,ate_1,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,cor,preta_parda,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,sexo,feminino,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,idade,16_a_24,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,idade,55_ou_mais,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,escolaridade,medio,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,cor,outras,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,idade,25_a_34,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,renda,2_a_5,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,cor,branca,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Eduardo Campos,PSB,4,1
+2014-03-17,Ibope,regiao,sudeste,Eduardo Campos,PSB,3,1
+2014-04-14,Ibope,regiao,nordeste,Eduardo Campos,PSB,10,1
+2014-04-14,Ibope,renda,ate_1,Eduardo Campos,PSB,8,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Eduardo Campos,PSB,8,1
+2014-04-14,Ibope,sexo,masculino,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,idade,35_a_44,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,escolaridade,superior,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,religiao,outras,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,idade,16_a_24,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,idade,25_a_34,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,renda,mais_de_5,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,renda,1_a_2,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,cor,preta_parda,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,religiao,evangelica,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,escolaridade,medio,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,cor,branca,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,religiao,catolica,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,sexo,feminino,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,idade,45_a_54,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,idade,55_ou_mais,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,regiao,sudeste,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,regiao,sul,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,renda,2_a_5,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,cor,outras,Eduardo Campos,PSB,3,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Eduardo Campos,PSB,2,1
 2014-05-19,Ibope,escolaridade,superior,Eduardo Campos,PSB,15,1
-2014-05-19,Ibope,sexo,feminino,Nulo,nulo,15,1
-2014-05-19,Ibope,idade,35_a_44,Nulo,nulo,15,1
-2014-05-19,Ibope,escolaridade,medio,Nulo,nulo,15,1
-2014-05-19,Ibope,escolaridade,superior,Nulo,nulo,15,1
 2014-05-19,Ibope,regiao,nordeste,Eduardo Campos,PSB,15,1
 2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Eduardo Campos,PSB,15,1
-2014-05-19,Ibope,sexo,masculino,Nulo,nulo,14,1
-2014-05-19,Ibope,idade,16_a_24,Nulo,nulo,14,1
-2014-05-19,Ibope,idade,25_a_34,Nulo,nulo,14,1
-2014-05-19,Ibope,condicao_do_municipio,periferia,Nulo,nulo,14,1
-2014-05-19,Ibope,religiao,catolica,Nulo,nulo,14,1
 2014-05-19,Ibope,avaliacao_do_governo,regular,Eduardo Campos,PSB,14,1
-2014-05-19,Ibope,avaliacao_do_governo,regular,Não sabe,NS,14,1
-2014-05-19,Ibope,total,total,Nulo,NS,14,1
 2014-05-19,Ibope,regiao,norte_e_centro_oeste,Eduardo Campos,PSB,13,1
 2014-05-19,Ibope,condicao_do_municipio,capital,Eduardo Campos,PSB,13,1
-2014-05-19,Ibope,condicao_do_municipio,interior,Nulo,nulo,13,1
-2014-05-19,Ibope,renda,mais_de_5,Nulo,nulo,13,1
-2014-05-19,Ibope,renda,2_a_5,Não sabe,NS,13,1
-2014-05-19,Ibope,avaliacao_do_governo,regular,Nulo,nulo,13,1
 2014-05-19,Ibope,idade,16_a_24,Eduardo Campos,PSB,12,1
 2014-05-19,Ibope,idade,25_a_34,Eduardo Campos,PSB,12,1
 2014-05-19,Ibope,idade,35_a_44,Eduardo Campos,PSB,12,1
 2014-05-19,Ibope,escolaridade,medio,Eduardo Campos,PSB,12,1
-2014-05-19,Ibope,idade,55_ou_mais,Nulo,nulo,12,1
-2014-05-19,Ibope,escolaridade,fundamental_1,Nulo,nulo,12,1
-2014-05-19,Ibope,escolaridade,fundamental_1,Não sabe,NS,12,1
 2014-05-19,Ibope,renda,mais_de_5,Eduardo Campos,PSB,12,1
 2014-05-19,Ibope,religiao,evangelica,Eduardo Campos,PSB,12,1
 2014-05-19,Ibope,religiao,outras,Eduardo Campos,PSB,12,1
-2014-05-19,Ibope,cor,preta_parda,Nulo,nulo,12,1
-2014-05-19,Ibope,religiao,evangelica,Nulo,nulo,12,1
 2014-05-19,Ibope,sexo,masculino,Eduardo Campos,PSB,11,1
 2014-05-19,Ibope,idade,45_a_54,Eduardo Campos,PSB,11,1
-2014-05-19,Ibope,idade,55_ou_mais,Não sabe,NS,11,1
-2014-05-19,Ibope,escolaridade,medio,Não sabe,NS,11,1
-2014-05-19,Ibope,regiao,nordeste,Aécio Neves,PSDB,11,1
-2014-05-19,Ibope,cor,outras,Nulo,nulo,11,1
-2014-05-19,Ibope,cor,branca,Não sabe,NS,11,1
-2014-05-19,Ibope,religiao,outras,Não sabe,NS,11,1
-2014-05-19,Ibope,cor,branca,Outros,Outros,11,1
-2014-05-19,Ibope,total,total,Eduardo Campos ,PSB,11,1
 2014-05-19,Ibope,sexo,feminino,Eduardo Campos,PSB,10,1
-2014-05-19,Ibope,sexo,feminino,Não sabe,NS,10,1
-2014-05-19,Ibope,idade,16_a_24,Não sabe,NS,10,1
-2014-05-19,Ibope,idade,35_a_44,Não sabe,NS,10,1
 2014-05-19,Ibope,condicao_do_municipio,periferia,Eduardo Campos,PSB,10,1
-2014-05-19,Ibope,regiao,nordeste,Não sabe,NS,10,1
-2014-05-19,Ibope,regiao,sudeste,Não sabe,NS,10,1
-2014-05-19,Ibope,regiao,sul,Não sabe,NS,10,1
-2014-05-19,Ibope,condicao_do_municipio,periferia,Não sabe,NS,10,1
-2014-05-19,Ibope,condicao_do_municipio,interior,Não sabe,NS,10,1
 2014-05-19,Ibope,cor,branca,Eduardo Campos,PSB,10,1
 2014-05-19,Ibope,religiao,catolica,Eduardo Campos,PSB,10,1
-2014-05-19,Ibope,religiao,catolica,Não sabe,NS,10,1
-2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Não sabe,NS,10,1
-2014-05-19,Ibope,sexo,feminino,Outros,Outros,10,1
-2014-05-19,Ibope,total,total,Não sabe,NS,10,1
-2014-05-19,Ibope,sexo,masculino,Não sabe,NS,9,1
-2014-05-19,Ibope,idade,25_a_34,Não sabe,NS,9,1
-2014-05-19,Ibope,idade,45_a_54,Não sabe,NS,9,1
 2014-05-19,Ibope,regiao,sul,Eduardo Campos,PSB,9,1
 2014-05-19,Ibope,condicao_do_municipio,interior,Eduardo Campos,PSB,9,1
-2014-05-19,Ibope,condicao_do_municipio,capital,Não sabe,NS,9,1
-2014-05-19,Ibope,renda,ate_1,Aécio Neves,PSDB,9,1
 2014-05-19,Ibope,renda,2_a_5,Eduardo Campos,PSB,9,1
 2014-05-19,Ibope,renda,1_a_2,Eduardo Campos,PSB,9,1
-2014-05-19,Ibope,renda,1_a_2,Não sabe,NS,9,1
-2014-05-19,Ibope,renda,ate_1,Não sabe,NS,9,1
-2014-05-19,Ibope,religiao,evangelica,Não sabe,NS,9,1
 2014-05-19,Ibope,escolaridade,fundamental_2,Eduardo Campos,PSB,8,1
-2014-05-19,Ibope,escolaridade,fundamental_2,Não sabe,NS,8,1
-2014-05-19,Ibope,escolaridade,superior,Não sabe,NS,8,1
 2014-05-19,Ibope,regiao,sudeste,Eduardo Campos,PSB,8,1
-2014-05-19,Ibope,regiao,nordeste,Nulo,nulo,8,1
-2014-05-19,Ibope,regiao,norte_e_centro_oeste,Não sabe,NS,8,1
-2014-05-19,Ibope,renda,mais_de_5,Não sabe,NS,8,1
 2014-05-19,Ibope,idade,55_ou_mais,Eduardo Campos,PSB,7,1
 2014-05-19,Ibope,escolaridade,fundamental_1,Eduardo Campos,PSB,7,1
-2014-05-19,Ibope,renda,ate_1,Nulo,nulo,7,1
+2014-05-19,Ibope,renda,ate_1,Eduardo Campos,PSB,4,1
+2014-05-19,Ibope,cor,outras,Eduardo Campos,PSB,4,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Eduardo Campos,PSB,4,1
+2014-05-19,Ibope,cor,preta_parda,Eduardo Campos,PSB,1,1
+2014-03-17,Ibope,total,total,Eduardo Campos ,PSB,6,1
+2014-04-14,Ibope,total,total,Eduardo Campos ,PSB,6,1
+2014-05-19,Ibope,total,total,Eduardo Campos ,PSB,11,1
+2014-03-17,Ibope,idade,16_a_24,Pastor Everaldo,PSC,4,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,4,1
+2014-03-17,Ibope,renda,ate_1,Pastor Everaldo,PSC,4,1
+2014-03-17,Ibope,sexo,feminino,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,idade,25_a_34,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,idade,35_a_44,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,escolaridade,medio,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,regiao,nordeste,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,regiao,sul,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,renda,mais_de_5,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,renda,1_a_2,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,cor,branca,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,total,total,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,sexo,masculino,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,idade,45_a_54,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,escolaridade,superior,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,regiao,sudeste,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,cor,preta_parda,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,cor,outras,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,renda,2_a_5,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,cor,outras,Pastor Everaldo,PSC,5,1
+2014-04-14,Ibope,religiao,evangelica,Pastor Everaldo,PSC,4,1
+2014-04-14,Ibope,idade,16_a_24,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,regiao,sul,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,renda,1_a_2,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,religiao,outras,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,sexo,masculino,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,sexo,feminino,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,idade,25_a_34,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,idade,35_a_44,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,escolaridade,medio,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,regiao,nordeste,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,regiao,sudeste,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,renda,2_a_5,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,renda,ate_1,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,cor,branca,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,cor,preta_parda,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,total,total,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,idade,45_a_54,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,escolaridade,superior,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,renda,mais_de_5,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,religiao,catolica,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,cor,branca,Pastor Everaldo,PSC,32,1
 2014-05-19,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,6,1
 2014-05-19,Ibope,religiao,evangelica,Pastor Everaldo,PSC,6,1
 2014-05-19,Ibope,regiao,norte_e_centro_oeste,Pastor Everaldo,PSC,5,1
-2014-05-19,Ibope,regiao,norte_e_centro_oeste,Nulo,nulo,5,1
 2014-05-19,Ibope,cor,preta_parda,Pastor Everaldo,PSC,5,1
-2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Aécio Neves,PSDB,5,1
-2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Dilma Rousseff,PT,5,1
-2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Não sabe,NS,5,1
-2014-05-19,Ibope,renda,ate_1,Eduardo Campos,PSB,4,1
-2014-05-19,Ibope,cor,outras,Eduardo Campos,PSB,4,1
-2014-05-19,Ibope,cor,outras,Não sabe,NS,4,1
-2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Eduardo Campos,PSB,4,1
 2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Pastor Everaldo,PSC,4,1
-2014-05-19,Ibope,idade,16_a_24,Outros,Outros,4,1
-2014-05-19,Ibope,escolaridade,medio,Outros,Outros,4,1
-2014-05-19,Ibope,condicao_do_municipio,capital,Outros,Outros,4,1
-2014-05-19,Ibope,avaliacao_do_governo,regular,Outros,Outros,4,1
 2014-05-19,Ibope,sexo,masculino,Pastor Everaldo,PSC,3,1
 2014-05-19,Ibope,sexo,feminino,Pastor Everaldo,PSC,3,1
 2014-05-19,Ibope,idade,16_a_24,Pastor Everaldo,PSC,3,1
@@ -585,13 +630,6 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-05-19,Ibope,regiao,sudeste,Pastor Everaldo,PSC,3,1
 2014-05-19,Ibope,renda,2_a_5,Pastor Everaldo,PSC,3,1
 2014-05-19,Ibope,renda,1_a_2,Pastor Everaldo,PSC,3,1
-2014-05-19,Ibope,idade,35_a_44,Outros,Outros,3,1
-2014-05-19,Ibope,idade,45_a_54,Outros,Outros,3,1
-2014-05-19,Ibope,escolaridade,fundamental_2,Outros,Outros,3,1
-2014-05-19,Ibope,regiao,nordeste,Outros,Outros,3,1
-2014-05-19,Ibope,regiao,sudeste,Outros,Outros,3,1
-2014-05-19,Ibope,renda,1_a_2,Outros,Outros,3,1
-2014-05-19,Ibope,religiao,evangelica,Outros,Outros,3,1
 2014-05-19,Ibope,total,total,Pastor Everaldo,PSC,3,1
 2014-05-19,Ibope,idade,45_a_54,Pastor Everaldo,PSC,2,1
 2014-05-19,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
@@ -601,7 +639,83 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-05-19,Ibope,renda,ate_1,Pastor Everaldo,PSC,2,1
 2014-05-19,Ibope,religiao,outras,Pastor Everaldo,PSC,2,1
 2014-05-19,Ibope,avaliacao_do_governo,regular,Pastor Everaldo,PSC,2,1
-2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Nulo,nulo,2,1
+2014-05-19,Ibope,escolaridade,superior,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,regiao,nordeste,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,renda,mais_de_5,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,cor,outras,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,religiao,catolica,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Pastor Everaldo,PSC,1,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Outros,Outros,3,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Outros,Outros,3,1
+2014-03-17,Ibope,renda,1_a_2,Outros,Outros,3,1
+2014-03-17,Ibope,sexo,masculino,Outros,Outros,2,1
+2014-03-17,Ibope,idade,16_a_24,Outros,Outros,2,1
+2014-03-17,Ibope,idade,35_a_44,Outros,Outros,2,1
+2014-03-17,Ibope,idade,45_a_54,Outros,Outros,2,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Outros,Outros,2,1
+2014-03-17,Ibope,regiao,sudeste,Outros,Outros,2,1
+2014-03-17,Ibope,cor,outras,Outros,Outros,2,1
+2014-03-17,Ibope,escolaridade,superior,Outros,Outros,1,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Outros,Outros,1,1
+2014-03-17,Ibope,renda,2_a_5,Outros,Outros,1,1
+2014-03-17,Ibope,renda,ate_1,Outros,Outros,1,1
+2014-03-17,Ibope,cor,preta_parda,Outros,Outros,1,1
+2014-03-17,Ibope,total,total,Outros,Outros,1,1
+2014-03-17,Ibope,sexo,feminino,Outros,Outros,0,1
+2014-03-17,Ibope,idade,25_a_34,Outros,Outros,0,1
+2014-03-17,Ibope,idade,55_ou_mais,Outros,Outros,0,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Outros,Outros,0,1
+2014-03-17,Ibope,escolaridade,medio,Outros,Outros,0,1
+2014-03-17,Ibope,regiao,nordeste,Outros,Outros,0,1
+2014-03-17,Ibope,regiao,sul,Outros,Outros,0,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Outros,Outros,0,1
+2014-03-17,Ibope,renda,mais_de_5,Outros,Outros,0,1
+2014-03-17,Ibope,cor,branca,Outros,Outros,0,1
+2014-04-14,Ibope,idade,16_a_24,Outros,Outros,6,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Outros,Outros,6,1
+2014-04-14,Ibope,escolaridade,medio,Outros,Outros,5,1
+2014-04-14,Ibope,escolaridade,superior,Outros,Outros,5,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Outros,Outros,5,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Outros,Outros,5,1
+2014-04-14,Ibope,sexo,masculino,Outros,Outros,4,1
+2014-04-14,Ibope,idade,35_a_44,Outros,Outros,4,1
+2014-04-14,Ibope,idade,45_a_54,Outros,Outros,4,1
+2014-04-14,Ibope,renda,mais_de_5,Outros,Outros,4,1
+2014-04-14,Ibope,renda,1_a_2,Outros,Outros,4,1
+2014-04-14,Ibope,cor,branca,Outros,Outros,4,1
+2014-04-14,Ibope,cor,outras,Outros,Outros,4,1
+2014-04-14,Ibope,regiao,sudeste,Outros,Outros,3,1
+2014-04-14,Ibope,religiao,catolica,Outros,Outros,3,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Outros,Outros,3,1
+2014-04-14,Ibope,sexo,feminino,Outros,Outros,2,1
+2014-04-14,Ibope,idade,25_a_34,Outros,Outros,2,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Outros,Outros,2,1
+2014-04-14,Ibope,regiao,nordeste,Outros,Outros,2,1
+2014-04-14,Ibope,regiao,sul,Outros,Outros,2,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Outros,Outros,2,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Outros,Outros,2,1
+2014-04-14,Ibope,renda,ate_1,Outros,Outros,2,1
+2014-04-14,Ibope,cor,preta_parda,Outros,Outros,2,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Outros,Outros,2,1
+2014-04-14,Ibope,total,total,Outros,Outros,2,1
+2014-04-14,Ibope,idade,55_ou_mais,Outros,Outros,1,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Outros,Outros,1,1
+2014-04-14,Ibope,renda,2_a_5,Outros,Outros,1,1
+2014-04-14,Ibope,cor,outras,Outros,Outros,0,1
+2014-04-14,Ibope,religiao,evangelica,Outros,Outros,0,1
+2014-05-19,Ibope,cor,branca,Outros,Outros,11,1
+2014-05-19,Ibope,sexo,feminino,Outros,Outros,10,1
+2014-05-19,Ibope,idade,16_a_24,Outros,Outros,4,1
+2014-05-19,Ibope,escolaridade,medio,Outros,Outros,4,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Outros,Outros,4,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Outros,Outros,4,1
+2014-05-19,Ibope,idade,35_a_44,Outros,Outros,3,1
+2014-05-19,Ibope,idade,45_a_54,Outros,Outros,3,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Outros,Outros,3,1
+2014-05-19,Ibope,regiao,nordeste,Outros,Outros,3,1
+2014-05-19,Ibope,regiao,sudeste,Outros,Outros,3,1
+2014-05-19,Ibope,renda,1_a_2,Outros,Outros,3,1
+2014-05-19,Ibope,religiao,evangelica,Outros,Outros,3,1
 2014-05-19,Ibope,sexo,masculino,Outros,Outros,2,1
 2014-05-19,Ibope,escolaridade,fundamental_1,Outros,Outros,2,1
 2014-05-19,Ibope,regiao,norte_e_centro_oeste,Outros,Outros,2,1
@@ -611,6 +725,7 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-05-19,Ibope,renda,mais_de_5,Outros,Outros,2,1
 2014-05-19,Ibope,renda,ate_1,Outros,Outros,2,1
 2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Outros,Outros,2,1
+<<<<<<< HEAD
 2014-05-19,Ibope,total,total,Outros,Outros,3,1
 2014-05-19,Ibope,escolaridade,superior,Pastor Everaldo,PSC,1,1
 2014-05-19,Ibope,regiao,nordeste,Pastor Everaldo,PSC,1,1
@@ -619,6 +734,9 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-05-19,Ibope,cor,outras,Pastor Everaldo,PSC,1,1
 2014-05-19,Ibope,religiao,catolica,Pastor Everaldo,PSC,1,1
 2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Pastor Everaldo,PSC,1,1
+=======
+2014-05-19,Ibope,total,total,Outros,Outros,2,1
+>>>>>>> dados na ordem certa
 2014-05-19,Ibope,idade,25_a_34,Outros,Outros,1,1
 2014-05-19,Ibope,escolaridade,superior,Outros,Outros,1,1
 2014-05-19,Ibope,renda,2_a_5,Outros,Outros,1,1
@@ -628,3 +746,183 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-05-19,Ibope,idade,55_ou_mais,Outros,Outros,0,1
 2014-05-19,Ibope,cor,outras,Outros,Outros,0,1
 2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Outros,Outros,0,1
+2014-03-17,Ibope,cor,outras,Branco e Nulo,Branco e Nulo,32,1
+2014-03-17,Ibope,regiao,sudeste,Branco e Nulo,Branco e Nulo,29,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Branco e Nulo,Branco e Nulo,29,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Branco e Nulo,Branco e Nulo,29,1
+2014-03-17,Ibope,idade,45_a_54,Branco e Nulo,Branco e Nulo,27,1
+2014-03-17,Ibope,escolaridade,superior,Branco e Nulo,Branco e Nulo,27,1
+2014-03-17,Ibope,escolaridade,medio,Branco e Nulo,Branco e Nulo,26,1
+2014-03-17,Ibope,cor,branca,Branco e Nulo,Branco e Nulo,26,1
+2014-03-17,Ibope,idade,25_a_34,Branco e Nulo,Branco e Nulo,25,1
+2014-03-17,Ibope,sexo,feminino,Branco e Nulo,Branco e Nulo,24,1
+2014-03-17,Ibope,idade,35_a_44,Branco e Nulo,Branco e Nulo,24,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Branco e Nulo,Branco e Nulo,24,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Branco e Nulo,Branco e Nulo,24,1
+2014-03-17,Ibope,renda,mais_de_5,Branco e Nulo,Branco e Nulo,24,1
+2014-03-17,Ibope,renda,2_a_5,Branco e Nulo,Branco e Nulo,24,1
+2014-03-17,Ibope,total,total,Branco e Nulo,Branco e Nulo,24,1
+2014-03-17,Ibope,sexo,masculino,Branco e Nulo,Branco e Nulo,23,1
+2014-03-17,Ibope,idade,55_ou_mais,Branco e Nulo,Branco e Nulo,22,1
+2014-03-17,Ibope,regiao,sul,Branco e Nulo,Branco e Nulo,22,1
+2014-03-17,Ibope,renda,1_a_2,Branco e Nulo,Branco e Nulo,22,1
+2014-03-17,Ibope,cor,preta_parda,Branco e Nulo,Branco e Nulo,21,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Branco e Nulo,Branco e Nulo,20,1
+2014-03-17,Ibope,idade,16_a_24,Branco e Nulo,Branco e Nulo,19,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Branco e Nulo,Branco e Nulo,19,1
+2014-03-17,Ibope,renda,ate_1,Branco e Nulo,Branco e Nulo,17,1
+2014-03-17,Ibope,regiao,nordeste,Branco e Nulo,Branco e Nulo,16,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Branco e Nulo,Branco e Nulo,48,1
+2014-04-14,Ibope,religiao,outras,Branco e Nulo,Branco e Nulo,37,1
+2014-04-14,Ibope,regiao,sul,Branco e Nulo,Branco e Nulo,32,1
+2014-04-14,Ibope,regiao,sudeste,Branco e Nulo,Branco e Nulo,30,1
+2014-04-14,Ibope,idade,25_a_34,Branco e Nulo,Branco e Nulo,29,1
+2014-04-14,Ibope,escolaridade,superior,Branco e Nulo,Branco e Nulo,29,1
+2014-04-14,Ibope,cor,branca,Branco e Nulo,Branco e Nulo,29,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Branco e Nulo,Branco e Nulo,28,1
+2014-04-14,Ibope,sexo,feminino,Branco e Nulo,Branco e Nulo,27,1
+2014-04-14,Ibope,escolaridade,medio,Branco e Nulo,Branco e Nulo,27,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Branco e Nulo,Branco e Nulo,27,1
+2014-04-14,Ibope,renda,mais_de_5,Branco e Nulo,Branco e Nulo,27,1
+2014-04-14,Ibope,idade,45_a_54,Branco e Nulo,Branco e Nulo,26,1
+2014-04-14,Ibope,renda,2_a_5,Branco e Nulo,Branco e Nulo,26,1
+2014-04-14,Ibope,idade,35_a_44,Branco e Nulo,Branco e Nulo,24,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Branco e Nulo,Branco e Nulo,24,1
+2014-04-14,Ibope,religiao,evangelica,Branco e Nulo,Branco e Nulo,24,1
+2014-04-14,Ibope,total,total,Branco e Nulo,Branco e Nulo,24,1
+2014-04-14,Ibope,idade,16_a_24,Branco e Nulo,Branco e Nulo,23,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Branco e Nulo,Branco e Nulo,23,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Branco e Nulo,Branco e Nulo,22,1
+2014-04-14,Ibope,cor,preta_parda,Branco e Nulo,Branco e Nulo,22,1
+2014-04-14,Ibope,religiao,catolica,Branco e Nulo,Branco e Nulo,22,1
+2014-04-14,Ibope,sexo,masculino,Branco e Nulo,Branco e Nulo,21,1
+2014-04-14,Ibope,renda,1_a_2,Branco e Nulo,Branco e Nulo,21,1
+2014-04-14,Ibope,idade,55_ou_mais,Branco e Nulo,Branco e Nulo,20,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Branco e Nulo,Branco e Nulo,18,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Branco e Nulo,Branco e Nulo,18,1
+2014-04-14,Ibope,regiao,nordeste,Branco e Nulo,Branco e Nulo,15,1
+2014-04-14,Ibope,renda,ate_1,Branco e Nulo,Branco e Nulo,14,1
+2014-04-14,Ibope,cor,outras,Branco e Nulo,Branco e Nulo,14,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Branco e Nulo,Branco e Nulo,4,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Branco e Nulo,Branco e Nulo,28,1
+2014-05-19,Ibope,regiao,sul,Branco e Nulo,Branco e Nulo,22,1
+2014-05-19,Ibope,religiao,outras,Branco e Nulo,Branco e Nulo,20,1
+2014-05-19,Ibope,regiao,sudeste,Branco e Nulo,Branco e Nulo,19,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Branco e Nulo,Branco e Nulo,19,1
+2014-05-19,Ibope,cor,branca,Branco e Nulo,Branco e Nulo,18,1
+2014-05-19,Ibope,idade,45_a_54,Branco e Nulo,Branco e Nulo,17,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Branco e Nulo,Branco e Nulo,17,1
+2014-05-19,Ibope,renda,2_a_5,Branco e Nulo,Branco e Nulo,16,1
+2014-05-19,Ibope,renda,1_a_2,Branco e Nulo,Branco e Nulo,16,1
+2014-05-19,Ibope,sexo,feminino,Branco e Nulo,Branco e Nulo,15,1
+2014-05-19,Ibope,idade,35_a_44,Branco e Nulo,Branco e Nulo,15,1
+2014-05-19,Ibope,escolaridade,medio,Branco e Nulo,Branco e Nulo,15,1
+2014-05-19,Ibope,escolaridade,superior,Branco e Nulo,Branco e Nulo,15,1
+2014-05-19,Ibope,sexo,masculino,Branco e Nulo,Branco e Nulo,14,1
+2014-05-19,Ibope,idade,16_a_24,Branco e Nulo,Branco e Nulo,14,1
+2014-05-19,Ibope,idade,25_a_34,Branco e Nulo,Branco e Nulo,14,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Branco e Nulo,Branco e Nulo,14,1
+2014-05-19,Ibope,religiao,catolica,Branco e Nulo,Branco e Nulo,14,1
+2014-05-19,Ibope,total,total,Branco e Nulo,Branco e Nulo,14,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Branco e Nulo,Branco e Nulo,13,1
+2014-05-19,Ibope,renda,mais_de_5,Branco e Nulo,Branco e Nulo,13,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Branco e Nulo,Branco e Nulo,13,1
+2014-05-19,Ibope,idade,55_ou_mais,Branco e Nulo,Branco e Nulo,12,1
+2014-05-19,Ibope,escolaridade,fundamental_1,Branco e Nulo,Branco e Nulo,12,1
+2014-05-19,Ibope,cor,preta_parda,Branco e Nulo,Branco e Nulo,12,1
+2014-05-19,Ibope,religiao,evangelica,Branco e Nulo,Branco e Nulo,12,1
+2014-05-19,Ibope,cor,outras,Branco e Nulo,Branco e Nulo,11,1
+2014-05-19,Ibope,regiao,nordeste,Branco e Nulo,Branco e Nulo,8,1
+2014-05-19,Ibope,renda,ate_1,Branco e Nulo,Branco e Nulo,7,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Branco e Nulo,Branco e Nulo,5,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Branco e Nulo,Branco e Nulo,2,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Não sabe,Não sabe,17,1
+2014-03-17,Ibope,idade,55_ou_mais,Não sabe,Não sabe,16,1
+2014-03-17,Ibope,regiao,sul,Não sabe,Não sabe,16,1
+2014-03-17,Ibope,sexo,feminino,Não sabe,Não sabe,15,1
+2014-03-17,Ibope,idade,16_a_24,Não sabe,Não sabe,15,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Não sabe,Não sabe,15,1
+2014-03-17,Ibope,regiao,sudeste,Não sabe,Não sabe,13,1
+2014-03-17,Ibope,renda,2_a_5,Não sabe,Não sabe,13,1
+2014-03-17,Ibope,renda,ate_1,Não sabe,Não sabe,13,1
+2014-03-17,Ibope,cor,branca,Não sabe,Não sabe,13,1
+2014-03-17,Ibope,escolaridade,superior,Não sabe,Não sabe,12,1
+2014-03-17,Ibope,renda,1_a_2,Não sabe,Não sabe,12,1
+2014-03-17,Ibope,cor,preta_parda,Não sabe,Não sabe,12,1
+2014-03-17,Ibope,cor,outras,Não sabe,Não sabe,12,1
+2014-03-17,Ibope,total,total,Não sabe,Não sabe,12,1
+2014-03-17,Ibope,idade,35_a_44,Não sabe,Não sabe,11,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Não sabe,Não sabe,11,1
+2014-03-17,Ibope,idade,25_a_34,Não sabe,Não sabe,10,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Não sabe,Não sabe,10,1
+2014-03-17,Ibope,escolaridade,medio,Não sabe,Não sabe,10,1
+2014-03-17,Ibope,regiao,nordeste,Não sabe,Não sabe,10,1
+2014-03-17,Ibope,renda,mais_de_5,Não sabe,Não sabe,10,1
+2014-03-17,Ibope,sexo,masculino,Não sabe,Não sabe,9,1
+2014-03-17,Ibope,idade,45_a_54,Não sabe,Não sabe,9,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Não sabe,Não sabe,9,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Não sabe,Não sabe,8,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Não sabe,Não sabe,18,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Não sabe,Não sabe,17,1
+2014-04-14,Ibope,idade,55_ou_mais,Não sabe,Não sabe,16,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Não sabe,Não sabe,16,1
+2014-04-14,Ibope,idade,35_a_44,Não sabe,Não sabe,15,1
+2014-04-14,Ibope,religiao,evangelica,Não sabe,Não sabe,15,1
+2014-04-14,Ibope,sexo,feminino,Não sabe,Não sabe,14,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Não sabe,Não sabe,14,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Não sabe,Não sabe,14,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Não sabe,Não sabe,14,1
+2014-04-14,Ibope,renda,2_a_5,Não sabe,Não sabe,14,1
+2014-04-14,Ibope,renda,1_a_2,Não sabe,Não sabe,14,1
+2014-04-14,Ibope,renda,ate_1,Não sabe,Não sabe,14,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Não sabe,Não sabe,14,1
+2014-04-14,Ibope,escolaridade,superior,Não sabe,Não sabe,13,1
+2014-04-14,Ibope,cor,branca,Não sabe,Não sabe,13,1
+2014-04-14,Ibope,cor,preta_parda,Não sabe,Não sabe,13,1
+2014-04-14,Ibope,religiao,catolica,Não sabe,Não sabe,13,1
+2014-04-14,Ibope,total,total,Não sabe,Não sabe,13,1
+2014-04-14,Ibope,sexo,masculino,Não sabe,Não sabe,12,1
+2014-04-14,Ibope,idade,16_a_24,Não sabe,Não sabe,12,1
+2014-04-14,Ibope,idade,45_a_54,Não sabe,Não sabe,12,1
+2014-04-14,Ibope,regiao,nordeste,Não sabe,Não sabe,12,1
+2014-04-14,Ibope,religiao,outras,Não sabe,Não sabe,12,1
+2014-04-14,Ibope,idade,25_a_34,Não sabe,Não sabe,11,1
+2014-04-14,Ibope,escolaridade,medio,Não sabe,Não sabe,11,1
+2014-04-14,Ibope,regiao,sudeste,Não sabe,Não sabe,11,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Não sabe,Não sabe,11,1
+2014-04-14,Ibope,cor,outras,Não sabe,Não sabe,11,1
+2014-04-14,Ibope,renda,mais_de_5,Não sabe,Não sabe,10,1
+2014-04-14,Ibope,regiao,sul,Não sabe,Não sabe,7,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Não sabe,Não sabe,7,1
+2014-05-19,Ibope,cor,preta_parda,Não sabe,Não sabe,9,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Não sabe,Não sabe,14,1
+2014-05-19,Ibope,renda,2_a_5,Não sabe,Não sabe,13,1
+2014-05-19,Ibope,escolaridade,fundamental_1,Não sabe,Não sabe,12,1
+2014-05-19,Ibope,idade,55_ou_mais,Não sabe,Não sabe,11,1
+2014-05-19,Ibope,escolaridade,medio,Não sabe,Não sabe,11,1
+2014-05-19,Ibope,cor,branca,Não sabe,Não sabe,11,1
+2014-05-19,Ibope,religiao,outras,Não sabe,Não sabe,11,1
+2014-05-19,Ibope,sexo,feminino,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,idade,16_a_24,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,idade,35_a_44,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,regiao,nordeste,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,regiao,sudeste,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,regiao,sul,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,religiao,catolica,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,total,total,Não sabe,Não sabe,10,1
+2014-05-19,Ibope,sexo,masculino,Não sabe,Não sabe,9,1
+2014-05-19,Ibope,idade,25_a_34,Não sabe,Não sabe,9,1
+2014-05-19,Ibope,idade,45_a_54,Não sabe,Não sabe,9,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Não sabe,Não sabe,9,1
+2014-05-19,Ibope,renda,1_a_2,Não sabe,Não sabe,9,1
+2014-05-19,Ibope,renda,ate_1,Não sabe,Não sabe,9,1
+2014-05-19,Ibope,religiao,evangelica,Não sabe,Não sabe,9,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Não sabe,Não sabe,8,1
+2014-05-19,Ibope,escolaridade,superior,Não sabe,Não sabe,8,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Não sabe,Não sabe,8,1
+2014-05-19,Ibope,renda,mais_de_5,Não sabe,Não sabe,8,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Não sabe,Não sabe,5,1
+2014-05-19,Ibope,cor,outras,Não sabe,Não sabe,4,1

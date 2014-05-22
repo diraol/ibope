@@ -1,609 +1,630 @@
-"","data","instituto","recorte","variavel","candidato","partido","intencao","Turno"
-"1","2014-03-17","Ibope","sexo","masculino","Aécio Neves","PSDB",16,1
-"2","2014-03-17","Ibope","sexo","feminino","Aécio Neves","PSDB",11,1
-"3","2014-03-17","Ibope","idade","16_a_24","Aécio Neves","PSDB",12,1
-"4","2014-03-17","Ibope","idade","25_a_34","Aécio Neves","PSDB",14,1
-"5","2014-03-17","Ibope","idade","35_a_44","Aécio Neves","PSDB",14,1
-"6","2014-03-17","Ibope","idade","45_a_54","Aécio Neves","PSDB",16,1
-"7","2014-03-17","Ibope","idade","55_ou_mais","Aécio Neves","PSDB",13,1
-"8","2014-03-17","Ibope","escolaridade","fundamental_1","Aécio Neves","PSDB",10,1
-"9","2014-03-17","Ibope","escolaridade","fundamental_2","Aécio Neves","PSDB",11,1
-"10","2014-03-17","Ibope","escolaridade","medio","Aécio Neves","PSDB",14,1
-"11","2014-03-17","Ibope","escolaridade","superior","Aécio Neves","PSDB",21,1
-"12","2014-03-17","Ibope","sexo","masculino","Dilma Rousseff","PT",41,1
-"13","2014-03-17","Ibope","sexo","feminino","Dilma Rousseff","PT",40,1
-"14","2014-03-17","Ibope","idade","16_a_24","Dilma Rousseff","PT",41,1
-"15","2014-03-17","Ibope","idade","25_a_34","Dilma Rousseff","PT",42,1
-"16","2014-03-17","Ibope","idade","35_a_44","Dilma Rousseff","PT",40,1
-"17","2014-03-17","Ibope","idade","45_a_54","Dilma Rousseff","PT",37,1
-"18","2014-03-17","Ibope","idade","55_ou_mais","Dilma Rousseff","PT",41,1
-"19","2014-03-17","Ibope","escolaridade","fundamental_1","Dilma Rousseff","PT",47,1
-"20","2014-03-17","Ibope","escolaridade","fundamental_2","Dilma Rousseff","PT",42,1
-"21","2014-03-17","Ibope","escolaridade","medio","Dilma Rousseff","PT",40,1
-"22","2014-03-17","Ibope","escolaridade","superior","Dilma Rousseff","PT",27,1
-"23","2014-03-17","Ibope","sexo","masculino","Eduardo Campos","PSB",7,1
-"24","2014-03-17","Ibope","sexo","feminino","Eduardo Campos","PSB",6,1
-"25","2014-03-17","Ibope","idade","16_a_24","Eduardo Campos","PSB",6,1
-"26","2014-03-17","Ibope","idade","25_a_34","Eduardo Campos","PSB",5,1
-"27","2014-03-17","Ibope","idade","35_a_44","Eduardo Campos","PSB",7,1
-"28","2014-03-17","Ibope","idade","45_a_54","Eduardo Campos","PSB",7,1
-"29","2014-03-17","Ibope","idade","55_ou_mais","Eduardo Campos","PSB",6,1
-"30","2014-03-17","Ibope","escolaridade","fundamental_1","Eduardo Campos","PSB",4,1
-"31","2014-03-17","Ibope","escolaridade","fundamental_2","Eduardo Campos","PSB",7,1
-"32","2014-03-17","Ibope","escolaridade","medio","Eduardo Campos","PSB",6,1
-"33","2014-03-17","Ibope","escolaridade","superior","Eduardo Campos","PSB",10,1
-"67","2014-03-17","Ibope","sexo","masculino","Pastor Everaldo","PSC",2,1
-"68","2014-03-17","Ibope","sexo","feminino","Pastor Everaldo","PSC",3,1
-"69","2014-03-17","Ibope","idade","16_a_24","Pastor Everaldo","PSC",4,1
-"70","2014-03-17","Ibope","idade","25_a_34","Pastor Everaldo","PSC",3,1
-"71","2014-03-17","Ibope","idade","35_a_44","Pastor Everaldo","PSC",3,1
-"72","2014-03-17","Ibope","idade","45_a_54","Pastor Everaldo","PSC",2,1
-"73","2014-03-17","Ibope","idade","55_ou_mais","Pastor Everaldo","PSC",2,1
-"74","2014-03-17","Ibope","escolaridade","fundamental_1","Pastor Everaldo","PSC",2,1
-"75","2014-03-17","Ibope","escolaridade","fundamental_2","Pastor Everaldo","PSC",3,1
-"76","2014-03-17","Ibope","escolaridade","medio","Pastor Everaldo","PSC",3,1
-"77","2014-03-17","Ibope","escolaridade","superior","Pastor Everaldo","PSC",2,1
-"89","2014-03-17","Ibope","sexo","masculino","Nulo","nulo",23,1
-"90","2014-03-17","Ibope","sexo","feminino","Nulo","nulo",24,1
-"91","2014-03-17","Ibope","idade","16_a_24","Nulo","nulo",19,1
-"92","2014-03-17","Ibope","idade","25_a_34","Nulo","nulo",25,1
-"93","2014-03-17","Ibope","idade","35_a_44","Nulo","nulo",24,1
-"94","2014-03-17","Ibope","idade","45_a_54","Nulo","nulo",27,1
-"95","2014-03-17","Ibope","idade","55_ou_mais","Nulo","nulo",22,1
-"96","2014-03-17","Ibope","escolaridade","fundamental_1","Nulo","nulo",19,1
-"97","2014-03-17","Ibope","escolaridade","fundamental_2","Nulo","nulo",24,1
-"98","2014-03-17","Ibope","escolaridade","medio","Nulo","nulo",26,1
-"99","2014-03-17","Ibope","escolaridade","superior","Nulo","nulo",27,1
-"100","2014-03-17","Ibope","sexo","masculino","Não sabe","NS",9,1
-"101","2014-03-17","Ibope","sexo","feminino","Não sabe","NS",15,1
-"102","2014-03-17","Ibope","idade","16_a_24","Não sabe","NS",15,1
-"103","2014-03-17","Ibope","idade","25_a_34","Não sabe","NS",10,1
-"104","2014-03-17","Ibope","idade","35_a_44","Não sabe","NS",11,1
-"105","2014-03-17","Ibope","idade","45_a_54","Não sabe","NS",9,1
-"106","2014-03-17","Ibope","idade","55_ou_mais","Não sabe","NS",16,1
-"107","2014-03-17","Ibope","escolaridade","fundamental_1","Não sabe","NS",17,1
-"108","2014-03-17","Ibope","escolaridade","fundamental_2","Não sabe","NS",10,1
-"109","2014-03-17","Ibope","escolaridade","medio","Não sabe","NS",10,1
-"110","2014-03-17","Ibope","escolaridade","superior","Não sabe","NS",12,1
-"111","2014-03-17","Ibope","regiao","norte_centro_oeste","Aécio Neves","PSDB",13,1
-"112","2014-03-17","Ibope","regiao","nordeste","Aécio Neves","PSDB",6,1
-"113","2014-03-17","Ibope","regiao","sudeste","Aécio Neves","PSDB",18,1
-"114","2014-03-17","Ibope","regiao","sul","Aécio Neves","PSDB",16,1
-"115","2014-03-17","Ibope","condicao_do_municipio","capital","Aécio Neves","PSDB",13,1
-"116","2014-03-17","Ibope","condicao_do_municipio","periferia","Aécio Neves","PSDB",13,1
-"117","2014-03-17","Ibope","condicao_do_municipio","interior","Aécio Neves","PSDB",14,1
-"118","2014-03-17","Ibope","regiao","norte_centro_oeste","Dilma Rousseff","PT",42,1
-"119","2014-03-17","Ibope","regiao","nordeste","Dilma Rousseff","PT",54,1
-"120","2014-03-17","Ibope","regiao","sudeste","Dilma Rousseff","PT",33,1
-"121","2014-03-17","Ibope","regiao","sul","Dilma Rousseff","PT",35,1
-"122","2014-03-17","Ibope","condicao_do_municipio","capital","Dilma Rousseff","PT",36,1
-"123","2014-03-17","Ibope","condicao_do_municipio","periferia","Dilma Rousseff","PT",38,1
-"124","2014-03-17","Ibope","condicao_do_municipio","interior","Dilma Rousseff","PT",43,1
-"125","2014-03-17","Ibope","regiao","norte_centro_oeste","Eduardo Campos","PSB",6,1
-"126","2014-03-17","Ibope","regiao","nordeste","Eduardo Campos","PSB",12,1
-"127","2014-03-17","Ibope","regiao","sudeste","Eduardo Campos","PSB",3,1
-"128","2014-03-17","Ibope","regiao","sul","Eduardo Campos","PSB",7,1
-"129","2014-03-17","Ibope","condicao_do_municipio","capital","Eduardo Campos","PSB",9,1
-"130","2014-03-17","Ibope","condicao_do_municipio","periferia","Eduardo Campos","PSB",5,1
-"131","2014-03-17","Ibope","condicao_do_municipio","interior","Eduardo Campos","PSB",5,1
-"153","2014-03-17","Ibope","regiao","norte_centro_oeste","Pastor Everaldo","PSC",3,1
-"154","2014-03-17","Ibope","regiao","nordeste","Pastor Everaldo","PSC",3,1
-"155","2014-03-17","Ibope","regiao","sudeste","Pastor Everaldo","PSC",2,1
-"156","2014-03-17","Ibope","regiao","sul","Pastor Everaldo","PSC",3,1
-"157","2014-03-17","Ibope","condicao_do_municipio","capital","Pastor Everaldo","PSC",2,1
-"158","2014-03-17","Ibope","condicao_do_municipio","periferia","Pastor Everaldo","PSC",4,1
-"159","2014-03-17","Ibope","condicao_do_municipio","interior","Pastor Everaldo","PSC",3,1
-"167","2014-03-17","Ibope","regiao","norte_centro_oeste","Nulo","nulo",24,1
-"168","2014-03-17","Ibope","regiao","nordeste","Nulo","nulo",16,1
-"169","2014-03-17","Ibope","regiao","sudeste","Nulo","nulo",29,1
-"170","2014-03-17","Ibope","regiao","sul","Nulo","nulo",22,1
-"171","2014-03-17","Ibope","condicao_do_municipio","capital","Nulo","nulo",29,1
-"172","2014-03-17","Ibope","condicao_do_municipio","periferia","Nulo","nulo",29,1
-"173","2014-03-17","Ibope","condicao_do_municipio","interior","Nulo","nulo",20,1
-"174","2014-03-17","Ibope","regiao","norte_centro_oeste","Não sabe","NS",11,1
-"175","2014-03-17","Ibope","regiao","nordeste","Não sabe","NS",10,1
-"176","2014-03-17","Ibope","regiao","sudeste","Não sabe","NS",13,1
-"177","2014-03-17","Ibope","regiao","sul","Não sabe","NS",16,1
-"178","2014-03-17","Ibope","condicao_do_municipio","capital","Não sabe","NS",9,1
-"179","2014-03-17","Ibope","condicao_do_municipio","periferia","Não sabe","NS",8,1
-"180","2014-03-17","Ibope","condicao_do_municipio","interior","Não sabe","NS",15,1
-"181","2014-03-17","Ibope","renda","mais_de_5","Aécio Neves","PSDB",23,1
-"182","2014-03-17","Ibope","renda","2_a_5","Aécio Neves","PSDB",17,1
-"183","2014-03-17","Ibope","renda","1_a_2","Aécio Neves","PSDB",10,1
-"184","2014-03-17","Ibope","renda","ate_1","Aécio Neves","PSDB",4,1
-"185","2014-03-17","Ibope","cor","branca","Aécio Neves","PSDB",18,1
-"186","2014-03-17","Ibope","cor","preta_parda","Aécio Neves","PSDB",10,1
-"187","2014-03-17","Ibope","cor","outras","Aécio Neves","PSDB",8,1
-"188","2014-03-17","Ibope","renda","mais_de_5","Dilma Rousseff","PT",30,1
-"189","2014-03-17","Ibope","renda","2_a_5","Dilma Rousseff","PT",39,1
-"190","2014-03-17","Ibope","renda","1_a_2","Dilma Rousseff","PT",45,1
-"191","2014-03-17","Ibope","renda","ate_1","Dilma Rousseff","PT",54,1
-"192","2014-03-17","Ibope","cor","branca","Dilma Rousseff","PT",34,1
-"193","2014-03-17","Ibope","cor","preta_parda","Dilma Rousseff","PT",46,1
-"194","2014-03-17","Ibope","cor","outras","Dilma Rousseff","PT",38,1
-"195","2014-03-17","Ibope","renda","mais_de_5","Eduardo Campos","PSB",9,1
-"196","2014-03-17","Ibope","renda","2_a_5","Eduardo Campos","PSB",5,1
-"197","2014-03-17","Ibope","renda","1_a_2","Eduardo Campos","PSB",7,1
-"198","2014-03-17","Ibope","renda","ate_1","Eduardo Campos","PSB",7,1
-"199","2014-03-17","Ibope","cor","branca","Eduardo Campos","PSB",5,1
-"200","2014-03-17","Ibope","cor","preta_parda","Eduardo Campos","PSB",7,1
-"201","2014-03-17","Ibope","cor","outras","Eduardo Campos","PSB",6,1
-"223","2014-03-17","Ibope","renda","mais_de_5","Pastor Everaldo","PSC",3,1
-"224","2014-03-17","Ibope","renda","2_a_5","Pastor Everaldo","PSC",1,1
-"225","2014-03-17","Ibope","renda","1_a_2","Pastor Everaldo","PSC",3,1
-"226","2014-03-17","Ibope","renda","ate_1","Pastor Everaldo","PSC",4,1
-"227","2014-03-17","Ibope","cor","branca","Pastor Everaldo","PSC",3,1
-"228","2014-03-17","Ibope","cor","preta_parda","Pastor Everaldo","PSC",2,1
-"229","2014-03-17","Ibope","cor","outras","Pastor Everaldo","PSC",2,1
-"237","2014-03-17","Ibope","renda","mais_de_5","Nulo","nulo",24,1
-"238","2014-03-17","Ibope","renda","2_a_5","Nulo","nulo",24,1
-"239","2014-03-17","Ibope","renda","1_a_2","Nulo","nulo",22,1
-"240","2014-03-17","Ibope","renda","ate_1","Nulo","nulo",17,1
-"241","2014-03-17","Ibope","cor","branca","Nulo","nulo",26,1
-"242","2014-03-17","Ibope","cor","preta_parda","Nulo","nulo",21,1
-"243","2014-03-17","Ibope","cor","outras","Nulo","nulo",32,1
-"244","2014-03-17","Ibope","renda","mais_de_5","Não sabe","NS",10,1
-"245","2014-03-17","Ibope","renda","2_a_5","Não sabe","NS",13,1
-"246","2014-03-17","Ibope","renda","1_a_2","Não sabe","NS",12,1
-"247","2014-03-17","Ibope","renda","ate_1","Não sabe","NS",13,1
-"248","2014-03-17","Ibope","cor","branca","Não sabe","NS",13,1
-"249","2014-03-17","Ibope","cor","preta_parda","Não sabe","NS",12,1
-"250","2014-03-17","Ibope","cor","outras","Não sabe","NS",12,1
-"251","2014-04-14","Ibope","sexo","masculino","Aécio Neves","PSDB",17,1
-"252","2014-04-14","Ibope","sexo","feminino","Aécio Neves","PSDB",12,1
-"253","2014-04-14","Ibope","idade","16_a_24","Aécio Neves","PSDB",13,1
-"254","2014-04-14","Ibope","idade","25_a_34","Aécio Neves","PSDB",15,1
-"255","2014-04-14","Ibope","idade","35_a_44","Aécio Neves","PSDB",13,1
-"256","2014-04-14","Ibope","idade","45_a_54","Aécio Neves","PSDB",15,1
-"257","2014-04-14","Ibope","idade","55_ou_mais","Aécio Neves","PSDB",17,1
-"258","2014-04-14","Ibope","escolaridade","fundamental_1","Aécio Neves","PSDB",11,1
-"259","2014-04-14","Ibope","escolaridade","fundamental_2","Aécio Neves","PSDB",13,1
-"260","2014-04-14","Ibope","escolaridade","medio","Aécio Neves","PSDB",14,1
-"261","2014-04-14","Ibope","escolaridade","superior","Aécio Neves","PSDB",22,1
-"273","2014-04-14","Ibope","sexo","masculino","Dilma Rousseff","PT",37,1
-"274","2014-04-14","Ibope","sexo","feminino","Dilma Rousseff","PT",37,1
-"275","2014-04-14","Ibope","idade","16_a_24","Dilma Rousseff","PT",37,1
-"276","2014-04-14","Ibope","idade","25_a_34","Dilma Rousseff","PT",34,1
-"277","2014-04-14","Ibope","idade","35_a_44","Dilma Rousseff","PT",37,1
-"278","2014-04-14","Ibope","idade","45_a_54","Dilma Rousseff","PT",38,1
-"279","2014-04-14","Ibope","idade","55_ou_mais","Dilma Rousseff","PT",39,1
-"280","2014-04-14","Ibope","escolaridade","fundamental_1","Dilma Rousseff","PT",46,1
-"281","2014-04-14","Ibope","escolaridade","fundamental_2","Dilma Rousseff","PT",38,1
-"282","2014-04-14","Ibope","escolaridade","medio","Dilma Rousseff","PT",36,1
-"283","2014-04-14","Ibope","escolaridade","superior","Dilma Rousseff","PT",25,1
-"284","2014-04-14","Ibope","sexo","masculino","Eduardo Campos","PSB",7,1
-"285","2014-04-14","Ibope","sexo","feminino","Eduardo Campos","PSB",4,1
-"286","2014-04-14","Ibope","idade","16_a_24","Eduardo Campos","PSB",6,1
-"287","2014-04-14","Ibope","idade","25_a_34","Eduardo Campos","PSB",6,1
-"288","2014-04-14","Ibope","idade","35_a_44","Eduardo Campos","PSB",7,1
-"289","2014-04-14","Ibope","idade","45_a_54","Eduardo Campos","PSB",4,1
-"290","2014-04-14","Ibope","idade","55_ou_mais","Eduardo Campos","PSB",4,1
-"291","2014-04-14","Ibope","escolaridade","fundamental_1","Eduardo Campos","PSB",4,1
-"292","2014-04-14","Ibope","escolaridade","fundamental_2","Eduardo Campos","PSB",7,1
-"293","2014-04-14","Ibope","escolaridade","medio","Eduardo Campos","PSB",5,1
-"294","2014-04-14","Ibope","escolaridade","superior","Eduardo Campos","PSB",7,1
-"328","2014-04-14","Ibope","sexo","masculino","Pastor Everaldo","PSC",2,1
-"329","2014-04-14","Ibope","sexo","feminino","Pastor Everaldo","PSC",2,1
-"330","2014-04-14","Ibope","idade","16_a_24","Pastor Everaldo","PSC",3,1
-"331","2014-04-14","Ibope","idade","25_a_34","Pastor Everaldo","PSC",2,1
-"332","2014-04-14","Ibope","idade","35_a_44","Pastor Everaldo","PSC",2,1
-"333","2014-04-14","Ibope","idade","45_a_54","Pastor Everaldo","PSC",1,1
-"334","2014-04-14","Ibope","idade","55_ou_mais","Pastor Everaldo","PSC",2,1
-"335","2014-04-14","Ibope","escolaridade","fundamental_1","Pastor Everaldo","PSC",2,1
-"336","2014-04-14","Ibope","escolaridade","fundamental_2","Pastor Everaldo","PSC",2,1
-"337","2014-04-14","Ibope","escolaridade","medio","Pastor Everaldo","PSC",2,1
-"338","2014-04-14","Ibope","escolaridade","superior","Pastor Everaldo","PSC",1,1
-"361","2014-04-14","Ibope","sexo","masculino","Nulo","nulo",21,1
-"362","2014-04-14","Ibope","sexo","feminino","Nulo","nulo",27,1
-"363","2014-04-14","Ibope","idade","16_a_24","Nulo","nulo",23,1
-"364","2014-04-14","Ibope","idade","25_a_34","Nulo","nulo",29,1
-"365","2014-04-14","Ibope","idade","35_a_44","Nulo","nulo",24,1
-"366","2014-04-14","Ibope","idade","45_a_54","Nulo","nulo",26,1
-"367","2014-04-14","Ibope","idade","55_ou_mais","Nulo","nulo",20,1
-"368","2014-04-14","Ibope","escolaridade","fundamental_1","Nulo","nulo",18,1
-"369","2014-04-14","Ibope","escolaridade","fundamental_2","Nulo","nulo",24,1
-"370","2014-04-14","Ibope","escolaridade","medio","Nulo","nulo",27,1
-"371","2014-04-14","Ibope","escolaridade","superior","Nulo","nulo",29,1
-"372","2014-04-14","Ibope","sexo","masculino","Não sabe","NS",12,1
-"373","2014-04-14","Ibope","sexo","feminino","Não sabe","NS",14,1
-"374","2014-04-14","Ibope","idade","16_a_24","Não sabe","NS",12,1
-"375","2014-04-14","Ibope","idade","25_a_34","Não sabe","NS",11,1
-"376","2014-04-14","Ibope","idade","35_a_44","Não sabe","NS",15,1
-"377","2014-04-14","Ibope","idade","45_a_54","Não sabe","NS",12,1
-"378","2014-04-14","Ibope","idade","55_ou_mais","Não sabe","NS",16,1
-"379","2014-04-14","Ibope","escolaridade","fundamental_1","Não sabe","NS",16,1
-"380","2014-04-14","Ibope","escolaridade","fundamental_2","Não sabe","NS",14,1
-"381","2014-04-14","Ibope","escolaridade","medio","Não sabe","NS",11,1
-"382","2014-04-14","Ibope","escolaridade","superior","Não sabe","NS",13,1
-"383","2014-04-14","Ibope","regiao","norte_centro_oeste","Aécio Neves","PSDB",13,1
-"384","2014-04-14","Ibope","regiao","nordeste","Aécio Neves","PSDB",8,1
-"385","2014-04-14","Ibope","regiao","sudeste","Aécio Neves","PSDB",20,1
-"386","2014-04-14","Ibope","regiao","sul","Aécio Neves","PSDB",12,1
-"387","2014-04-14","Ibope","condicao_do_municipio","capital","Aécio Neves","PSDB",14,1
-"388","2014-04-14","Ibope","condicao_do_municipio","periferia","Aécio Neves","PSDB",15,1
-"389","2014-04-14","Ibope","condicao_do_municipio","interior","Aécio Neves","PSDB",15,1
-"397","2014-04-14","Ibope","regiao","norte_centro_oeste","Dilma Rousseff","PT",39,1
-"398","2014-04-14","Ibope","regiao","nordeste","Dilma Rousseff","PT",51,1
-"399","2014-04-14","Ibope","regiao","sudeste","Dilma Rousseff","PT",31,1
-"400","2014-04-14","Ibope","regiao","sul","Dilma Rousseff","PT",29,1
-"401","2014-04-14","Ibope","condicao_do_municipio","capital","Dilma Rousseff","PT",36,1
-"402","2014-04-14","Ibope","condicao_do_municipio","periferia","Dilma Rousseff","PT",36,1
-"403","2014-04-14","Ibope","condicao_do_municipio","interior","Dilma Rousseff","PT",38,1
-"404","2014-04-14","Ibope","regiao","norte_centro_oeste","Eduardo Campos","PSB",4,1
-"405","2014-04-14","Ibope","regiao","nordeste","Eduardo Campos","PSB",10,1
-"406","2014-04-14","Ibope","regiao","sudeste","Eduardo Campos","PSB",4,1
-"407","2014-04-14","Ibope","regiao","sul","Eduardo Campos","PSB",4,1
-"408","2014-04-14","Ibope","condicao_do_municipio","capital","Eduardo Campos","PSB",5,1
-"409","2014-04-14","Ibope","condicao_do_municipio","periferia","Eduardo Campos","PSB",5,1
-"410","2014-04-14","Ibope","condicao_do_municipio","interior","Eduardo Campos","PSB",6,1
-"432","2014-04-14","Ibope","regiao","norte_centro_oeste","Pastor Everaldo","PSC",2,1
-"433","2014-04-14","Ibope","regiao","nordeste","Pastor Everaldo","PSC",2,1
-"434","2014-04-14","Ibope","regiao","sudeste","Pastor Everaldo","PSC",2,1
-"435","2014-04-14","Ibope","regiao","sul","Pastor Everaldo","PSC",3,1
-"436","2014-04-14","Ibope","condicao_do_municipio","capital","Pastor Everaldo","PSC",1,1
-"437","2014-04-14","Ibope","condicao_do_municipio","periferia","Pastor Everaldo","PSC",2,1
-"438","2014-04-14","Ibope","condicao_do_municipio","interior","Pastor Everaldo","PSC",2,1
-"453","2014-04-14","Ibope","regiao","norte_centro_oeste","Nulo","nulo",18,1
-"454","2014-04-14","Ibope","regiao","nordeste","Nulo","nulo",15,1
-"455","2014-04-14","Ibope","regiao","sudeste","Nulo","nulo",30,1
-"456","2014-04-14","Ibope","regiao","sul","Nulo","nulo",32,1
-"457","2014-04-14","Ibope","condicao_do_municipio","capital","Nulo","nulo",27,1
-"458","2014-04-14","Ibope","condicao_do_municipio","periferia","Nulo","nulo",28,1
-"459","2014-04-14","Ibope","condicao_do_municipio","interior","Nulo","nulo",22,1
-"460","2014-04-14","Ibope","regiao","norte_centro_oeste","Não sabe","NS",18,1
-"461","2014-04-14","Ibope","regiao","nordeste","Não sabe","NS",12,1
-"462","2014-04-14","Ibope","regiao","sudeste","Não sabe","NS",11,1
-"463","2014-04-14","Ibope","regiao","sul","Não sabe","NS",7,1
-"464","2014-04-14","Ibope","condicao_do_municipio","capital","Não sabe","NS",14,1
-"465","2014-04-14","Ibope","condicao_do_municipio","periferia","Não sabe","NS",11,1
-"466","2014-04-14","Ibope","condicao_do_municipio","interior","Não sabe","NS",14,1
-"467","2014-04-14","Ibope","renda","mais_de_5","Aécio Neves","PSDB",26,1
-"468","2014-04-14","Ibope","renda","2_a_5","Aécio Neves","PSDB",17,1
-"469","2014-04-14","Ibope","renda","1_a_2","Aécio Neves","PSDB",10,1
-"470","2014-04-14","Ibope","renda","ate_1","Aécio Neves","PSDB",7,1
-"471","2014-04-14","Ibope","cor","branca","Aécio Neves","PSDB",17,1
-"472","2014-04-14","Ibope","cor","preta_parda","Aécio Neves","PSDB",12,1
-"473","2014-04-14","Ibope","cor","outras","Aécio Neves","PSDB",23,1
-"474","2014-04-14","Ibope","religiao","catolica","Aécio Neves","PSDB",15,1
-"475","2014-04-14","Ibope","religiao","evangelica","Aécio Neves","PSDB",13,1
-"476","2014-04-14","Ibope","religiao","outras","Aécio Neves","PSDB",13,1
-"487","2014-04-14","Ibope","renda","mais_de_5","Dilma Rousseff","PT",26,1
-"488","2014-04-14","Ibope","renda","2_a_5","Dilma Rousseff","PT",35,1
-"489","2014-04-14","Ibope","renda","1_a_2","Dilma Rousseff","PT",42,1
-"490","2014-04-14","Ibope","renda","ate_1","Dilma Rousseff","PT",52,1
-"491","2014-04-14","Ibope","cor","branca","Dilma Rousseff","PT",30,1
-"492","2014-04-14","Ibope","cor","preta_parda","Dilma Rousseff","PT",42,1
-"493","2014-04-14","Ibope","cor","outras","Dilma Rousseff","PT",44,1
-"494","2014-04-14","Ibope","religiao","catolica","Dilma Rousseff","PT",40,1
-"495","2014-04-14","Ibope","religiao","evangelica","Dilma Rousseff","PT",35,1
-"496","2014-04-14","Ibope","religiao","outras","Dilma Rousseff","PT",24,1
-"497","2014-04-14","Ibope","renda","mais_de_5","Eduardo Campos","PSB",6,1
-"498","2014-04-14","Ibope","renda","2_a_5","Eduardo Campos","PSB",4,1
-"499","2014-04-14","Ibope","renda","1_a_2","Eduardo Campos","PSB",6,1
-"500","2014-04-14","Ibope","renda","ate_1","Eduardo Campos","PSB",8,1
-"501","2014-04-14","Ibope","cor","branca","Eduardo Campos","PSB",5,1
-"502","2014-04-14","Ibope","cor","preta_parda","Eduardo Campos","PSB",6,1
-"503","2014-04-14","Ibope","cor","outras","Eduardo Campos","PSB",3,1
-"504","2014-04-14","Ibope","religiao","catolica","Eduardo Campos","PSB",5,1
-"505","2014-04-14","Ibope","religiao","evangelica","Eduardo Campos","PSB",6,1
-"506","2014-04-14","Ibope","religiao","outras","Eduardo Campos","PSB",7,1
-"537","2014-04-14","Ibope","renda","mais_de_5","Pastor Everaldo","PSC",1,1
-"538","2014-04-14","Ibope","renda","2_a_5","Pastor Everaldo","PSC",2,1
-"539","2014-04-14","Ibope","renda","1_a_2","Pastor Everaldo","PSC",3,1
-"540","2014-04-14","Ibope","renda","ate_1","Pastor Everaldo","PSC",2,1
-"541","2014-04-14","Ibope","cor","branca","Pastor Everaldo","PSC",2,1
-"542","2014-04-14","Ibope","cor","preta_parda","Pastor Everaldo","PSC",2,1
-"543","2014-04-14","Ibope","cor","outras","Pastor Everaldo","PSC",5,1
-"544","2014-04-14","Ibope","religiao","catolica","Pastor Everaldo","PSC",1,1
-"545","2014-04-14","Ibope","religiao","evangelica","Pastor Everaldo","PSC",4,1
-"546","2014-04-14","Ibope","religiao","outras","Pastor Everaldo","PSC",3,1
-"567","2014-04-14","Ibope","renda","mais_de_5","Nulo","nulo",27,1
-"568","2014-04-14","Ibope","renda","2_a_5","Nulo","nulo",26,1
-"569","2014-04-14","Ibope","renda","1_a_2","Nulo","nulo",21,1
-"570","2014-04-14","Ibope","renda","ate_1","Nulo","nulo",14,1
-"571","2014-04-14","Ibope","cor","branca","Nulo","nulo",29,1
-"572","2014-04-14","Ibope","cor","preta_parda","Nulo","nulo",22,1
-"573","2014-04-14","Ibope","cor","outras","Nulo","nulo",14,1
-"574","2014-04-14","Ibope","religiao","catolica","Nulo","nulo",22,1
-"575","2014-04-14","Ibope","religiao","evangelica","Nulo","nulo",24,1
-"576","2014-04-14","Ibope","religiao","outras","Nulo","nulo",37,1
-"577","2014-04-14","Ibope","renda","mais_de_5","Não sabe","NS",10,1
-"578","2014-04-14","Ibope","renda","2_a_5","Não sabe","NS",14,1
-"579","2014-04-14","Ibope","renda","1_a_2","Não sabe","NS",14,1
-"580","2014-04-14","Ibope","renda","ate_1","Não sabe","NS",14,1
-"581","2014-04-14","Ibope","cor","branca","Não sabe","NS",13,1
-"582","2014-04-14","Ibope","cor","preta_parda","Não sabe","NS",13,1
-"583","2014-04-14","Ibope","cor","outras","Não sabe","NS",11,1
-"584","2014-04-14","Ibope","religiao","catolica","Não sabe","NS",13,1
-"585","2014-04-14","Ibope","religiao","evangelica","Não sabe","NS",15,1
-"586","2014-04-14","Ibope","religiao","outras","Não sabe","NS",12,1
-"587","2014-04-14","Ibope","avaliacao_do_governo","otimo_bom","Aécio Neves","PSDB",4,1
-"588","2014-04-14","Ibope","avaliacao_do_governo","regular","Aécio Neves","PSDB",19,1
-"589","2014-04-14","Ibope","avaliacao_do_governo","ruim_pessimo","Aécio Neves","PSDB",21,1
-"593","2014-04-14","Ibope","avaliacao_do_governo","otimo_bom","Dilma Rousseff","PT",78,1
-"594","2014-04-14","Ibope","avaliacao_do_governo","regular","Dilma Rousseff","PT",27,1
-"595","2014-04-14","Ibope","avaliacao_do_governo","ruim_pessimo","Dilma Rousseff","PT",3,1
-"596","2014-04-14","Ibope","avaliacao_do_governo","otimo_bom","Eduardo Campos","PSB",2,1
-"597","2014-04-14","Ibope","avaliacao_do_governo","regular","Eduardo Campos","PSB",7,1
-"598","2014-04-14","Ibope","avaliacao_do_governo","ruim_pessimo","Eduardo Campos","PSB",8,1
-"608","2014-04-14","Ibope","avaliacao_do_governo","otimo_bom","Pastor Everaldo","PSC",1,1
-"609","2014-04-14","Ibope","avaliacao_do_governo","regular","Pastor Everaldo","PSC",2,1
-"610","2014-04-14","Ibope","avaliacao_do_governo","ruim_pessimo","Pastor Everaldo","PSC",3,1
-"617","2014-04-14","Ibope","avaliacao_do_governo","otimo_bom","Nulo","nulo",4,1
-"618","2014-04-14","Ibope","avaliacao_do_governo","regular","Nulo","nulo",23,1
-"619","2014-04-14","Ibope","avaliacao_do_governo","ruim_pessimo","Nulo","nulo",48,1
-"620","2014-04-14","Ibope","avaliacao_do_governo","otimo_bom","Não sabe","NS",7,1
-"621","2014-04-14","Ibope","avaliacao_do_governo","regular","Não sabe","NS",17,1
-"622","2014-04-14","Ibope","avaliacao_do_governo","ruim_pessimo","Não sabe","NS",14,1
-"623","2014-05-19","Ibope","sexo","masculino","Aécio Neves","PSDB",19,1
-"624","2014-05-19","Ibope","sexo","feminino","Aécio Neves","PSDB",20,1
-"625","2014-05-19","Ibope","idade","16_a_24","Aécio Neves","PSDB",19,1
-"626","2014-05-19","Ibope","idade","25_a_34","Aécio Neves","PSDB",20,1
-"627","2014-05-19","Ibope","idade","35_a_44","Aécio Neves","PSDB",16,1
-"628","2014-05-19","Ibope","idade","45_a_54","Aécio Neves","PSDB",20,1
-"629","2014-05-19","Ibope","idade","55_ou_mais","Aécio Neves","PSDB",22,1
-"630","2014-05-19","Ibope","escolaridade","fundamental_1","Aécio Neves","PSDB",15,1
-"631","2014-05-19","Ibope","escolaridade","fundamental_2","Aécio Neves","PSDB",18,1
-"632","2014-05-19","Ibope","escolaridade","medio","Aécio Neves","PSDB",19,1
-"633","2014-05-19","Ibope","escolaridade","superior","Aécio Neves","PSDB",28,1
-"634","2014-05-19","Ibope","sexo","masculino","Dilma Rousseff","PT",41,1
-"635","2014-05-19","Ibope","sexo","feminino","Dilma Rousseff","PT",40,1
-"636","2014-05-19","Ibope","idade","16_a_24","Dilma Rousseff","PT",39,1
-"637","2014-05-19","Ibope","idade","25_a_34","Dilma Rousseff","PT",40,1
-"638","2014-05-19","Ibope","idade","35_a_44","Dilma Rousseff","PT",40,1
-"639","2014-05-19","Ibope","idade","45_a_54","Dilma Rousseff","PT",38,1
-"640","2014-05-19","Ibope","idade","55_ou_mais","Dilma Rousseff","PT",45,1
-"641","2014-05-19","Ibope","escolaridade","fundamental_1","Dilma Rousseff","PT",51,1
-"642","2014-05-19","Ibope","escolaridade","fundamental_2","Dilma Rousseff","PT",42,1
-"643","2014-05-19","Ibope","escolaridade","medio","Dilma Rousseff","PT",36,1
-"644","2014-05-19","Ibope","escolaridade","superior","Dilma Rousseff","PT",32,1
-"645","2014-05-19","Ibope","sexo","masculino","Eduardo Campos","PSB",11,1
-"646","2014-05-19","Ibope","sexo","feminino","Eduardo Campos","PSB",10,1
-"647","2014-05-19","Ibope","idade","16_a_24","Eduardo Campos","PSB",12,1
-"648","2014-05-19","Ibope","idade","25_a_34","Eduardo Campos","PSB",12,1
-"649","2014-05-19","Ibope","idade","35_a_44","Eduardo Campos","PSB",12,1
-"650","2014-05-19","Ibope","idade","45_a_54","Eduardo Campos","PSB",11,1
-"651","2014-05-19","Ibope","idade","55_ou_mais","Eduardo Campos","PSB",7,1
-"652","2014-05-19","Ibope","escolaridade","fundamental_1","Eduardo Campos","PSB",7,1
-"653","2014-05-19","Ibope","escolaridade","fundamental_2","Eduardo Campos","PSB",8,1
-"654","2014-05-19","Ibope","escolaridade","medio","Eduardo Campos","PSB",12,1
-"655","2014-05-19","Ibope","escolaridade","superior","Eduardo Campos","PSB",15,1
-"700","2014-05-19","Ibope","sexo","masculino","Pastor Everaldo","PSC",3,1
-"701","2014-05-19","Ibope","sexo","feminino","Pastor Everaldo","PSC",3,1
-"702","2014-05-19","Ibope","idade","16_a_24","Pastor Everaldo","PSC",3,1
-"703","2014-05-19","Ibope","idade","25_a_34","Pastor Everaldo","PSC",3,1
-"704","2014-05-19","Ibope","idade","35_a_44","Pastor Everaldo","PSC",3,1
-"705","2014-05-19","Ibope","idade","45_a_54","Pastor Everaldo","PSC",2,1
-"706","2014-05-19","Ibope","idade","55_ou_mais","Pastor Everaldo","PSC",2,1
-"707","2014-05-19","Ibope","escolaridade","fundamental_2","Pastor Everaldo","PSC",3,1
-"708","2014-05-19","Ibope","escolaridade","medio","Pastor Everaldo","PSC",3,1
-"709","2014-05-19","Ibope","escolaridade","superior","Pastor Everaldo","PSC",1,1
-"732","2014-05-19","Ibope","sexo","masculino","Nulo","nulo",14,1
-"733","2014-05-19","Ibope","sexo","feminino","Nulo","nulo",15,1
-"734","2014-05-19","Ibope","idade","16_a_24","Nulo","nulo",14,1
-"735","2014-05-19","Ibope","idade","25_a_34","Nulo","nulo",14,1
-"736","2014-05-19","Ibope","idade","35_a_44","Nulo","nulo",151,1
-"737","2014-05-19","Ibope","idade","45_a_54","Nulo","nulo",7,1
-"738","2014-05-19","Ibope","idade","55_ou_mais","Nulo","nulo",12,1
-"739","2014-05-19","Ibope","escolaridade","fundamental_1","Nulo","nulo",12,1
-"740","2014-05-19","Ibope","escolaridade","fundamental_2","Nulo","nulo",171,1
-"741","2014-05-19","Ibope","escolaridade","medio","Nulo","nulo",5,1
-"742","2014-05-19","Ibope","escolaridade","superior","Nulo","nulo",15,1
-"743","2014-05-19","Ibope","sexo","masculino","Não sabe","NS",9,1
-"744","2014-05-19","Ibope","sexo","feminino","Não sabe","NS",10,1
-"745","2014-05-19","Ibope","idade","16_a_24","Não sabe","NS",10,1
-"746","2014-05-19","Ibope","idade","25_a_34","Não sabe","NS",9,1
-"747","2014-05-19","Ibope","idade","35_a_44","Não sabe","NS",10,1
-"748","2014-05-19","Ibope","idade","45_a_54","Não sabe","NS",9,1
-"749","2014-05-19","Ibope","idade","55_ou_mais","Não sabe","NS",11,1
-"750","2014-05-19","Ibope","escolaridade","fundamental_1","Não sabe","NS",12,1
-"751","2014-05-19","Ibope","escolaridade","fundamental_2","Não sabe","NS",8,1
-"752","2014-05-19","Ibope","escolaridade","medio","Não sabe","NS",11,1
-"753","2014-05-19","Ibope","escolaridade","superior","Não sabe","NS",8,1
-"754","2014-05-19","Ibope","regiao","norte_centro_oeste","Aécio Neves","PSDB",23,1
-"755","2014-05-19","Ibope","regiao","nordeste","Aécio Neves","PSDB",11,1
-"756","2014-05-19","Ibope","regiao","sudeste","Aécio Neves","PSDB",24,1
-"757","2014-05-19","Ibope","regiao","sul","Aécio Neves","PSDB",17,1
-"758","2014-05-19","Ibope","condicao_do_municipio","capital","Aécio Neves","PSDB",18,1
-"759","2014-05-19","Ibope","condicao_do_municipio","periferia","Aécio Neves","PSDB",16,1
-"760","2014-05-19","Ibope","condicao_do_municipio","interior","Aécio Neves","PSDB",21,1
-"761","2014-05-19","Ibope","regiao","norte_centro_oeste","Dilma Rousseff","PT",43,1
-"762","2014-05-19","Ibope","regiao","nordeste","Dilma Rousseff","PT",51,1
-"763","2014-05-19","Ibope","regiao","sudeste","Dilma Rousseff","PT",33,1
-"764","2014-05-19","Ibope","regiao","sul","Dilma Rousseff","PT",39,1
-"765","2014-05-19","Ibope","condicao_do_municipio","capital","Dilma Rousseff","PT",35,1
-"766","2014-05-19","Ibope","condicao_do_municipio","periferia","Dilma Rousseff","PT",42,1
-"767","2014-05-19","Ibope","condicao_do_municipio","interior","Dilma Rousseff","PT",43,1
-"768","2014-05-19","Ibope","regiao","norte_centro_oeste","Eduardo Campos","PSB",13,1
-"769","2014-05-19","Ibope","regiao","nordeste","Eduardo Campos","PSB",15,1
-"770","2014-05-19","Ibope","regiao","sudeste","Eduardo Campos","PSB",8,1
-"771","2014-05-19","Ibope","regiao","sul","Eduardo Campos","PSB",9,1
-"772","2014-05-19","Ibope","condicao_do_municipio","capital","Eduardo Campos","PSB",13,1
-"773","2014-05-19","Ibope","condicao_do_municipio","periferia","Eduardo Campos","PSB",10,1
-"774","2014-05-19","Ibope","condicao_do_municipio","interior","Eduardo Campos","PSB",9,1
-"803","2014-05-19","Ibope","regiao","norte_centro_oeste","Pastor Everaldo","PSC",5,1
-"804","2014-05-19","Ibope","regiao","nordeste","Pastor Everaldo","PSC",1,1
-"805","2014-05-19","Ibope","regiao","sudeste","Pastor Everaldo","PSC",3,1
-"806","2014-05-19","Ibope","regiao","sul","Pastor Everaldo","PSC",2,1
-"807","2014-05-19","Ibope","condicao_do_municipio","capital","Pastor Everaldo","PSC",2,1
-"808","2014-05-19","Ibope","condicao_do_municipio","periferia","Pastor Everaldo","PSC",62,1
-"809","2014-05-19","Ibope","condicao_do_municipio","interior","Pastor Everaldo","PSC",2,1
-"824","2014-05-19","Ibope","regiao","norte_centro_oeste","Nulo","nulo",5,1
-"825","2014-05-19","Ibope","regiao","nordeste","Nulo","nulo",8,1
-"826","2014-05-19","Ibope","regiao","sudeste","Nulo","nulo",19,1
-"827","2014-05-19","Ibope","regiao","sul","Nulo","nulo",221,1
-"828","2014-05-19","Ibope","condicao_do_municipio","capital","Nulo","nulo",91,1
-"829","2014-05-19","Ibope","condicao_do_municipio","periferia","Nulo","nulo",4,1
-"830","2014-05-19","Ibope","condicao_do_municipio","interior","Nulo","nulo",13,1
-"831","2014-05-19","Ibope","regiao","norte_centro_oeste","Não sabe","NS",8,1
-"832","2014-05-19","Ibope","regiao","nordeste","Não sabe","NS",10,1
-"833","2014-05-19","Ibope","regiao","sudeste","Não sabe","NS",10,1
-"834","2014-05-19","Ibope","regiao","sul","Não sabe","NS",10,1
-"835","2014-05-19","Ibope","condicao_do_municipio","capital","Não sabe","NS",9,1
-"836","2014-05-19","Ibope","condicao_do_municipio","periferia","Não sabe","NS",10,1
-"837","2014-05-19","Ibope","condicao_do_municipio","interior","Não sabe","NS",10,1
-"838","2014-05-19","Ibope","renda","mais_de_5","Aécio Neves","PSDB",25,1
-"839","2014-05-19","Ibope","renda","2_a_5","Aécio Neves","PSDB",22,1
-"840","2014-05-19","Ibope","renda","1_a_2","Aécio Neves","PSDB",17,1
-"841","2014-05-19","Ibope","renda","ate_1","Aécio Neves","PSDB",9,1
-"842","2014-05-19","Ibope","cor","branca","Aécio Neves","PSDB",22,1
-"843","2014-05-19","Ibope","cor","preta_parda","Aécio Neves","PSDB",18,1
-"844","2014-05-19","Ibope","cor","outras","Aécio Neves","PSDB",16,1
-"845","2014-05-19","Ibope","religiao","catolica","Aécio Neves","PSDB",20,1
-"846","2014-05-19","Ibope","religiao","evangelica","Aécio Neves","PSDB",18,1
-"847","2014-05-19","Ibope","religiao","outras","Aécio Neves","PSDB",18,1
-"848","2014-05-19","Ibope","renda","mais_de_5","Dilma Rousseff","PT",38,1
-"849","2014-05-19","Ibope","renda","2_a_5","Dilma Rousseff","PT",35,1
-"850","2014-05-19","Ibope","renda","1_a_2","Dilma Rousseff","PT",43,1
-"851","2014-05-19","Ibope","renda","ate_1","Dilma Rousseff","PT",56,1
-"852","2014-05-19","Ibope","cor","branca","Dilma Rousseff","PT",35,1
-"853","2014-05-19","Ibope","cor","preta_parda","Dilma Rousseff","PT",45,1
-"854","2014-05-19","Ibope","cor","outras","Dilma Rousseff","PT",41,1
-"855","2014-05-19","Ibope","religiao","catolica","Dilma Rousseff","PT",42,1
-"856","2014-05-19","Ibope","religiao","evangelica","Dilma Rousseff","PT",39,1
-"857","2014-05-19","Ibope","religiao","outras","Dilma Rousseff","PT",36,1
-"858","2014-05-19","Ibope","renda","mais_de_5","Eduardo Campos","PSB",12,1
-"859","2014-05-19","Ibope","renda","2_a_5","Eduardo Campos","PSB",9,1
-"860","2014-05-19","Ibope","renda","1_a_2","Eduardo Campos","PSB",91,1
-"861","2014-05-19","Ibope","renda","ate_1","Eduardo Campos","PSB",4,1
-"862","2014-05-19","Ibope","cor","branca","Eduardo Campos","PSB",10,1
-"863","2014-05-19","Ibope","cor","preta_parda","Eduardo Campos","PSB",1,1
-"864","2014-05-19","Ibope","cor","outras","Eduardo Campos","PSB",4,1
-"865","2014-05-19","Ibope","religiao","catolica","Eduardo Campos","PSB",10,1
-"866","2014-05-19","Ibope","religiao","evangelica","Eduardo Campos","PSB",12,1
-"867","2014-05-19","Ibope","religiao","outras","Eduardo Campos","PSB",12,1
-"908","2014-05-19","Ibope","renda","mais_de_5","Pastor Everaldo","PSC",1,1
-"909","2014-05-19","Ibope","renda","2_a_5","Pastor Everaldo","PSC",3,1
-"910","2014-05-19","Ibope","renda","1_a_2","Pastor Everaldo","PSC",3,1
-"911","2014-05-19","Ibope","renda","ate_1","Pastor Everaldo","PSC",2,1
-"912","2014-05-19","Ibope","cor","branca","Pastor Everaldo","PSC",32,1
-"913","2014-05-19","Ibope","cor","preta_parda","Pastor Everaldo","PSC",5,1
-"914","2014-05-19","Ibope","cor","outras","Pastor Everaldo","PSC",1,1
-"915","2014-05-19","Ibope","religiao","catolica","Pastor Everaldo","PSC",1,1
-"916","2014-05-19","Ibope","religiao","evangelica","Pastor Everaldo","PSC",6,1
-"917","2014-05-19","Ibope","religiao","outras","Pastor Everaldo","PSC",2,1
-"938","2014-05-19","Ibope","renda","mais_de_5","Nulo","nulo",13,1
-"939","2014-05-19","Ibope","renda","2_a_5","Nulo","nulo",16,1
-"940","2014-05-19","Ibope","renda","1_a_2","Nulo","nulo",16,1
-"941","2014-05-19","Ibope","renda","ate_1","Nulo","nulo",7,1
-"942","2014-05-19","Ibope","cor","branca","Nulo","nulo",18,1
-"943","2014-05-19","Ibope","cor","preta_parda","Nulo","nulo",12,1
-"944","2014-05-19","Ibope","cor","outras","Nulo","nulo",11,1
-"945","2014-05-19","Ibope","religiao","catolica","Nulo","nulo",14,1
-"946","2014-05-19","Ibope","religiao","evangelica","Nulo","nulo",12,1
-"947","2014-05-19","Ibope","religiao","outras","Nulo","nulo",20,1
-"948","2014-05-19","Ibope","renda","mais_de_5","Não sabe","NS",8,1
-"949","2014-05-19","Ibope","renda","2_a_5","Não sabe","NS",13,1
-"950","2014-05-19","Ibope","renda","1_a_2","Não sabe","NS",9,1
-"951","2014-05-19","Ibope","renda","ate_1","Não sabe","NS",9,1
-"952","2014-05-19","Ibope","cor","branca","Não sabe","NS",11,1
-"953","2014-05-19","Ibope","cor","preta_parda","Não sabe","NS",91,1
-"954","2014-05-19","Ibope","cor","outras","Não sabe","NS",4,1
-"955","2014-05-19","Ibope","religiao","catolica","Não sabe","NS",10,1
-"956","2014-05-19","Ibope","religiao","evangelica","Não sabe","NS",9,1
-"957","2014-05-19","Ibope","religiao","outras","Não sabe","NS",11,1
-"958","2014-05-19","Ibope","avaliacao_do_governo","otimo_bom","Aécio Neves","PSDB",5,1
-"959","2014-05-19","Ibope","avaliacao_do_governo","regular","Aécio Neves","PSDB",20,1
-"960","2014-05-19","Ibope","avaliacao_do_governo","ruim_pessimo","Aécio Neves","PSDB",35,1
-"961","2014-05-19","Ibope","avaliacao_do_governo","otimo_bom","Dilma Rousseff","PT",82,1
-"962","2014-05-19","Ibope","avaliacao_do_governo","regular","Dilma Rousseff","PT",33,1
-"963","2014-05-19","Ibope","avaliacao_do_governo","ruim_pessimo","Dilma Rousseff","PT",5,1
-"964","2014-05-19","Ibope","avaliacao_do_governo","otimo_bom","Eduardo Campos","PSB",4,1
-"965","2014-05-19","Ibope","avaliacao_do_governo","regular","Eduardo Campos","PSB",14,1
-"966","2014-05-19","Ibope","avaliacao_do_governo","ruim_pessimo","Eduardo Campos","PSB",15,1
-"979","2014-05-19","Ibope","avaliacao_do_governo","otimo_bom","Pastor Everaldo","PSC",1,1
-"980","2014-05-19","Ibope","avaliacao_do_governo","regular","Pastor Everaldo","PSC",2,1
-"981","2014-05-19","Ibope","avaliacao_do_governo","ruim_pessimo","Pastor Everaldo","PSC",4,1
-"988","2014-05-19","Ibope","avaliacao_do_governo","otimo_bom","Nulo","nulo",2,1
-"989","2014-05-19","Ibope","avaliacao_do_governo","regular","Nulo","nulo",13,1
-"990","2014-05-19","Ibope","avaliacao_do_governo","ruim_pessimo","Nulo","nulo",28,1
-"991","2014-05-19","Ibope","avaliacao_do_governo","otimo_bom","Não sabe","NS",5,1
-"992","2014-05-19","Ibope","avaliacao_do_governo","regular","Não sabe","NS",14,1
-"993","2014-05-19","Ibope","avaliacao_do_governo","ruim_pessimo","Não sabe","NS",10,1
-"994","2014-03-17","Ibope","sexo","masculino","Outros","Outros",2,1
-"995","2014-03-17","Ibope","sexo","feminino","Outros","Outros",0,1
-"996","2014-03-17","Ibope","idade","16_a_24","Outros","Outros",2,1
-"997","2014-03-17","Ibope","idade","25_a_34","Outros","Outros",0,1
-"998","2014-03-17","Ibope","idade","35_a_44","Outros","Outros",2,1
-"999","2014-03-17","Ibope","idade","45_a_54","Outros","Outros",2,1
-"1000","2014-03-17","Ibope","idade","55_ou_mais","Outros","Outros",0,1
-"1001","2014-03-17","Ibope","escolaridade","fundamental_1","Outros","Outros",0,1
-"1002","2014-03-17","Ibope","escolaridade","fundamental_2","Outros","Outros",2,1
-"1003","2014-03-17","Ibope","escolaridade","medio","Outros","Outros",0,1
-"1004","2014-03-17","Ibope","escolaridade","superior","Outros","Outros",1,1
-"1005","2014-03-17","Ibope","regiao","norte_centro_oeste","Outros","Outros",3,1
-"1006","2014-03-17","Ibope","regiao","nordeste","Outros","Outros",0,1
-"1007","2014-03-17","Ibope","regiao","sudeste","Outros","Outros",2,1
-"1008","2014-03-17","Ibope","regiao","sul","Outros","Outros",0,1
-"1009","2014-03-17","Ibope","condicao_do_municipio","capital","Outros","Outros",1,1
-"1010","2014-03-17","Ibope","condicao_do_municipio","periferia","Outros","Outros",3,1
-"1011","2014-03-17","Ibope","condicao_do_municipio","interior","Outros","Outros",0,1
-"1012","2014-03-17","Ibope","renda","mais_de_5","Outros","Outros",0,1
-"1013","2014-03-17","Ibope","renda","2_a_5","Outros","Outros",1,1
-"1014","2014-03-17","Ibope","renda","1_a_2","Outros","Outros",3,1
-"1015","2014-03-17","Ibope","renda","ate_1","Outros","Outros",1,1
-"1016","2014-03-17","Ibope","cor","branca","Outros","Outros",0,1
-"1017","2014-03-17","Ibope","cor","preta_parda","Outros","Outros",1,1
-"1018","2014-03-17","Ibope","cor","outras","Outros","Outros",2,1
-"1019","2014-04-14","Ibope","sexo","masculino","Outros","Outros",4,1
-"1020","2014-04-14","Ibope","sexo","feminino","Outros","Outros",2,1
-"1021","2014-04-14","Ibope","idade","16_a_24","Outros","Outros",6,1
-"1022","2014-04-14","Ibope","idade","25_a_34","Outros","Outros",2,1
-"1023","2014-04-14","Ibope","idade","35_a_44","Outros","Outros",4,1
-"1024","2014-04-14","Ibope","idade","45_a_54","Outros","Outros",4,1
-"1025","2014-04-14","Ibope","idade","55_ou_mais","Outros","Outros",1,1
-"1026","2014-04-14","Ibope","escolaridade","fundamental_1","Outros","Outros",2,1
-"1027","2014-04-14","Ibope","escolaridade","fundamental_2","Outros","Outros",1,1
-"1028","2014-04-14","Ibope","escolaridade","medio","Outros","Outros",5,1
-"1029","2014-04-14","Ibope","escolaridade","superior","Outros","Outros",5,1
-"1030","2014-04-14","Ibope","regiao","norte_centro_oeste","Outros","Outros",6,1
-"1031","2014-04-14","Ibope","regiao","nordeste","Outros","Outros",2,1
-"1032","2014-04-14","Ibope","regiao","sudeste","Outros","Outros",3,1
-"1033","2014-04-14","Ibope","regiao","sul","Outros","Outros",2,1
-"1034","2014-04-14","Ibope","condicao_do_municipio","capital","Outros","Outros",5,1
-"1035","2014-04-14","Ibope","condicao_do_municipio","periferia","Outros","Outros",2,1
-"1036","2014-04-14","Ibope","condicao_do_municipio","interior","Outros","Outros",2,1
-"1037","2014-04-14","Ibope","renda","mais_de_5","Outros","Outros",4,1
-"1038","2014-04-14","Ibope","renda","2_a_5","Outros","Outros",1,1
-"1039","2014-04-14","Ibope","renda","1_a_2","Outros","Outros",4,1
-"1040","2014-04-14","Ibope","renda","ate_1","Outros","Outros",2,1
-"1041","2014-04-14","Ibope","cor","branca","Outros","Outros",4,1
-"1042","2014-04-14","Ibope","cor","preta_parda","Outros","Outros",2,1
-"1043","2014-04-14","Ibope","cor","outras","Outros","Outros",0,1
-"1044","2014-04-14","Ibope","cor","outras","Outros","Outros",4,1
-"1045","2014-04-14","Ibope","religiao","catolica","Outros","Outros",3,1
-"1046","2014-04-14","Ibope","religiao","evangelica","Outros","Outros",0,1
-"1047","2014-04-14","Ibope","avaliacao_do_governo","otimo_bom","Outros","Outros",2,1
-"1048","2014-04-14","Ibope","avaliacao_do_governo","regular","Outros","Outros",3,1
-"1049","2014-04-14","Ibope","avaliacao_do_governo","ruim_pessimo","Outros","Outros",5,1
-"1050","2014-05-19","Ibope","sexo","masculino","Outros","Outros",2,1
-"1051","2014-05-19","Ibope","sexo","feminino","Outros","Outros",10,1
-"1052","2014-05-19","Ibope","idade","16_a_24","Outros","Outros",4,1
-"1053","2014-05-19","Ibope","idade","25_a_34","Outros","Outros",1,1
-"1054","2014-05-19","Ibope","idade","35_a_44","Outros","Outros",3,1
-"1055","2014-05-19","Ibope","idade","45_a_54","Outros","Outros",3,1
-"1056","2014-05-19","Ibope","idade","55_ou_mais","Outros","Outros",0,1
-"1057","2014-05-19","Ibope","escolaridade","fundamental_1","Outros","Outros",2,1
-"1058","2014-05-19","Ibope","escolaridade","fundamental_2","Outros","Outros",3,1
-"1059","2014-05-19","Ibope","escolaridade","medio","Outros","Outros",4,1
-"1060","2014-05-19","Ibope","escolaridade","superior","Outros","Outros",1,1
-"1061","2014-05-19","Ibope","regiao","norte_centro_oeste","Outros","Outros",2,1
-"1062","2014-05-19","Ibope","regiao","nordeste","Outros","Outros",3,1
-"1063","2014-05-19","Ibope","regiao","sudeste","Outros","Outros",3,1
-"1064","2014-05-19","Ibope","regiao","sul","Outros","Outros",2,1
-"1065","2014-05-19","Ibope","condicao_do_municipio","capital","Outros","Outros",4,1
-"1066","2014-05-19","Ibope","condicao_do_municipio","periferia","Outros","Outros",2,1
-"1067","2014-05-19","Ibope","condicao_do_municipio","interior","Outros","Outros",2,1
-"1068","2014-05-19","Ibope","renda","mais_de_5","Outros","Outros",2,1
-"1069","2014-05-19","Ibope","renda","2_a_5","Outros","Outros",1,1
-"1070","2014-05-19","Ibope","renda","1_a_2","Outros","Outros",3,1
-"1071","2014-05-19","Ibope","renda","ate_1","Outros","Outros",2,1
-"1072","2014-05-19","Ibope","cor","branca","Outros","Outros",11,1
-"1073","2014-05-19","Ibope","cor","preta_parda","Outros","Outros",1,1
-"1074","2014-05-19","Ibope","cor","outras","Outros","Outros",0,1
-"1075","2014-05-19","Ibope","cor","outras","Outros","Outros",1,1
-"1076","2014-05-19","Ibope","religiao","catolica","Outros","Outros",1,1
-"1077","2014-05-19","Ibope","religiao","evangelica","Outros","Outros",3,1
-"1078","2014-05-19","Ibope","avaliacao_do_governo","otimo_bom","Outros","Outros",0,1
-"1079","2014-05-19","Ibope","avaliacao_do_governo","regular","Outros","Outros",4,1
-"1080","2014-05-19","Ibope","avaliacao_do_governo","ruim_pessimo","Outros","Outros",2,1
+data,instituto,recorte,variavel,candidato,partido,intencao,Turno
+2014-03-17,Ibope,regiao,nordeste,Dilma Rousseff,PT,54,1
+2014-03-17,Ibope,renda,ate_1,Dilma Rousseff,PT,54,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Dilma Rousseff,PT,47,1
+2014-03-17,Ibope,cor,preta_parda,Dilma Rousseff,PT,46,1
+2014-03-17,Ibope,renda,1_a_2,Dilma Rousseff,PT,45,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Dilma Rousseff,PT,43,1
+2014-03-17,Ibope,idade,25_a_34,Dilma Rousseff,PT,42,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Dilma Rousseff,PT,42,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Dilma Rousseff,PT,42,1
+2014-03-17,Ibope,sexo,masculino,Dilma Rousseff,PT,41,1
+2014-03-17,Ibope,idade,16_a_24,Dilma Rousseff,PT,41,1
+2014-03-17,Ibope,idade,55_ou_mais,Dilma Rousseff,PT,41,1
+2014-03-17,Ibope,sexo,feminino,Dilma Rousseff,PT,40,1
+2014-03-17,Ibope,idade,35_a_44,Dilma Rousseff,PT,40,1
+2014-03-17,Ibope,escolaridade,medio,Dilma Rousseff,PT,40,1
+2014-03-17,Ibope,total,total,Dilma Rousseff,PT,40,1
+2014-03-17,Ibope,renda,2_a_5,Dilma Rousseff,PT,39,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Dilma Rousseff,PT,38,1
+2014-03-17,Ibope,cor,outras,Dilma Rousseff,PT,38,1
+2014-03-17,Ibope,idade,45_a_54,Dilma Rousseff,PT,37,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Dilma Rousseff,PT,36,1
+2014-03-17,Ibope,regiao,sul,Dilma Rousseff,PT,35,1
+2014-03-17,Ibope,cor,branca,Dilma Rousseff,PT,34,1
+2014-03-17,Ibope,regiao,sudeste,Dilma Rousseff,PT,33,1
+2014-03-17,Ibope,cor,outras,Nulo,nulo,32,1
+2014-03-17,Ibope,renda,mais_de_5,Dilma Rousseff,PT,30,1
+2014-03-17,Ibope,regiao,sudeste,Nulo,nulo,29,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Nulo,nulo,29,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Nulo,nulo,29,1
+2014-03-17,Ibope,escolaridade,superior,Dilma Rousseff,PT,27,1
+2014-03-17,Ibope,idade,45_a_54,Nulo,nulo,27,1
+2014-03-17,Ibope,escolaridade,superior,Nulo,nulo,27,1
+2014-03-17,Ibope,escolaridade,medio,Nulo,nulo,26,1
+2014-03-17,Ibope,cor,branca,Nulo,nulo,26,1
+2014-03-17,Ibope,idade,25_a_34,Nulo,nulo,25,1
+2014-03-17,Ibope,sexo,feminino,Nulo,nulo,24,1
+2014-03-17,Ibope,idade,35_a_44,Nulo,nulo,24,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Nulo,nulo,24,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Nulo,nulo,24,1
+2014-03-17,Ibope,renda,mais_de_5,Nulo,nulo,24,1
+2014-03-17,Ibope,renda,2_a_5,Nulo,nulo,24,1
+2014-03-17,Ibope,total,total,Nulo,NS,24,1
+2014-03-17,Ibope,sexo,masculino,Nulo,nulo,23,1
+2014-03-17,Ibope,renda,mais_de_5,Aécio Neves,PSDB,23,1
+2014-03-17,Ibope,idade,55_ou_mais,Nulo,nulo,22,1
+2014-03-17,Ibope,regiao,sul,Nulo,nulo,22,1
+2014-03-17,Ibope,renda,1_a_2,Nulo,nulo,22,1
+2014-03-17,Ibope,escolaridade,superior,Aécio Neves,PSDB,21,1
+2014-03-17,Ibope,cor,preta_parda,Nulo,nulo,21,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Nulo,nulo,20,1
+2014-03-17,Ibope,idade,16_a_24,Nulo,nulo,19,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Nulo,nulo,19,1
+2014-03-17,Ibope,regiao,sudeste,Aécio Neves,PSDB,18,1
+2014-03-17,Ibope,cor,branca,Aécio Neves,PSDB,18,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Não sabe,NS,17,1
+2014-03-17,Ibope,renda,2_a_5,Aécio Neves,PSDB,17,1
+2014-03-17,Ibope,renda,ate_1,Nulo,nulo,17,1
+2014-03-17,Ibope,sexo,masculino,Aécio Neves,PSDB,16,1
+2014-03-17,Ibope,idade,45_a_54,Aécio Neves,PSDB,16,1
+2014-03-17,Ibope,idade,55_ou_mais,Não sabe,NS,16,1
+2014-03-17,Ibope,regiao,sul,Aécio Neves,PSDB,16,1
+2014-03-17,Ibope,regiao,nordeste,Nulo,nulo,16,1
+2014-03-17,Ibope,regiao,sul,Não sabe,NS,16,1
+2014-03-17,Ibope,sexo,feminino,Não sabe,NS,15,1
+2014-03-17,Ibope,idade,16_a_24,Não sabe,NS,15,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Não sabe,NS,15,1
+2014-03-17,Ibope,idade,25_a_34,Aécio Neves,PSDB,14,1
+2014-03-17,Ibope,idade,35_a_44,Aécio Neves,PSDB,14,1
+2014-03-17,Ibope,escolaridade,medio,Aécio Neves,PSDB,14,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Aécio Neves,PSDB,14,1
+2014-03-17,Ibope,idade,55_ou_mais,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Aécio Neves,PSDB,13,1
+2014-03-17,Ibope,regiao,sudeste,Não sabe,NS,13,1
+2014-03-17,Ibope,renda,2_a_5,Não sabe,NS,13,1
+2014-03-17,Ibope,renda,ate_1,Não sabe,NS,13,1
+2014-03-17,Ibope,cor,branca,Não sabe,NS,13,1
+2014-03-17,Ibope,total,total,Aecio Neves,PSDB,13,1
+2014-03-17,Ibope,idade,16_a_24,Aécio Neves,PSDB,12,1
+2014-03-17,Ibope,escolaridade,superior,Não sabe,NS,12,1
+2014-03-17,Ibope,regiao,nordeste,Eduardo Campos,PSB,12,1
+2014-03-17,Ibope,renda,1_a_2,Não sabe,NS,12,1
+2014-03-17,Ibope,cor,preta_parda,Não sabe,NS,12,1
+2014-03-17,Ibope,cor,outras,Não sabe,NS,12,1
+2014-03-17,Ibope,total,total,Não sabe,NS,12,1
+2014-03-17,Ibope,sexo,feminino,Aécio Neves,PSDB,11,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Aécio Neves,PSDB,11,1
+2014-03-17,Ibope,idade,35_a_44,Não sabe,NS,11,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Não sabe,NS,11,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Aécio Neves,PSDB,10,1
+2014-03-17,Ibope,escolaridade,superior,Eduardo Campos,PSB,10,1
+2014-03-17,Ibope,idade,25_a_34,Não sabe,NS,10,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Não sabe,NS,10,1
+2014-03-17,Ibope,escolaridade,medio,Não sabe,NS,10,1
+2014-03-17,Ibope,regiao,nordeste,Não sabe,NS,10,1
+2014-03-17,Ibope,renda,1_a_2,Aécio Neves,PSDB,10,1
+2014-03-17,Ibope,cor,preta_parda,Aécio Neves,PSDB,10,1
+2014-03-17,Ibope,renda,mais_de_5,Não sabe,NS,10,1
+2014-03-17,Ibope,sexo,masculino,Não sabe,NS,9,1
+2014-03-17,Ibope,idade,45_a_54,Não sabe,NS,9,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Eduardo Campos,PSB,9,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Não sabe,NS,9,1
+2014-03-17,Ibope,renda,mais_de_5,Eduardo Campos,PSB,9,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Não sabe,NS,8,1
+2014-03-17,Ibope,cor,outras,Aécio Neves,PSDB,8,1
+2014-03-17,Ibope,sexo,masculino,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,idade,35_a_44,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,idade,45_a_54,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,regiao,sul,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,renda,1_a_2,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,renda,ate_1,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,cor,preta_parda,Eduardo Campos,PSB,7,1
+2014-03-17,Ibope,sexo,feminino,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,idade,16_a_24,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,idade,55_ou_mais,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,escolaridade,medio,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,regiao,nordeste,Aécio Neves,PSDB,6,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,cor,outras,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,total,total,Eduardo Campos ,PSB,6,1
+2014-03-17,Ibope,idade,25_a_34,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,renda,2_a_5,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,cor,branca,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Eduardo Campos,PSB,4,1
+2014-03-17,Ibope,idade,16_a_24,Pastor Everaldo,PSC,4,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,4,1
+2014-03-17,Ibope,renda,ate_1,Aécio Neves,PSDB,4,1
+2014-03-17,Ibope,renda,ate_1,Pastor Everaldo,PSC,4,1
+2014-03-17,Ibope,sexo,feminino,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,idade,25_a_34,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,idade,35_a_44,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,escolaridade,medio,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,regiao,sudeste,Eduardo Campos,PSB,3,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,regiao,nordeste,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,regiao,sul,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,renda,mais_de_5,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,renda,1_a_2,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,cor,branca,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,regiao,norte_e_centro_oeste,Outros,Outros,3,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Outros,Outros,3,1
+2014-03-17,Ibope,renda,1_a_2,Outros,Outros,3,1
+2014-03-17,Ibope,total,total,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,sexo,masculino,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,idade,45_a_54,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,escolaridade,superior,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,regiao,sudeste,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,cor,preta_parda,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,cor,outras,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,sexo,masculino,Outros,Outros,2,1
+2014-03-17,Ibope,idade,16_a_24,Outros,Outros,2,1
+2014-03-17,Ibope,idade,35_a_44,Outros,Outros,2,1
+2014-03-17,Ibope,idade,45_a_54,Outros,Outros,2,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Outros,Outros,2,1
+2014-03-17,Ibope,regiao,sudeste,Outros,Outros,2,1
+2014-03-17,Ibope,cor,outras,Outros,Outros,2,1
+2014-03-17,Ibope,renda,2_a_5,Pastor Everaldo,PSC,1,1
+2014-03-17,Ibope,escolaridade,superior,Outros,Outros,1,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Outros,Outros,1,1
+2014-03-17,Ibope,renda,2_a_5,Outros,Outros,1,1
+2014-03-17,Ibope,renda,ate_1,Outros,Outros,1,1
+2014-03-17,Ibope,cor,preta_parda,Outros,Outros,1,1
+2014-03-17,Ibope,total,total,Outros,Outros,1,1
+2014-03-17,Ibope,sexo,feminino,Outros,Outros,0,1
+2014-03-17,Ibope,idade,25_a_34,Outros,Outros,0,1
+2014-03-17,Ibope,idade,55_ou_mais,Outros,Outros,0,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Outros,Outros,0,1
+2014-03-17,Ibope,escolaridade,medio,Outros,Outros,0,1
+2014-03-17,Ibope,regiao,nordeste,Outros,Outros,0,1
+2014-03-17,Ibope,regiao,sul,Outros,Outros,0,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Outros,Outros,0,1
+2014-03-17,Ibope,renda,mais_de_5,Outros,Outros,0,1
+2014-03-17,Ibope,cor,branca,Outros,Outros,0,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Dilma Rousseff,PT,78,1
+2014-04-14,Ibope,renda,ate_1,Dilma Rousseff,PT,52,1
+2014-04-14,Ibope,regiao,nordeste,Dilma Rousseff,PT,51,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Nulo,nulo,48,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Dilma Rousseff,PT,46,1
+2014-04-14,Ibope,cor,outras,Dilma Rousseff,PT,44,1
+2014-04-14,Ibope,renda,1_a_2,Dilma Rousseff,PT,42,1
+2014-04-14,Ibope,cor,preta_parda,Dilma Rousseff,PT,42,1
+2014-04-14,Ibope,religiao,catolica,Dilma Rousseff,PT,40,1
+2014-04-14,Ibope,idade,55_ou_mais,Dilma Rousseff,PT,39,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Dilma Rousseff,PT,39,1
+2014-04-14,Ibope,idade,45_a_54,Dilma Rousseff,PT,38,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Dilma Rousseff,PT,38,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Dilma Rousseff,PT,38,1
+2014-04-14,Ibope,sexo,masculino,Dilma Rousseff,PT,37,1
+2014-04-14,Ibope,sexo,feminino,Dilma Rousseff,PT,37,1
+2014-04-14,Ibope,idade,16_a_24,Dilma Rousseff,PT,37,1
+2014-04-14,Ibope,idade,35_a_44,Dilma Rousseff,PT,37,1
+2014-04-14,Ibope,religiao,outras,Nulo,nulo,37,1
+2014-04-14,Ibope,total,total,Dilma Rousseff,PT,37,1
+2014-04-14,Ibope,escolaridade,medio,Dilma Rousseff,PT,36,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Dilma Rousseff,PT,36,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Dilma Rousseff,PT,36,1
+2014-04-14,Ibope,renda,2_a_5,Dilma Rousseff,PT,35,1
+2014-04-14,Ibope,religiao,evangelica,Dilma Rousseff,PT,35,1
+2014-04-14,Ibope,idade,25_a_34,Dilma Rousseff,PT,34,1
+2014-04-14,Ibope,regiao,sul,Nulo,nulo,32,1
+2014-04-14,Ibope,regiao,sudeste,Dilma Rousseff,PT,31,1
+2014-04-14,Ibope,regiao,sudeste,Nulo,nulo,30,1
+2014-04-14,Ibope,cor,branca,Dilma Rousseff,PT,30,1
+2014-04-14,Ibope,idade,25_a_34,Nulo,nulo,29,1
+2014-04-14,Ibope,escolaridade,superior,Nulo,nulo,29,1
+2014-04-14,Ibope,regiao,sul,Dilma Rousseff,PT,29,1
+2014-04-14,Ibope,cor,branca,Nulo,nulo,29,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Nulo,nulo,28,1
+2014-04-14,Ibope,sexo,feminino,Nulo,nulo,27,1
+2014-04-14,Ibope,escolaridade,medio,Nulo,nulo,27,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Nulo,nulo,27,1
+2014-04-14,Ibope,renda,mais_de_5,Nulo,nulo,27,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Dilma Rousseff,PT,27,1
+2014-04-14,Ibope,idade,45_a_54,Nulo,nulo,26,1
+2014-04-14,Ibope,renda,mais_de_5,Aécio Neves,PSDB,26,1
+2014-04-14,Ibope,renda,mais_de_5,Dilma Rousseff,PT,26,1
+2014-04-14,Ibope,renda,2_a_5,Nulo,nulo,26,1
+2014-04-14,Ibope,escolaridade,superior,Dilma Rousseff,PT,25,1
+2014-04-14,Ibope,idade,35_a_44,Nulo,nulo,24,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Nulo,nulo,24,1
+2014-04-14,Ibope,religiao,outras,Dilma Rousseff,PT,24,1
+2014-04-14,Ibope,religiao,evangelica,Nulo,nulo,24,1
+2014-04-14,Ibope,total,total,Nulo,NS,24,1
+2014-04-14,Ibope,idade,16_a_24,Nulo,nulo,23,1
+2014-04-14,Ibope,cor,outras,Aécio Neves,PSDB,23,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Nulo,nulo,23,1
+2014-04-14,Ibope,escolaridade,superior,Aécio Neves,PSDB,22,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Nulo,nulo,22,1
+2014-04-14,Ibope,cor,preta_parda,Nulo,nulo,22,1
+2014-04-14,Ibope,religiao,catolica,Nulo,nulo,22,1
+2014-04-14,Ibope,sexo,masculino,Nulo,nulo,21,1
+2014-04-14,Ibope,renda,1_a_2,Nulo,nulo,21,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Aécio Neves,PSDB,21,1
+2014-04-14,Ibope,idade,55_ou_mais,Nulo,nulo,20,1
+2014-04-14,Ibope,regiao,sudeste,Aécio Neves,PSDB,20,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Aécio Neves,PSDB,19,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Nulo,nulo,18,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Nulo,nulo,18,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Não sabe,NS,18,1
+2014-04-14,Ibope,sexo,masculino,Aécio Neves,PSDB,17,1
+2014-04-14,Ibope,idade,55_ou_mais,Aécio Neves,PSDB,17,1
+2014-04-14,Ibope,renda,2_a_5,Aécio Neves,PSDB,17,1
+2014-04-14,Ibope,cor,branca,Aécio Neves,PSDB,17,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Não sabe,NS,17,1
+2014-04-14,Ibope,idade,55_ou_mais,Não sabe,NS,16,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Não sabe,NS,16,1
+2014-04-14,Ibope,idade,25_a_34,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,idade,45_a_54,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,idade,35_a_44,Não sabe,NS,15,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,regiao,nordeste,Nulo,nulo,15,1
+2014-04-14,Ibope,religiao,catolica,Aécio Neves,PSDB,15,1
+2014-04-14,Ibope,religiao,evangelica,Não sabe,NS,15,1
+2014-04-14,Ibope,escolaridade,medio,Aécio Neves,PSDB,14,1
+2014-04-14,Ibope,sexo,feminino,Não sabe,NS,14,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Não sabe,NS,14,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Aécio Neves,PSDB,14,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Não sabe,NS,14,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Não sabe,NS,14,1
+2014-04-14,Ibope,renda,ate_1,Nulo,nulo,14,1
+2014-04-14,Ibope,cor,outras,Nulo,nulo,14,1
+2014-04-14,Ibope,renda,2_a_5,Não sabe,NS,14,1
+2014-04-14,Ibope,renda,1_a_2,Não sabe,NS,14,1
+2014-04-14,Ibope,renda,ate_1,Não sabe,NS,14,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Não sabe,NS,14,1
+2014-04-14,Ibope,total,total,Aecio Neves,PSDB,14,1
+2014-04-14,Ibope,idade,16_a_24,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,idade,35_a_44,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,escolaridade,superior,Não sabe,NS,13,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,religiao,evangelica,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,religiao,outras,Aécio Neves,PSDB,13,1
+2014-04-14,Ibope,cor,branca,Não sabe,NS,13,1
+2014-04-14,Ibope,cor,preta_parda,Não sabe,NS,13,1
+2014-04-14,Ibope,religiao,catolica,Não sabe,NS,13,1
+2014-04-14,Ibope,total,total,Não sabe,NS,13,1
+2014-04-14,Ibope,sexo,feminino,Aécio Neves,PSDB,12,1
+2014-04-14,Ibope,sexo,masculino,Não sabe,NS,12,1
+2014-04-14,Ibope,idade,16_a_24,Não sabe,NS,12,1
+2014-04-14,Ibope,idade,45_a_54,Não sabe,NS,12,1
+2014-04-14,Ibope,regiao,sul,Aécio Neves,PSDB,12,1
+2014-04-14,Ibope,regiao,nordeste,Não sabe,NS,12,1
+2014-04-14,Ibope,cor,preta_parda,Aécio Neves,PSDB,12,1
+2014-04-14,Ibope,religiao,outras,Não sabe,NS,12,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Aécio Neves,PSDB,11,1
+2014-04-14,Ibope,idade,25_a_34,Não sabe,NS,11,1
+2014-04-14,Ibope,escolaridade,medio,Não sabe,NS,11,1
+2014-04-14,Ibope,regiao,sudeste,Não sabe,NS,11,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Não sabe,NS,11,1
+2014-04-14,Ibope,cor,outras,Não sabe,NS,11,1
+2014-04-14,Ibope,regiao,nordeste,Eduardo Campos,PSB,10,1
+2014-04-14,Ibope,renda,1_a_2,Aécio Neves,PSDB,10,1
+2014-04-14,Ibope,renda,mais_de_5,Não sabe,NS,10,1
+2014-04-14,Ibope,regiao,nordeste,Aécio Neves,PSDB,8,1
+2014-04-14,Ibope,renda,ate_1,Eduardo Campos,PSB,8,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Eduardo Campos,PSB,8,1
+2014-04-14,Ibope,sexo,masculino,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,idade,35_a_44,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,escolaridade,superior,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,regiao,sul,Não sabe,NS,7,1
+2014-04-14,Ibope,renda,ate_1,Aécio Neves,PSDB,7,1
+2014-04-14,Ibope,religiao,outras,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Eduardo Campos,PSB,7,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Não sabe,NS,7,1
+2014-04-14,Ibope,idade,16_a_24,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,idade,25_a_34,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,renda,mais_de_5,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,renda,1_a_2,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,cor,preta_parda,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,religiao,evangelica,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,idade,16_a_24,Outros,Outros,6,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Outros,Outros,6,1
+2014-04-14,Ibope,total,total,Eduardo Campos ,PSB,6,1
+2014-04-14,Ibope,escolaridade,medio,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,cor,branca,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,religiao,catolica,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,cor,outras,Pastor Everaldo,PSC,5,1
+2014-04-14,Ibope,escolaridade,medio,Outros,Outros,5,1
+2014-04-14,Ibope,escolaridade,superior,Outros,Outros,5,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Outros,Outros,5,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Outros,Outros,5,1
+2014-04-14,Ibope,sexo,feminino,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,idade,45_a_54,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,idade,55_ou_mais,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,regiao,sudeste,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,regiao,sul,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,renda,2_a_5,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,religiao,evangelica,Pastor Everaldo,PSC,4,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Aécio Neves,PSDB,4,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Nulo,nulo,4,1
+2014-04-14,Ibope,sexo,masculino,Outros,Outros,4,1
+2014-04-14,Ibope,idade,35_a_44,Outros,Outros,4,1
+2014-04-14,Ibope,idade,45_a_54,Outros,Outros,4,1
+2014-04-14,Ibope,renda,mais_de_5,Outros,Outros,4,1
+2014-04-14,Ibope,renda,1_a_2,Outros,Outros,4,1
+2014-04-14,Ibope,cor,branca,Outros,Outros,4,1
+2014-04-14,Ibope,cor,outras,Outros,Outros,4,1
+2014-04-14,Ibope,idade,16_a_24,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,regiao,sul,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,cor,outras,Eduardo Campos,PSB,3,1
+2014-04-14,Ibope,renda,1_a_2,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,religiao,outras,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Dilma Rousseff,PT,3,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,regiao,sudeste,Outros,Outros,3,1
+2014-04-14,Ibope,religiao,catolica,Outros,Outros,3,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Outros,Outros,3,1
+2014-04-14,Ibope,sexo,masculino,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,sexo,feminino,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,idade,25_a_34,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,idade,35_a_44,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,escolaridade,medio,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,regiao,norte_e_centro_oeste,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,regiao,nordeste,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,regiao,sudeste,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,renda,2_a_5,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,renda,ate_1,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,cor,branca,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,cor,preta_parda,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Eduardo Campos,PSB,2,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,sexo,feminino,Outros,Outros,2,1
+2014-04-14,Ibope,idade,25_a_34,Outros,Outros,2,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Outros,Outros,2,1
+2014-04-14,Ibope,regiao,nordeste,Outros,Outros,2,1
+2014-04-14,Ibope,regiao,sul,Outros,Outros,2,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Outros,Outros,2,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Outros,Outros,2,1
+2014-04-14,Ibope,renda,ate_1,Outros,Outros,2,1
+2014-04-14,Ibope,cor,preta_parda,Outros,Outros,2,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Outros,Outros,2,1
+2014-04-14,Ibope,total,total,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,total,total,Outros,Outros,2,1
+2014-04-14,Ibope,idade,45_a_54,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,escolaridade,superior,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,renda,mais_de_5,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,religiao,catolica,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,idade,55_ou_mais,Outros,Outros,1,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Outros,Outros,1,1
+2014-04-14,Ibope,renda,2_a_5,Outros,Outros,1,1
+2014-04-14,Ibope,cor,outras,Outros,Outros,0,1
+2014-04-14,Ibope,religiao,evangelica,Outros,Outros,0,1
+2014-05-19,Ibope,cor,preta_parda,Não sabe,NS,9,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Dilma Rousseff,PT,82,1
+2014-05-19,Ibope,renda,ate_1,Dilma Rousseff,PT,56,1
+2014-05-19,Ibope,escolaridade,fundamental_1,Dilma Rousseff,PT,51,1
+2014-05-19,Ibope,regiao,nordeste,Dilma Rousseff,PT,51,1
+2014-05-19,Ibope,idade,55_ou_mais,Dilma Rousseff,PT,45,1
+2014-05-19,Ibope,cor,preta_parda,Dilma Rousseff,PT,45,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Dilma Rousseff,PT,43,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Dilma Rousseff,PT,43,1
+2014-05-19,Ibope,renda,1_a_2,Dilma Rousseff,PT,43,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Dilma Rousseff,PT,42,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Dilma Rousseff,PT,42,1
+2014-05-19,Ibope,religiao,catolica,Dilma Rousseff,PT,42,1
+2014-05-19,Ibope,sexo,masculino,Dilma Rousseff,PT,41,1
+2014-05-19,Ibope,cor,outras,Dilma Rousseff,PT,41,1
+2014-05-19,Ibope,sexo,feminino,Dilma Rousseff,PT,40,1
+2014-05-19,Ibope,idade,25_a_34,Dilma Rousseff,PT,40,1
+2014-05-19,Ibope,idade,35_a_44,Dilma Rousseff,PT,40,1
+2014-05-19,Ibope,total,total,Dilma Rousseff,PT,40,1
+2014-05-19,Ibope,idade,16_a_24,Dilma Rousseff,PT,39,1
+2014-05-19,Ibope,regiao,sul,Dilma Rousseff,PT,39,1
+2014-05-19,Ibope,religiao,evangelica,Dilma Rousseff,PT,39,1
+2014-05-19,Ibope,idade,45_a_54,Dilma Rousseff,PT,38,1
+2014-05-19,Ibope,renda,mais_de_5,Dilma Rousseff,PT,38,1
+2014-05-19,Ibope,escolaridade,medio,Dilma Rousseff,PT,36,1
+2014-05-19,Ibope,religiao,outras,Dilma Rousseff,PT,36,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Dilma Rousseff,PT,35,1
+2014-05-19,Ibope,renda,2_a_5,Dilma Rousseff,PT,35,1
+2014-05-19,Ibope,cor,branca,Dilma Rousseff,PT,35,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Aécio Neves,PSDB,35,1
+2014-05-19,Ibope,regiao,sudeste,Dilma Rousseff,PT,33,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Dilma Rousseff,PT,33,1
+2014-05-19,Ibope,escolaridade,superior,Dilma Rousseff,PT,32,1
+2014-05-19,Ibope,cor,branca,Pastor Everaldo,PSC,32,1
+2014-05-19,Ibope,escolaridade,superior,Aécio Neves,PSDB,28,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Nulo,nulo,28,1
+2014-05-19,Ibope,renda,mais_de_5,Aécio Neves,PSDB,25,1
+2014-05-19,Ibope,regiao,sudeste,Aécio Neves,PSDB,24,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Aécio Neves,PSDB,23,1
+2014-05-19,Ibope,idade,55_ou_mais,Aécio Neves,PSDB,22,1
+2014-05-19,Ibope,regiao,sul,Nulo,nulo,22,1
+2014-05-19,Ibope,renda,2_a_5,Aécio Neves,PSDB,22,1
+2014-05-19,Ibope,cor,branca,Aécio Neves,PSDB,22,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Aécio Neves,PSDB,21,1
+2014-05-19,Ibope,sexo,feminino,Aécio Neves,PSDB,20,1
+2014-05-19,Ibope,idade,25_a_34,Aécio Neves,PSDB,20,1
+2014-05-19,Ibope,idade,45_a_54,Aécio Neves,PSDB,20,1
+2014-05-19,Ibope,religiao,catolica,Aécio Neves,PSDB,20,1
+2014-05-19,Ibope,religiao,outras,Nulo,nulo,20,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Aécio Neves,PSDB,20,1
+2014-05-19,Ibope,total,total,Aecio Neves,PSDB,20,1
+2014-05-19,Ibope,sexo,masculino,Aécio Neves,PSDB,19,1
+2014-05-19,Ibope,idade,16_a_24,Aécio Neves,PSDB,19,1
+2014-05-19,Ibope,escolaridade,medio,Aécio Neves,PSDB,19,1
+2014-05-19,Ibope,regiao,sudeste,Nulo,nulo,19,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Nulo,nulo,19,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Aécio Neves,PSDB,18,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Aécio Neves,PSDB,18,1
+2014-05-19,Ibope,cor,preta_parda,Aécio Neves,PSDB,18,1
+2014-05-19,Ibope,religiao,evangelica,Aécio Neves,PSDB,18,1
+2014-05-19,Ibope,religiao,outras,Aécio Neves,PSDB,18,1
+2014-05-19,Ibope,cor,branca,Nulo,nulo,18,1
+2014-05-19,Ibope,idade,45_a_54,Nulo,nulo,17,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Nulo,nulo,17,1
+2014-05-19,Ibope,regiao,sul,Aécio Neves,PSDB,17,1
+2014-05-19,Ibope,renda,1_a_2,Aécio Neves,PSDB,17,1
+2014-05-19,Ibope,idade,35_a_44,Aécio Neves,PSDB,16,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Aécio Neves,PSDB,16,1
+2014-05-19,Ibope,cor,outras,Aécio Neves,PSDB,16,1
+2014-05-19,Ibope,renda,2_a_5,Nulo,nulo,16,1
+2014-05-19,Ibope,renda,1_a_2,Nulo,nulo,16,1
+2014-05-19,Ibope,escolaridade,fundamental_1,Aécio Neves,PSDB,15,1
+2014-05-19,Ibope,escolaridade,superior,Eduardo Campos,PSB,15,1
+2014-05-19,Ibope,sexo,feminino,Nulo,nulo,15,1
+2014-05-19,Ibope,idade,35_a_44,Nulo,nulo,15,1
+2014-05-19,Ibope,escolaridade,medio,Nulo,nulo,15,1
+2014-05-19,Ibope,escolaridade,superior,Nulo,nulo,15,1
+2014-05-19,Ibope,regiao,nordeste,Eduardo Campos,PSB,15,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Eduardo Campos,PSB,15,1
+2014-05-19,Ibope,sexo,masculino,Nulo,nulo,14,1
+2014-05-19,Ibope,idade,16_a_24,Nulo,nulo,14,1
+2014-05-19,Ibope,idade,25_a_34,Nulo,nulo,14,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Nulo,nulo,14,1
+2014-05-19,Ibope,religiao,catolica,Nulo,nulo,14,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Eduardo Campos,PSB,14,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Não sabe,NS,14,1
+2014-05-19,Ibope,total,total,Nulo,NS,14,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Eduardo Campos,PSB,13,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Eduardo Campos,PSB,13,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Nulo,nulo,13,1
+2014-05-19,Ibope,renda,mais_de_5,Nulo,nulo,13,1
+2014-05-19,Ibope,renda,2_a_5,Não sabe,NS,13,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Nulo,nulo,13,1
+2014-05-19,Ibope,idade,16_a_24,Eduardo Campos,PSB,12,1
+2014-05-19,Ibope,idade,25_a_34,Eduardo Campos,PSB,12,1
+2014-05-19,Ibope,idade,35_a_44,Eduardo Campos,PSB,12,1
+2014-05-19,Ibope,escolaridade,medio,Eduardo Campos,PSB,12,1
+2014-05-19,Ibope,idade,55_ou_mais,Nulo,nulo,12,1
+2014-05-19,Ibope,escolaridade,fundamental_1,Nulo,nulo,12,1
+2014-05-19,Ibope,escolaridade,fundamental_1,Não sabe,NS,12,1
+2014-05-19,Ibope,renda,mais_de_5,Eduardo Campos,PSB,12,1
+2014-05-19,Ibope,religiao,evangelica,Eduardo Campos,PSB,12,1
+2014-05-19,Ibope,religiao,outras,Eduardo Campos,PSB,12,1
+2014-05-19,Ibope,cor,preta_parda,Nulo,nulo,12,1
+2014-05-19,Ibope,religiao,evangelica,Nulo,nulo,12,1
+2014-05-19,Ibope,sexo,masculino,Eduardo Campos,PSB,11,1
+2014-05-19,Ibope,idade,45_a_54,Eduardo Campos,PSB,11,1
+2014-05-19,Ibope,idade,55_ou_mais,Não sabe,NS,11,1
+2014-05-19,Ibope,escolaridade,medio,Não sabe,NS,11,1
+2014-05-19,Ibope,regiao,nordeste,Aécio Neves,PSDB,11,1
+2014-05-19,Ibope,cor,outras,Nulo,nulo,11,1
+2014-05-19,Ibope,cor,branca,Não sabe,NS,11,1
+2014-05-19,Ibope,religiao,outras,Não sabe,NS,11,1
+2014-05-19,Ibope,cor,branca,Outros,Outros,11,1
+2014-05-19,Ibope,total,total,Eduardo Campos ,PSB,11,1
+2014-05-19,Ibope,sexo,feminino,Eduardo Campos,PSB,10,1
+2014-05-19,Ibope,sexo,feminino,Não sabe,NS,10,1
+2014-05-19,Ibope,idade,16_a_24,Não sabe,NS,10,1
+2014-05-19,Ibope,idade,35_a_44,Não sabe,NS,10,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Eduardo Campos,PSB,10,1
+2014-05-19,Ibope,regiao,nordeste,Não sabe,NS,10,1
+2014-05-19,Ibope,regiao,sudeste,Não sabe,NS,10,1
+2014-05-19,Ibope,regiao,sul,Não sabe,NS,10,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Não sabe,NS,10,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Não sabe,NS,10,1
+2014-05-19,Ibope,cor,branca,Eduardo Campos,PSB,10,1
+2014-05-19,Ibope,religiao,catolica,Eduardo Campos,PSB,10,1
+2014-05-19,Ibope,religiao,catolica,Não sabe,NS,10,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Não sabe,NS,10,1
+2014-05-19,Ibope,sexo,feminino,Outros,Outros,10,1
+2014-05-19,Ibope,total,total,Não sabe,NS,10,1
+2014-05-19,Ibope,sexo,masculino,Não sabe,NS,9,1
+2014-05-19,Ibope,idade,25_a_34,Não sabe,NS,9,1
+2014-05-19,Ibope,idade,45_a_54,Não sabe,NS,9,1
+2014-05-19,Ibope,regiao,sul,Eduardo Campos,PSB,9,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Eduardo Campos,PSB,9,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Não sabe,NS,9,1
+2014-05-19,Ibope,renda,ate_1,Aécio Neves,PSDB,9,1
+2014-05-19,Ibope,renda,2_a_5,Eduardo Campos,PSB,9,1
+2014-05-19,Ibope,renda,1_a_2,Eduardo Campos,PSB,9,1
+2014-05-19,Ibope,renda,1_a_2,Não sabe,NS,9,1
+2014-05-19,Ibope,renda,ate_1,Não sabe,NS,9,1
+2014-05-19,Ibope,religiao,evangelica,Não sabe,NS,9,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Eduardo Campos,PSB,8,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Não sabe,NS,8,1
+2014-05-19,Ibope,escolaridade,superior,Não sabe,NS,8,1
+2014-05-19,Ibope,regiao,sudeste,Eduardo Campos,PSB,8,1
+2014-05-19,Ibope,regiao,nordeste,Nulo,nulo,8,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Não sabe,NS,8,1
+2014-05-19,Ibope,renda,mais_de_5,Não sabe,NS,8,1
+2014-05-19,Ibope,idade,55_ou_mais,Eduardo Campos,PSB,7,1
+2014-05-19,Ibope,escolaridade,fundamental_1,Eduardo Campos,PSB,7,1
+2014-05-19,Ibope,renda,ate_1,Nulo,nulo,7,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,6,1
+2014-05-19,Ibope,religiao,evangelica,Pastor Everaldo,PSC,6,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Pastor Everaldo,PSC,5,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Nulo,nulo,5,1
+2014-05-19,Ibope,cor,preta_parda,Pastor Everaldo,PSC,5,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Aécio Neves,PSDB,5,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Dilma Rousseff,PT,5,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Não sabe,NS,5,1
+2014-05-19,Ibope,renda,ate_1,Eduardo Campos,PSB,4,1
+2014-05-19,Ibope,cor,outras,Eduardo Campos,PSB,4,1
+2014-05-19,Ibope,cor,outras,Não sabe,NS,4,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Eduardo Campos,PSB,4,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Pastor Everaldo,PSC,4,1
+2014-05-19,Ibope,idade,16_a_24,Outros,Outros,4,1
+2014-05-19,Ibope,escolaridade,medio,Outros,Outros,4,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Outros,Outros,4,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Outros,Outros,4,1
+2014-05-19,Ibope,sexo,masculino,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,sexo,feminino,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,idade,16_a_24,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,idade,25_a_34,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,idade,35_a_44,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,escolaridade,medio,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,regiao,sudeste,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,renda,2_a_5,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,renda,1_a_2,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,idade,35_a_44,Outros,Outros,3,1
+2014-05-19,Ibope,idade,45_a_54,Outros,Outros,3,1
+2014-05-19,Ibope,escolaridade,fundamental_2,Outros,Outros,3,1
+2014-05-19,Ibope,regiao,nordeste,Outros,Outros,3,1
+2014-05-19,Ibope,regiao,sudeste,Outros,Outros,3,1
+2014-05-19,Ibope,renda,1_a_2,Outros,Outros,3,1
+2014-05-19,Ibope,religiao,evangelica,Outros,Outros,3,1
+2014-05-19,Ibope,total,total,Pastor Everaldo,PSC,3,1
+2014-05-19,Ibope,idade,45_a_54,Pastor Everaldo,PSC,2,1
+2014-05-19,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
+2014-05-19,Ibope,regiao,sul,Pastor Everaldo,PSC,2,1
+2014-05-19,Ibope,condicao_do_municipio,capital,Pastor Everaldo,PSC,2,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Pastor Everaldo,PSC,2,1
+2014-05-19,Ibope,renda,ate_1,Pastor Everaldo,PSC,2,1
+2014-05-19,Ibope,religiao,outras,Pastor Everaldo,PSC,2,1
+2014-05-19,Ibope,avaliacao_do_governo,regular,Pastor Everaldo,PSC,2,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Nulo,nulo,2,1
+2014-05-19,Ibope,sexo,masculino,Outros,Outros,2,1
+2014-05-19,Ibope,escolaridade,fundamental_1,Outros,Outros,2,1
+2014-05-19,Ibope,regiao,norte_e_centro_oeste,Outros,Outros,2,1
+2014-05-19,Ibope,regiao,sul,Outros,Outros,2,1
+2014-05-19,Ibope,condicao_do_municipio,periferia,Outros,Outros,2,1
+2014-05-19,Ibope,condicao_do_municipio,interior,Outros,Outros,2,1
+2014-05-19,Ibope,renda,mais_de_5,Outros,Outros,2,1
+2014-05-19,Ibope,renda,ate_1,Outros,Outros,2,1
+2014-05-19,Ibope,avaliacao_do_governo,ruim_pessimo,Outros,Outros,2,1
+2014-05-19,Ibope,total,total,Outros,Outros,2,1
+2014-05-19,Ibope,escolaridade,superior,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,regiao,nordeste,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,cor,preta_parda,Eduardo Campos,PSB,1,1
+2014-05-19,Ibope,renda,mais_de_5,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,cor,outras,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,religiao,catolica,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Pastor Everaldo,PSC,1,1
+2014-05-19,Ibope,idade,25_a_34,Outros,Outros,1,1
+2014-05-19,Ibope,escolaridade,superior,Outros,Outros,1,1
+2014-05-19,Ibope,renda,2_a_5,Outros,Outros,1,1
+2014-05-19,Ibope,cor,preta_parda,Outros,Outros,1,1
+2014-05-19,Ibope,cor,outras,Outros,Outros,1,1
+2014-05-19,Ibope,religiao,catolica,Outros,Outros,1,1
+2014-05-19,Ibope,idade,55_ou_mais,Outros,Outros,0,1
+2014-05-19,Ibope,cor,outras,Outros,Outros,0,1
+2014-05-19,Ibope,avaliacao_do_governo,otimo_bom,Outros,Outros,0,1

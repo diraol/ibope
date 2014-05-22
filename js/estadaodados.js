@@ -13,7 +13,7 @@ function carrega () {
 function cria_grafico() {
     var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", "total"), "variavel", "total");
     var myChart = new dimple.chart(svg,data);
-    myChart.setBounds(40,5,750,290);
+    myChart.setBounds(40,20,750,390);
     var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%Y-%m-%d");
     x.addOrderRule("");
     x.title = "";
@@ -23,7 +23,7 @@ function cria_grafico() {
     myChart.addMeasureAxis("y","intencao");
     myChart.addSeries("candidato",dimple.plot.line);
     myChart.addSeries("candidato", dimple.plot.bubble);
-    myChart.addLegend(720, 2, 200, 220, "right");
+    myChart.addLegend(720, 2, 195, 220, "right");
     myChart.assignColor("Aécio Neves","#1C4587");
     myChart.assignColor("Dilma Rousseff","#CC0000");
     myChart.assignColor("Eduardo Campos","#E69138");
@@ -47,6 +47,6 @@ function atualiza_recorte(recorte, variavel, texto){
 }
 
 $(document).ready(function(){
-    window.svg = dimple.newSvg("#grafico", 900, 390);
+    window.svg = dimple.newSvg("#grafico", 900, 490);
     carrega();
 });

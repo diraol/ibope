@@ -26,7 +26,7 @@ function cria_grafico() {
     myChart.addSeries("candidato",dimple.plot.line);
     myChart.addSeries("candidato", dimple.plot.bubble);
     myChart.addLegend(360, 2, 500, 20, "right");
-    myChart.assignColor("Aecio Neves","#1C4587");
+    myChart.assignColor("Aécio Neves","#1C4587");
     myChart.assignColor("Dilma Rousseff","#CC0000");
     myChart.assignColor("Eduardo Campos","#E69138");
     myChart.assignColor("Pastor Everaldo","#6AA84F");

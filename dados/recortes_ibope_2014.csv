@@ -1,25 +1,25 @@
 data,instituto,recorte,variavel,candidato,partido,intencao,Turno
-2014-03-17,Ibope,sexo,masculino,Aecio neves,PSDB,16,1
-2014-03-17,Ibope,sexo,feminino,Aecio neves,PSDB,11,1
-2014-03-17,Ibope,idade,16_a_24,Aecio neves,PSDB,12,1
-2014-03-17,Ibope,idade,25_a_34,Aecio neves,PSDB,14,1
-2014-03-17,Ibope,idade,35_a_44,Aecio neves,PSDB,14,1
-2014-03-17,Ibope,idade,45_a_54,Aecio neves,PSDB,16,1
-2014-03-17,Ibope,idade,55+,Aecio neves,PSDB,13,1
-2014-03-17,Ibope,escolaridade,fundamental_1,Aecio neves,PSDB,10,1
-2014-03-17,Ibope,escolaridade,fundamental_2,Aecio neves,PSDB,11,1
-2014-03-17,Ibope,escolaridade,medio_,Aecio neves,PSDB,14,1
-2014-03-17,Ibope,escolaridade,superior,Aecio neves,PSDB,21,1
+2014-03-17,Ibope,sexo,masculino,Aecio Neves,PSDB,16,1
+2014-03-17,Ibope,sexo,feminino,Aecio Neves,PSDB,11,1
+2014-03-17,Ibope,idade,16_a_24,Aecio Neves,PSDB,12,1
+2014-03-17,Ibope,idade,25_a_34,Aecio Neves,PSDB,14,1
+2014-03-17,Ibope,idade,35_a_44,Aecio Neves,PSDB,14,1
+2014-03-17,Ibope,idade,45_a_54,Aecio Neves,PSDB,16,1
+2014-03-17,Ibope,idade,55_ou_mais,Aecio Neves,PSDB,13,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Aecio Neves,PSDB,10,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Aecio Neves,PSDB,11,1
+2014-03-17,Ibope,escolaridade,medio,Aecio Neves,PSDB,14,1
+2014-03-17,Ibope,escolaridade,superior,Aecio Neves,PSDB,21,1
 2014-03-17,Ibope,sexo,masculino,Dilma Rousseff,PT,41,1
 2014-03-17,Ibope,sexo,feminino,Dilma Rousseff,PT,40,1
 2014-03-17,Ibope,idade,16_a_24,Dilma Rousseff,PT,41,1
 2014-03-17,Ibope,idade,25_a_34,Dilma Rousseff,PT,42,1
 2014-03-17,Ibope,idade,35_a_44,Dilma Rousseff,PT,40,1
 2014-03-17,Ibope,idade,45_a_54,Dilma Rousseff,PT,37,1
-2014-03-17,Ibope,idade,55+,Dilma Rousseff,PT,41,1
+2014-03-17,Ibope,idade,55_ou_mais,Dilma Rousseff,PT,41,1
 2014-03-17,Ibope,escolaridade,fundamental_1,Dilma Rousseff,PT,47,1
 2014-03-17,Ibope,escolaridade,fundamental_2,Dilma Rousseff,PT,42,1
-2014-03-17,Ibope,escolaridade,medio_,Dilma Rousseff,PT,40,1
+2014-03-17,Ibope,escolaridade,medio,Dilma Rousseff,PT,40,1
 2014-03-17,Ibope,escolaridade,superior,Dilma Rousseff,PT,27,1
 2014-03-17,Ibope,sexo,masculino,Eduardo Campos,PSB,7,1
 2014-03-17,Ibope,sexo,feminino,Eduardo Campos,PSB,6,1
@@ -27,10 +27,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,idade,25_a_34,Eduardo Campos,PSB,5,1
 2014-03-17,Ibope,idade,35_a_44,Eduardo Campos,PSB,7,1
 2014-03-17,Ibope,idade,45_a_54,Eduardo Campos,PSB,7,1
-2014-03-17,Ibope,idade,55+,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,idade,55_ou_mais,Eduardo Campos,PSB,6,1
 2014-03-17,Ibope,escolaridade,fundamental_1,Eduardo Campos,PSB,4,1
 2014-03-17,Ibope,escolaridade,fundamental_2,Eduardo Campos,PSB,7,1
-2014-03-17,Ibope,escolaridade,medio_,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,escolaridade,medio,Eduardo Campos,PSB,6,1
 2014-03-17,Ibope,escolaridade,superior,Eduardo Campos,PSB,10,1
 2014-03-17,Ibope,sexo,masculino,Eymael,PSDC,1,1
 2014-03-17,Ibope,sexo,feminino,Eymael,PSDC,0,1
@@ -38,10 +38,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,idade,25_a_34,Eymael,PSDC,0,1
 2014-03-17,Ibope,idade,35_a_44,Eymael,PSDC,1,1
 2014-03-17,Ibope,idade,45_a_54,Eymael,PSDC,1,1
-2014-03-17,Ibope,idade,55+,Eymael,PSDC,0,1
+2014-03-17,Ibope,idade,55_ou_mais,Eymael,PSDC,0,1
 2014-03-17,Ibope,escolaridade,fundamental_1,Eymael,PSDC,0,1
 2014-03-17,Ibope,escolaridade,fundamental_2,Eymael,PSDC,0,1
-2014-03-17,Ibope,escolaridade,medio_,Eymael,PSDC,0,1
+2014-03-17,Ibope,escolaridade,medio,Eymael,PSDC,0,1
 2014-03-17,Ibope,escolaridade,superior,Eymael,PSDC,0,1
 2014-03-17,Ibope,sexo,masculino,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,sexo,feminino,Levy Fidelix,PRTB,0,1
@@ -49,10 +49,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,idade,25_a_34,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,idade,35_a_44,Levy Fidelix,PRTB,1,1
 2014-03-17,Ibope,idade,45_a_54,Levy Fidelix,PRTB,0,1
-2014-03-17,Ibope,idade,55+,Levy Fidelix,PRTB,0,1
+2014-03-17,Ibope,idade,55_ou_mais,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,escolaridade,fundamental_1,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,escolaridade,fundamental_2,Levy Fidelix,PRTB,0,1
-2014-03-17,Ibope,escolaridade,medio_,Levy Fidelix,PRTB,0,1
+2014-03-17,Ibope,escolaridade,medio,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,escolaridade,superior,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,sexo,masculino,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,sexo,feminino,Mauro Iasi,PCB,0,1
@@ -60,10 +60,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,idade,25_a_34,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,idade,35_a_44,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,idade,45_a_54,Mauro Iasi,PCB,0,1
-2014-03-17,Ibope,idade,55+,Mauro Iasi,PCB,0,1
+2014-03-17,Ibope,idade,55_ou_mais,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,escolaridade,fundamental_1,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,escolaridade,fundamental_2,Mauro Iasi,PCB,1,1
-2014-03-17,Ibope,escolaridade,medio_,Mauro Iasi,PCB,0,1
+2014-03-17,Ibope,escolaridade,medio,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,escolaridade,superior,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,sexo,masculino,Pastor Everaldo,PSC,2,1
 2014-03-17,Ibope,sexo,feminino,Pastor Everaldo,PSC,3,1
@@ -71,10 +71,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,idade,25_a_34,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,idade,35_a_44,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,idade,45_a_54,Pastor Everaldo,PSC,2,1
-2014-03-17,Ibope,idade,55+,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
 2014-03-17,Ibope,escolaridade,fundamental_1,Pastor Everaldo,PSC,2,1
 2014-03-17,Ibope,escolaridade,fundamental_2,Pastor Everaldo,PSC,3,1
-2014-03-17,Ibope,escolaridade,medio_,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,escolaridade,medio,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,escolaridade,superior,Pastor Everaldo,PSC,2,1
 2014-03-17,Ibope,sexo,masculino,Randolfe Rodrigues,PSOL,1,1
 2014-03-17,Ibope,sexo,feminino,Randolfe Rodrigues,PSOL,0,1
@@ -82,194 +82,194 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-03-17,Ibope,idade,25_a_34,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,idade,35_a_44,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,idade,45_a_54,Randolfe Rodrigues,PSOL,1,1
-2014-03-17,Ibope,idade,55+,Randolfe Rodrigues,PSOL,0,1
+2014-03-17,Ibope,idade,55_ou_mais,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,escolaridade,fundamental_1,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,escolaridade,fundamental_2,Randolfe Rodrigues,PSOL,1,1
-2014-03-17,Ibope,escolaridade,medio_,Randolfe Rodrigues,PSOL,0,1
+2014-03-17,Ibope,escolaridade,medio,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,escolaridade,superior,Randolfe Rodrigues,PSOL,1,1
-2014-03-17,Ibope,sexo,masculino,nulo,nulo,23,1
-2014-03-17,Ibope,sexo,feminino,nulo,nulo,24,1
-2014-03-17,Ibope,idade,16_a_24,nulo,nulo,19,1
-2014-03-17,Ibope,idade,25_a_34,nulo,nulo,25,1
-2014-03-17,Ibope,idade,35_a_44,nulo,nulo,24,1
-2014-03-17,Ibope,idade,45_a_54,nulo,nulo,27,1
-2014-03-17,Ibope,idade,55+,nulo,nulo,22,1
-2014-03-17,Ibope,escolaridade,fundamental_1,nulo,nulo,19,1
-2014-03-17,Ibope,escolaridade,fundamental_2,nulo,nulo,24,1
-2014-03-17,Ibope,escolaridade,medio_,nulo,nulo,26,1
-2014-03-17,Ibope,escolaridade,superior,nulo,nulo,27,1
-2014-03-17,Ibope,sexo,masculino,NS,NS,9,1
-2014-03-17,Ibope,sexo,feminino,NS,NS,15,1
-2014-03-17,Ibope,idade,16_a_24,NS,NS,15,1
-2014-03-17,Ibope,idade,25_a_34,NS,NS,10,1
-2014-03-17,Ibope,idade,35_a_44,NS,NS,11,1
-2014-03-17,Ibope,idade,45_a_54,NS,NS,9,1
-2014-03-17,Ibope,idade,55+,NS,NS,16,1
-2014-03-17,Ibope,escolaridade,fundamental_1,NS,NS,17,1
-2014-03-17,Ibope,escolaridade,fundamental_2,NS,NS,10,1
-2014-03-17,Ibope,escolaridade,medio_,NS,NS,10,1
-2014-03-17,Ibope,escolaridade,superior,NS,NS,12,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,Aecio neves,PSDB,13,1
-2014-03-17,Ibope,regiao,nordeste,Aecio neves,PSDB,6,1
-2014-03-17,Ibope,regiao,sudeste,Aecio neves,PSDB,18,1
-2014-03-17,Ibope,regiao,sul,Aecio neves,PSDB,16,1
-2014-03-17,Ibope,condicao_do_municipio,capital,Aecio neves,PSDB,13,1
-2014-03-17,Ibope,condicao_do_municipio,periferia,Aecio neves,PSDB,13,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,Aecio neves,PSDB,14,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,Dilma Rousseff,PT,42,1
+2014-03-17,Ibope,sexo,masculino,Nulo,nulo,23,1
+2014-03-17,Ibope,sexo,feminino,Nulo,nulo,24,1
+2014-03-17,Ibope,idade,16_a_24,Nulo,nulo,19,1
+2014-03-17,Ibope,idade,25_a_34,Nulo,nulo,25,1
+2014-03-17,Ibope,idade,35_a_44,Nulo,nulo,24,1
+2014-03-17,Ibope,idade,45_a_54,Nulo,nulo,27,1
+2014-03-17,Ibope,idade,55_ou_mais,Nulo,nulo,22,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Nulo,nulo,19,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Nulo,nulo,24,1
+2014-03-17,Ibope,escolaridade,medio,Nulo,nulo,26,1
+2014-03-17,Ibope,escolaridade,superior,Nulo,nulo,27,1
+2014-03-17,Ibope,sexo,masculino,Não Sabe,NS,9,1
+2014-03-17,Ibope,sexo,feminino,Não Sabe,NS,15,1
+2014-03-17,Ibope,idade,16_a_24,Não Sabe,NS,15,1
+2014-03-17,Ibope,idade,25_a_34,Não Sabe,NS,10,1
+2014-03-17,Ibope,idade,35_a_44,Não Sabe,NS,11,1
+2014-03-17,Ibope,idade,45_a_54,Não Sabe,NS,9,1
+2014-03-17,Ibope,idade,55_ou_mais,Não Sabe,NS,16,1
+2014-03-17,Ibope,escolaridade,fundamental_1,Não Sabe,NS,17,1
+2014-03-17,Ibope,escolaridade,fundamental_2,Não Sabe,NS,10,1
+2014-03-17,Ibope,escolaridade,medio,Não Sabe,NS,10,1
+2014-03-17,Ibope,escolaridade,superior,Não Sabe,NS,12,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Aecio Neves,PSDB,13,1
+2014-03-17,Ibope,regiao,nordeste,Aecio Neves,PSDB,6,1
+2014-03-17,Ibope,regiao,sudeste,Aecio Neves,PSDB,18,1
+2014-03-17,Ibope,regiao,sul,Aecio Neves,PSDB,16,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Aecio Neves,PSDB,13,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Aecio Neves,PSDB,13,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Aecio Neves,PSDB,14,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Dilma Rousseff,PT,42,1
 2014-03-17,Ibope,regiao,nordeste,Dilma Rousseff,PT,54,1
 2014-03-17,Ibope,regiao,sudeste,Dilma Rousseff,PT,33,1
 2014-03-17,Ibope,regiao,sul,Dilma Rousseff,PT,35,1
 2014-03-17,Ibope,condicao_do_municipio,capital,Dilma Rousseff,PT,36,1
 2014-03-17,Ibope,condicao_do_municipio,periferia,Dilma Rousseff,PT,38,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,Dilma Rousseff,PT,43,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Dilma Rousseff,PT,43,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Eduardo Campos,PSB,6,1
 2014-03-17,Ibope,regiao,nordeste,Eduardo Campos,PSB,12,1
 2014-03-17,Ibope,regiao,sudeste,Eduardo Campos,PSB,3,1
 2014-03-17,Ibope,regiao,sul,Eduardo Campos,PSB,7,1
 2014-03-17,Ibope,condicao_do_municipio,capital,Eduardo Campos,PSB,9,1
 2014-03-17,Ibope,condicao_do_municipio,periferia,Eduardo Campos,PSB,5,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,Eduardo Campos,PSB,5,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,Eymael,PSDC,0,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Eduardo Campos,PSB,5,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Eymael,PSDC,0,1
 2014-03-17,Ibope,regiao,nordeste,Eymael,PSDC,0,1
 2014-03-17,Ibope,regiao,sudeste,Eymael,PSDC,0,1
 2014-03-17,Ibope,regiao,sul,Eymael,PSDC,0,1
 2014-03-17,Ibope,condicao_do_municipio,capital,Eymael,PSDC,0,1
 2014-03-17,Ibope,condicao_do_municipio,periferia,Eymael,PSDC,1,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,Eymael,PSDC,0,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,Levy Fidelix,PRTB,0,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Eymael,PSDC,0,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,regiao,nordeste,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,regiao,sudeste,Levy Fidelix,PRTB,1,1
 2014-03-17,Ibope,regiao,sul,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,condicao_do_municipio,capital,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,condicao_do_municipio,periferia,Levy Fidelix,PRTB,1,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,Levy Fidelix,PRTB,0,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,Mauro Iasi,PCB,1,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Levy Fidelix,PRTB,0,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Mauro Iasi,PCB,1,1
 2014-03-17,Ibope,regiao,nordeste,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,regiao,sudeste,Mauro Iasi,PCB,1,1
 2014-03-17,Ibope,regiao,sul,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,condicao_do_municipio,capital,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,condicao_do_municipio,periferia,Mauro Iasi,PCB,1,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,Mauro Iasi,PCB,0,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Mauro Iasi,PCB,0,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,regiao,nordeste,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,regiao,sudeste,Pastor Everaldo,PSC,2,1
 2014-03-17,Ibope,regiao,sul,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,condicao_do_municipio,capital,Pastor Everaldo,PSC,2,1
 2014-03-17,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,4,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,Pastor Everaldo,PSC,3,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,Randolfe Rodrigues,PSOL,2,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Pastor Everaldo,PSC,3,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Randolfe Rodrigues,PSOL,2,1
 2014-03-17,Ibope,regiao,nordeste,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,regiao,sudeste,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,regiao,sul,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,condicao_do_municipio,capital,Randolfe Rodrigues,PSOL,1,1
 2014-03-17,Ibope,condicao_do_municipio,periferia,Randolfe Rodrigues,PSOL,0,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,Randolfe Rodrigues,PSOL,0,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,nulo,nulo,24,1
-2014-03-17,Ibope,regiao,nordeste,nulo,nulo,16,1
-2014-03-17,Ibope,regiao,sudeste,nulo,nulo,29,1
-2014-03-17,Ibope,regiao,sul,nulo,nulo,22,1
-2014-03-17,Ibope,condicao_do_municipio,capital,nulo,nulo,29,1
-2014-03-17,Ibope,condicao_do_municipio,periferia,nulo,nulo,29,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,nulo,nulo,20,1
-2014-03-17,Ibope,regiao,norte/centro_oeste,NS,NS,11,1
-2014-03-17,Ibope,regiao,nordeste,NS,NS,10,1
-2014-03-17,Ibope,regiao,sudeste,NS,NS,13,1
-2014-03-17,Ibope,regiao,sul,NS,NS,16,1
-2014-03-17,Ibope,condicao_do_municipio,capital,NS,NS,9,1
-2014-03-17,Ibope,condicao_do_municipio,periferia,NS,NS,8,1
-2014-03-17,Ibope,condicao_do_municipio,interior_,NS,NS,15,1
-2014-03-17,Ibope,renda,mais_de_5,Aecio neves,PSDB,23,1
-2014-03-17,Ibope,renda,2_a_5,Aecio neves,PSDB,17,1
-2014-03-17,Ibope,renda,1_a_2,Aecio neves,PSDB,10,1
-2014-03-17,Ibope,renda,ate_1,Aecio neves,PSDB,4,1
-2014-03-17,Ibope,raca,branca,Aecio neves,PSDB,18,1
-2014-03-17,Ibope,raca,preta,Aecio neves,PSDB,10,1
-2014-03-17,Ibope,raca,outras_,Aecio neves,PSDB,8,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Randolfe Rodrigues,PSOL,0,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Nulo,nulo,24,1
+2014-03-17,Ibope,regiao,nordeste,Nulo,nulo,16,1
+2014-03-17,Ibope,regiao,sudeste,Nulo,nulo,29,1
+2014-03-17,Ibope,regiao,sul,Nulo,nulo,22,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Nulo,nulo,29,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Nulo,nulo,29,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Nulo,nulo,20,1
+2014-03-17,Ibope,regiao,norte_centro_oeste,Não Sabe,NS,11,1
+2014-03-17,Ibope,regiao,nordeste,Não Sabe,NS,10,1
+2014-03-17,Ibope,regiao,sudeste,Não Sabe,NS,13,1
+2014-03-17,Ibope,regiao,sul,Não Sabe,NS,16,1
+2014-03-17,Ibope,condicao_do_municipio,capital,Não Sabe,NS,9,1
+2014-03-17,Ibope,condicao_do_municipio,periferia,Não Sabe,NS,8,1
+2014-03-17,Ibope,condicao_do_municipio,interior,Não Sabe,NS,15,1
+2014-03-17,Ibope,renda,mais_de_5,Aecio Neves,PSDB,23,1
+2014-03-17,Ibope,renda,2_a_5,Aecio Neves,PSDB,17,1
+2014-03-17,Ibope,renda,1_a_2,Aecio Neves,PSDB,10,1
+2014-03-17,Ibope,renda,ate_1,Aecio Neves,PSDB,4,1
+2014-03-17,Ibope,raca,branca,Aecio Neves,PSDB,18,1
+2014-03-17,Ibope,raca,preta,Aecio Neves,PSDB,10,1
+2014-03-17,Ibope,raca,outras,Aecio Neves,PSDB,8,1
 2014-03-17,Ibope,renda,mais_de_5,Dilma Rousseff,PT,30,1
 2014-03-17,Ibope,renda,2_a_5,Dilma Rousseff,PT,39,1
 2014-03-17,Ibope,renda,1_a_2,Dilma Rousseff,PT,45,1
 2014-03-17,Ibope,renda,ate_1,Dilma Rousseff,PT,54,1
 2014-03-17,Ibope,raca,branca,Dilma Rousseff,PT,34,1
 2014-03-17,Ibope,raca,preta,Dilma Rousseff,PT,46,1
-2014-03-17,Ibope,raca,outras_,Dilma Rousseff,PT,38,1
+2014-03-17,Ibope,raca,outras,Dilma Rousseff,PT,38,1
 2014-03-17,Ibope,renda,mais_de_5,Eduardo Campos,PSB,9,1
 2014-03-17,Ibope,renda,2_a_5,Eduardo Campos,PSB,5,1
 2014-03-17,Ibope,renda,1_a_2,Eduardo Campos,PSB,7,1
 2014-03-17,Ibope,renda,ate_1,Eduardo Campos,PSB,7,1
 2014-03-17,Ibope,raca,branca,Eduardo Campos,PSB,5,1
 2014-03-17,Ibope,raca,preta,Eduardo Campos,PSB,7,1
-2014-03-17,Ibope,raca,outras_,Eduardo Campos,PSB,6,1
+2014-03-17,Ibope,raca,outras,Eduardo Campos,PSB,6,1
 2014-03-17,Ibope,renda,mais_de_5,Eymael,PSDC,0,1
 2014-03-17,Ibope,renda,2_a_5,Eymael,PSDC,0,1
 2014-03-17,Ibope,renda,1_a_2,Eymael,PSDC,1,1
 2014-03-17,Ibope,renda,ate_1,Eymael,PSDC,0,1
 2014-03-17,Ibope,raca,branca,Eymael,PSDC,0,1
 2014-03-17,Ibope,raca,preta,Eymael,PSDC,0,1
-2014-03-17,Ibope,raca,outras_,Eymael,PSDC,1,1
+2014-03-17,Ibope,raca,outras,Eymael,PSDC,1,1
 2014-03-17,Ibope,renda,mais_de_5,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,renda,2_a_5,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,renda,1_a_2,Levy Fidelix,PRTB,1,1
 2014-03-17,Ibope,renda,ate_1,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,raca,branca,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,raca,preta,Levy Fidelix,PRTB,0,1
-2014-03-17,Ibope,raca,outras_,Levy Fidelix,PRTB,0,1
+2014-03-17,Ibope,raca,outras,Levy Fidelix,PRTB,0,1
 2014-03-17,Ibope,renda,mais_de_5,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,renda,2_a_5,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,renda,1_a_2,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,renda,ate_1,Mauro Iasi,PCB,1,1
 2014-03-17,Ibope,raca,branca,Mauro Iasi,PCB,0,1
 2014-03-17,Ibope,raca,preta,Mauro Iasi,PCB,0,1
-2014-03-17,Ibope,raca,outras_,Mauro Iasi,PCB,1,1
+2014-03-17,Ibope,raca,outras,Mauro Iasi,PCB,1,1
 2014-03-17,Ibope,renda,mais_de_5,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,renda,2_a_5,Pastor Everaldo,PSC,1,1
 2014-03-17,Ibope,renda,1_a_2,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,renda,ate_1,Pastor Everaldo,PSC,4,1
 2014-03-17,Ibope,raca,branca,Pastor Everaldo,PSC,3,1
 2014-03-17,Ibope,raca,preta,Pastor Everaldo,PSC,2,1
-2014-03-17,Ibope,raca,outras_,Pastor Everaldo,PSC,2,1
+2014-03-17,Ibope,raca,outras,Pastor Everaldo,PSC,2,1
 2014-03-17,Ibope,renda,mais_de_5,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,renda,2_a_5,Randolfe Rodrigues,PSOL,1,1
 2014-03-17,Ibope,renda,1_a_2,Randolfe Rodrigues,PSOL,1,1
 2014-03-17,Ibope,renda,ate_1,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,raca,branca,Randolfe Rodrigues,PSOL,0,1
 2014-03-17,Ibope,raca,preta,Randolfe Rodrigues,PSOL,1,1
-2014-03-17,Ibope,raca,outras_,Randolfe Rodrigues,PSOL,0,1
-2014-03-17,Ibope,renda,mais_de_5,nulo,nulo,24,1
-2014-03-17,Ibope,renda,2_a_5,nulo,nulo,24,1
-2014-03-17,Ibope,renda,1_a_2,nulo,nulo,22,1
-2014-03-17,Ibope,renda,ate_1,nulo,nulo,17,1
-2014-03-17,Ibope,raca,branca,nulo,nulo,26,1
-2014-03-17,Ibope,raca,preta,nulo,nulo,21,1
-2014-03-17,Ibope,raca,outras_,nulo,nulo,32,1
-2014-03-17,Ibope,renda,mais_de_5,NS,NS,10,1
-2014-03-17,Ibope,renda,2_a_5,NS,NS,13,1
-2014-03-17,Ibope,renda,1_a_2,NS,NS,12,1
-2014-03-17,Ibope,renda,ate_1,NS,NS,13,1
-2014-03-17,Ibope,raca,branca,NS,NS,13,1
-2014-03-17,Ibope,raca,preta,NS,NS,12,1
-2014-03-17,Ibope,raca,outras_,NS,NS,12,1
-2014-04-14,Ibope,sexo,masculino,Aecio neves,PSDB,17,1
-2014-04-14,Ibope,sexo,feminino,Aecio neves,PSDB,12,1
-2014-04-14,Ibope,idade,16_a_24,Aecio neves,PSDB,13,1
-2014-04-14,Ibope,idade,25_a_34,Aecio neves,PSDB,15,1
-2014-04-14,Ibope,idade,35_a_44,Aecio neves,PSDB,13,1
-2014-04-14,Ibope,idade,45_a_54,Aecio neves,PSDB,15,1
-2014-04-14,Ibope,idade,55+,Aecio neves,PSDB,17,1
-2014-04-14,Ibope,escolaridade,fundamental_1,Aecio neves,PSDB,11,1
-2014-04-14,Ibope,escolaridade,fundamental_2,Aecio neves,PSDB,13,1
-2014-04-14,Ibope,escolaridade,medio_,Aecio neves,PSDB,14,1
-2014-04-14,Ibope,escolaridade,superior,Aecio neves,PSDB,22,1
+2014-03-17,Ibope,raca,outras,Randolfe Rodrigues,PSOL,0,1
+2014-03-17,Ibope,renda,mais_de_5,Nulo,nulo,24,1
+2014-03-17,Ibope,renda,2_a_5,Nulo,nulo,24,1
+2014-03-17,Ibope,renda,1_a_2,Nulo,nulo,22,1
+2014-03-17,Ibope,renda,ate_1,Nulo,nulo,17,1
+2014-03-17,Ibope,raca,branca,Nulo,nulo,26,1
+2014-03-17,Ibope,raca,preta,Nulo,nulo,21,1
+2014-03-17,Ibope,raca,outras,Nulo,nulo,32,1
+2014-03-17,Ibope,renda,mais_de_5,Não Sabe,NS,10,1
+2014-03-17,Ibope,renda,2_a_5,Não Sabe,NS,13,1
+2014-03-17,Ibope,renda,1_a_2,Não Sabe,NS,12,1
+2014-03-17,Ibope,renda,ate_1,Não Sabe,NS,13,1
+2014-03-17,Ibope,raca,branca,Não Sabe,NS,13,1
+2014-03-17,Ibope,raca,preta,Não Sabe,NS,12,1
+2014-03-17,Ibope,raca,outras,Não Sabe,NS,12,1
+2014-04-14,Ibope,sexo,masculino,Aecio Neves,PSDB,17,1
+2014-04-14,Ibope,sexo,feminino,Aecio Neves,PSDB,12,1
+2014-04-14,Ibope,idade,16_a_24,Aecio Neves,PSDB,13,1
+2014-04-14,Ibope,idade,25_a_34,Aecio Neves,PSDB,15,1
+2014-04-14,Ibope,idade,35_a_44,Aecio Neves,PSDB,13,1
+2014-04-14,Ibope,idade,45_a_54,Aecio Neves,PSDB,15,1
+2014-04-14,Ibope,idade,55_ou_mais,Aecio Neves,PSDB,17,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Aecio Neves,PSDB,11,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Aecio Neves,PSDB,13,1
+2014-04-14,Ibope,escolaridade,medio,Aecio Neves,PSDB,14,1
+2014-04-14,Ibope,escolaridade,superior,Aecio Neves,PSDB,22,1
 2014-04-14,Ibope,sexo,masculino,Denise Abreu,PEN,2,1
 2014-04-14,Ibope,sexo,feminino,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,idade,16_a_24,Denise Abreu,PEN,2,1
 2014-04-14,Ibope,idade,25_a_34,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,idade,35_a_44,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,idade,45_a_54,Denise Abreu,PEN,2,1
-2014-04-14,Ibope,idade,55+,Denise Abreu,PEN,0,1
+2014-04-14,Ibope,idade,55_ou_mais,Denise Abreu,PEN,0,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Denise Abreu,PEN,0,1
-2014-04-14,Ibope,escolaridade,medio_,Denise Abreu,PEN,2,1
+2014-04-14,Ibope,escolaridade,medio,Denise Abreu,PEN,2,1
 2014-04-14,Ibope,escolaridade,superior,Denise Abreu,PEN,2,1
 2014-04-14,Ibope,sexo,masculino,Dilma Rousseff,PT,37,1
 2014-04-14,Ibope,sexo,feminino,Dilma Rousseff,PT,37,1
@@ -277,10 +277,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,idade,25_a_34,Dilma Rousseff,PT,34,1
 2014-04-14,Ibope,idade,35_a_44,Dilma Rousseff,PT,37,1
 2014-04-14,Ibope,idade,45_a_54,Dilma Rousseff,PT,38,1
-2014-04-14,Ibope,idade,55+,Dilma Rousseff,PT,39,1
+2014-04-14,Ibope,idade,55_ou_mais,Dilma Rousseff,PT,39,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Dilma Rousseff,PT,46,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Dilma Rousseff,PT,38,1
-2014-04-14,Ibope,escolaridade,medio_,Dilma Rousseff,PT,36,1
+2014-04-14,Ibope,escolaridade,medio,Dilma Rousseff,PT,36,1
 2014-04-14,Ibope,escolaridade,superior,Dilma Rousseff,PT,25,1
 2014-04-14,Ibope,sexo,masculino,Eduardo Campos,PSB,7,1
 2014-04-14,Ibope,sexo,feminino,Eduardo Campos,PSB,4,1
@@ -288,10 +288,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,idade,25_a_34,Eduardo Campos,PSB,6,1
 2014-04-14,Ibope,idade,35_a_44,Eduardo Campos,PSB,7,1
 2014-04-14,Ibope,idade,45_a_54,Eduardo Campos,PSB,4,1
-2014-04-14,Ibope,idade,55+,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,idade,55_ou_mais,Eduardo Campos,PSB,4,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Eduardo Campos,PSB,4,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Eduardo Campos,PSB,7,1
-2014-04-14,Ibope,escolaridade,medio_,Eduardo Campos,PSB,5,1
+2014-04-14,Ibope,escolaridade,medio,Eduardo Campos,PSB,5,1
 2014-04-14,Ibope,escolaridade,superior,Eduardo Campos,PSB,7,1
 2014-04-14,Ibope,sexo,masculino,Eymael,PSDC,0,1
 2014-04-14,Ibope,sexo,feminino,Eymael,PSDC,0,1
@@ -299,10 +299,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,idade,25_a_34,Eymael,PSDC,0,1
 2014-04-14,Ibope,idade,35_a_44,Eymael,PSDC,0,1
 2014-04-14,Ibope,idade,45_a_54,Eymael,PSDC,1,1
-2014-04-14,Ibope,idade,55+,Eymael,PSDC,0,1
+2014-04-14,Ibope,idade,55_ou_mais,Eymael,PSDC,0,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Eymael,PSDC,0,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Eymael,PSDC,0,1
-2014-04-14,Ibope,escolaridade,medio_,Eymael,PSDC,0,1
+2014-04-14,Ibope,escolaridade,medio,Eymael,PSDC,0,1
 2014-04-14,Ibope,escolaridade,superior,Eymael,PSDC,1,1
 2014-04-14,Ibope,sexo,masculino,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,sexo,feminino,Levy Fidelix,PRTB,0,1
@@ -310,10 +310,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,idade,25_a_34,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,idade,35_a_44,Levy Fidelix,PRTB,1,1
 2014-04-14,Ibope,idade,45_a_54,Levy Fidelix,PRTB,0,1
-2014-04-14,Ibope,idade,55+,Levy Fidelix,PRTB,0,1
+2014-04-14,Ibope,idade,55_ou_mais,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Levy Fidelix,PRTB,0,1
-2014-04-14,Ibope,escolaridade,medio_,Levy Fidelix,PRTB,1,1
+2014-04-14,Ibope,escolaridade,medio,Levy Fidelix,PRTB,1,1
 2014-04-14,Ibope,escolaridade,superior,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,sexo,masculino,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,sexo,feminino,Mauro Iasi,PCB,0,1
@@ -321,10 +321,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,idade,25_a_34,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,idade,35_a_44,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,idade,45_a_54,Mauro Iasi,PCB,0,1
-2014-04-14,Ibope,idade,55+,Mauro Iasi,PCB,0,1
+2014-04-14,Ibope,idade,55_ou_mais,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Mauro Iasi,PCB,0,1
-2014-04-14,Ibope,escolaridade,medio_,Mauro Iasi,PCB,0,1
+2014-04-14,Ibope,escolaridade,medio,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,escolaridade,superior,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,sexo,masculino,Pastor Everaldo,PSC,2,1
 2014-04-14,Ibope,sexo,feminino,Pastor Everaldo,PSC,2,1
@@ -332,10 +332,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,idade,25_a_34,Pastor Everaldo,PSC,2,1
 2014-04-14,Ibope,idade,35_a_44,Pastor Everaldo,PSC,2,1
 2014-04-14,Ibope,idade,45_a_54,Pastor Everaldo,PSC,1,1
-2014-04-14,Ibope,idade,55+,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,escolaridade,fundamental_1,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,idade,55_ou_mais,Pastor Everaldo,PSC,2,1
+e014-04-14,Ibope,escolaridade,fundamental_1,Pastor Everaldo,PSC,2,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,escolaridade,medio_,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,escolaridade,medio,Pastor Everaldo,PSC,2,1
 2014-04-14,Ibope,escolaridade,superior,Pastor Everaldo,PSC,1,1
 2014-04-14,Ibope,sexo,masculino,Randolfe Rodrigues,PSOL,1,1
 2014-04-14,Ibope,sexo,feminino,Randolfe Rodrigues,PSOL,1,1
@@ -343,10 +343,10 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,idade,25_a_34,Randolfe Rodrigues,PSOL,1,1
 2014-04-14,Ibope,idade,35_a_44,Randolfe Rodrigues,PSOL,1,1
 2014-04-14,Ibope,idade,45_a_54,Randolfe Rodrigues,PSOL,1,1
-2014-04-14,Ibope,idade,55+,Randolfe Rodrigues,PSOL,1,1
+2014-04-14,Ibope,idade,55_ou_mais,Randolfe Rodrigues,PSOL,1,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Randolfe Rodrigues,PSOL,1,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Randolfe Rodrigues,PSOL,1,1
-2014-04-14,Ibope,escolaridade,medio_,Randolfe Rodrigues,PSOL,1,1
+2014-04-14,Ibope,escolaridade,medio,Randolfe Rodrigues,PSOL,1,1
 2014-04-14,Ibope,escolaridade,superior,Randolfe Rodrigues,PSOL,1,1
 2014-04-14,Ibope,sexo,masculino,Eduardo Jorge,PV,1,1
 2014-04-14,Ibope,sexo,feminino,Eduardo Jorge,PV,0,1
@@ -354,117 +354,117 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,idade,25_a_34,Eduardo Jorge,PV,0,1
 2014-04-14,Ibope,idade,35_a_44,Eduardo Jorge,PV,1,1
 2014-04-14,Ibope,idade,45_a_54,Eduardo Jorge,PV,0,1
-2014-04-14,Ibope,idade,55+,Eduardo Jorge,PV,0,1
+2014-04-14,Ibope,idade,55_ou_mais,Eduardo Jorge,PV,0,1
 2014-04-14,Ibope,escolaridade,fundamental_1,Eduardo Jorge,PV,0,1
 2014-04-14,Ibope,escolaridade,fundamental_2,Eduardo Jorge,PV,0,1
-2014-04-14,Ibope,escolaridade,medio_,Eduardo Jorge,PV,1,1
+2014-04-14,Ibope,escolaridade,medio,Eduardo Jorge,PV,1,1
 2014-04-14,Ibope,escolaridade,superior,Eduardo Jorge,PV,1,1
-2014-04-14,Ibope,sexo,masculino,nulo,nulo,21,1
-2014-04-14,Ibope,sexo,feminino,nulo,nulo,27,1
-2014-04-14,Ibope,idade,16_a_24,nulo,nulo,23,1
-2014-04-14,Ibope,idade,25_a_34,nulo,nulo,29,1
-2014-04-14,Ibope,idade,35_a_44,nulo,nulo,24,1
-2014-04-14,Ibope,idade,45_a_54,nulo,nulo,26,1
-2014-04-14,Ibope,idade,55+,nulo,nulo,20,1
-2014-04-14,Ibope,escolaridade,fundamental_1,nulo,nulo,18,1
-2014-04-14,Ibope,escolaridade,fundamental_2,nulo,nulo,24,1
-2014-04-14,Ibope,escolaridade,medio_,nulo,nulo,27,1
-2014-04-14,Ibope,escolaridade,superior,nulo,nulo,29,1
-2014-04-14,Ibope,sexo,masculino,NS,NS,12,1
-2014-04-14,Ibope,sexo,feminino,NS,NS,14,1
-2014-04-14,Ibope,idade,16_a_24,NS,NS,12,1
-2014-04-14,Ibope,idade,25_a_34,NS,NS,11,1
-2014-04-14,Ibope,idade,35_a_44,NS,NS,15,1
-2014-04-14,Ibope,idade,45_a_54,NS,NS,12,1
-2014-04-14,Ibope,idade,55+,NS,NS,16,1
-2014-04-14,Ibope,escolaridade,fundamental_1,NS,NS,16,1
-2014-04-14,Ibope,escolaridade,fundamental_2,NS,NS,14,1
-2014-04-14,Ibope,escolaridade,medio_,NS,NS,11,1
-2014-04-14,Ibope,escolaridade,superior,NS,NS,13,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Aecio neves,PSDB,13,1
-2014-04-14,Ibope,regiao,nordeste,Aecio neves,PSDB,8,1
-2014-04-14,Ibope,regiao,sudeste,Aecio neves,PSDB,20,1
-2014-04-14,Ibope,regiao,sul,Aecio neves,PSDB,12,1
-2014-04-14,Ibope,condicao_do_municipio,capital,Aecio neves,PSDB,14,1
-2014-04-14,Ibope,condicao_do_municipio,periferia,Aecio neves,PSDB,15,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Aecio neves,PSDB,15,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Denise Abreu,PEN,1,1
+2014-04-14,Ibope,sexo,masculino,Nulo,nulo,21,1
+2014-04-14,Ibope,sexo,feminino,Nulo,nulo,27,1
+2014-04-14,Ibope,idade,16_a_24,Nulo,nulo,23,1
+2014-04-14,Ibope,idade,25_a_34,Nulo,nulo,29,1
+2014-04-14,Ibope,idade,35_a_44,Nulo,nulo,24,1
+2014-04-14,Ibope,idade,45_a_54,Nulo,nulo,26,1
+2014-04-14,Ibope,idade,55_ou_mais,Nulo,nulo,20,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Nulo,nulo,18,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Nulo,nulo,24,1
+2014-04-14,Ibope,escolaridade,medio,Nulo,nulo,27,1
+2014-04-14,Ibope,escolaridade,superior,Nulo,nulo,29,1
+2014-04-14,Ibope,sexo,masculino,Não Sabe,NS,12,1
+2014-04-14,Ibope,sexo,feminino,Não Sabe,NS,14,1
+2014-04-14,Ibope,idade,16_a_24,Não Sabe,NS,12,1
+2014-04-14,Ibope,idade,25_a_34,Não Sabe,NS,11,1
+2014-04-14,Ibope,idade,35_a_44,Não Sabe,NS,15,1
+2014-04-14,Ibope,idade,45_a_54,Não Sabe,NS,12,1
+2014-04-14,Ibope,idade,55_ou_mais,Não Sabe,NS,16,1
+2014-04-14,Ibope,escolaridade,fundamental_1,Não Sabe,NS,16,1
+2014-04-14,Ibope,escolaridade,fundamental_2,Não Sabe,NS,14,1
+2014-04-14,Ibope,escolaridade,medio,Não Sabe,NS,11,1
+2014-04-14,Ibope,escolaridade,superior,Não Sabe,NS,13,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Aecio Neves,PSDB,13,1
+2014-04-14,Ibope,regiao,nordeste,Aecio Neves,PSDB,8,1
+2014-04-14,Ibope,regiao,sudeste,Aecio Neves,PSDB,20,1
+2014-04-14,Ibope,regiao,sul,Aecio Neves,PSDB,12,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Aecio Neves,PSDB,14,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Aecio Neves,PSDB,15,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Aecio Neves,PSDB,15,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,regiao,nordeste,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,regiao,sudeste,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,regiao,sul,Denise Abreu,PEN,2,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Denise Abreu,PEN,2,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Denise Abreu,PEN,1,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Dilma Rousseff,PT,39,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Denise Abreu,PEN,1,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Dilma Rousseff,PT,39,1
 2014-04-14,Ibope,regiao,nordeste,Dilma Rousseff,PT,51,1
 2014-04-14,Ibope,regiao,sudeste,Dilma Rousseff,PT,31,1
 2014-04-14,Ibope,regiao,sul,Dilma Rousseff,PT,29,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Dilma Rousseff,PT,36,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Dilma Rousseff,PT,36,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Dilma Rousseff,PT,38,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Eduardo Campos,PSB,4,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Dilma Rousseff,PT,38,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Eduardo Campos,PSB,4,1
 2014-04-14,Ibope,regiao,nordeste,Eduardo Campos,PSB,10,1
 2014-04-14,Ibope,regiao,sudeste,Eduardo Campos,PSB,44,1
 2014-04-14,Ibope,regiao,sul,Eduardo Campos,PSB,4,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Eduardo Campos,PSB,5,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Eduardo Campos,PSB,5,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Eduardo Campos,PSB,6,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Eymael,PSDC,0,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Eduardo Campos,PSB,6,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Eymael,PSDC,0,1
 2014-04-14,Ibope,regiao,nordeste,Eymael,PSDC,0,1
 2014-04-14,Ibope,regiao,sudeste,Eymael,PSDC,0,1
 2014-04-14,Ibope,regiao,sul,Eymael,PSDC,0,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Eymael,PSDC,0,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Eymael,PSDC,0,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Eymael,PSDC,0,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Levy Fidelix,PRTB,0,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Eymael,PSDC,0,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,regiao,nordeste,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,regiao,sudeste,Levy Fidelix,PRTB,1,1
 2014-04-14,Ibope,regiao,sul,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Levy Fidelix,PRTB,0,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Levy Fidelix,PRTB,0,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Mauro Iasi,PCB,0,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Levy Fidelix,PRTB,0,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,regiao,nordeste,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,regiao,sudeste,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,regiao,sul,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Mauro Iasi,PCB,1,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Mauro Iasi,PCB,0,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Mauro Iasi,PCB,0,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Mauro Iasi,PCB,0,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Pastor Everaldo,PSC,2,1
 2014-04-14,Ibope,regiao,nordeste,Pastor Everaldo,PSC,2,1
 2014-04-14,Ibope,regiao,sudeste,Pastor Everaldo,PSC,2,1
 2014-04-14,Ibope,regiao,sul,Pastor Everaldo,PSC,3,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Pastor Everaldo,PSC,1,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Randolfe Rodrigues,PSOL,5,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Pastor Everaldo,PSC,2,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Randolfe Rodrigues,PSOL,5,1
 2014-04-14,Ibope,regiao,nordeste,Randolfe Rodrigues,PSOL,0,1
 2014-04-14,Ibope,regiao,sudeste,Randolfe Rodrigues,PSOL,0,1
 2014-04-14,Ibope,regiao,sul,Randolfe Rodrigues,PSOL,0,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Randolfe Rodrigues,PSOL,2,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Randolfe Rodrigues,PSOL,0,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Randolfe Rodrigues,PSOL,1,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,Eduardo Jorge,PV,0,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Randolfe Rodrigues,PSOL,1,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Eduardo Jorge,PV,0,1
 2014-04-14,Ibope,regiao,nordeste,Eduardo Jorge,PV,1,1
 2014-04-14,Ibope,regiao,sudeste,Eduardo Jorge,PV,1,1
 2014-04-14,Ibope,regiao,sul,Eduardo Jorge,PV,0,1
 2014-04-14,Ibope,condicao_do_municipio,capital,Eduardo Jorge,PV,1,1
 2014-04-14,Ibope,condicao_do_municipio,periferia,Eduardo Jorge,PV,0,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,Eduardo Jorge,PV,0,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,nulo,nulo,18,1
-2014-04-14,Ibope,regiao,nordeste,nulo,nulo,15,1
-2014-04-14,Ibope,regiao,sudeste,nulo,nulo,30,1
-2014-04-14,Ibope,regiao,sul,nulo,nulo,32,1
-2014-04-14,Ibope,condicao_do_municipio,capital,nulo,nulo,27,1
-2014-04-14,Ibope,condicao_do_municipio,periferia,nulo,nulo,28,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,nulo,nulo,22,1
-2014-04-14,Ibope,regiao,norte/centro_oeste,NS,NS,18,1
-2014-04-14,Ibope,regiao,nordeste,NS,NS,12,1
-2014-04-14,Ibope,regiao,sudeste,NS,NS,111,1
-2014-04-14,Ibope,regiao,sul,NS,NS,7,1
-2014-04-14,Ibope,condicao_do_municipio,capital,NS,NS,14,1
-2014-04-14,Ibope,condicao_do_municipio,periferia,NS,NS,11,1
-2014-04-14,Ibope,condicao_do_municipio,interior_,NS,NS,14,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Eduardo Jorge,PV,0,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Nulo,nulo,18,1
+2014-04-14,Ibope,regiao,nordeste,Nulo,nulo,15,1
+2014-04-14,Ibope,regiao,sudeste,Nulo,nulo,30,1
+2014-04-14,Ibope,regiao,sul,Nulo,nulo,32,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Nulo,nulo,27,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Nulo,nulo,28,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Nulo,nulo,22,1
+2014-04-14,Ibope,regiao,norte_centro_oeste,Não Sabe,NS,18,1
+2014-04-14,Ibope,regiao,nordeste,Não Sabe,NS,12,1
+2014-04-14,Ibope,regiao,sudeste,Não Sabe,NS,111,1
+2014-04-14,Ibope,regiao,sul,Não Sabe,NS,7,1
+2014-04-14,Ibope,condicao_do_municipio,capital,Não Sabe,NS,14,1
+2014-04-14,Ibope,condicao_do_municipio,periferia,Não Sabe,NS,11,1
+2014-04-14,Ibope,condicao_do_municipio,interior,Não Sabe,NS,14,1
 2014-04-14,Ibope,renda,mais_de_5,Aecio Neves,PSDB,26,1
 2014-04-14,Ibope,renda,2_a_5,Aecio Neves,PSDB,17,1
 2014-04-14,Ibope,renda,1_a_2,Aecio Neves,PSDB,10,1
@@ -565,59 +565,59 @@ data,instituto,recorte,variavel,candidato,partido,intencao,Turno
 2014-04-14,Ibope,religiao,catolica,Eduardo Jorge,PV,1,1
 2014-04-14,Ibope,religiao,evangelica,Eduardo Jorge,PV,0,1
 2014-04-14,Ibope,religiao,outras,Eduardo Jorge,PV,0,1
-2014-04-14,Ibope,renda,mais_de_5,nulo,nulo,27,1
-2014-04-14,Ibope,renda,2_a_5,nulo,nulo,26,1
-2014-04-14,Ibope,renda,1_a_2,nulo,nulo,21,1
-2014-04-14,Ibope,renda,ate_1,nulo,nulo,14,1
-2014-04-14,Ibope,raca,branca,nulo,nulo,29,1
-2014-04-14,Ibope,raca,preta,nulo,nulo,22,1
-2014-04-14,Ibope,raca,outras,nulo,nulo,14,1
-2014-04-14,Ibope,religiao,catolica,nulo,nulo,22,1
-2014-04-14,Ibope,religiao,evangelica,nulo,nulo,24,1
-2014-04-14,Ibope,religiao,outras,nulo,nulo,37,1
-2014-04-14,Ibope,renda,mais_de_5,NS,NS,10,1
-2014-04-14,Ibope,renda,2_a_5,NS,NS,14,1
-2014-04-14,Ibope,renda,1_a_2,NS,NS,14,1
-2014-04-14,Ibope,renda,ate_1,NS,NS,14,1
-2014-04-14,Ibope,raca,branca,NS,NS,13,1
-2014-04-14,Ibope,raca,preta,NS,NS,13,1
-2014-04-14,Ibope,raca,outras,NS,NS,11,1
-2014-04-14,Ibope,religiao,catolica,NS,NS,13,1
-2014-04-14,Ibope,religiao,evangelica,NS,NS,15,1
-2014-04-14,Ibope,religiao,outras,NS,NS,12,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Aecio Neves,PSDB,4,1
+2014-04-14,Ibope,renda,mais_de_5,Nulo,nulo,27,1
+2014-04-14,Ibope,renda,2_a_5,Nulo,nulo,26,1
+2014-04-14,Ibope,renda,1_a_2,Nulo,nulo,21,1
+2014-04-14,Ibope,renda,ate_1,Nulo,nulo,14,1
+2014-04-14,Ibope,raca,branca,Nulo,nulo,29,1
+2014-04-14,Ibope,raca,preta,Nulo,nulo,22,1
+2014-04-14,Ibope,raca,outras,Nulo,nulo,14,1
+2014-04-14,Ibope,religiao,catolica,Nulo,nulo,22,1
+2014-04-14,Ibope,religiao,evangelica,Nulo,nulo,24,1
+2014-04-14,Ibope,religiao,outras,Nulo,nulo,37,1
+2014-04-14,Ibope,renda,mais_de_5,Não Sabe,NS,10,1
+2014-04-14,Ibope,renda,2_a_5,Não Sabe,NS,14,1
+2014-04-14,Ibope,renda,1_a_2,Não Sabe,NS,14,1
+2014-04-14,Ibope,renda,ate_1,Não Sabe,NS,14,1
+2014-04-14,Ibope,raca,branca,Não Sabe,NS,13,1
+2014-04-14,Ibope,raca,preta,Não Sabe,NS,13,1
+2014-04-14,Ibope,raca,outras,Não Sabe,NS,11,1
+2014-04-14,Ibope,religiao,catolica,Não Sabe,NS,13,1
+2014-04-14,Ibope,religiao,evangelica,Não Sabe,NS,15,1
+2014-04-14,Ibope,religiao,outras,Não Sabe,NS,12,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Aecio Neves,PSDB,4,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Aecio Neves,PSDB,19,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Aecio Neves,PSDB,21,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Denise Abreu,PEN,1,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Aecio Neves,PSDB,21,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Denise Abreu,PEN,1,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Denise Abreu,PEN,1,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Denise Abreu,PEN,2,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Dilma Rousseff,PT,78,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Denise Abreu,PEN,2,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Dilma Rousseff,PT,78,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Dilma Rousseff,PT,27,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Dilma Rousseff,PT,3,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Eduardo Campos,PSB,2,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Dilma Rousseff,PT,3,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Eduardo Campos,PSB,2,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Eduardo Campos,PSB,7,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Eduardo Campos,PSB,8,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Eymael,PSDC,0,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Eduardo Campos,PSB,8,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Eymael,PSDC,0,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Eymael,PSDC,0,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Eymael,PSDC,0,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Levy Fidelix,PRTB,0,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Eymael,PSDC,0,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Levy Fidelix,PRTB,0,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Levy Fidelix,PRTB,1,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Levy Fidelix,PRTB,1,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Mauro Iasi,PCB,0,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Levy Fidelix,PRTB,1,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Mauro Iasi,PCB,0,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Mauro Iasi,PCB,0,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Mauro Iasi,PCB,1,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Pastor Everaldo,PSC,1,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Mauro Iasi,PCB,1,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Pastor Everaldo,PSC,1,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Pastor Everaldo,PSC,2,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Pastor Everaldo,PSC,3,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Randolfe Rodrigues,PSOL,1,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Pastor Everaldo,PSC,3,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Randolfe Rodrigues,PSOL,1,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Randolfe Rodrigues,PSOL,1,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Randolfe Rodrigues,PSOL,0,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,Eduardo Jorge,PV,0,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Randolfe Rodrigues,PSOL,0,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Eduardo Jorge,PV,0,1
 2014-04-14,Ibope,avaliacao_do_governo,regular,Eduardo Jorge,PV,0,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,Eduardo Jorge,PV,1,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,nulo,nulo,4,1
-2014-04-14,Ibope,avaliacao_do_governo,regular,nulo,nulo,23,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,nulo,nulo,48,1
-2014-04-14,Ibope,avaliacao_do_governo,otimo/bom,NS,NS,7,1
-2014-04-14,Ibope,avaliacao_do_governo,regular,NS,NS,17,1
-2014-04-14,Ibope,avaliacao_do_governo,ruim/pessimo,NS,NS,14,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Eduardo Jorge,PV,1,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Nulo,nulo,4,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Nulo,nulo,23,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Nulo,nulo,48,1
+2014-04-14,Ibope,avaliacao_do_governo,otimo_bom,Não Sabe,NS,7,1
+2014-04-14,Ibope,avaliacao_do_governo,regular,Não Sabe,NS,17,1
+2014-04-14,Ibope,avaliacao_do_governo,ruim_pessimo,Não Sabe,NS,14,1

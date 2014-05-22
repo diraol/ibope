@@ -21,17 +21,39 @@ function cria_grafico() {
     x.overrideMax = new Date("2014-05-20"); //TODO: pegar a maior data usando a d3 e lendo a base de dados e somar 1
     //x.timeInterval = 4;
     myChart.addMeasureAxis("y","intencao");
-    myChart.addSeries("candidato",dimple.plot.line);
+    s = myChart.addSeries("candidato",dimple.plot.line);
     myChart.addSeries("candidato", dimple.plot.bubble);
-    myChart.addLegend(720, 2, 195, 220, "right");
+    legend = myChart.addLegend(720, 2, 195, 220, "right");
     myChart.assignColor("Aécio Neves","#1C4587");
     myChart.assignColor("Dilma Rousseff","#CC0000");
     myChart.assignColor("Eduardo Campos","#E69138");
     myChart.assignColor("Pastor Everaldo","#6AA84F");
-    myChart.assignColor("Não Sabe","#ccc");
-    myChart.assignColor("Nulo","#222");
+    myChart.assignColor("Não sabe","#2E2B2D");
+    myChart.assignColor("Branco e Nulo","#C9C9C9");
+	
+	//arruma ordem da legenda
+	legend._getEntries = function () {
+	    var orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Branco e Nulo","Não sabe"];
+	    var entries = [];
+	    orderedValues.forEach(function (v) {
+	        entries.push(
+	        {
+	                key: v,
+	                fill: myChart.getColor(v).fill,
+	                stroke: myChart.getColor(v).stroke,
+	                opacity: myChart.getColor(v).opacity,
+	                series: s,
+	                aggField: [v]
+	            }
+	        );
+	    }, this);
+
+	    return entries;
+	};
+	
     myChart.draw();
-    x.shapes.selectAll("text").attr("transform",
+    
+	x.shapes.selectAll("text").attr("transform",
         function (d) {
             //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
             return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";

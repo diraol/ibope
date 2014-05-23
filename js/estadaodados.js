@@ -13,8 +13,8 @@ function carrega () {
 function cria_grafico() {
     var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", "total"), "variavel", "total");
     var myChart = new dimple.chart(svg,data);
-    myChart.setBounds(40,20,750,390);
-    var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%d/%m	");
+    myChart.setBounds(45,20,725,390);
+    var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%d/%m");
     x.addOrderRule("");
     x.title = "";
     x.overrideMin = new Date("2014-03-16"); //TODO: pegar a menor data usando a d3 e lendo a base de dados e subtrair 1
@@ -90,6 +90,6 @@ function atualiza_recorte(recorte, variavel, texto){
 }
 
 $(document).ready(function(){
-    window.svg = dimple.newSvg("#grafico", 900, 490);
+    window.svg = dimple.newSvg("#grafico", 950, 490);
     carrega();
 });

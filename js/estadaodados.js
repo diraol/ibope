@@ -21,9 +21,9 @@ function cria_grafico() {
     x.overrideMax = new Date("2014-05-20"); //TODO: pegar a maior data usando a d3 e lendo a base de dados e somar 1
     //x.timeInterval = 4;
     myChart.addMeasureAxis("y","intencao");
-	
+
     myChart.addSeries("candidato",dimple.plot.line);
-	s = myChart.addSeries("candidato", dimple.plot.bubble);
+    s = myChart.addSeries("candidato", dimple.plot.bubble);
     legend = myChart.addLegend(720, 2, 195, 220, "right");
     myChart.assignColor("Aécio Neves","#1C4587");
     myChart.assignColor("Dilma Rousseff","#CC0000");
@@ -31,50 +31,50 @@ function cria_grafico() {
     myChart.assignColor("Pastor Everaldo","#6AA84F");
     myChart.assignColor("Não sabe","#2E2B2D");
     myChart.assignColor("Branco e Nulo","#C9C9C9");
-	
-	//arruma ordem da legenda
-	legend._getEntries = function () {
-	    var orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Outros","Branco e Nulo","Não sabe"];
-	    var entries = [];
-	    orderedValues.forEach(function (v) {
-	        entries.push(
-	        {
-	                key: v,
-	                fill: myChart.getColor(v).fill,
-	                stroke: myChart.getColor(v).stroke,
-	                opacity: myChart.getColor(v).opacity,
-	                series: s,
-	                aggField: [v]
-	            }
-	        );
-	    }, this);
 
-	    return entries;
-	};
-	
-	//arruma as fontes
-	legend.fontFamily = "Arial";
-	legend.fontSize = "82%";
+    //arruma ordem da legenda
+    legend._getEntries = function () {
+        var orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Outros","Branco e Nulo","Não sabe"];
+        var entries = [];
+        orderedValues.forEach(function (v) {
+            entries.push(
+            {
+                    key: v,
+                    fill: myChart.getColor(v).fill,
+                    stroke: myChart.getColor(v).stroke,
+                    opacity: myChart.getColor(v).opacity,
+                    series: s,
+                    aggField: [v]
+                }
+            );
+        }, this);
 
-	x.fontFamily = "Arial";
-	x.fontSize = "95%";
-	
-	y = myChart.axes[1]
-	
-	y.fontFamily = "Arial";
-	y.fontSize = "95%";
-	y.title = "Intenção de Voto"
-	
-	//customiza a tooltip
-	s.getTooltipText = function (e) {
-	    return [
-			e.aggField[0]+": "+ e.y
-	    ];
-	};
-	
+        return entries;
+    };
+
+    //arruma as fontes
+    legend.fontFamily = "Arial";
+    legend.fontSize = "82%";
+
+    x.fontFamily = "Arial";
+    x.fontSize = "95%";
+
+    y = myChart.axes[1]
+
+    y.fontFamily = "Arial";
+    y.fontSize = "95%";
+    y.title = "Intenção de Voto"
+
+    //customiza a tooltip
+    s.getTooltipText = function (e) {
+        return [
+            e.aggField[0]+": "+ e.y
+        ];
+    };
+
     myChart.draw();
-    
-	x.shapes.selectAll("text").attr("transform",
+
+    x.shapes.selectAll("text").attr("transform",
         function (d) {
             //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
             return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";

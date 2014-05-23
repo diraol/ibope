@@ -53,15 +53,15 @@ function cria_grafico() {
     };
 
     //arruma as fontes
-    legend.fontFamily = "Arial";
+    //legend.fontFamily = "Arial";
     legend.fontSize = "82%";
 
-    x.fontFamily = "Arial";
+    //x.fontFamily = "Arial";
     x.fontSize = "95%";
 
     y = myChart.axes[1]
 
-    y.fontFamily = "Arial";
+    //y.fontFamily = "Arial";
     y.fontSize = "95%";
     y.title = "Intenção de Voto"
 

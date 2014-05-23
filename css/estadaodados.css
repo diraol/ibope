@@ -1,3 +1,10 @@
+/* Estilo do Jornal */
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia','Times New Roman';
+}
+
+/* ----------------- */
+
 body {
   padding-top: 50px;
   padding-bottom: 40px;
@@ -83,11 +90,6 @@ footer p {
   padding-right: 5px;
 }
 
-.dimple-tooltip {
-  font-family: "Georgia", "Times New Roman", Times, serif;
-  font-size:100% !important;
-}
-
 /*ESPECÍFICO DA PÁGINA/PROJETO*/
 .cat_label {
   font-size: 0.8em;
@@ -100,3 +102,15 @@ footer p {
   margin-bottom: 10px;
 }
 
+.dimple-tooltip {
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  font-size:100% !important;
+}
+
+.dimple-legend {
+  font-family: Arial;
+}
+
+.dimple-title {
+  font-family: Arial;
+}

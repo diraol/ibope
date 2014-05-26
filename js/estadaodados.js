@@ -86,7 +86,7 @@ function atualiza_recorte(recorte, variavel, texto){
     var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", recorte), "variavel", variavel);
     chart.data = data;
     chart.draw(1000);
-    $(".botao-selecao").html(texto);
+    $(".botao-selecao-recorte").html(texto);
 }
 
 $(document).ready(function(){

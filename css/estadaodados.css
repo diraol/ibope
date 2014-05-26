@@ -122,4 +122,10 @@ footer {
 
 .ajuste-text-botao {
   padding-top: 5px;
+  font-size: 1.2em;
+}
+
+.dropdown-menu {
+  overflow-y: scroll;
+  max-height: 490px;
 }

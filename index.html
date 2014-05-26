@@ -120,29 +120,29 @@
 
   <!-- Conteúdo Principal -->
   <section id="main-content container-fluid">
-        <div class="col-xs-5 text-right">
+        <div class="col-md-2 col-md-offset-3 col-xs-12 col-sm-3 col-sm-offset-2">
           <div class="input-group">
             <div class="input-group-btn">
-              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-pergunta">Intenção de Voto<span class="caret"></span></button>
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-pergunta"><span class="botao-selecao-pergunta">Intenção de Voto</span>&nbsp;<span class="caret"></span></button>
               <ul class="dropdown-menu">
-                <li><a href="#" onClick="atualiza_pergunta(vida_hoje)">Como está a sua vida hoje?</a></li>
-                <li><a href="#" onClick="atualiza_pergunta(interesse_eleicoes)">Qual seu interesse nas eleições?</a></li>
-                <li><a href="#" onClick="atualiza_pergunta(intencao_espontanea)">Inteção Espontânea?</a></li>
-                <li><a href="#" onClick="atualiza_pergunta(intencao_estimulada)">Intenção Estimulada</a></li>
-                <li><a href="#" onClick="atualiza_pergunta(avaliacao_governo)">Avaliação do Governo?</a></li>
-                <li><a href="#" onClick="atualiza_pergunta(aprova_dilma)">Aprovação da Dilma?</a></li>
-                <li><a href="#" onClick="atualiza_pergunta(grau_mudanca)">Grau de Mudança?</a></li>
+                <li><a href="#" onClick="atualiza_pergunta('intencao_de_voto','Intenção de Voto')">Como está a sua vida hoje?</a></li>
+                <li><a href="#" onClick="atualiza_pergunta('interesse_eleicoes','Qual interesse')">Qual seu interesse nas eleições?</a></li>
+                <li><a href="#" onClick="atualiza_pergunta('intencao_espontanea','intencao_espontanea')">Inteção Espontânea?</a></li>
+                <li><a href="#" onClick="atualiza_pergunta('intencao_estimulada','intencao_estimulada')">Intenção Estimulada</a></li>
+                <li><a href="#" onClick="atualiza_pergunta('avaliacao_governo','avaliacao_governo')">Avaliação do Governo?</a></li>
+                <li><a href="#" onClick="atualiza_pergunta('aprova_dilma','aprova_dilma')">Aprovação da Dilma?</a></li>
+                <li><a href="#" onClick="atualiza_pergunta('grau_mudanca','grau_mudanca')">Grau de Mudança?</a></li>
               </ul>
             </div><!-- /btn-group-->
           </div><!-- /input-group-->
         </div><!-- /.col-xs-6-->
-        <div class="col-xs-2 text-center sem-padding ajuste-text-botao">
+        <div class="col-md-2 col-xs-12 col-sm-5 sem-padding ajuste-text-botao">
           dos candidatos no eleitorado:
         </div>
-        <div class="col-xs-4 text-left">
+        <div class="col-md-5 col-xs-12 col-sm-5">
           <div class="input-group recorte">
             <div class="input-group-btn">
-              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-recorte">Total</span><span class="caret"></span></button>
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-recorte">Total</span>&nbsp;<span class="caret"></span></button>
               <ul class="dropdown-menu">
                 <li><a href="#" onClick="atualiza_recorte('total','total','Total')">Total</a></li>
                 <li class="cat-label">do Sexo</li>

@@ -82,11 +82,35 @@ function cria_grafico() {
     window.chart=myChart;
 }
 
+function atualiza_grafico(argumentos) {
+    // argumentos é um dicionário com as seguintes variáveis:
+    // pergunta, recorte, variavel, texto_pergunta, texto_recorte
+
+    // Definindo valor padrão para as variáveis, caso nenhum seja passado.
+    var pergunta = argumentos.pergunta || $(".botao-selecao-pergunta").data("pergunta") || "intencao_de_voto";
+        recorte = argumentos.recorte || $(".botao-selecao-recorte").data("recorte") || "total",
+        variavel = argumentos.variavel || $(".botao-selecao-recorte").data("variavel") || "total",
+        texto_pergunta = argumentos.texto_pergunta || $(".botao-selecao-pergunta").html() || "Intenção de Votos",
+        texto_recorte = argumentos.texto_recorte || $(".botao-selecao-recorte").html() || "Total do eleitorado";
+
+    var data = dimple.filterData(window.complete_data, "pergunta", pergunta); // Filtrando Pergunta
+    data = dimple.filterData(data, "recorte", recorte); // Filtrando Recorte
+    data = dimple.filterData(data, "variavel", variavel); //Filtrando variável do recorte
+
+    chart.data = data; // Definindo novo conjunto de dados do gráfico
+
+    chart.draw(1000); // Desenhando novo gráfico com animação durando 1000 ms
+
+    $(".botao-selecao-pergunta").html(texto_pergunta); // Alterando texto do botão de pergunta
+    $(".botao-selecao-recorte").html(texto_recorte); // Alterando texto do botão de recorte
+}
+
 function atualiza_recorte(recorte, variavel, texto){
-    var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", recorte), "variavel", variavel);
-    chart.data = data;
-    chart.draw(1000);
-    $(".botao-selecao-recorte").html(texto);
+    atualiza_grafico({recorte: recorte, variavel: variavel, texto_recorte: texto});
+}
+
+function atualiza_pergunta(pergunta,texto){
+    atualiza_grafico({pergunta: pergunta, texto_pergunta: texto})
 }
 
 $(document).ready(function(){

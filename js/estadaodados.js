@@ -3,7 +3,7 @@ var meuGrafico = null;
 
 function carrega () {
   //desenha grafico
-    d3.csv("dados/recortes_ibope_2014.csv", function (data) {
+    d3.csv("dados/ibope_2014.csv", function (data) {
         window.complete_data = data;
         //atualiza_recorte("escolaridade","medio");
         cria_grafico();
@@ -11,7 +11,7 @@ function carrega () {
 }
 
 function cria_grafico() {
-    var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", "total"), "variavel", "total");
+    var data = dimple.filterData(dimple.filterData(window.complete_data, "recorte", "total"),"cat_dado","intencao_estimulada");
     var myChart = new dimple.chart(svg,data);
     myChart.setBounds(45,20,725,390);
     var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%d/%m");
@@ -20,10 +20,10 @@ function cria_grafico() {
     x.overrideMin = new Date("2014-03-16"); //TODO: pegar a menor data usando a d3 e lendo a base de dados e subtrair 1
     x.overrideMax = new Date("2014-05-20"); //TODO: pegar a maior data usando a d3 e lendo a base de dados e somar 1
     //x.timeInterval = 4;
-    myChart.addMeasureAxis("y","intencao");
+    myChart.addMeasureAxis("y","variavel");
 
-    myChart.addSeries("candidato",dimple.plot.line);
-    s = myChart.addSeries("candidato", dimple.plot.bubble);
+    myChart.addSeries("dado",dimple.plot.line);
+    s = myChart.addSeries("dado", dimple.plot.bubble);
     legend = myChart.addLegend(720, 2, 195, 220, "right");
     myChart.assignColor("Aécio Neves","#1C4587");
     myChart.assignColor("Dilma Rousseff","#CC0000");
@@ -80,33 +80,55 @@ function cria_grafico() {
             return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
         });
     window.chart=myChart;
+    
+}
+
+function limpar_legendas() {
+    $('*[class^="dimple-legend"]').remove()
 }
 
 function atualiza_grafico(argumentos) {
+    mudanca = (argumentos.pergunta) ? "pergunta" : "resposta";
+
     // argumentos é um dicionário com as seguintes variáveis:
     // pergunta, recorte, variavel, texto_pergunta, texto_recorte
 
     // Definindo valor padrão para as variáveis, caso nenhum seja passado.
-    var pergunta = argumentos.pergunta || $(".botao-selecao-pergunta").data("pergunta") || "intencao_de_voto";
+    var pergunta = argumentos.pergunta || $(".botao-selecao-pergunta").data("pergunta") || "intencao_estimulada";
         recorte = argumentos.recorte || $(".botao-selecao-recorte").data("recorte") || "total",
-        variavel = argumentos.variavel || $(".botao-selecao-recorte").data("variavel") || "total",
-        texto_pergunta = argumentos.texto_pergunta || $(".botao-selecao-pergunta").html() || "Intenção de Votos",
+        texto_pergunta = argumentos.texto_pergunta || $(".botao-selecao-pergunta").html() || "Intenção de Voto Estimulada",
         texto_recorte = argumentos.texto_recorte || $(".botao-selecao-recorte").html() || "Total do eleitorado";
-
-    var data = dimple.filterData(window.complete_data, "pergunta", pergunta); // Filtrando Pergunta
-    data = dimple.filterData(data, "recorte", recorte); // Filtrando Recorte
-    data = dimple.filterData(data, "variavel", variavel); //Filtrando variável do recorte
-
+    
+    // faz com que o recorte vire total se uma nova pergunta for selecionada
+    if (mudanca == "pergunta") {
+        recorte = "total"
+        texto_recorte = "Total do eleitorado"
+    // e coloca um atributo de "data" no botão mostrando qual é a atual pergunta
+        $(".botao-selecao-pergunta").data("pergunta",pergunta) 
+    }
+    
+    // filtra os dados de acordo com a pergunta e o recorte atuais
+    var data = window.complete_data
+    data = dimple.filterData(data, "cat_dado", pergunta); 
+    data = dimple.filterData(data, "recorte", recorte); 
+    
+    $(".botao-selecao-pergunta").html(texto_pergunta); // Alterando texto do botão de pergunta
+    $(".botao-selecao-recorte").html(texto_recorte); // Alterando texto do botão de recorte
+    
+    console.log(argumentos)
+    
     chart.data = data; // Definindo novo conjunto de dados do gráfico
+    chart.legends = []
+    limpar_legendas()
+    
+    legend = chart.addLegend(720, 2, 195, 220, "right");
 
     chart.draw(1000); // Desenhando novo gráfico com animação durando 1000 ms
 
-    $(".botao-selecao-pergunta").html(texto_pergunta); // Alterando texto do botão de pergunta
-    $(".botao-selecao-recorte").html(texto_recorte); // Alterando texto do botão de recorte
 }
 
-function atualiza_recorte(recorte, variavel, texto){
-    atualiza_grafico({recorte: recorte, variavel: variavel, texto_recorte: texto});
+function atualiza_recorte(cat_recorte, recorte, texto){
+    atualiza_grafico({cat_recorte:cat_recorte, recorte: recorte, texto_recorte: texto});
 }
 
 function atualiza_pergunta(pergunta,texto){

@@ -1,4 +1,4 @@
-data,cat_dado,dado,cat_recorte,recorte,variavel
+data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,vida_hoje,Muito satisfeito,sexo,MAS,11
 2014-03-17,vida_hoje,Satisfeito,sexo,MAS,73
 2014-03-17,vida_hoje,Insatisfeito,sexo,MAS,13

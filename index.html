@@ -123,18 +123,17 @@
         <div class="col-md-2 col-md-offset-3 col-xs-12 col-sm-3 col-sm-offset-2">
           <div class="input-group">
             <div class="input-group-btn">
-              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-pergunta"><span class="botao-selecao-pergunta">Intenção de Voto</span>&nbsp;<span class="caret"></span></button>
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-pergunta" data-pergunta="intencao_estimulada"><span class="botao-selecao-pergunta">Intenção de Voto Estimulada</span>&nbsp;<span class="caret"></span></button>
               <ul class="dropdown-menu">
-                <li><a href="#" data-pergunta="interesse" onClick="atualiza_pergunta('interesse','Qual interesse nas eleições')">Qual seu interesse nas eleições?</a></li>
-                <li><a href="#" onClick="atualiza_pergunta('intencao_espontanea','Intenção de Voto Espontânea')">Intenção de Voto Espontânea</a></li>
                 <li><a href="#" onClick="atualiza_pergunta('intencao_estimulada','Intenção de Voto Estimulada')">Intenção de Voto Estimulada</a></li>
+                <li><a href="#" onClick="atualiza_pergunta('intencao_espontanea','Intenção de Voto Espontânea')">Intenção de Voto Espontânea</a></li>
+                <li><a href="#" data-pergunta="interesse" onClick="atualiza_pergunta('interesse','Qual interesse nas eleições')">Qual seu interesse nas eleições?</a></li>
                 <li><a href="#" onClick="atualiza_pergunta('avaliacao_governo','Avaliação do Governo')">Avaliação do Governo</a></li>
                 <li><a href="#" onClick="atualiza_pergunta('aprova_dilma','Aprovação da Dilma')">Aprovação da Dilma</a></li>
                 <li><a href="#" onClick="atualiza_pergunta('desejo_mudanca','Desejo de Mudança')">Desejo de Mudança</a></li>
                 <li><a href="#" onClick="atualiza_pergunta('rejeicao','Rejeição')">Rejeição</a></li>
                 <li><a href="#" onClick="atualiza_pergunta('2turno_aecio','2o. Turno - com Aécio')">2o. Turno - com Aécio</a></li>
                 <li><a href="#" onClick="atualiza_pergunta('2turno_campos','2o. Turno - com Campos')">2o. Turno - com Campos</a></li>
-                
               </ul>
             </div><!-- /btn-group-->
           </div><!-- /input-group-->
@@ -145,7 +144,7 @@
         <div class="col-md-5 col-xs-12 col-sm-5">
           <div class="input-group recorte">
             <div class="input-group-btn">
-              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-recorte">Total</span>&nbsp;<span class="caret"></span></button>
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-recorte" data-catRecorte="total" data-recorte="total">Total</span>&nbsp;<span class="caret"></span></button>
               <ul class="dropdown-menu">
                 <li><a href="#" onClick="atualiza_recorte('total','total','Total')">Total</a></li>
                 <li class="cat-label">do Sexo</li>

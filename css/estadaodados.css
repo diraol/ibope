@@ -131,3 +131,21 @@ footer {
   overflow-x: hidden;
   max-height: 490px;
 }
+
+/*@media screen and (max-width: 768px ) {*/
+  /*div.div-botao-pergunta {*/
+    /*text-align: center;*/
+  /*}*/
+  /*.input-group-btn ul.dropdown-menu {*/
+    /*left: 0;*/
+    /*right: auto;*/
+    /*text-align: center;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+  /*}*/
+  /*.input-group-btn {*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*display:block;*/
+  /*}*/
+/*}*/

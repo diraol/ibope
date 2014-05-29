@@ -110,9 +110,10 @@ function configuraCores(grafico, pergunta) {
         grafico.assignColor("Branco e Nulo","#C9C9C9");
     } else if (pergunta.indexOf("avalia") != -1 || pergunta.indexOf("aprova") != -1 ) {
         grafico.defaultColors = [
-            new dimple.color("#E87D61"),
-            new dimple.color("#8F4E3D"),
-            new dimple.color("#BA6650")
+            new dimple.color("#592640"),
+            new dimple.color("#CCB1BE"),
+            new dimple.color("#B06898")
+            
         ]
     }else if (pergunta.indexOf("interesse") != -1) {
          grafico.defaultColors = [

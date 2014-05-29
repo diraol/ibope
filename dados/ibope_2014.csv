@@ -725,114 +725,6 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,2turno_campos,Eduardo Campos,regiao,SUL,20
 2014-03-17,2turno_campos,Branco/ Nulo,regiao,SUL,27
 2014-03-17,2turno_campos,Não sabe/ Não respondeu,regiao,SUL,13
-2014-03-17,vida_hoje,Satisfeito,cor,Branca,NA
-2014-03-17,vida_hoje,Insatisfeito,cor,Branca,NA
-2014-03-17,vida_hoje,NS/NR*,cor,Branca,NA
-2014-03-17,vida_hoje,Satisfeito,cor,Preta ou parda,NA
-2014-03-17,vida_hoje,Insatisfeito,cor,Preta ou parda,NA
-2014-03-17,vida_hoje,NS/NR*,cor,Preta ou parda,NA
-2014-03-17,vida_hoje,Satisfeito,cor,Outras,NA
-2014-03-17,vida_hoje,Insatisfeito,cor,Outras,NA
-2014-03-17,vida_hoje,NS/NR*,cor,Outras,NA
-2014-03-17,interesse,Tem muito interesse,cor,Branca,NA
-2014-03-17,interesse,Tem médio interesse,cor,Branca,NA
-2014-03-17,interesse,Não tem interesse,cor,Branca,NA
-2014-03-17,interesse,NS/NR*,cor,Branca,NA
-2014-03-17,interesse,Tem muito interesse,cor,Preta ou parda,NA
-2014-03-17,interesse,Tem médio interesse,cor,Preta ou parda,NA
-2014-03-17,interesse,Não tem interesse,cor,Preta ou parda,NA
-2014-03-17,interesse,NS/NR*,cor,Preta ou parda,NA
-2014-03-17,interesse,Tem muito interesse,cor,Outras,NA
-2014-03-17,interesse,Tem médio interesse,cor,Outras,NA
-2014-03-17,interesse,Não tem interesse,cor,Outras,NA
-2014-03-17,interesse,NS/NR*,cor,Outras,NA
-2014-03-17,desejo_mudanca,Quer mudança,cor,Branca,NA
-2014-03-17,desejo_mudanca,Quer continuidade,cor,Branca,NA
-2014-03-17,desejo_mudanca,NS/NR*,cor,Branca,NA
-2014-03-17,desejo_mudanca,Quer mudança,cor,Preta ou parda,NA
-2014-03-17,desejo_mudanca,Quer continuidade,cor,Preta ou parda,NA
-2014-03-17,desejo_mudanca,NS/NR*,cor,Preta ou parda,NA
-2014-03-17,desejo_mudanca,Quer mudança,cor,Outras,NA
-2014-03-17,desejo_mudanca,Quer continuidade,cor,Outras,NA
-2014-03-17,desejo_mudanca,NS/NR*,cor,Outras,NA
-2014-03-17,2turno_aecio,Aécio Neves,cor,Branca,NA
-2014-03-17,2turno_aecio,Dilma Rousseff,cor,Branca,NA
-2014-03-17,2turno_aecio,Branco/ Nulo,cor,Branca,NA
-2014-03-17,2turno_aecio,Não sabe/ Não respondeu,cor,Branca,NA
-2014-03-17,2turno_aecio,Aécio Neves,cor,Preta ou parda,NA
-2014-03-17,2turno_aecio,Dilma Rousseff,cor,Preta ou parda,NA
-2014-03-17,2turno_aecio,Branco/ Nulo,cor,Preta ou parda,NA
-2014-03-17,2turno_aecio,Não sabe/ Não respondeu,cor,Preta ou parda,NA
-2014-03-17,2turno_aecio,Aécio Neves,cor,Outras,NA
-2014-03-17,2turno_aecio,Dilma Rousseff,cor,Outras,NA
-2014-03-17,2turno_aecio,Branco/ Nulo,cor,Outras,NA
-2014-03-17,2turno_aecio,Não sabe/ Não respondeu,cor,Outras,NA
-2014-03-17,2turno_campos,Dilma Rousseff,cor,Branca,NA
-2014-03-17,2turno_campos,Eduardo Campos,cor,Branca,NA
-2014-03-17,2turno_campos,Branco/ Nulo,cor,Branca,NA
-2014-03-17,2turno_campos,Não sabe/ Não respondeu,cor,Branca,NA
-2014-03-17,2turno_campos,Dilma Rousseff,cor,Preta ou parda,NA
-2014-03-17,2turno_campos,Eduardo Campos,cor,Preta ou parda,NA
-2014-03-17,2turno_campos,Branco/ Nulo,cor,Preta ou parda,NA
-2014-03-17,2turno_campos,Não sabe/ Não respondeu,cor,Preta ou parda,NA
-2014-03-17,2turno_campos,Dilma Rousseff,cor,Outras,NA
-2014-03-17,2turno_campos,Eduardo Campos,cor,Outras,NA
-2014-03-17,2turno_campos,Branco/ Nulo,cor,Outras,NA
-2014-03-17,2turno_campos,Não sabe/ Não respondeu,cor,Outras,NA
-2014-03-17,vida_hoje,Satisfeito,religiao,Catolica,NA
-2014-03-17,vida_hoje,Insatisfeito,religiao,Catolica,NA
-2014-03-17,vida_hoje,NS/NR*,religiao,Catolica,NA
-2014-03-17,vida_hoje,Satisfeito,religiao,Evangelica,NA
-2014-03-17,vida_hoje,Insatisfeito,religiao,Evangelica,NA
-2014-03-17,vida_hoje,NS/NR*,religiao,Evangelica,NA
-2014-03-17,vida_hoje,Satisfeito,religiao,Outras,NA
-2014-03-17,vida_hoje,Insatisfeito,religiao,Outras,NA
-2014-03-17,vida_hoje,NS/NR*,religiao,Outras,NA
-2014-03-17,interesse,Tem muito interesse,religiao,Catolica,NA
-2014-03-17,interesse,Tem médio interesse,religiao,Catolica,NA
-2014-03-17,interesse,Não tem interesse,religiao,Catolica,NA
-2014-03-17,interesse,NS/NR*,religiao,Catolica,NA
-2014-03-17,interesse,Tem muito interesse,religiao,Evangelica,NA
-2014-03-17,interesse,Tem médio interesse,religiao,Evangelica,NA
-2014-03-17,interesse,Não tem interesse,religiao,Evangelica,NA
-2014-03-17,interesse,NS/NR*,religiao,Evangelica,NA
-2014-03-17,interesse,Tem muito interesse,religiao,Outras,NA
-2014-03-17,interesse,Tem médio interesse,religiao,Outras,NA
-2014-03-17,interesse,Não tem interesse,religiao,Outras,NA
-2014-03-17,interesse,NS/NR*,religiao,Outras,NA
-2014-03-17,desejo_mudanca,Quer mudança,religiao,Catolica,NA
-2014-03-17,desejo_mudanca,Quer continuidade,religiao,Catolica,NA
-2014-03-17,desejo_mudanca,NS/NR*,religiao,Catolica,NA
-2014-03-17,desejo_mudanca,Quer mudança,religiao,Evangelica,NA
-2014-03-17,desejo_mudanca,Quer continuidade,religiao,Evangelica,NA
-2014-03-17,desejo_mudanca,NS/NR*,religiao,Evangelica,NA
-2014-03-17,desejo_mudanca,Quer mudança,religiao,Outras,NA
-2014-03-17,desejo_mudanca,Quer continuidade,religiao,Outras,NA
-2014-03-17,desejo_mudanca,NS/NR*,religiao,Outras,NA
-2014-03-17,2turno_aecio,Aécio Neves,religiao,Catolica,NA
-2014-03-17,2turno_aecio,Dilma Rousseff,religiao,Catolica,NA
-2014-03-17,2turno_aecio,Branco/ Nulo,religiao,Catolica,NA
-2014-03-17,2turno_aecio,Não sabe/ Não respondeu,religiao,Catolica,NA
-2014-03-17,2turno_aecio,Aécio Neves,religiao,Evangelica,NA
-2014-03-17,2turno_aecio,Dilma Rousseff,religiao,Evangelica,NA
-2014-03-17,2turno_aecio,Branco/ Nulo,religiao,Evangelica,NA
-2014-03-17,2turno_aecio,Não sabe/ Não respondeu,religiao,Evangelica,NA
-2014-03-17,2turno_aecio,Aécio Neves,religiao,Outras,NA
-2014-03-17,2turno_aecio,Dilma Rousseff,religiao,Outras,NA
-2014-03-17,2turno_aecio,Branco/ Nulo,religiao,Outras,NA
-2014-03-17,2turno_aecio,Não sabe/ Não respondeu,religiao,Outras,NA
-2014-03-17,2turno_campos,Dilma Rousseff,religiao,Catolica,NA
-2014-03-17,2turno_campos,Eduardo Campos,religiao,Catolica,NA
-2014-03-17,2turno_campos,Branco/ Nulo,religiao,Catolica,NA
-2014-03-17,2turno_campos,Não sabe/ Não respondeu,religiao,Catolica,NA
-2014-03-17,2turno_campos,Dilma Rousseff,religiao,Evangelica,NA
-2014-03-17,2turno_campos,Eduardo Campos,religiao,Evangelica,NA
-2014-03-17,2turno_campos,Branco/ Nulo,religiao,Evangelica,NA
-2014-03-17,2turno_campos,Não sabe/ Não respondeu,religiao,Evangelica,NA
-2014-03-17,2turno_campos,Dilma Rousseff,religiao,Outras,NA
-2014-03-17,2turno_campos,Eduardo Campos,religiao,Outras,NA
-2014-03-17,2turno_campos,Branco/ Nulo,religiao,Outras,NA
-2014-03-17,2turno_campos,Não sabe/ Não respondeu,religiao,Outras,NA
 2014-03-17,interesse,Tem muito interesse,vida_hoje,Satisfeito,16
 2014-03-17,interesse,Tem médio interesse,vida_hoje,Satisfeito,31
 2014-03-17,interesse,Não tem interesse,vida_hoje,Satisfeito,51
@@ -845,30 +737,51 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,interesse,Tem médio interesse,vida_hoje,NS/NR*,22
 2014-03-17,interesse,Não tem interesse,vida_hoje,NS/NR*,78
 2014-03-17,interesse,NS/NR*,vida_hoje,NS/NR*,0
-2014-03-17,intencao_espontanea,Aécio Neves,vida_hoje,Satisfeito,8
-2014-03-17,intencao_espontanea,Branco e Nulo,vida_hoje,Satisfeito,16
-2014-03-17,intencao_espontanea,Dilma Rousseff,vida_hoje,Satisfeito,31
-2014-03-17,intencao_espontanea,Não sabe,vida_hoje,Satisfeito,44
-2014-03-17,intencao_espontanea,Aécio Neves,vida_hoje,Insatisfeito,5
-2014-03-17,intencao_espontanea,Branco e Nulo,vida_hoje,Insatisfeito,40
-2014-03-17,intencao_espontanea,Dilma Rousseff,vida_hoje,Insatisfeito,14
-2014-03-17,intencao_espontanea,Não sabe,vida_hoje,Insatisfeito,41
+2014-03-17,intencao_espontanea,Aécio Neves,vida_hoje,Satisfeito,7
+2014-03-17,intencao_espontanea,Branco e Nulo,vida_hoje,Satisfeito,14
+2014-03-17,intencao_espontanea,Dilma Rousseff,vida_hoje,Satisfeito,26
+2014-03-17,intencao_espontanea,Eduardo Campos,vida_hoje,Satisfeito,3
+2014-03-17,intencao_espontanea,Lula,vida_hoje,Satisfeito,7
+2014-03-17,intencao_espontanea,Marina Silva,vida_hoje,Satisfeito,2
+2014-03-17,intencao_espontanea,Não sabe,vida_hoje,Satisfeito,37
+2014-03-17,intencao_espontanea,Outros,vida_hoje,Satisfeito,3
+2014-03-17,intencao_espontanea,Aécio Neves,vida_hoje,Insatisfeito,4
+2014-03-17,intencao_espontanea,Branco e Nulo,vida_hoje,Insatisfeito,34
+2014-03-17,intencao_espontanea,Dilma Rousseff,vida_hoje,Insatisfeito,12
+2014-03-17,intencao_espontanea,Eduardo Campos,vida_hoje,Insatisfeito,1
+2014-03-17,intencao_espontanea,Lula,vida_hoje,Insatisfeito,8
+2014-03-17,intencao_espontanea,Marina Silva,vida_hoje,Insatisfeito,3
+2014-03-17,intencao_espontanea,Não sabe,vida_hoje,Insatisfeito,35
+2014-03-17,intencao_espontanea,Outros,vida_hoje,Insatisfeito,2
 2014-03-17,intencao_espontanea,Aécio Neves,vida_hoje,NS/NR*,11
 2014-03-17,intencao_espontanea,Branco e Nulo,vida_hoje,NS/NR*,33
 2014-03-17,intencao_espontanea,Dilma Rousseff,vida_hoje,NS/NR*,11
+2014-03-17,intencao_espontanea,Eduardo Campos,vida_hoje,NS/NR*,0
+2014-03-17,intencao_espontanea,Lula,vida_hoje,NS/NR*,0
+2014-03-17,intencao_espontanea,Marina Silva,vida_hoje,NS/NR*,0
 2014-03-17,intencao_espontanea,Não sabe,vida_hoje,NS/NR*,44
-2014-03-17,intencao_estimulada,Aécio Neves,vida_hoje,Satisfeito,16
-2014-03-17,intencao_estimulada,Branco e Nulo,vida_hoje,Satisfeito,22
-2014-03-17,intencao_estimulada,Dilma Rousseff,vida_hoje,Satisfeito,48
-2014-03-17,intencao_estimulada,Não sabe,vida_hoje,Satisfeito,13
-2014-03-17,intencao_estimulada,Aécio Neves,vida_hoje,Insatisfeito,11
-2014-03-17,intencao_estimulada,Branco e Nulo,vida_hoje,Insatisfeito,43
-2014-03-17,intencao_estimulada,Dilma Rousseff,vida_hoje,Insatisfeito,31
-2014-03-17,intencao_estimulada,Não sabe,vida_hoje,Insatisfeito,15
+2014-03-17,intencao_espontanea,Outros,vida_hoje,NS/NR*,0
+2014-03-17,intencao_estimulada,Aécio Neves,vida_hoje,Satisfeito,14
+2014-03-17,intencao_estimulada,Branco e Nulo,vida_hoje,Satisfeito,20
+2014-03-17,intencao_estimulada,Dilma Rousseff,vida_hoje,Satisfeito,43
+2014-03-17,intencao_estimulada,Eduardo Campos,vida_hoje,Satisfeito,7
+2014-03-17,intencao_estimulada,Não sabe,vida_hoje,Satisfeito,12
+2014-03-17,intencao_estimulada,Outros,vida_hoje,Satisfeito,1
+2014-03-17,intencao_estimulada,Pastor Everaldo,vida_hoje,Satisfeito,3
+2014-03-17,intencao_estimulada,Aécio Neves,vida_hoje,Insatisfeito,10
+2014-03-17,intencao_estimulada,Branco e Nulo,vida_hoje,Insatisfeito,39
+2014-03-17,intencao_estimulada,Dilma Rousseff,vida_hoje,Insatisfeito,28
+2014-03-17,intencao_estimulada,Eduardo Campos,vida_hoje,Insatisfeito,4
+2014-03-17,intencao_estimulada,Não sabe,vida_hoje,Insatisfeito,14
+2014-03-17,intencao_estimulada,Outros,vida_hoje,Insatisfeito,2
+2014-03-17,intencao_estimulada,Pastor Everaldo,vida_hoje,Insatisfeito,2
 2014-03-17,intencao_estimulada,Aécio Neves,vida_hoje,NS/NR*,11
 2014-03-17,intencao_estimulada,Branco e Nulo,vida_hoje,NS/NR*,33
 2014-03-17,intencao_estimulada,Dilma Rousseff,vida_hoje,NS/NR*,44
+2014-03-17,intencao_estimulada,Eduardo Campos,vida_hoje,NS/NR*,0
 2014-03-17,intencao_estimulada,Não sabe,vida_hoje,NS/NR*,11
+2014-03-17,intencao_estimulada,Outros,vida_hoje,NS/NR*,0
+2014-03-17,intencao_estimulada,Pastor Everaldo,vida_hoje,NS/NR*,0
 2014-03-17,desejo_mudanca,Quer mudança,vida_hoje,Satisfeito,61
 2014-03-17,desejo_mudanca,Quer continuidade,vida_hoje,Satisfeito,36
 2014-03-17,desejo_mudanca,NS/NR*,vida_hoje,Satisfeito,3
@@ -914,45 +827,65 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,vida_hoje,Satisfeito,interesse,NS/NR*,73
 2014-03-17,vida_hoje,Insatisfeito,interesse,NS/NR*,27
 2014-03-17,vida_hoje,NS/NR*,interesse,NS/NR*,0
-2014-03-17,intencao_espontanea,Aécio Neves,interesse,Tem muito interesse,15
-2014-03-17,intencao_espontanea,Branco e Nulo,interesse,Tem muito interesse,6
-2014-03-17,intencao_espontanea,Dilma Rousseff,interesse,Tem muito interesse,42
+2014-03-17,intencao_espontanea,Aécio Neves,interesse,Tem muito interesse,13
+2014-03-17,intencao_espontanea,Branco e Nulo,interesse,Tem muito interesse,5
+2014-03-17,intencao_espontanea,Dilma Rousseff,interesse,Tem muito interesse,39
+2014-03-17,intencao_espontanea,Eduardo Campos,interesse,Tem muito interesse,4
 2014-03-17,intencao_espontanea,Lula,interesse,Tem muito interesse,4
-2014-03-17,intencao_espontanea,Não sabe,interesse,Tem muito interesse,33
+2014-03-17,intencao_espontanea,Marina Silva,interesse,Tem muito interesse,2
+2014-03-17,intencao_espontanea,Não sabe,interesse,Tem muito interesse,30
+2014-03-17,intencao_espontanea,Outros,interesse,Tem muito interesse,3
 2014-03-17,intencao_espontanea,Aécio Neves,interesse,Tem médio interesse,7
 2014-03-17,intencao_espontanea,Branco e Nulo,interesse,Tem médio interesse,7
-2014-03-17,intencao_espontanea,Dilma Rousseff,interesse,Tem médio interesse,37
-2014-03-17,intencao_espontanea,Lula,interesse,Tem médio interesse,10
-2014-03-17,intencao_espontanea,Não sabe,interesse,Tem médio interesse,38
-2014-03-17,intencao_espontanea,Aécio Neves,interesse,Não tem interesse,5
-2014-03-17,intencao_espontanea,Branco e Nulo,interesse,Não tem interesse,29
-2014-03-17,intencao_espontanea,Dilma Rousseff,interesse,Não tem interesse,16
+2014-03-17,intencao_espontanea,Dilma Rousseff,interesse,Tem médio interesse,33
+2014-03-17,intencao_espontanea,Eduardo Campos,interesse,Tem médio interesse,3
+2014-03-17,intencao_espontanea,Lula,interesse,Tem médio interesse,9
+2014-03-17,intencao_espontanea,Marina Silva,interesse,Tem médio interesse,3
+2014-03-17,intencao_espontanea,Não sabe,interesse,Tem médio interesse,34
+2014-03-17,intencao_espontanea,Outros,interesse,Tem médio interesse,4
+2014-03-17,intencao_espontanea,Aécio Neves,interesse,Não tem interesse,4
+2014-03-17,intencao_espontanea,Branco e Nulo,interesse,Não tem interesse,27
+2014-03-17,intencao_espontanea,Dilma Rousseff,interesse,Não tem interesse,15
+2014-03-17,intencao_espontanea,Eduardo Campos,interesse,Não tem interesse,2
 2014-03-17,intencao_espontanea,Lula,interesse,Não tem interesse,8
-2014-03-17,intencao_espontanea,Não sabe,interesse,Não tem interesse,43
+2014-03-17,intencao_espontanea,Marina Silva,interesse,Não tem interesse,2
+2014-03-17,intencao_espontanea,Não sabe,interesse,Não tem interesse,39
+2014-03-17,intencao_espontanea,Outros,interesse,Não tem interesse,3
 2014-03-17,intencao_espontanea,Aécio Neves,interesse,NS/NR*,7
 2014-03-17,intencao_espontanea,Branco e Nulo,interesse,NS/NR*,13
 2014-03-17,intencao_espontanea,Dilma Rousseff,interesse,NS/NR*,17
+2014-03-17,intencao_espontanea,Eduardo Campos,interesse,NS/NR*,0
 2014-03-17,intencao_espontanea,Lula,interesse,NS/NR*,3
+2014-03-17,intencao_espontanea,Marina Silva,interesse,NS/NR*,0
 2014-03-17,intencao_espontanea,Não sabe,interesse,NS/NR*,60
-2014-03-17,intencao_estimulada,Aécio Neves,interesse,Tem muito interesse,24
-2014-03-17,intencao_estimulada,Branco e Nulo,interesse,Tem muito interesse,9
-2014-03-17,intencao_estimulada,Dilma Rousseff,interesse,Tem muito interesse,56
-2014-03-17,intencao_estimulada,Não sabe,interesse,Tem muito interesse,8
+2014-03-17,intencao_espontanea,Outros,interesse,NS/NR*,0
+2014-03-17,intencao_estimulada,Aécio Neves,interesse,Tem muito interesse,22
+2014-03-17,intencao_estimulada,Branco e Nulo,interesse,Tem muito interesse,8
+2014-03-17,intencao_estimulada,Dilma Rousseff,interesse,Tem muito interesse,49
+2014-03-17,intencao_estimulada,Eduardo Campos,interesse,Tem muito interesse,8
+2014-03-17,intencao_estimulada,Não sabe,interesse,Tem muito interesse,7
+2014-03-17,intencao_estimulada,Outros,interesse,Tem muito interesse,3
 2014-03-17,intencao_estimulada,Pastor Everaldo,interesse,Tem muito interesse,3
-2014-03-17,intencao_estimulada,Aécio Neves,interesse,Tem médio interesse,17
-2014-03-17,intencao_estimulada,Branco e Nulo,interesse,Tem médio interesse,13
-2014-03-17,intencao_estimulada,Dilma Rousseff,interesse,Tem médio interesse,57
-2014-03-17,intencao_estimulada,Não sabe,interesse,Tem médio interesse,10
+2014-03-17,intencao_estimulada,Aécio Neves,interesse,Tem médio interesse,16
+2014-03-17,intencao_estimulada,Branco e Nulo,interesse,Tem médio interesse,12
+2014-03-17,intencao_estimulada,Dilma Rousseff,interesse,Tem médio interesse,53
+2014-03-17,intencao_estimulada,Eduardo Campos,interesse,Tem médio interesse,6
+2014-03-17,intencao_estimulada,Não sabe,interesse,Tem médio interesse,9
+2014-03-17,intencao_estimulada,Outros,interesse,Tem médio interesse,1
 2014-03-17,intencao_estimulada,Pastor Everaldo,interesse,Tem médio interesse,3
-2014-03-17,intencao_estimulada,Aécio Neves,interesse,Não tem interesse,11
-2014-03-17,intencao_estimulada,Branco e Nulo,interesse,Não tem interesse,36
-2014-03-17,intencao_estimulada,Dilma Rousseff,interesse,Não tem interesse,34
-2014-03-17,intencao_estimulada,Não sabe,interesse,Não tem interesse,16
-2014-03-17,intencao_estimulada,Pastor Everaldo,interesse,Não tem interesse,3
+2014-03-17,intencao_estimulada,Aécio Neves,interesse,Não tem interesse,10
+2014-03-17,intencao_estimulada,Branco e Nulo,interesse,Não tem interesse,34
+2014-03-17,intencao_estimulada,Dilma Rousseff,interesse,Não tem interesse,32
+2014-03-17,intencao_estimulada,Eduardo Campos,interesse,Não tem interesse,6
+2014-03-17,intencao_estimulada,Não sabe,interesse,Não tem interesse,15
+2014-03-17,intencao_estimulada,Outros,interesse,Não tem interesse,1
+2014-03-17,intencao_estimulada,Pastor Everaldo,interesse,Não tem interesse,2
 2014-03-17,intencao_estimulada,Aécio Neves,interesse,NS/NR*,10
 2014-03-17,intencao_estimulada,Branco e Nulo,interesse,NS/NR*,13
 2014-03-17,intencao_estimulada,Dilma Rousseff,interesse,NS/NR*,30
+2014-03-17,intencao_estimulada,Eduardo Campos,interesse,NS/NR*,0
 2014-03-17,intencao_estimulada,Não sabe,interesse,NS/NR*,43
+2014-03-17,intencao_estimulada,Outros,interesse,NS/NR*,0
 2014-03-17,intencao_estimulada,Pastor Everaldo,interesse,NS/NR*,3
 2014-03-17,desejo_mudanca,Quer mudança,interesse,Tem muito interesse,55
 2014-03-17,desejo_mudanca,Quer continuidade,interesse,Tem muito interesse,44
@@ -1019,19 +952,28 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,interesse,Tem médio interesse,desejo_mudanca,NS/NR*,23
 2014-03-17,interesse,Não tem interesse,desejo_mudanca,NS/NR*,69
 2014-03-17,interesse,NS/NR*,desejo_mudanca,NS/NR*,4
-2014-03-17,intencao_espontanea,Branco e Nulo,desejo_mudanca,Quer mudança,26
-2014-03-17,intencao_espontanea,Dilma Rousseff,desejo_mudanca,Quer mudança,16
-2014-03-17,intencao_espontanea,Lula,desejo_mudanca,Quer mudança,9
-2014-03-17,intencao_espontanea,Não sabe,desejo_mudanca,Quer mudança,45
+2014-03-17,intencao_espontanea,Aécio Neves,desejo_mudanca,Quer mudança,8
+2014-03-17,intencao_espontanea,Branco e Nulo,desejo_mudanca,Quer mudança,22
+2014-03-17,intencao_espontanea,Dilma Rousseff,desejo_mudanca,Quer mudança,13
+2014-03-17,intencao_espontanea,Eduardo Campos,desejo_mudanca,Quer mudança,4
+2014-03-17,intencao_espontanea,Lula,desejo_mudanca,Quer mudança,8
+2014-03-17,intencao_espontanea,Marina Silva,desejo_mudanca,Quer mudança,3
+2014-03-17,intencao_espontanea,Não sabe,desejo_mudanca,Quer mudança,38
 2014-03-17,intencao_espontanea,Outros,desejo_mudanca,Quer mudança,4
-2014-03-17,intencao_espontanea,Branco e Nulo,desejo_mudanca,Quer continuidade,7
-2014-03-17,intencao_espontanea,Dilma Rousseff,desejo_mudanca,Quer continuidade,48
+2014-03-17,intencao_espontanea,Aécio Neves,desejo_mudanca,Quer continuidade,3
+2014-03-17,intencao_espontanea,Branco e Nulo,desejo_mudanca,Quer continuidade,6
+2014-03-17,intencao_espontanea,Dilma Rousseff,desejo_mudanca,Quer continuidade,45
+2014-03-17,intencao_espontanea,Eduardo Campos,desejo_mudanca,Quer continuidade,1
 2014-03-17,intencao_espontanea,Lula,desejo_mudanca,Quer continuidade,8
-2014-03-17,intencao_espontanea,Não sabe,desejo_mudanca,Quer continuidade,35
+2014-03-17,intencao_espontanea,Marina Silva,desejo_mudanca,Quer continuidade,2
+2014-03-17,intencao_espontanea,Não sabe,desejo_mudanca,Quer continuidade,33
 2014-03-17,intencao_espontanea,Outros,desejo_mudanca,Quer continuidade,2
+2014-03-17,intencao_espontanea,Aécio Neves,desejo_mudanca,NS/NR*,0
 2014-03-17,intencao_espontanea,Branco e Nulo,desejo_mudanca,NS/NR*,37
 2014-03-17,intencao_espontanea,Dilma Rousseff,desejo_mudanca,NS/NR*,7
+2014-03-17,intencao_espontanea,Eduardo Campos,desejo_mudanca,NS/NR*,0
 2014-03-17,intencao_espontanea,Lula,desejo_mudanca,NS/NR*,1
+2014-03-17,intencao_espontanea,Marina Silva,desejo_mudanca,NS/NR*,0
 2014-03-17,intencao_espontanea,Não sabe,desejo_mudanca,NS/NR*,53
 2014-03-17,intencao_espontanea,Outros,desejo_mudanca,NS/NR*,1
 2014-03-17,intencao_estimulada,Aécio Neves,desejo_mudanca,Quer mudança,18
@@ -2125,23 +2067,26 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_espontanea,Marina Silva,cor,Outras,2
 2014-04-14,intencao_espontanea,Não sabe,cor,Outras,45
 2014-04-14,intencao_espontanea,Outros,cor,Outras,2
-2014-04-14,intencao_estimulada,Aécio Neves,cor,Branca,18
-2014-04-14,intencao_estimulada,Branco e Nulo,cor,Branca,30
-2014-04-14,intencao_estimulada,Dilma Rousseff,cor,Branca,32
+2014-04-14,intencao_estimulada,Aécio Neves,cor,Branca,17
+2014-04-14,intencao_estimulada,Branco e Nulo,cor,Branca,29
+2014-04-14,intencao_estimulada,Dilma Rousseff,cor,Branca,30
 2014-04-14,intencao_estimulada,Eduardo Campos,cor,Branca,5
-2014-04-14,intencao_estimulada,Não sabe,cor,Branca,14
+2014-04-14,intencao_estimulada,Não sabe,cor,Branca,13
+2014-04-14,intencao_estimulada,Outros,cor,Branca,4
 2014-04-14,intencao_estimulada,Pastor Everaldo,cor,Branca,2
-2014-04-14,intencao_estimulada,Aécio Neves,cor,Preta ou parda,13
+2014-04-14,intencao_estimulada,Aécio Neves,cor,Preta ou parda,12
 2014-04-14,intencao_estimulada,Branco e Nulo,cor,Preta ou parda,22
-2014-04-14,intencao_estimulada,Dilma Rousseff,cor,Preta ou parda,43
-2014-04-14,intencao_estimulada,Eduardo Campos,cor,Preta ou parda,7
-2014-04-14,intencao_estimulada,Não sabe,cor,Preta ou parda,14
+2014-04-14,intencao_estimulada,Dilma Rousseff,cor,Preta ou parda,42
+2014-04-14,intencao_estimulada,Eduardo Campos,cor,Preta ou parda,6
+2014-04-14,intencao_estimulada,Não sabe,cor,Preta ou parda,13
+2014-04-14,intencao_estimulada,Outros,cor,Preta ou parda,3
 2014-04-14,intencao_estimulada,Pastor Everaldo,cor,Preta ou parda,2
 2014-04-14,intencao_estimulada,Aécio Neves,cor,Outras,23
 2014-04-14,intencao_estimulada,Branco e Nulo,cor,Outras,14
 2014-04-14,intencao_estimulada,Dilma Rousseff,cor,Outras,44
 2014-04-14,intencao_estimulada,Eduardo Campos,cor,Outras,3
 2014-04-14,intencao_estimulada,Não sabe,cor,Outras,11
+2014-04-14,intencao_estimulada,Outros,cor,Outras,0
 2014-04-14,intencao_estimulada,Pastor Everaldo,cor,Outras,5
 2014-04-14,avaliacao_governo,Ótimo ou bom,cor,Branca,29
 2014-04-14,avaliacao_governo,Regular,cor,Branca,33
@@ -2353,30 +2298,51 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,interesse,Tem médio interesse,vida_hoje,NS/NR*,18
 2014-04-14,interesse,Não tem interesse,vida_hoje,NS/NR*,55
 2014-04-14,interesse,NS/NR*,vida_hoje,NS/NR*,27
-2014-04-14,intencao_espontanea,Branco e Nulo,vida_hoje,Satisfeito,29
-2014-04-14,intencao_espontanea,Eduardo Campos,vida_hoje,Satisfeito,3
-2014-04-14,intencao_espontanea,Não sabe,vida_hoje,Satisfeito,68
-2014-04-14,intencao_espontanea,Branco e Nulo,vida_hoje,Insatisfeito,44
+2014-04-14,intencao_espontanea,Aécio Neves,vida_hoje,Satisfeito,7
+2014-04-14,intencao_espontanea,Branco e Nulo,vida_hoje,Satisfeito,16
+2014-04-14,intencao_espontanea,Dilma Rousseff,vida_hoje,Satisfeito,25
+2014-04-14,intencao_espontanea,Eduardo Campos,vida_hoje,Satisfeito,2
+2014-04-14,intencao_espontanea,Lula,vida_hoje,Satisfeito,7
+2014-04-14,intencao_espontanea,Marina Silva,vida_hoje,Satisfeito,4
+2014-04-14,intencao_espontanea,Não sabe,vida_hoje,Satisfeito,37
+2014-04-14,intencao_espontanea,Outros,vida_hoje,Satisfeito,3
+2014-04-14,intencao_espontanea,Aécio Neves,vida_hoje,Insatisfeito,7
+2014-04-14,intencao_espontanea,Branco e Nulo,vida_hoje,Insatisfeito,29
+2014-04-14,intencao_espontanea,Dilma Rousseff,vida_hoje,Insatisfeito,15
 2014-04-14,intencao_espontanea,Eduardo Campos,vida_hoje,Insatisfeito,1
-2014-04-14,intencao_espontanea,Não sabe,vida_hoje,Insatisfeito,55
+2014-04-14,intencao_espontanea,Lula,vida_hoje,Insatisfeito,6
+2014-04-14,intencao_espontanea,Marina Silva,vida_hoje,Insatisfeito,4
+2014-04-14,intencao_espontanea,Não sabe,vida_hoje,Insatisfeito,36
+2014-04-14,intencao_espontanea,Outros,vida_hoje,Insatisfeito,3
+2014-04-14,intencao_espontanea,Aécio Neves,vida_hoje,NS/NR*,0
 2014-04-14,intencao_espontanea,Branco e Nulo,vida_hoje,NS/NR*,27
+2014-04-14,intencao_espontanea,Dilma Rousseff,vida_hoje,NS/NR*,0
 2014-04-14,intencao_espontanea,Eduardo Campos,vida_hoje,NS/NR*,9
+2014-04-14,intencao_espontanea,Lula,vida_hoje,NS/NR*,0
+2014-04-14,intencao_espontanea,Marina Silva,vida_hoje,NS/NR*,0
 2014-04-14,intencao_espontanea,Não sabe,vida_hoje,NS/NR*,64
-2014-04-14,intencao_estimulada,Aécio Neves,vida_hoje,Satisfeito,16
-2014-04-14,intencao_estimulada,Branco e Nulo,vida_hoje,Satisfeito,23
-2014-04-14,intencao_estimulada,Dilma Rousseff,vida_hoje,Satisfeito,42
+2014-04-14,intencao_espontanea,Outros,vida_hoje,NS/NR*,0
+2014-04-14,intencao_estimulada,Aécio Neves,vida_hoje,Satisfeito,15
+2014-04-14,intencao_estimulada,Branco e Nulo,vida_hoje,Satisfeito,21
+2014-04-14,intencao_estimulada,Dilma Rousseff,vida_hoje,Satisfeito,40
 2014-04-14,intencao_estimulada,Eduardo Campos,vida_hoje,Satisfeito,6
 2014-04-14,intencao_estimulada,Não sabe,vida_hoje,Satisfeito,13
+2014-04-14,intencao_estimulada,Outros,vida_hoje,Satisfeito,4
+2014-04-14,intencao_estimulada,Pastor Everaldo,vida_hoje,Satisfeito,2
 2014-04-14,intencao_estimulada,Aécio Neves,vida_hoje,Insatisfeito,14
-2014-04-14,intencao_estimulada,Branco e Nulo,vida_hoje,Insatisfeito,36
-2014-04-14,intencao_estimulada,Dilma Rousseff,vida_hoje,Insatisfeito,29
+2014-04-14,intencao_estimulada,Branco e Nulo,vida_hoje,Insatisfeito,35
+2014-04-14,intencao_estimulada,Dilma Rousseff,vida_hoje,Insatisfeito,28
 2014-04-14,intencao_estimulada,Eduardo Campos,vida_hoje,Insatisfeito,5
-2014-04-14,intencao_estimulada,Não sabe,vida_hoje,Insatisfeito,16
+2014-04-14,intencao_estimulada,Não sabe,vida_hoje,Insatisfeito,15
+2014-04-14,intencao_estimulada,Outros,vida_hoje,Insatisfeito,3
+2014-04-14,intencao_estimulada,Pastor Everaldo,vida_hoje,Insatisfeito,1
 2014-04-14,intencao_estimulada,Aécio Neves,vida_hoje,NS/NR*,9
 2014-04-14,intencao_estimulada,Branco e Nulo,vida_hoje,NS/NR*,36
 2014-04-14,intencao_estimulada,Dilma Rousseff,vida_hoje,NS/NR*,18
 2014-04-14,intencao_estimulada,Eduardo Campos,vida_hoje,NS/NR*,9
 2014-04-14,intencao_estimulada,Não sabe,vida_hoje,NS/NR*,27
+2014-04-14,intencao_estimulada,Outros,vida_hoje,NS/NR*,0
+2014-04-14,intencao_estimulada,Pastor Everaldo,vida_hoje,NS/NR*,0
 2014-04-14,avaliacao_governo,Ótimo ou bom,vida_hoje,Satisfeito,37
 2014-04-14,avaliacao_governo,Regular,vida_hoje,Satisfeito,35
 2014-04-14,avaliacao_governo,Ruim ou péssimo,vida_hoje,Satisfeito,26
@@ -2455,50 +2421,66 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,vida_hoje,Satisfeito,interesse,NS/NR*,58
 2014-04-14,vida_hoje,Insatisfeito,interesse,NS/NR*,31
 2014-04-14,vida_hoje,NS/NR*,interesse,NS/NR*,12
-2014-04-14,intencao_espontanea,Branco e Nulo,interesse,Tem muito interesse,5
-2014-04-14,intencao_espontanea,Dilma Rousseff,interesse,Tem muito interesse,46
-2014-04-14,intencao_espontanea,Lula,interesse,Tem muito interesse,5
-2014-04-14,intencao_espontanea,Marina Silva,interesse,Tem muito interesse,7
-2014-04-14,intencao_espontanea,Não sabe,interesse,Tem muito interesse,35
+2014-04-14,intencao_espontanea,Aécio Neves,interesse,Tem muito interesse,13
+2014-04-14,intencao_espontanea,Branco e Nulo,interesse,Tem muito interesse,4
+2014-04-14,intencao_espontanea,Dilma Rousseff,interesse,Tem muito interesse,39
+2014-04-14,intencao_espontanea,Eduardo Campos,interesse,Tem muito interesse,3
+2014-04-14,intencao_espontanea,Lula,interesse,Tem muito interesse,4
+2014-04-14,intencao_espontanea,Marina Silva,interesse,Tem muito interesse,6
+2014-04-14,intencao_espontanea,Não sabe,interesse,Tem muito interesse,29
 2014-04-14,intencao_espontanea,Outros,interesse,Tem muito interesse,2
-2014-04-14,intencao_espontanea,Branco e Nulo,interesse,Tem médio interesse,9
-2014-04-14,intencao_espontanea,Dilma Rousseff,interesse,Tem médio interesse,34
-2014-04-14,intencao_espontanea,Lula,interesse,Tem médio interesse,7
-2014-04-14,intencao_espontanea,Marina Silva,interesse,Tem médio interesse,5
-2014-04-14,intencao_espontanea,Não sabe,interesse,Tem médio interesse,42
+2014-04-14,intencao_espontanea,Aécio Neves,interesse,Tem médio interesse,9
+2014-04-14,intencao_espontanea,Branco e Nulo,interesse,Tem médio interesse,8
+2014-04-14,intencao_espontanea,Dilma Rousseff,interesse,Tem médio interesse,30
+2014-04-14,intencao_espontanea,Eduardo Campos,interesse,Tem médio interesse,2
+2014-04-14,intencao_espontanea,Lula,interesse,Tem médio interesse,6
+2014-04-14,intencao_espontanea,Marina Silva,interesse,Tem médio interesse,4
+2014-04-14,intencao_espontanea,Não sabe,interesse,Tem médio interesse,38
 2014-04-14,intencao_espontanea,Outros,interesse,Tem médio interesse,3
-2014-04-14,intencao_espontanea,Branco e Nulo,interesse,Não tem interesse,29
-2014-04-14,intencao_espontanea,Dilma Rousseff,interesse,Não tem interesse,16
+2014-04-14,intencao_espontanea,Aécio Neves,interesse,Não tem interesse,5
+2014-04-14,intencao_espontanea,Branco e Nulo,interesse,Não tem interesse,28
+2014-04-14,intencao_espontanea,Dilma Rousseff,interesse,Não tem interesse,15
+2014-04-14,intencao_espontanea,Eduardo Campos,interesse,Não tem interesse,1
 2014-04-14,intencao_espontanea,Lula,interesse,Não tem interesse,7
 2014-04-14,intencao_espontanea,Marina Silva,interesse,Não tem interesse,3
-2014-04-14,intencao_espontanea,Não sabe,interesse,Não tem interesse,41
+2014-04-14,intencao_espontanea,Não sabe,interesse,Não tem interesse,38
 2014-04-14,intencao_espontanea,Outros,interesse,Não tem interesse,3
+2014-04-14,intencao_espontanea,Aécio Neves,interesse,NS/NR*,0
 2014-04-14,intencao_espontanea,Branco e Nulo,interesse,NS/NR*,23
 2014-04-14,intencao_espontanea,Dilma Rousseff,interesse,NS/NR*,15
+2014-04-14,intencao_espontanea,Eduardo Campos,interesse,NS/NR*,0
 2014-04-14,intencao_espontanea,Lula,interesse,NS/NR*,4
 2014-04-14,intencao_espontanea,Marina Silva,interesse,NS/NR*,4
 2014-04-14,intencao_espontanea,Não sabe,interesse,NS/NR*,50
 2014-04-14,intencao_espontanea,Outros,interesse,NS/NR*,4
-2014-04-14,intencao_estimulada,Aécio Neves,interesse,Tem muito interesse,21
+2014-04-14,intencao_estimulada,Aécio Neves,interesse,Tem muito interesse,20
 2014-04-14,intencao_estimulada,Branco e Nulo,interesse,Tem muito interesse,10
-2014-04-14,intencao_estimulada,Dilma Rousseff,interesse,Tem muito interesse,53
+2014-04-14,intencao_estimulada,Dilma Rousseff,interesse,Tem muito interesse,50
 2014-04-14,intencao_estimulada,Eduardo Campos,interesse,Tem muito interesse,10
-2014-04-14,intencao_estimulada,Não sabe,interesse,Tem muito interesse,6
-2014-04-14,intencao_estimulada,Aécio Neves,interesse,Tem médio interesse,19
-2014-04-14,intencao_estimulada,Branco e Nulo,interesse,Tem médio interesse,15
-2014-04-14,intencao_estimulada,Dilma Rousseff,interesse,Tem médio interesse,48
+2014-04-14,intencao_estimulada,Não sabe,interesse,Tem muito interesse,5
+2014-04-14,intencao_estimulada,Outros,interesse,Tem muito interesse,3
+2014-04-14,intencao_estimulada,Pastor Everaldo,interesse,Tem muito interesse,1
+2014-04-14,intencao_estimulada,Aécio Neves,interesse,Tem médio interesse,18
+2014-04-14,intencao_estimulada,Branco e Nulo,interesse,Tem médio interesse,14
+2014-04-14,intencao_estimulada,Dilma Rousseff,interesse,Tem médio interesse,45
 2014-04-14,intencao_estimulada,Eduardo Campos,interesse,Tem médio interesse,6
-2014-04-14,intencao_estimulada,Não sabe,interesse,Tem médio interesse,11
-2014-04-14,intencao_estimulada,Aécio Neves,interesse,Não tem interesse,12
-2014-04-14,intencao_estimulada,Branco e Nulo,interesse,Não tem interesse,35
-2014-04-14,intencao_estimulada,Dilma Rousseff,interesse,Não tem interesse,31
+2014-04-14,intencao_estimulada,Não sabe,interesse,Tem médio interesse,10
+2014-04-14,intencao_estimulada,Outros,interesse,Tem médio interesse,4
+2014-04-14,intencao_estimulada,Pastor Everaldo,interesse,Tem médio interesse,2
+2014-04-14,intencao_estimulada,Aécio Neves,interesse,Não tem interesse,11
+2014-04-14,intencao_estimulada,Branco e Nulo,interesse,Não tem interesse,33
+2014-04-14,intencao_estimulada,Dilma Rousseff,interesse,Não tem interesse,30
 2014-04-14,intencao_estimulada,Eduardo Campos,interesse,Não tem interesse,4
-2014-04-14,intencao_estimulada,Não sabe,interesse,Não tem interesse,17
+2014-04-14,intencao_estimulada,Não sabe,interesse,Não tem interesse,16
+2014-04-14,intencao_estimulada,Outros,interesse,Não tem interesse,3
+2014-04-14,intencao_estimulada,Pastor Everaldo,interesse,Não tem interesse,2
 2014-04-14,intencao_estimulada,Aécio Neves,interesse,NS/NR*,12
 2014-04-14,intencao_estimulada,Branco e Nulo,interesse,NS/NR*,19
 2014-04-14,intencao_estimulada,Dilma Rousseff,interesse,NS/NR*,19
 2014-04-14,intencao_estimulada,Eduardo Campos,interesse,NS/NR*,15
 2014-04-14,intencao_estimulada,Não sabe,interesse,NS/NR*,35
+2014-04-14,intencao_estimulada,Outros,interesse,NS/NR*,0
+2014-04-14,intencao_estimulada,Pastor Everaldo,interesse,NS/NR*,0
 2014-04-14,avaliacao_governo,Ótimo ou bom,interesse,Tem muito interesse,47
 2014-04-14,avaliacao_governo,Regular,interesse,Tem muito interesse,29
 2014-04-14,avaliacao_governo,Ruim ou péssimo,interesse,Tem muito interesse,23
@@ -2608,36 +2590,51 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,interesse,Tem médio interesse,desejo_mudanca,NS/NR*,22
 2014-04-14,interesse,Não tem interesse,desejo_mudanca,NS/NR*,61
 2014-04-14,interesse,NS/NR*,desejo_mudanca,NS/NR*,2
-2014-04-14,intencao_espontanea,Aécio Neves,desejo_mudanca,Quer mudança,10
-2014-04-14,intencao_espontanea,Branco e Nulo,desejo_mudanca,Quer mudança,24
-2014-04-14,intencao_espontanea,Dilma Rousseff,desejo_mudanca,Quer mudança,16
+2014-04-14,intencao_espontanea,Aécio Neves,desejo_mudanca,Quer mudança,9
+2014-04-14,intencao_espontanea,Branco e Nulo,desejo_mudanca,Quer mudança,23
+2014-04-14,intencao_espontanea,Dilma Rousseff,desejo_mudanca,Quer mudança,15
+2014-04-14,intencao_espontanea,Eduardo Campos,desejo_mudanca,Quer mudança,2
 2014-04-14,intencao_espontanea,Lula,desejo_mudanca,Quer mudança,6
-2014-04-14,intencao_espontanea,Não sabe,desejo_mudanca,Quer mudança,39
+2014-04-14,intencao_espontanea,Marina Silva,desejo_mudanca,Quer mudança,4
+2014-04-14,intencao_espontanea,Não sabe,desejo_mudanca,Quer mudança,37
 2014-04-14,intencao_espontanea,Outros,desejo_mudanca,Quer mudança,4
 2014-04-14,intencao_espontanea,Aécio Neves,desejo_mudanca,Quer continuidade,2
 2014-04-14,intencao_espontanea,Branco e Nulo,desejo_mudanca,Quer continuidade,8
-2014-04-14,intencao_espontanea,Dilma Rousseff,desejo_mudanca,Quer continuidade,43
+2014-04-14,intencao_espontanea,Dilma Rousseff,desejo_mudanca,Quer continuidade,42
+2014-04-14,intencao_espontanea,Eduardo Campos,desejo_mudanca,Quer continuidade,1
 2014-04-14,intencao_espontanea,Lula,desejo_mudanca,Quer continuidade,8
-2014-04-14,intencao_espontanea,Não sabe,desejo_mudanca,Quer continuidade,38
+2014-04-14,intencao_espontanea,Marina Silva,desejo_mudanca,Quer continuidade,2
+2014-04-14,intencao_espontanea,Não sabe,desejo_mudanca,Quer continuidade,37
 2014-04-14,intencao_espontanea,Outros,desejo_mudanca,Quer continuidade,1
 2014-04-14,intencao_espontanea,Aécio Neves,desejo_mudanca,NS/NR*,5
 2014-04-14,intencao_espontanea,Branco e Nulo,desejo_mudanca,NS/NR*,27
 2014-04-14,intencao_espontanea,Dilma Rousseff,desejo_mudanca,NS/NR*,14
+2014-04-14,intencao_espontanea,Eduardo Campos,desejo_mudanca,NS/NR*,0
 2014-04-14,intencao_espontanea,Lula,desejo_mudanca,NS/NR*,6
+2014-04-14,intencao_espontanea,Marina Silva,desejo_mudanca,NS/NR*,0
 2014-04-14,intencao_espontanea,Não sabe,desejo_mudanca,NS/NR*,47
 2014-04-14,intencao_espontanea,Outros,desejo_mudanca,NS/NR*,2
-2014-04-14,intencao_estimulada,Aécio Neves,desejo_mudanca,Quer mudança,21
-2014-04-14,intencao_estimulada,Branco e Nulo,desejo_mudanca,Quer mudança,35
-2014-04-14,intencao_estimulada,Dilma Rousseff,desejo_mudanca,Quer mudança,29
-2014-04-14,intencao_estimulada,Não sabe,desejo_mudanca,Quer mudança,16
+2014-04-14,intencao_estimulada,Aécio Neves,desejo_mudanca,Quer mudança,18
+2014-04-14,intencao_estimulada,Branco e Nulo,desejo_mudanca,Quer mudança,30
+2014-04-14,intencao_estimulada,Dilma Rousseff,desejo_mudanca,Quer mudança,25
+2014-04-14,intencao_estimulada,Eduardo Campos,desejo_mudanca,Quer mudança,7
+2014-04-14,intencao_estimulada,Não sabe,desejo_mudanca,Quer mudança,14
+2014-04-14,intencao_estimulada,Outros,desejo_mudanca,Quer mudança,4
+2014-04-14,intencao_estimulada,Pastor Everaldo,desejo_mudanca,Quer mudança,2
 2014-04-14,intencao_estimulada,Aécio Neves,desejo_mudanca,Quer continuidade,7
-2014-04-14,intencao_estimulada,Branco e Nulo,desejo_mudanca,Quer continuidade,10
-2014-04-14,intencao_estimulada,Dilma Rousseff,desejo_mudanca,Quer continuidade,72
+2014-04-14,intencao_estimulada,Branco e Nulo,desejo_mudanca,Quer continuidade,9
+2014-04-14,intencao_estimulada,Dilma Rousseff,desejo_mudanca,Quer continuidade,67
+2014-04-14,intencao_estimulada,Eduardo Campos,desejo_mudanca,Quer continuidade,3
 2014-04-14,intencao_estimulada,Não sabe,desejo_mudanca,Quer continuidade,11
+2014-04-14,intencao_estimulada,Outros,desejo_mudanca,Quer continuidade,2
+2014-04-14,intencao_estimulada,Pastor Everaldo,desejo_mudanca,Quer continuidade,2
 2014-04-14,intencao_estimulada,Aécio Neves,desejo_mudanca,NS/NR*,9
 2014-04-14,intencao_estimulada,Branco e Nulo,desejo_mudanca,NS/NR*,38
 2014-04-14,intencao_estimulada,Dilma Rousseff,desejo_mudanca,NS/NR*,28
+2014-04-14,intencao_estimulada,Eduardo Campos,desejo_mudanca,NS/NR*,0
 2014-04-14,intencao_estimulada,Não sabe,desejo_mudanca,NS/NR*,25
+2014-04-14,intencao_estimulada,Outros,desejo_mudanca,NS/NR*,0
+2014-04-14,intencao_estimulada,Pastor Everaldo,desejo_mudanca,NS/NR*,0
 2014-04-14,avaliacao_governo,Ótimo ou bom,desejo_mudanca,Quer mudança,23
 2014-04-14,avaliacao_governo,Regular,desejo_mudanca,Quer mudança,37
 2014-04-14,avaliacao_governo,Ruim ou péssimo,desejo_mudanca,Quer mudança,38
@@ -2723,49 +2720,65 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,interesse,Tem médio interesse,avaliacao_governo,NS/NR*,24
 2014-04-14,interesse,Não tem interesse,avaliacao_governo,NS/NR*,64
 2014-04-14,interesse,NS/NR*,avaliacao_governo,NS/NR*,3
-2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo ou bom,4
-2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo ou bom,11
-2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ótimo ou bom,1
-2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Ótimo ou bom,18
-2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Ótimo ou bom,66
-2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Regular,11
-2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Regular,20
-2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Regular,3
-2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Regular,9
-2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Regular,57
-2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim ou péssimo,14
-2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,42
+2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo ou bom,2
+2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo ou bom,5
+2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,51
+2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ótimo ou bom,0
+2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Ótimo ou bom,8
+2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,Ótimo ou bom,1
+2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Ótimo ou bom,30
+2014-04-14,intencao_espontanea,Outros,avaliacao_governo,Ótimo ou bom,2
+2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Regular,9
+2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Regular,16
+2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Regular,14
+2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Regular,2
+2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Regular,7
+2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,Regular,4
+2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Regular,46
+2014-04-14,intencao_espontanea,Outros,avaliacao_governo,Regular,3
+2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim ou péssimo,12
+2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,36
+2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,2
 2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,2
 2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Ruim ou péssimo,4
-2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Ruim ou péssimo,38
+2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,Ruim ou péssimo,7
+2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Ruim ou péssimo,34
+2014-04-14,intencao_espontanea,Outros,avaliacao_governo,Ruim ou péssimo,5
 2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,NS/NR*,3
 2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,NS/NR*,33
+2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,NS/NR*,0
 2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,NS/NR*,3
 2014-04-14,intencao_espontanea,Lula,avaliacao_governo,NS/NR*,3
+2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,NS/NR*,0
 2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,NS/NR*,58
+2014-04-14,intencao_espontanea,Outros,avaliacao_governo,NS/NR*,0
 2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Ótimo ou bom,4
 2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ótimo ou bom,4
-2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,81
+2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,78
 2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ótimo ou bom,2
-2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Ótimo ou bom,8
+2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Ótimo ou bom,7
+2014-04-14,intencao_estimulada,Outros,avaliacao_governo,Ótimo ou bom,3
 2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ótimo ou bom,1
-2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Regular,20
-2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Regular,24
-2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Regular,28
-2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,Regular,8
+2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Regular,19
+2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Regular,23
+2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Regular,27
+2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,Regular,7
 2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Regular,17
+2014-04-14,intencao_estimulada,Outros,avaliacao_governo,Regular,4
 2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Regular,2
-2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim ou péssimo,22
-2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,50
+2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim ou péssimo,21
+2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,48
 2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,3
 2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,8
-2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Ruim ou péssimo,15
+2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Ruim ou péssimo,14
+2014-04-14,intencao_estimulada,Outros,avaliacao_governo,Ruim ou péssimo,5
 2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ruim ou péssimo,3
 2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,NS/NR*,9
 2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,NS/NR*,36
 2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,NS/NR*,3
 2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,NS/NR*,3
 2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,NS/NR*,45
+2014-04-14,intencao_estimulada,Outros,avaliacao_governo,NS/NR*,0
 2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,NS/NR*,3
 2014-04-14,aprova_dilma,Aprova,avaliacao_governo,Ótimo ou bom,94
 2014-04-14,aprova_dilma,Desaprova,avaliacao_governo,Ótimo ou bom,5
@@ -3872,20 +3885,23 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,interesse,Tem médio interesse,cor,Outras,14
 2014-05-19,interesse,Não tem interesse,cor,Outras,81
 2014-05-19,interesse,NS/NR*,cor,Outras,0
-2014-05-19,intencao_espontanea,Branco e Nulo,cor,Branca,21
-2014-05-19,intencao_espontanea,Dilma Rousseff,cor,Branca,22
+2014-05-19,intencao_espontanea,Aécio Neves,cor,Branca,11
+2014-05-19,intencao_espontanea,Branco e Nulo,cor,Branca,19
+2014-05-19,intencao_espontanea,Dilma Rousseff,cor,Branca,19
 2014-05-19,intencao_espontanea,Eduardo Campos,cor,Branca,4
-2014-05-19,intencao_espontanea,Lula,cor,Branca,6
+2014-05-19,intencao_espontanea,Lula,cor,Branca,5
 2014-05-19,intencao_espontanea,Marina Silva,cor,Branca,3
-2014-05-19,intencao_espontanea,Não sabe,cor,Branca,40
+2014-05-19,intencao_espontanea,Não sabe,cor,Branca,36
 2014-05-19,intencao_espontanea,Outros,cor,Branca,3
-2014-05-19,intencao_espontanea,Branco e Nulo,cor,Preta ou parda,19
-2014-05-19,intencao_espontanea,Dilma Rousseff,cor,Preta ou parda,26
+2014-05-19,intencao_espontanea,Aécio Neves,cor,Preta ou parda,7
+2014-05-19,intencao_espontanea,Branco e Nulo,cor,Preta ou parda,18
+2014-05-19,intencao_espontanea,Dilma Rousseff,cor,Preta ou parda,25
 2014-05-19,intencao_espontanea,Eduardo Campos,cor,Preta ou parda,4
-2014-05-19,intencao_espontanea,Lula,cor,Preta ou parda,7
+2014-05-19,intencao_espontanea,Lula,cor,Preta ou parda,6
 2014-05-19,intencao_espontanea,Marina Silva,cor,Preta ou parda,2
-2014-05-19,intencao_espontanea,Não sabe,cor,Preta ou parda,40
+2014-05-19,intencao_espontanea,Não sabe,cor,Preta ou parda,38
 2014-05-19,intencao_espontanea,Outros,cor,Preta ou parda,2
+2014-05-19,intencao_espontanea,Aécio Neves,cor,Outras,0
 2014-05-19,intencao_espontanea,Branco e Nulo,cor,Outras,22
 2014-05-19,intencao_espontanea,Dilma Rousseff,cor,Outras,22
 2014-05-19,intencao_espontanea,Eduardo Campos,cor,Outras,5
@@ -3894,22 +3910,25 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_espontanea,Não sabe,cor,Outras,41
 2014-05-19,intencao_espontanea,Outros,cor,Outras,3
 2014-05-19,intencao_estimulada,Aécio Neves,cor,Branca,22
-2014-05-19,intencao_estimulada,Branco e Nulo,cor,Branca,19
+2014-05-19,intencao_estimulada,Branco e Nulo,cor,Branca,18
 2014-05-19,intencao_estimulada,Dilma Rousseff,cor,Branca,35
 2014-05-19,intencao_estimulada,Eduardo Campos,cor,Branca,10
 2014-05-19,intencao_estimulada,Não sabe,cor,Branca,11
+2014-05-19,intencao_estimulada,Outros,cor,Branca,2
 2014-05-19,intencao_estimulada,Pastor Everaldo,cor,Branca,3
-2014-05-19,intencao_estimulada,Aécio Neves,cor,Preta ou parda,19
+2014-05-19,intencao_estimulada,Aécio Neves,cor,Preta ou parda,18
 2014-05-19,intencao_estimulada,Branco e Nulo,cor,Preta ou parda,12
-2014-05-19,intencao_estimulada,Dilma Rousseff,cor,Preta ou parda,46
+2014-05-19,intencao_estimulada,Dilma Rousseff,cor,Preta ou parda,45
 2014-05-19,intencao_estimulada,Eduardo Campos,cor,Preta ou parda,11
 2014-05-19,intencao_estimulada,Não sabe,cor,Preta ou parda,9
+2014-05-19,intencao_estimulada,Outros,cor,Preta ou parda,3
 2014-05-19,intencao_estimulada,Pastor Everaldo,cor,Preta ou parda,2
 2014-05-19,intencao_estimulada,Aécio Neves,cor,Outras,16
 2014-05-19,intencao_estimulada,Branco e Nulo,cor,Outras,11
 2014-05-19,intencao_estimulada,Dilma Rousseff,cor,Outras,41
 2014-05-19,intencao_estimulada,Eduardo Campos,cor,Outras,14
 2014-05-19,intencao_estimulada,Não sabe,cor,Outras,14
+2014-05-19,intencao_estimulada,Outros,cor,Outras,0
 2014-05-19,intencao_estimulada,Pastor Everaldo,cor,Outras,5
 2014-05-19,avaliacao_governo,Ótimo ou bom,cor,Branca,32
 2014-05-19,avaliacao_governo,Regular,cor,Branca,26
@@ -4121,29 +4140,50 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,interesse,Tem médio interesse,vida_hoje,NS/NR*,0
 2014-05-19,interesse,Não tem interesse,vida_hoje,NS/NR*,43
 2014-05-19,interesse,NS/NR*,vida_hoje,NS/NR*,29
-2014-05-19,intencao_espontanea,Branco e Nulo,vida_hoje,Satisfeito,26
-2014-05-19,intencao_espontanea,Lula,vida_hoje,Satisfeito,10
-2014-05-19,intencao_espontanea,Marina Silva,vida_hoje,Satisfeito,3
-2014-05-19,intencao_espontanea,Não sabe,vida_hoje,Satisfeito,61
-2014-05-19,intencao_espontanea,Branco e Nulo,vida_hoje,Insatisfeito,38
-2014-05-19,intencao_espontanea,Lula,vida_hoje,Insatisfeito,7
-2014-05-19,intencao_espontanea,Marina Silva,vida_hoje,Insatisfeito,4
-2014-05-19,intencao_espontanea,Não sabe,vida_hoje,Insatisfeito,51
+2014-05-19,intencao_espontanea,Aécio Neves,vida_hoje,Satisfeito,8
+2014-05-19,intencao_espontanea,Branco e Nulo,vida_hoje,Satisfeito,16
+2014-05-19,intencao_espontanea,Dilma Rousseff,vida_hoje,Satisfeito,25
+2014-05-19,intencao_espontanea,Eduardo Campos,vida_hoje,Satisfeito,4
+2014-05-19,intencao_espontanea,Lula,vida_hoje,Satisfeito,6
+2014-05-19,intencao_espontanea,Marina Silva,vida_hoje,Satisfeito,2
+2014-05-19,intencao_espontanea,Não sabe,vida_hoje,Satisfeito,37
+2014-05-19,intencao_espontanea,Outros,vida_hoje,Satisfeito,2
+2014-05-19,intencao_espontanea,Aécio Neves,vida_hoje,Insatisfeito,9
+2014-05-19,intencao_espontanea,Branco e Nulo,vida_hoje,Insatisfeito,27
+2014-05-19,intencao_espontanea,Dilma Rousseff,vida_hoje,Insatisfeito,12
+2014-05-19,intencao_espontanea,Eduardo Campos,vida_hoje,Insatisfeito,4
+2014-05-19,intencao_espontanea,Lula,vida_hoje,Insatisfeito,5
+2014-05-19,intencao_espontanea,Marina Silva,vida_hoje,Insatisfeito,3
+2014-05-19,intencao_espontanea,Não sabe,vida_hoje,Insatisfeito,37
+2014-05-19,intencao_espontanea,Outros,vida_hoje,Insatisfeito,3
+2014-05-19,intencao_espontanea,Aécio Neves,vida_hoje,NS/NR*,0
 2014-05-19,intencao_espontanea,Branco e Nulo,vida_hoje,NS/NR*,29
+2014-05-19,intencao_espontanea,Dilma Rousseff,vida_hoje,NS/NR*,0
+2014-05-19,intencao_espontanea,Eduardo Campos,vida_hoje,NS/NR*,0
 2014-05-19,intencao_espontanea,Lula,vida_hoje,NS/NR*,29
 2014-05-19,intencao_espontanea,Marina Silva,vida_hoje,NS/NR*,14
 2014-05-19,intencao_espontanea,Não sabe,vida_hoje,NS/NR*,29
-2014-05-19,intencao_estimulada,Aécio Neves,vida_hoje,Satisfeito,25
-2014-05-19,intencao_estimulada,Dilma Rousseff,vida_hoje,Satisfeito,59
-2014-05-19,intencao_estimulada,Não sabe,vida_hoje,Satisfeito,13
-2014-05-19,intencao_estimulada,Pastor Everaldo,vida_hoje,Satisfeito,3
-2014-05-19,intencao_estimulada,Aécio Neves,vida_hoje,Insatisfeito,35
-2014-05-19,intencao_estimulada,Dilma Rousseff,vida_hoje,Insatisfeito,43
-2014-05-19,intencao_estimulada,Não sabe,vida_hoje,Insatisfeito,16
-2014-05-19,intencao_estimulada,Pastor Everaldo,vida_hoje,Insatisfeito,6
+2014-05-19,intencao_espontanea,Outros,vida_hoje,NS/NR*,0
+2014-05-19,intencao_estimulada,Aécio Neves,vida_hoje,Satisfeito,19
+2014-05-19,intencao_estimulada,Branco e Nulo,vida_hoje,Satisfeito,13
+2014-05-19,intencao_estimulada,Dilma Rousseff,vida_hoje,Satisfeito,44
+2014-05-19,intencao_estimulada,Eduardo Campos,vida_hoje,Satisfeito,10
+2014-05-19,intencao_estimulada,Não sabe,vida_hoje,Satisfeito,10
+2014-05-19,intencao_estimulada,Outros,vida_hoje,Satisfeito,2
+2014-05-19,intencao_estimulada,Pastor Everaldo,vida_hoje,Satisfeito,2
+2014-05-19,intencao_estimulada,Aécio Neves,vida_hoje,Insatisfeito,22
+2014-05-19,intencao_estimulada,Branco e Nulo,vida_hoje,Insatisfeito,22
+2014-05-19,intencao_estimulada,Dilma Rousseff,vida_hoje,Insatisfeito,27
+2014-05-19,intencao_estimulada,Eduardo Campos,vida_hoje,Insatisfeito,11
+2014-05-19,intencao_estimulada,Não sabe,vida_hoje,Insatisfeito,10
+2014-05-19,intencao_estimulada,Outros,vida_hoje,Insatisfeito,3
+2014-05-19,intencao_estimulada,Pastor Everaldo,vida_hoje,Insatisfeito,4
 2014-05-19,intencao_estimulada,Aécio Neves,vida_hoje,NS/NR*,29
+2014-05-19,intencao_estimulada,Branco e Nulo,vida_hoje,NS/NR*,0
 2014-05-19,intencao_estimulada,Dilma Rousseff,vida_hoje,NS/NR*,43
+2014-05-19,intencao_estimulada,Eduardo Campos,vida_hoje,NS/NR*,0
 2014-05-19,intencao_estimulada,Não sabe,vida_hoje,NS/NR*,14
+2014-05-19,intencao_estimulada,Outros,vida_hoje,NS/NR*,0
 2014-05-19,intencao_estimulada,Pastor Everaldo,vida_hoje,NS/NR*,14
 2014-05-19,avaliacao_governo,Ótimo ou bom,vida_hoje,Satisfeito,39
 2014-05-19,avaliacao_governo,Regular,vida_hoje,Satisfeito,30
@@ -4223,26 +4263,38 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,vida_hoje,Satisfeito,interesse,NS/NR*,86
 2014-05-19,vida_hoje,Insatisfeito,interesse,NS/NR*,5
 2014-05-19,vida_hoje,NS/NR*,interesse,NS/NR*,10
-2014-05-19,intencao_espontanea,Aécio Neves,interesse,Tem muito interesse,20
-2014-05-19,intencao_espontanea,Branco e Nulo,interesse,Tem muito interesse,5
-2014-05-19,intencao_espontanea,Dilma Rousseff,interesse,Tem muito interesse,37
-2014-05-19,intencao_espontanea,Lula,interesse,Tem muito interesse,7
-2014-05-19,intencao_espontanea,Não sabe,interesse,Tem muito interesse,32
-2014-05-19,intencao_espontanea,Aécio Neves,interesse,Tem médio interesse,12
-2014-05-19,intencao_espontanea,Branco e Nulo,interesse,Tem médio interesse,6
-2014-05-19,intencao_espontanea,Dilma Rousseff,interesse,Tem médio interesse,36
-2014-05-19,intencao_espontanea,Lula,interesse,Tem médio interesse,6
-2014-05-19,intencao_espontanea,Não sabe,interesse,Tem médio interesse,40
+2014-05-19,intencao_espontanea,Aécio Neves,interesse,Tem muito interesse,17
+2014-05-19,intencao_espontanea,Branco e Nulo,interesse,Tem muito interesse,4
+2014-05-19,intencao_espontanea,Dilma Rousseff,interesse,Tem muito interesse,33
+2014-05-19,intencao_espontanea,Eduardo Campos,interesse,Tem muito interesse,7
+2014-05-19,intencao_espontanea,Lula,interesse,Tem muito interesse,6
+2014-05-19,intencao_espontanea,Marina Silva,interesse,Tem muito interesse,3
+2014-05-19,intencao_espontanea,Não sabe,interesse,Tem muito interesse,28
+2014-05-19,intencao_espontanea,Outros,interesse,Tem muito interesse,2
+2014-05-19,intencao_espontanea,Aécio Neves,interesse,Tem médio interesse,11
+2014-05-19,intencao_espontanea,Branco e Nulo,interesse,Tem médio interesse,5
+2014-05-19,intencao_espontanea,Dilma Rousseff,interesse,Tem médio interesse,33
+2014-05-19,intencao_espontanea,Eduardo Campos,interesse,Tem médio interesse,4
+2014-05-19,intencao_espontanea,Lula,interesse,Tem médio interesse,5
+2014-05-19,intencao_espontanea,Marina Silva,interesse,Tem médio interesse,3
+2014-05-19,intencao_espontanea,Não sabe,interesse,Tem médio interesse,36
+2014-05-19,intencao_espontanea,Outros,interesse,Tem médio interesse,2
 2014-05-19,intencao_espontanea,Aécio Neves,interesse,Não tem interesse,5
-2014-05-19,intencao_espontanea,Branco e Nulo,interesse,Não tem interesse,30
-2014-05-19,intencao_espontanea,Dilma Rousseff,interesse,Não tem interesse,16
-2014-05-19,intencao_espontanea,Lula,interesse,Não tem interesse,7
-2014-05-19,intencao_espontanea,Não sabe,interesse,Não tem interesse,42
+2014-05-19,intencao_espontanea,Branco e Nulo,interesse,Não tem interesse,28
+2014-05-19,intencao_espontanea,Dilma Rousseff,interesse,Não tem interesse,15
+2014-05-19,intencao_espontanea,Eduardo Campos,interesse,Não tem interesse,3
+2014-05-19,intencao_espontanea,Lula,interesse,Não tem interesse,6
+2014-05-19,intencao_espontanea,Marina Silva,interesse,Não tem interesse,2
+2014-05-19,intencao_espontanea,Não sabe,interesse,Não tem interesse,39
+2014-05-19,intencao_espontanea,Outros,interesse,Não tem interesse,2
 2014-05-19,intencao_espontanea,Aécio Neves,interesse,NS/NR*,5
 2014-05-19,intencao_espontanea,Branco e Nulo,interesse,NS/NR*,14
 2014-05-19,intencao_espontanea,Dilma Rousseff,interesse,NS/NR*,10
+2014-05-19,intencao_espontanea,Eduardo Campos,interesse,NS/NR*,0
 2014-05-19,intencao_espontanea,Lula,interesse,NS/NR*,5
+2014-05-19,intencao_espontanea,Marina Silva,interesse,NS/NR*,0
 2014-05-19,intencao_espontanea,Não sabe,interesse,NS/NR*,67
+2014-05-19,intencao_espontanea,Outros,interesse,NS/NR*,0
 2014-05-19,intencao_estimulada,Aécio Neves,interesse,Tem muito interesse,28
 2014-05-19,intencao_estimulada,Branco e Nulo,interesse,Tem muito interesse,4
 2014-05-19,intencao_estimulada,Dilma Rousseff,interesse,Tem muito interesse,49
@@ -4510,49 +4562,65 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,interesse,Tem médio interesse,avaliacao_governo,NS/NR*,21
 2014-05-19,interesse,Não tem interesse,avaliacao_governo,NS/NR*,59
 2014-05-19,interesse,NS/NR*,avaliacao_governo,NS/NR*,9
-2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo ou bom,4
-2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo ou bom,12
-2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Ótimo ou bom,14
-2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Ótimo ou bom,1
-2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Ótimo ou bom,69
-2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Regular,8
-2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Regular,21
-2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Regular,9
+2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo ou bom,2
+2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo ou bom,6
+2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,52
+2014-05-19,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ótimo ou bom,1
+2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Ótimo ou bom,6
+2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Ótimo ou bom,0
+2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Ótimo ou bom,31
+2014-05-19,intencao_espontanea,Outros,avaliacao_governo,Ótimo ou bom,1
+2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Regular,6
+2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Regular,16
+2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Regular,13
+2014-05-19,intencao_espontanea,Eduardo Campos,avaliacao_governo,Regular,5
+2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Regular,7
 2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Regular,2
-2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Regular,59
-2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim ou péssimo,18
-2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,36
-2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Ruim ou péssimo,5
+2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Regular,47
+2014-05-19,intencao_espontanea,Outros,avaliacao_governo,Regular,3
+2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim ou péssimo,17
+2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,32
+2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,0
+2014-05-19,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,6
+2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Ruim ou péssimo,4
 2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Ruim ou péssimo,4
-2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Ruim ou péssimo,37
+2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Ruim ou péssimo,33
+2014-05-19,intencao_espontanea,Outros,avaliacao_governo,Ruim ou péssimo,3
 2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,NS/NR*,9
 2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,NS/NR*,35
+2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,NS/NR*,0
+2014-05-19,intencao_espontanea,Eduardo Campos,avaliacao_governo,NS/NR*,0
 2014-05-19,intencao_espontanea,Lula,avaliacao_governo,NS/NR*,3
 2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,NS/NR*,3
 2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,NS/NR*,50
+2014-05-19,intencao_espontanea,Outros,avaliacao_governo,NS/NR*,0
 2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Ótimo ou bom,5
 2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ótimo ou bom,2
-2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,84
+2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,82
 2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ótimo ou bom,4
 2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Ótimo ou bom,5
+2014-05-19,intencao_estimulada,Outros,avaliacao_governo,Ótimo ou bom,2
 2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ótimo ou bom,1
-2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Regular,21
+2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Regular,20
 2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Regular,13
-2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Regular,34
+2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Regular,33
 2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,Regular,14
-2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Regular,15
+2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Regular,14
+2014-05-19,intencao_estimulada,Outros,avaliacao_governo,Regular,3
 2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Regular,2
-2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim ou péssimo,36
-2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,29
+2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim ou péssimo,35
+2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,28
 2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,5
-2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,16
+2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,15
 2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Ruim ou péssimo,10
+2014-05-19,intencao_estimulada,Outros,avaliacao_governo,Ruim ou péssimo,3
 2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ruim ou péssimo,4
 2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,NS/NR*,18
 2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,NS/NR*,26
 2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,NS/NR*,3
 2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,NS/NR*,3
 2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,NS/NR*,44
+2014-05-19,intencao_estimulada,Outros,avaliacao_governo,NS/NR*,0
 2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,NS/NR*,6
 2014-05-19,aprova_dilma,Aprova,avaliacao_governo,Ótimo ou bom,96
 2014-05-19,aprova_dilma,Desaprova,avaliacao_governo,Ótimo ou bom,3
@@ -4670,3 +4738,187 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,2turno_campos,Eduardo Campos,total,total,22
 2014-05-19,2turno_campos,Branco/ Nulo,total,total,25
 2014-05-19,2turno_campos,Não sabe/ Não respondeu,total,total,12
+2013-10-21,avaliacao_governo,Ótimo ou bom,regiao,NORDESTE,53
+2013-11-11,avaliacao_governo,Ótimo ou bom,regiao,NORDESTE,49
+2013-10-21,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 1,47
+2013-11-11,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 1,46
+2013-11-11,avaliacao_governo,Ótimo ou bom,condicao_municipio,INTERIOR,46
+2013-10-21,avaliacao_governo,Ótimo ou bom,idade,55 ou mais,45
+2013-11-11,avaliacao_governo,Ótimo ou bom,renda_familiar,1 a 2,44
+2013-10-21,avaliacao_governo,Ótimo ou bom,renda_familiar,1 a 2,44
+2013-10-21,avaliacao_governo,Ótimo ou bom,renda_familiar,Ate 1,44
+2013-11-11,avaliacao_governo,Ótimo ou bom,idade,55 ou mais,43
+2013-11-11,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 2,42
+2013-10-21,avaliacao_governo,Regular,condicao_municipio,PERIFERIA,42
+2013-11-11,avaliacao_governo,Regular,escolaridade,Medio,41
+2013-11-11,avaliacao_governo,Regular,renda_familiar,Mais de 5,41
+2013-11-11,avaliacao_governo,Ótimo ou bom,regiao,SUL,41
+2013-10-21,avaliacao_governo,Ótimo ou bom,condicao_municipio,INTERIOR,41
+2013-11-11,avaliacao_governo,Ótimo ou bom,sexo,MAS,40
+2013-11-11,avaliacao_governo,Regular,idade,25 a 34,40
+2013-11-11,avaliacao_governo,Ótimo ou bom,idade,45 a 54,40
+2013-11-11,avaliacao_governo,Regular,condicao_municipio,PERIFERIA,40
+2013-10-21,avaliacao_governo,Ótimo ou bom,idade,45 a 54,40
+2013-11-11,avaliacao_governo,Ótimo ou bom,idade,35 a 44,39
+2013-11-11,avaliacao_governo,Regular,condicao_municipio,CAPITAL,39
+2013-11-11,avaliacao_governo,Ótimo ou bom,regiao,NORTE/ CENTRO OESTE,39
+2013-11-11,avaliacao_governo,Ótimo ou bom,total,total,39
+2013-10-21,avaliacao_governo,Regular,idade,25 a 34,39
+2013-10-21,avaliacao_governo,Regular,escolaridade,Superior,39
+2013-11-11,avaliacao_governo,Ótimo ou bom,sexo,FEM,38
+2013-11-11,avaliacao_governo,Ótimo ou bom,renda_familiar,Ate 1,38
+2013-11-11,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,38
+2013-10-21,avaliacao_governo,Ótimo ou bom,sexo,MAS,38
+2013-10-21,avaliacao_governo,Regular,escolaridade,Fundamental 2,38
+2013-10-21,avaliacao_governo,Regular,renda_familiar,2 a 5,38
+2013-10-21,avaliacao_governo,Regular,regiao,SUL,38
+2013-11-11,avaliacao_governo,Ótimo ou bom,idade,25 a 34,37
+2013-11-11,avaliacao_governo,Regular,idade,45 a 54,37
+2013-11-11,avaliacao_governo,Ótimo ou bom,renda_familiar,2 a 5,37
+2013-11-11,avaliacao_governo,Regular,regiao,SUL,37
+2013-10-21,avaliacao_governo,Ótimo ou bom,sexo,FEM,37
+2013-10-21,avaliacao_governo,Regular,regiao,SUDESTE,37
+2013-10-21,avaliacao_governo,Ótimo ou bom,total,total,37
+2013-11-11,avaliacao_governo,Regular,sexo,MAS,36
+2013-11-11,avaliacao_governo,Regular,renda_familiar,2 a 5,36
+2013-11-11,avaliacao_governo,Regular,regiao,NORDESTE,36
+2013-11-11,avaliacao_governo,Regular,total,total,36
+2013-10-21,avaliacao_governo,Regular,sexo,MAS,36
+2013-10-21,avaliacao_governo,Regular,idade,16 a 24,36
+2013-10-21,avaliacao_governo,Ótimo ou bom,escolaridade,Medio,36
+2013-10-21,avaliacao_governo,Ruim ou péssimo,escolaridade,Superior,36
+2013-10-21,avaliacao_governo,Regular,renda_familiar,Ate 1,36
+2013-10-21,avaliacao_governo,Ótimo ou bom,regiao,SUL,36
+2013-11-11,avaliacao_governo,Regular,sexo,FEM,35
+2013-11-11,avaliacao_governo,Ótimo ou bom,idade,16 a 24,35
+2013-11-11,avaliacao_governo,Regular,idade,16 a 24,35
+2013-11-11,avaliacao_governo,Regular,idade,35 a 44,35
+2013-11-11,avaliacao_governo,Regular,renda_familiar,1 a 2,35
+2013-10-21,avaliacao_governo,Ótimo ou bom,idade,35 a 44,35
+2013-10-21,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 2,35
+2013-10-21,avaliacao_governo,Regular,escolaridade,Medio,35
+2013-10-21,avaliacao_governo,Ruim ou péssimo,renda_familiar,Mais de 5,35
+2013-10-21,avaliacao_governo,Regular,condicao_municipio,CAPITAL,35
+2013-10-21,avaliacao_governo,Regular,total,total,35
+2013-11-11,avaliacao_governo,Ótimo ou bom,escolaridade,Medio,34
+2013-11-11,avaliacao_governo,Ótimo ou bom,escolaridade,Superior,34
+2013-11-11,avaliacao_governo,Regular,escolaridade,Superior,34
+2013-11-11,avaliacao_governo,Regular,regiao,SUDESTE,34
+2013-10-21,avaliacao_governo,Regular,sexo,FEM,34
+2013-10-21,avaliacao_governo,Ótimo ou bom,idade,25 a 34,34
+2013-10-21,avaliacao_governo,Regular,idade,35 a 44,34
+2013-10-21,avaliacao_governo,Regular,renda_familiar,Mais de 5,34
+2013-10-21,avaliacao_governo,Ótimo ou bom,condicao_municipio,PERIFERIA,34
+2013-10-21,avaliacao_governo,Regular,condicao_municipio,INTERIOR,34
+2013-11-11,avaliacao_governo,Regular,escolaridade,Fundamental 1,33
+2013-11-11,avaliacao_governo,Ótimo ou bom,renda_familiar,Mais de 5,33
+2013-11-11,avaliacao_governo,Regular,renda_familiar,Ate 1,33
+2013-11-11,avaliacao_governo,Ótimo ou bom,condicao_municipio,PERIFERIA,33
+2013-10-21,avaliacao_governo,Ótimo ou bom,idade,16 a 24,33
+2013-10-21,avaliacao_governo,Regular,idade,45 a 54,33
+2013-10-21,avaliacao_governo,Ruim ou péssimo,condicao_municipio,CAPITAL,33
+2013-10-21,avaliacao_governo,Ótimo ou bom,regiao,NORTE/ CENTRO OESTE,33
+2013-10-21,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,33
+2013-11-11,avaliacao_governo,Regular,idade,55 ou mais,32
+2013-11-11,avaliacao_governo,Regular,escolaridade,Fundamental 2,32
+2013-11-11,avaliacao_governo,Ótimo ou bom,condicao_municipio,CAPITAL,32
+2013-11-11,avaliacao_governo,Regular,condicao_municipio,INTERIOR,32
+2013-11-11,avaliacao_governo,Ótimo ou bom,regiao,SUDESTE,32
+2013-11-11,avaliacao_governo,Ruim ou péssimo,regiao,SUDESTE,32
+2013-10-21,avaliacao_governo,Regular,idade,55 ou mais,32
+2013-10-21,avaliacao_governo,Regular,escolaridade,Fundamental 1,32
+2013-10-21,avaliacao_governo,Regular,renda_familiar,1 a 2,32
+2013-10-21,avaliacao_governo,Regular,regiao,NORDESTE,32
+2013-10-21,avaliacao_governo,Ruim ou péssimo,regiao,SUDESTE,32
+2013-10-21,avaliacao_governo,Ruim ou péssimo,renda_familiar,2 a 5,31
+2013-10-21,avaliacao_governo,Ótimo ou bom,condicao_municipio,CAPITAL,31
+2013-11-11,avaliacao_governo,Ruim ou péssimo,escolaridade,Superior,30
+2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,16 a 24,30
+2013-10-21,avaliacao_governo,Ótimo ou bom,renda_familiar,Mais de 5,30
+2013-10-21,avaliacao_governo,Ótimo ou bom,renda_familiar,2 a 5,30
+2013-10-21,avaliacao_governo,Ruim ou péssimo,regiao,NORTE/ CENTRO OESTE,30
+2013-10-21,avaliacao_governo,Ótimo ou bom,regiao,SUDESTE,30
+2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,16 a 24,29
+2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,35 a 44,29
+2013-10-21,avaliacao_governo,Ruim ou péssimo,escolaridade,Medio,28
+2013-11-11,avaliacao_governo,Ruim ou péssimo,condicao_municipio,CAPITAL,27
+2013-10-21,avaliacao_governo,Ruim ou péssimo,sexo,FEM,27
+2013-11-11,avaliacao_governo,Ruim ou péssimo,renda_familiar,Ate 1,26
+2013-11-11,avaliacao_governo,Ruim ou péssimo,condicao_municipio,PERIFERIA,26
+2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,25 a 34,26
+2013-10-21,avaliacao_governo,Ruim ou péssimo,regiao,SUL,26
+2013-10-21,avaliacao_governo,Ruim ou péssimo,total,total,26
+2013-11-11,avaliacao_governo,Ruim ou péssimo,sexo,FEM,25
+2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,35 a 44,25
+2013-11-11,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 2,25
+2013-11-11,avaliacao_governo,Ruim ou péssimo,renda_familiar,Mais de 5,25
+2013-11-11,avaliacao_governo,Ruim ou péssimo,renda_familiar,2 a 5,25
+2013-10-21,avaliacao_governo,Ruim ou péssimo,sexo,MAS,25
+2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,45 a 54,25
+2013-10-21,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 2,25
+2013-11-11,avaliacao_governo,Ruim ou péssimo,escolaridade,Medio,24
+2013-11-11,avaliacao_governo,Ruim ou péssimo,total,total,24
+2013-10-21,avaliacao_governo,Ótimo ou bom,escolaridade,Superior,24
+2013-10-21,avaliacao_governo,Ruim ou péssimo,condicao_municipio,INTERIOR,24
+2013-11-11,avaliacao_governo,Ruim ou péssimo,sexo,MAS,23
+2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,45 a 54,23
+2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,55 ou mais,23
+2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,25 a 34,22
+2013-10-21,avaliacao_governo,Ruim ou péssimo,renda_familiar,1 a 2,22
+2013-11-11,avaliacao_governo,Ruim ou péssimo,condicao_municipio,INTERIOR,21
+2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,55 ou mais,21
+2013-11-11,avaliacao_governo,Ruim ou péssimo,renda_familiar,1 a 2,20
+2013-11-11,avaliacao_governo,Ruim ou péssimo,regiao,SUL,20
+2013-11-11,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 1,19
+2013-11-11,avaliacao_governo,Ruim ou péssimo,regiao,NORTE/ CENTRO OESTE,19
+2013-10-21,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 1,19
+2013-10-21,avaliacao_governo,Ruim ou péssimo,condicao_municipio,PERIFERIA,19
+2013-10-21,avaliacao_governo,Ruim ou péssimo,renda_familiar,Ate 1,17
+2013-11-11,avaliacao_governo,Ruim ou péssimo,regiao,NORDESTE,14
+2013-10-21,avaliacao_governo,Ruim ou péssimo,regiao,NORDESTE,14
+2013-11-11,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,4
+2013-10-21,avaliacao_governo,NS/NR*,condicao_municipio,PERIFERIA,4
+2013-10-21,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,4
+2013-11-11,avaliacao_governo,NS/NR*,renda_familiar,Ate 1,3
+2013-10-21,avaliacao_governo,NS/NR*,idade,55 ou mais,3
+2013-10-21,avaliacao_governo,NS/NR*,renda_familiar,Ate 1,3
+2013-11-11,avaliacao_governo,NS/NR*,sexo,FEM,2
+2013-11-11,avaliacao_governo,NS/NR*,idade,35 a 44,2
+2013-11-11,avaliacao_governo,NS/NR*,idade,55 ou mais,2
+2013-11-11,avaliacao_governo,NS/NR*,escolaridade,Fundamental 1,2
+2013-11-11,avaliacao_governo,NS/NR*,renda_familiar,2 a 5,2
+2013-11-11,avaliacao_governo,NS/NR*,condicao_municipio,CAPITAL,2
+2013-11-11,avaliacao_governo,NS/NR*,condicao_municipio,PERIFERIA,2
+2013-10-21,avaliacao_governo,NS/NR*,sexo,FEM,2
+2013-10-21,avaliacao_governo,NS/NR*,idade,35 a 44,2
+2013-10-21,avaliacao_governo,NS/NR*,idade,45 a 54,2
+2013-10-21,avaliacao_governo,NS/NR*,escolaridade,Fundamental 1,2
+2013-10-21,avaliacao_governo,NS/NR*,escolaridade,Medio,2
+2013-10-21,avaliacao_governo,NS/NR*,renda_familiar,1 a 2,2
+2013-10-21,avaliacao_governo,NS/NR*,regiao,NORDESTE,2
+2013-10-21,avaliacao_governo,NS/NR*,total,total,2
+2013-11-11,avaliacao_governo,NS/NR*,sexo,MAS,1
+2013-11-11,avaliacao_governo,NS/NR*,idade,16 a 24,1
+2013-11-11,avaliacao_governo,NS/NR*,idade,25 a 34,1
+2013-11-11,avaliacao_governo,NS/NR*,idade,45 a 54,1
+2013-11-11,avaliacao_governo,NS/NR*,escolaridade,Fundamental 2,1
+2013-11-11,avaliacao_governo,NS/NR*,escolaridade,Medio,1
+2013-11-11,avaliacao_governo,NS/NR*,escolaridade,Superior,1
+2013-11-11,avaliacao_governo,NS/NR*,renda_familiar,Mais de 5,1
+2013-11-11,avaliacao_governo,NS/NR*,renda_familiar,1 a 2,1
+2013-11-11,avaliacao_governo,NS/NR*,condicao_municipio,INTERIOR,1
+2013-11-11,avaliacao_governo,NS/NR*,regiao,SUDESTE,1
+2013-11-11,avaliacao_governo,NS/NR*,regiao,SUL,1
+2013-11-11,avaliacao_governo,NS/NR*,total,total,1
+2013-10-21,avaliacao_governo,NS/NR*,sexo,MAS,1
+2013-10-21,avaliacao_governo,NS/NR*,idade,16 a 24,1
+2013-10-21,avaliacao_governo,NS/NR*,idade,25 a 34,1
+2013-10-21,avaliacao_governo,NS/NR*,escolaridade,Fundamental 2,1
+2013-10-21,avaliacao_governo,NS/NR*,escolaridade,Superior,1
+2013-10-21,avaliacao_governo,NS/NR*,renda_familiar,Mais de 5,1
+2013-10-21,avaliacao_governo,NS/NR*,renda_familiar,2 a 5,1
+2013-10-21,avaliacao_governo,NS/NR*,condicao_municipio,CAPITAL,1
+2013-10-21,avaliacao_governo,NS/NR*,condicao_municipio,INTERIOR,1
+2013-10-21,avaliacao_governo,NS/NR*,regiao,SUDESTE,1
+2013-10-21,avaliacao_governo,NS/NR*,regiao,SUL,1
+2013-11-11,avaliacao_governo,NS/NR*,regiao,NORDESTE,0

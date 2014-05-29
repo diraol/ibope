@@ -76,7 +76,7 @@ function ordemLegenda(pergunta) {
     } else if (pergunta.indexOf("turno_campos") != -1) {
         orderedValues = ["Dilma Rousseff", "Eduardo Campos","Branco e Nulo","NS/NR*"];
     } else if (pergunta.indexOf("avaliacao") != -1) {
-        orderedValues = ["Ótimo ou bom","Regular","Ruim ou péssimo","NS/NR*"]
+        orderedValues = ["Ótimo e bom","Regular","Ruim e péssimo","NS/NR*"]
     } else if (pergunta.indexOf("interesse")!= -1) {
         orderedValues = ["Tem muito interesse","Tem médio interesse","Não tem interesse","NS/NR*"]
     } else if (pergunta.indexOf("aprova")!= -1) {
@@ -110,13 +110,10 @@ function configuraCores(grafico, pergunta) {
         grafico.assignColor("Branco e Nulo","#C9C9C9");
     } else if (pergunta.indexOf("avalia") != -1 || pergunta.indexOf("aprova") != -1 ) {
         grafico.defaultColors = [
-            new dimple.color("#3C3C3C"),
-            new dimple.color("#5C5C5C"),
-            new dimple.color("#8C8C8C"),
-            new dimple.color("#ACACAC"),
-            new dimple.color("#CCCCCC"),
-            new dimple.color("#000000")
-            ]
+            new dimple.color("#E87D61"),
+            new dimple.color("#8F4E3D"),
+            new dimple.color("#BA6650")
+        ]
     }else if (pergunta.indexOf("interesse") != -1) {
          grafico.defaultColors = [
             new dimple.color("#001C44"),

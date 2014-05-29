@@ -154,6 +154,9 @@ function atualiza_grafico(argumentos) {
         texto_pergunta = argumentos.texto_pergunta || $(".botao-selecao-pergunta").html() || "Intenção de Voto Estimulada",
         texto_recorte = argumentos.texto_recorte || $(".botao-selecao-recorte").html() || "Total do eleitorado";
     //Escondendo opções de recorte que são incompatíveis com perguntas
+    chart.axes[0].overrideMin.setUTCDate('16');
+    chart.axes[0].overrideMin.setMonth('02');
+    chart.axes[0].overrideMin.setFullYear('2014');
     if ( pergunta == "desejo_mudanca" ){
         $(".rec-avalia").show();
         $(".rec-muda").hide();
@@ -163,6 +166,9 @@ function atualiza_grafico(argumentos) {
             texto_recorte = "Total do Eleitorado";
         }
     } else if (pergunta == "avaliacao_governo") {
+        chart.axes[0].overrideMin.setUTCDate('20');
+        chart.axes[0].overrideMin.setMonth('09');
+        chart.axes[0].overrideMin.setFullYear('2013');
         $(".rec-muda").show();
         $(".rec-avalia").hide();
         if (cat_recorte == "avaliacao_governo") {

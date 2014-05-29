@@ -30,7 +30,7 @@ function cria_grafico() {
     s = myChart.addSeries("dado", dimple.plot.bubble);
     legend = myChart.addLegend(720, 2, 195, 220, "right");
     myChart = configuraCores(myChart,"intencao_estimulada");
-    
+
     //arruma ordem da legenda
     legend._getEntries = function () { return ordemLegenda("intencao_estimulada"); };
 
@@ -66,15 +66,15 @@ function cria_grafico() {
 function ordemLegenda(pergunta) {
     var orderedValues = []
     if (pergunta.indexOf("intencao_estimulada") != -1) {
-        orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Outros","Branco e Nulo","Não sabe"];
+        orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Outros","Branco e Nulo","NS/NR*"];
     } else if (pergunta.indexOf("intencao_espontanea") != -1) {
-        orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Lula","Marina Silva","Outros","Branco e Nulo","Não sabe"];
+        orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Lula","Marina Silva","Outros","Branco e Nulo","NS/NR*"];
     } else if (pergunta.indexOf("rejeicao") != -1) {
         orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo"];
     } else if (pergunta.indexOf("turno_aecio") != -1) {
-        orderedValues = ["Dilma Rousseff", "Aécio Neves","Branco e Nulo","Não sabe"];
+        orderedValues = ["Dilma Rousseff", "Aécio Neves","Branco e Nulo","NS/NR*"];
     } else if (pergunta.indexOf("turno_campos") != -1) {
-        orderedValues = ["Dilma Rousseff", "Eduardo Campos","Branco e Nulo","Não sabe"];
+        orderedValues = ["Dilma Rousseff", "Eduardo Campos","Branco e Nulo","NS/NR*"];
     } else if (pergunta.indexOf("avaliacao") != -1) {
         orderedValues = ["Ótimo ou bom","Regular","Ruim ou péssimo","NS/NR*"]
     } else if (pergunta.indexOf("interesse")!= -1) {
@@ -84,8 +84,7 @@ function ordemLegenda(pergunta) {
     } else if (pergunta.indexOf("desejo")!= -1) {
         orderedValues = ["Quer mudança","Quer continuidade","NS/NR*"]
     }
-    
-    console.log(pergunta)
+
     var entries = [];
     orderedValues.forEach(function (v) {
         entries.push(
@@ -107,7 +106,7 @@ function configuraCores(grafico, pergunta) {
         grafico.assignColor("Dilma Rousseff","#CC0000");
         grafico.assignColor("Eduardo Campos","#E69138");
         grafico.assignColor("Pastor Everaldo","#6AA84F");
-        grafico.assignColor("Não sabe","#2E2B2D");
+        grafico.assignColor("NS/NR*","#2E2B2D");
         grafico.assignColor("Branco e Nulo","#C9C9C9");
     } else if (pergunta.indexOf("avalia") != -1 || pergunta.indexOf("aprova") != -1 ) {
         grafico.defaultColors = [
@@ -188,7 +187,7 @@ function atualiza_grafico(argumentos) {
     $(".botao-selecao-recorte").data("recorte",recorte); // e coloca um atributo de "data" no botão mostrando qual é a atual pergunta
 
     chart.data = data; // Definindo novo conjunto de dados do gráfico
-        
+
     //arruma as legendas
     chart.legends = [];
     limpar_legendas(); //limpa as antigas

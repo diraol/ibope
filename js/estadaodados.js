@@ -55,12 +55,17 @@ function cria_grafico() {
     };
 
     myChart.draw();
-
-    x.shapes.selectAll("text").attr("transform",
+    
+    //conserta o nome do mês
+    nomeMes()
+    
+    //roda labels do eixo x
+/*    x.shapes.selectAll("text").attr("transform",
         function (d) {
             //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
             return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
         });
+*/
 }
 
 function ordemLegenda(pergunta) {
@@ -198,10 +203,15 @@ function atualiza_grafico(argumentos) {
     legend = chart.addLegend(720, 2, 195, 220, "right"); //adiciona as novas
     legend._getEntries = function () { return ordemLegenda(pergunta); }; //arruma a ordem
     chart = configuraCores(chart, pergunta); //aruma as cores
-
+    
+    //coloca o nome certo e % no eixo y
     y.title = texto_pergunta + " (%)";
 
     chart.draw(1000); // Desenhando novo gráfico com animação durando 1000 ms
+    
+    //muda os meses para o nome em extenso
+    nomeMes()
+    
 }
 
 function atualiza_recorte(cat_recorte, recorte, texto){
@@ -210,6 +220,29 @@ function atualiza_recorte(cat_recorte, recorte, texto){
 
 function atualiza_pergunta(pergunta, texto){
     atualiza_grafico({pergunta: pergunta, texto_pergunta: texto})
+}
+
+function nomeMes() {
+    todos_textos = $("text")
+    for (var i =0; i < todos_textos.length; i++) {
+        texto = todos_textos[i].innerHTML
+        data = texto.split("/")
+        if (data.length > 1) {
+            if (data[1] == "01") mes = "jan"
+            if (data[1] == "02") mes = "fev"
+            if (data[1] == "03") mes = "mar"
+            if (data[1] == "04") mes = "abr"
+            if (data[1] == "05") mes = "mai"
+            if (data[1] == "06") mes = "jun"
+            if (data[1] == "07") mes = "jul"
+            if (data[1] == "08") mes = "ago"
+            if (data[1] == "09") mes = "set"
+            if (data[1] == "10") mes = "out"
+            if (data[1] == "11") mes = "nov"
+            if (data[1] == "12") mes = "dez"
+            todos_textos[i].innerHTML = data[0] + "/" + mes
+        }
+    }    
 }
 
 $(document).ready(function(){

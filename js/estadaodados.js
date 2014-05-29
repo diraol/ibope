@@ -1,5 +1,6 @@
 var complete_data = null;
 var meuGrafico = null;
+new dimple.color("")
 
 function carrega () {
   //desenha grafico
@@ -27,12 +28,7 @@ function cria_grafico() {
     myChart.addSeries("dado",dimple.plot.line);
     s = myChart.addSeries("dado", dimple.plot.bubble);
     legend = myChart.addLegend(720, 2, 195, 220, "right");
-    myChart.assignColor("Aécio Neves","#1C4587");
-    myChart.assignColor("Dilma Rousseff","#CC0000");
-    myChart.assignColor("Eduardo Campos","#E69138");
-    myChart.assignColor("Pastor Everaldo","#6AA84F");
-    myChart.assignColor("Não sabe","#2E2B2D");
-    myChart.assignColor("Branco e Nulo","#C9C9C9");
+    myChart = configuraCores(myChart,"intencao_estimulada");
 
     //arruma ordem da legenda
     legend._getEntries = function () {
@@ -65,7 +61,7 @@ function cria_grafico() {
 
     //y.fontFamily = "Arial";
     y.fontSize = "95%";
-    y.title = "Intenção de Voto"
+    y.title = "Intenção de Voto (%)"
 
     //customiza a tooltip
     s.getTooltipText = function (e) {
@@ -85,6 +81,44 @@ function cria_grafico() {
 
 }
 
+function configuraCores(grafico, pergunta) {
+    if (pergunta.indexOf("intencao") != -1 || pergunta.indexOf("rejeicao") != -1 || pergunta.indexOf("turno") != -1) {
+        grafico.assignColor("Aécio Neves","#1C4587");
+        grafico.assignColor("Dilma Rousseff","#CC0000");
+        grafico.assignColor("Eduardo Campos","#E69138");
+        grafico.assignColor("Pastor Everaldo","#6AA84F");
+        grafico.assignColor("Não sabe","#2E2B2D");
+        grafico.assignColor("Branco e Nulo","#C9C9C9");
+    } else if (pergunta.indexOf("avalia") != -1 || pergunta.indexOf("aprova") != -1 ) {
+        grafico.defaultColors = [
+            new dimple.color("#3C3C3C"),
+            new dimple.color("#5C5C5C"),
+            new dimple.color("#8C8C8C"),
+            new dimple.color("#ACACAC"),
+            new dimple.color("#CCCCCC"),
+            new dimple.color("#000000")
+            ]
+    }else if (pergunta.indexOf("interesse") != -1) {
+         grafico.defaultColors = [
+            new dimple.color("#001C44"),
+            new dimple.color("#002159"),
+            new dimple.color("#0A4F87"),
+            new dimple.color("#1E5DAE"),
+            new dimple.color("#D3CAD3")
+         ]
+    } else {
+         grafico.defaultColors = [
+            new dimple.color("#6C2817"),
+            new dimple.color("#BA7E50"),
+            new dimple.color("#F3AA4B"),
+            new dimple.color("#EDF1DB"),
+            new dimple.color("#A9C4BB")
+         ]
+    }
+    return grafico;
+}
+
+
 function limpar_legendas() {
     $('*[class^="dimple-legend"]').remove()
 }
@@ -93,12 +127,36 @@ function atualiza_grafico(argumentos) {
     // argumentos é um dicionário com as seguintes variáveis:
     // pergunta, recorte, variavel, texto_pergunta, texto_recorte
 
+
     // Definindo valor padrão para as variáveis, caso nenhum seja passado.
-    var pergunta = argumentos.pergunta || $(".botao-selecao-pergunta").data("pergunta") || "intencao_estimulada";
+    var pergunta = argumentos.pergunta || $(".botao-selecao-pergunta").data("pergunta") || "intencao_estimulada",
         cat_recorte = argumentos.cat_recorte || $(".botao-selecao-recorte").data("catRecorte") || "total",
         recorte = argumentos.recorte || $(".botao-selecao-recorte").data("recorte") || "total",
         texto_pergunta = argumentos.texto_pergunta || $(".botao-selecao-pergunta").html() || "Intenção de Voto Estimulada",
         texto_recorte = argumentos.texto_recorte || $(".botao-selecao-recorte").html() || "Total do eleitorado";
+    //Escondendo opções de recorte que são incompatíveis com perguntas
+    console.log(pergunta);
+    console.log(cat_recorte);
+    if ( pergunta == "desejo_mudanca" ){
+        $(".rec-avalia").show();
+        $(".rec-muda").hide();
+        if (cat_recorte == "desejo_mudanca" ) {
+            cat_recorte = "total";
+            recorte = "total";
+            texto_recorte = "Total do Eleitorado";
+        }
+    } else if (pergunta == "avaliacao_governo") {
+        $(".rec-muda").show();
+        $(".rec-avalia").hide();
+        if (cat_recorte == "avaliacao_governo") {
+            cat_recorte = "total";
+            recorte = "total";
+            texto_recorte = "Total do Eleitorado";
+        }
+    } else {
+        $(".rec-muda").show();
+        $(".rec-avalia").show();
+    }
 
     // filtra os dados de acordo com a pergunta e o recorte atuais
     var data = dimple.filterData(window.complete_data,"cat_recorte", cat_recorte);
@@ -116,9 +174,11 @@ function atualiza_grafico(argumentos) {
     limpar_legendas();
 
     legend = chart.addLegend(720, 2, 195, 220, "right");
+    chart = configuraCores(chart, pergunta);
+
+    y.title = texto_pergunta + " (%)";
 
     chart.draw(1000); // Desenhando novo gráfico com animação durando 1000 ms
-
 }
 
 function atualiza_recorte(cat_recorte, recorte, texto){

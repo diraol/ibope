@@ -51,19 +51,19 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,sexo,FEM,4
 2014-03-17,2turno_aecio,Aécio Neves,sexo,MAS,22
 2014-03-17,2turno_aecio,Dilma Rousseff,sexo,MAS,47
-2014-03-17,2turno_aecio,Branco/ Nulo,sexo,MAS,24
+2014-03-17,2turno_aecio,Branco e Nulo,sexo,MAS,24
 2014-03-17,2turno_aecio,NS/NR*,sexo,MAS,7
 2014-03-17,2turno_aecio,Aécio Neves,sexo,FEM,17
 2014-03-17,2turno_aecio,Dilma Rousseff,sexo,FEM,46
-2014-03-17,2turno_aecio,Branco/ Nulo,sexo,FEM,25
+2014-03-17,2turno_aecio,Branco e Nulo,sexo,FEM,25
 2014-03-17,2turno_aecio,NS/NR*,sexo,FEM,11
 2014-03-17,2turno_campos,Dilma Rousseff,sexo,MAS,48
 2014-03-17,2turno_campos,Eduardo Campos,sexo,MAS,17
-2014-03-17,2turno_campos,Branco/ Nulo,sexo,MAS,25
+2014-03-17,2turno_campos,Branco e Nulo,sexo,MAS,25
 2014-03-17,2turno_campos,NS/NR*,sexo,MAS,9
 2014-03-17,2turno_campos,Dilma Rousseff,sexo,FEM,47
 2014-03-17,2turno_campos,Eduardo Campos,sexo,FEM,14
-2014-03-17,2turno_campos,Branco/ Nulo,sexo,FEM,27
+2014-03-17,2turno_campos,Branco e Nulo,sexo,FEM,27
 2014-03-17,2turno_campos,NS/NR*,sexo,FEM,12
 2014-03-17,vida_hoje,Satisfeito,idade,16 a 24,84
 2014-03-17,vida_hoje,Insatisfeito,idade,16 a 24,16
@@ -192,43 +192,43 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,idade,55 ou mais,5
 2014-03-17,2turno_aecio,Aécio Neves,idade,16 a 24,18
 2014-03-17,2turno_aecio,Dilma Rousseff,idade,16 a 24,50
-2014-03-17,2turno_aecio,Branco/ Nulo,idade,16 a 24,22
+2014-03-17,2turno_aecio,Branco e Nulo,idade,16 a 24,22
 2014-03-17,2turno_aecio,NS/NR*,idade,16 a 24,11
 2014-03-17,2turno_aecio,Aécio Neves,idade,25 a 34,19
 2014-03-17,2turno_aecio,Dilma Rousseff,idade,25 a 34,48
-2014-03-17,2turno_aecio,Branco/ Nulo,idade,25 a 34,26
+2014-03-17,2turno_aecio,Branco e Nulo,idade,25 a 34,26
 2014-03-17,2turno_aecio,NS/NR*,idade,25 a 34,7
 2014-03-17,2turno_aecio,Aécio Neves,idade,35 a 44,20
 2014-03-17,2turno_aecio,Dilma Rousseff,idade,35 a 44,47
-2014-03-17,2turno_aecio,Branco/ Nulo,idade,35 a 44,25
+2014-03-17,2turno_aecio,Branco e Nulo,idade,35 a 44,25
 2014-03-17,2turno_aecio,NS/NR*,idade,35 a 44,8
 2014-03-17,2turno_aecio,Aécio Neves,idade,45 a 54,24
 2014-03-17,2turno_aecio,Dilma Rousseff,idade,45 a 54,43
-2014-03-17,2turno_aecio,Branco/ Nulo,idade,45 a 54,26
+2014-03-17,2turno_aecio,Branco e Nulo,idade,45 a 54,26
 2014-03-17,2turno_aecio,NS/NR*,idade,45 a 54,6
 2014-03-17,2turno_aecio,Aécio Neves,idade,55 ou mais,18
 2014-03-17,2turno_aecio,Dilma Rousseff,idade,55 ou mais,45
-2014-03-17,2turno_aecio,Branco/ Nulo,idade,55 ou mais,24
+2014-03-17,2turno_aecio,Branco e Nulo,idade,55 ou mais,24
 2014-03-17,2turno_aecio,NS/NR*,idade,55 ou mais,13
 2014-03-17,2turno_campos,Dilma Rousseff,idade,16 a 24,49
 2014-03-17,2turno_campos,Eduardo Campos,idade,16 a 24,18
-2014-03-17,2turno_campos,Branco/ Nulo,idade,16 a 24,23
+2014-03-17,2turno_campos,Branco e Nulo,idade,16 a 24,23
 2014-03-17,2turno_campos,NS/NR*,idade,16 a 24,11
 2014-03-17,2turno_campos,Dilma Rousseff,idade,25 a 34,48
 2014-03-17,2turno_campos,Eduardo Campos,idade,25 a 34,15
-2014-03-17,2turno_campos,Branco/ Nulo,idade,25 a 34,27
+2014-03-17,2turno_campos,Branco e Nulo,idade,25 a 34,27
 2014-03-17,2turno_campos,NS/NR*,idade,25 a 34,9
 2014-03-17,2turno_campos,Dilma Rousseff,idade,35 a 44,48
 2014-03-17,2turno_campos,Eduardo Campos,idade,35 a 44,15
-2014-03-17,2turno_campos,Branco/ Nulo,idade,35 a 44,27
+2014-03-17,2turno_campos,Branco e Nulo,idade,35 a 44,27
 2014-03-17,2turno_campos,NS/NR*,idade,35 a 44,10
 2014-03-17,2turno_campos,Dilma Rousseff,idade,45 a 54,47
 2014-03-17,2turno_campos,Eduardo Campos,idade,45 a 54,19
-2014-03-17,2turno_campos,Branco/ Nulo,idade,45 a 54,27
+2014-03-17,2turno_campos,Branco e Nulo,idade,45 a 54,27
 2014-03-17,2turno_campos,NS/NR*,idade,45 a 54,8
 2014-03-17,2turno_campos,Dilma Rousseff,idade,55 ou mais,46
 2014-03-17,2turno_campos,Eduardo Campos,idade,55 ou mais,12
-2014-03-17,2turno_campos,Branco/ Nulo,idade,55 ou mais,27
+2014-03-17,2turno_campos,Branco e Nulo,idade,55 ou mais,27
 2014-03-17,2turno_campos,NS/NR*,idade,55 ou mais,15
 2014-03-17,vida_hoje,Satisfeito,escolaridade,Fundamental 1,80
 2014-03-17,vida_hoje,Insatisfeito,escolaridade,Fundamental 1,20
@@ -332,35 +332,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,escolaridade,Superior,2
 2014-03-17,2turno_aecio,Aécio Neves,escolaridade,Fundamental 1,16
 2014-03-17,2turno_aecio,Dilma Rousseff,escolaridade,Fundamental 1,52
-2014-03-17,2turno_aecio,Branco/ Nulo,escolaridade,Fundamental 1,19
+2014-03-17,2turno_aecio,Branco e Nulo,escolaridade,Fundamental 1,19
 2014-03-17,2turno_aecio,NS/NR*,escolaridade,Fundamental 1,13
 2014-03-17,2turno_aecio,Aécio Neves,escolaridade,Fundamental 2,18
 2014-03-17,2turno_aecio,Dilma Rousseff,escolaridade,Fundamental 2,50
-2014-03-17,2turno_aecio,Branco/ Nulo,escolaridade,Fundamental 2,24
+2014-03-17,2turno_aecio,Branco e Nulo,escolaridade,Fundamental 2,24
 2014-03-17,2turno_aecio,NS/NR*,escolaridade,Fundamental 2,7
 2014-03-17,2turno_aecio,Aécio Neves,escolaridade,Medio,20
 2014-03-17,2turno_aecio,Dilma Rousseff,escolaridade,Medio,46
-2014-03-17,2turno_aecio,Branco/ Nulo,escolaridade,Medio,26
+2014-03-17,2turno_aecio,Branco e Nulo,escolaridade,Medio,26
 2014-03-17,2turno_aecio,NS/NR*,escolaridade,Medio,8
 2014-03-17,2turno_aecio,Aécio Neves,escolaridade,Superior,28
 2014-03-17,2turno_aecio,Dilma Rousseff,escolaridade,Superior,34
-2014-03-17,2turno_aecio,Branco/ Nulo,escolaridade,Superior,30
+2014-03-17,2turno_aecio,Branco e Nulo,escolaridade,Superior,30
 2014-03-17,2turno_aecio,NS/NR*,escolaridade,Superior,7
 2014-03-17,2turno_campos,Dilma Rousseff,escolaridade,Fundamental 1,54
 2014-03-17,2turno_campos,Eduardo Campos,escolaridade,Fundamental 1,11
-2014-03-17,2turno_campos,Branco/ Nulo,escolaridade,Fundamental 1,20
+2014-03-17,2turno_campos,Branco e Nulo,escolaridade,Fundamental 1,20
 2014-03-17,2turno_campos,NS/NR*,escolaridade,Fundamental 1,14
 2014-03-17,2turno_campos,Dilma Rousseff,escolaridade,Fundamental 2,50
 2014-03-17,2turno_campos,Eduardo Campos,escolaridade,Fundamental 2,16
-2014-03-17,2turno_campos,Branco/ Nulo,escolaridade,Fundamental 2,26
+2014-03-17,2turno_campos,Branco e Nulo,escolaridade,Fundamental 2,26
 2014-03-17,2turno_campos,NS/NR*,escolaridade,Fundamental 2,8
 2014-03-17,2turno_campos,Dilma Rousseff,escolaridade,Medio,46
 2014-03-17,2turno_campos,Eduardo Campos,escolaridade,Medio,16
-2014-03-17,2turno_campos,Branco/ Nulo,escolaridade,Medio,28
+2014-03-17,2turno_campos,Branco e Nulo,escolaridade,Medio,28
 2014-03-17,2turno_campos,NS/NR*,escolaridade,Medio,10
 2014-03-17,2turno_campos,Dilma Rousseff,escolaridade,Superior,36
 2014-03-17,2turno_campos,Eduardo Campos,escolaridade,Superior,22
-2014-03-17,2turno_campos,Branco/ Nulo,escolaridade,Superior,33
+2014-03-17,2turno_campos,Branco e Nulo,escolaridade,Superior,33
 2014-03-17,2turno_campos,NS/NR*,escolaridade,Superior,9
 2014-03-17,vida_hoje,Satisfeito,renda_familiar,Mais de 5,87
 2014-03-17,vida_hoje,Insatisfeito,renda_familiar,Mais de 5,12
@@ -464,35 +464,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,renda_familiar,Ate 1,4
 2014-03-17,2turno_aecio,Aécio Neves,renda_familiar,Mais de 5,31
 2014-03-17,2turno_aecio,Dilma Rousseff,renda_familiar,Mais de 5,36
-2014-03-17,2turno_aecio,Branco/ Nulo,renda_familiar,Mais de 5,26
+2014-03-17,2turno_aecio,Branco e Nulo,renda_familiar,Mais de 5,26
 2014-03-17,2turno_aecio,NS/NR*,renda_familiar,Mais de 5,8
 2014-03-17,2turno_aecio,Aécio Neves,renda_familiar,2 a 5,22
 2014-03-17,2turno_aecio,Dilma Rousseff,renda_familiar,2 a 5,45
-2014-03-17,2turno_aecio,Branco/ Nulo,renda_familiar,2 a 5,24
+2014-03-17,2turno_aecio,Branco e Nulo,renda_familiar,2 a 5,24
 2014-03-17,2turno_aecio,NS/NR*,renda_familiar,2 a 5,9
 2014-03-17,2turno_aecio,Aécio Neves,renda_familiar,1 a 2,16
 2014-03-17,2turno_aecio,Dilma Rousseff,renda_familiar,1 a 2,51
-2014-03-17,2turno_aecio,Branco/ Nulo,renda_familiar,1 a 2,24
+2014-03-17,2turno_aecio,Branco e Nulo,renda_familiar,1 a 2,24
 2014-03-17,2turno_aecio,NS/NR*,renda_familiar,1 a 2,9
 2014-03-17,2turno_aecio,Aécio Neves,renda_familiar,Ate 1,14
 2014-03-17,2turno_aecio,Dilma Rousseff,renda_familiar,Ate 1,49
-2014-03-17,2turno_aecio,Branco/ Nulo,renda_familiar,Ate 1,26
+2014-03-17,2turno_aecio,Branco e Nulo,renda_familiar,Ate 1,26
 2014-03-17,2turno_aecio,NS/NR*,renda_familiar,Ate 1,11
 2014-03-17,2turno_campos,Dilma Rousseff,renda_familiar,Mais de 5,38
 2014-03-17,2turno_campos,Eduardo Campos,renda_familiar,Mais de 5,23
-2014-03-17,2turno_campos,Branco/ Nulo,renda_familiar,Mais de 5,28
+2014-03-17,2turno_campos,Branco e Nulo,renda_familiar,Mais de 5,28
 2014-03-17,2turno_campos,NS/NR*,renda_familiar,Mais de 5,11
 2014-03-17,2turno_campos,Dilma Rousseff,renda_familiar,2 a 5,46
 2014-03-17,2turno_campos,Eduardo Campos,renda_familiar,2 a 5,16
-2014-03-17,2turno_campos,Branco/ Nulo,renda_familiar,2 a 5,27
+2014-03-17,2turno_campos,Branco e Nulo,renda_familiar,2 a 5,27
 2014-03-17,2turno_campos,NS/NR*,renda_familiar,2 a 5,10
 2014-03-17,2turno_campos,Dilma Rousseff,renda_familiar,1 a 2,51
 2014-03-17,2turno_campos,Eduardo Campos,renda_familiar,1 a 2,13
-2014-03-17,2turno_campos,Branco/ Nulo,renda_familiar,1 a 2,24
+2014-03-17,2turno_campos,Branco e Nulo,renda_familiar,1 a 2,24
 2014-03-17,2turno_campos,NS/NR*,renda_familiar,1 a 2,11
 2014-03-17,2turno_campos,Dilma Rousseff,renda_familiar,Ate 1,49
 2014-03-17,2turno_campos,Eduardo Campos,renda_familiar,Ate 1,14
-2014-03-17,2turno_campos,Branco/ Nulo,renda_familiar,Ate 1,27
+2014-03-17,2turno_campos,Branco e Nulo,renda_familiar,Ate 1,27
 2014-03-17,2turno_campos,NS/NR*,renda_familiar,Ate 1,10
 2014-03-17,vida_hoje,Satisfeito,condicao_municipio,CAPITAL,78
 2014-03-17,vida_hoje,Insatisfeito,condicao_municipio,CAPITAL,22
@@ -571,27 +571,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,condicao_municipio,INTERIOR,5
 2014-03-17,2turno_aecio,Aécio Neves,condicao_municipio,CAPITAL,19
 2014-03-17,2turno_aecio,Dilma Rousseff,condicao_municipio,CAPITAL,43
-2014-03-17,2turno_aecio,Branco/ Nulo,condicao_municipio,CAPITAL,32
+2014-03-17,2turno_aecio,Branco e Nulo,condicao_municipio,CAPITAL,32
 2014-03-17,2turno_aecio,NS/NR*,condicao_municipio,CAPITAL,6
 2014-03-17,2turno_aecio,Aécio Neves,condicao_municipio,PERIFERIA,21
 2014-03-17,2turno_aecio,Dilma Rousseff,condicao_municipio,PERIFERIA,46
-2014-03-17,2turno_aecio,Branco/ Nulo,condicao_municipio,PERIFERIA,27
+2014-03-17,2turno_aecio,Branco e Nulo,condicao_municipio,PERIFERIA,27
 2014-03-17,2turno_aecio,NS/NR*,condicao_municipio,PERIFERIA,5
 2014-03-17,2turno_aecio,Aécio Neves,condicao_municipio,INTERIOR,20
 2014-03-17,2turno_aecio,Dilma Rousseff,condicao_municipio,INTERIOR,48
-2014-03-17,2turno_aecio,Branco/ Nulo,condicao_municipio,INTERIOR,20
+2014-03-17,2turno_aecio,Branco e Nulo,condicao_municipio,INTERIOR,20
 2014-03-17,2turno_aecio,NS/NR*,condicao_municipio,INTERIOR,11
 2014-03-17,2turno_campos,Dilma Rousseff,condicao_municipio,CAPITAL,44
 2014-03-17,2turno_campos,Eduardo Campos,condicao_municipio,CAPITAL,17
-2014-03-17,2turno_campos,Branco/ Nulo,condicao_municipio,CAPITAL,33
+2014-03-17,2turno_campos,Branco e Nulo,condicao_municipio,CAPITAL,33
 2014-03-17,2turno_campos,NS/NR*,condicao_municipio,CAPITAL,6
 2014-03-17,2turno_campos,Dilma Rousseff,condicao_municipio,PERIFERIA,46
 2014-03-17,2turno_campos,Eduardo Campos,condicao_municipio,PERIFERIA,16
-2014-03-17,2turno_campos,Branco/ Nulo,condicao_municipio,PERIFERIA,31
+2014-03-17,2turno_campos,Branco e Nulo,condicao_municipio,PERIFERIA,31
 2014-03-17,2turno_campos,NS/NR*,condicao_municipio,PERIFERIA,7
 2014-03-17,2turno_campos,Dilma Rousseff,condicao_municipio,INTERIOR,49
 2014-03-17,2turno_campos,Eduardo Campos,condicao_municipio,INTERIOR,15
-2014-03-17,2turno_campos,Branco/ Nulo,condicao_municipio,INTERIOR,22
+2014-03-17,2turno_campos,Branco e Nulo,condicao_municipio,INTERIOR,22
 2014-03-17,2turno_campos,NS/NR*,condicao_municipio,INTERIOR,13
 2014-03-17,vida_hoje,Satisfeito,regiao,NORTE/ CENTRO OESTE,84
 2014-03-17,vida_hoje,Insatisfeito,regiao,NORTE/ CENTRO OESTE,16
@@ -695,35 +695,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,regiao,SUL,6
 2014-03-17,2turno_aecio,Aécio Neves,regiao,NORTE/ CENTRO OESTE,19
 2014-03-17,2turno_aecio,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,50
-2014-03-17,2turno_aecio,Branco/ Nulo,regiao,NORTE/ CENTRO OESTE,22
+2014-03-17,2turno_aecio,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,22
 2014-03-17,2turno_aecio,NS/NR*,regiao,NORTE/ CENTRO OESTE,8
 2014-03-17,2turno_aecio,Aécio Neves,regiao,NORDESTE,11
 2014-03-17,2turno_aecio,Dilma Rousseff,regiao,NORDESTE,63
-2014-03-17,2turno_aecio,Branco/ Nulo,regiao,NORDESTE,19
+2014-03-17,2turno_aecio,Branco e Nulo,regiao,NORDESTE,19
 2014-03-17,2turno_aecio,NS/NR*,regiao,NORDESTE,7
 2014-03-17,2turno_aecio,Aécio Neves,regiao,SUDESTE,24
 2014-03-17,2turno_aecio,Dilma Rousseff,regiao,SUDESTE,39
-2014-03-17,2turno_aecio,Branco/ Nulo,regiao,SUDESTE,28
+2014-03-17,2turno_aecio,Branco e Nulo,regiao,SUDESTE,28
 2014-03-17,2turno_aecio,NS/NR*,regiao,SUDESTE,9
 2014-03-17,2turno_aecio,Aécio Neves,regiao,SUL,24
 2014-03-17,2turno_aecio,Dilma Rousseff,regiao,SUL,37
-2014-03-17,2turno_aecio,Branco/ Nulo,regiao,SUL,27
+2014-03-17,2turno_aecio,Branco e Nulo,regiao,SUL,27
 2014-03-17,2turno_aecio,NS/NR*,regiao,SUL,13
 2014-03-17,2turno_campos,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,54
 2014-03-17,2turno_campos,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,14
-2014-03-17,2turno_campos,Branco/ Nulo,regiao,NORTE/ CENTRO OESTE,24
+2014-03-17,2turno_campos,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,24
 2014-03-17,2turno_campos,NS/NR*,regiao,NORTE/ CENTRO OESTE,8
 2014-03-17,2turno_campos,Dilma Rousseff,regiao,NORDESTE,60
 2014-03-17,2turno_campos,Eduardo Campos,regiao,NORDESTE,17
-2014-03-17,2turno_campos,Branco/ Nulo,regiao,NORDESTE,16
+2014-03-17,2turno_campos,Branco e Nulo,regiao,NORDESTE,16
 2014-03-17,2turno_campos,NS/NR*,regiao,NORDESTE,7
 2014-03-17,2turno_campos,Dilma Rousseff,regiao,SUDESTE,40
 2014-03-17,2turno_campos,Eduardo Campos,regiao,SUDESTE,14
-2014-03-17,2turno_campos,Branco/ Nulo,regiao,SUDESTE,33
+2014-03-17,2turno_campos,Branco e Nulo,regiao,SUDESTE,33
 2014-03-17,2turno_campos,NS/NR*,regiao,SUDESTE,13
 2014-03-17,2turno_campos,Dilma Rousseff,regiao,SUL,40
 2014-03-17,2turno_campos,Eduardo Campos,regiao,SUL,20
-2014-03-17,2turno_campos,Branco/ Nulo,regiao,SUL,27
+2014-03-17,2turno_campos,Branco e Nulo,regiao,SUL,27
 2014-03-17,2turno_campos,NS/NR*,regiao,SUL,13
 2014-03-17,interesse,Tem muito interesse,vida_hoje,Satisfeito,16
 2014-03-17,interesse,Tem médio interesse,vida_hoje,Satisfeito,31
@@ -793,27 +793,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,vida_hoje,NS/NR*,0
 2014-03-17,2turno_aecio,Aécio Neves,vida_hoje,Satisfeito,21
 2014-03-17,2turno_aecio,Dilma Rousseff,vida_hoje,Satisfeito,50
-2014-03-17,2turno_aecio,Branco/ Nulo,vida_hoje,Satisfeito,20
+2014-03-17,2turno_aecio,Branco e Nulo,vida_hoje,Satisfeito,20
 2014-03-17,2turno_aecio,NS/NR*,vida_hoje,Satisfeito,9
 2014-03-17,2turno_aecio,Aécio Neves,vida_hoje,Insatisfeito,16
 2014-03-17,2turno_aecio,Dilma Rousseff,vida_hoje,Insatisfeito,33
-2014-03-17,2turno_aecio,Branco/ Nulo,vida_hoje,Insatisfeito,43
+2014-03-17,2turno_aecio,Branco e Nulo,vida_hoje,Insatisfeito,43
 2014-03-17,2turno_aecio,NS/NR*,vida_hoje,Insatisfeito,9
 2014-03-17,2turno_aecio,Aécio Neves,vida_hoje,NS/NR*,11
 2014-03-17,2turno_aecio,Dilma Rousseff,vida_hoje,NS/NR*,44
-2014-03-17,2turno_aecio,Branco/ Nulo,vida_hoje,NS/NR*,44
+2014-03-17,2turno_aecio,Branco e Nulo,vida_hoje,NS/NR*,44
 2014-03-17,2turno_aecio,NS/NR*,vida_hoje,NS/NR*,0
 2014-03-17,2turno_campos,Dilma Rousseff,vida_hoje,Satisfeito,51
 2014-03-17,2turno_campos,Eduardo Campos,vida_hoje,Satisfeito,16
-2014-03-17,2turno_campos,Branco/ Nulo,vida_hoje,Satisfeito,22
+2014-03-17,2turno_campos,Branco e Nulo,vida_hoje,Satisfeito,22
 2014-03-17,2turno_campos,NS/NR*,vida_hoje,Satisfeito,11
 2014-03-17,2turno_campos,Dilma Rousseff,vida_hoje,Insatisfeito,33
 2014-03-17,2turno_campos,Eduardo Campos,vida_hoje,Insatisfeito,13
-2014-03-17,2turno_campos,Branco/ Nulo,vida_hoje,Insatisfeito,44
+2014-03-17,2turno_campos,Branco e Nulo,vida_hoje,Insatisfeito,44
 2014-03-17,2turno_campos,NS/NR*,vida_hoje,Insatisfeito,11
 2014-03-17,2turno_campos,Dilma Rousseff,vida_hoje,NS/NR*,44
 2014-03-17,2turno_campos,Eduardo Campos,vida_hoje,NS/NR*,0
-2014-03-17,2turno_campos,Branco/ Nulo,vida_hoje,NS/NR*,56
+2014-03-17,2turno_campos,Branco e Nulo,vida_hoje,NS/NR*,56
 2014-03-17,2turno_campos,NS/NR*,vida_hoje,NS/NR*,0
 2014-03-17,vida_hoje,Satisfeito,interesse,Tem muito interesse,88
 2014-03-17,vida_hoje,Insatisfeito,interesse,Tem muito interesse,12
@@ -901,35 +901,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,interesse,NS/NR*,10
 2014-03-17,2turno_aecio,Aécio Neves,interesse,Tem muito interesse,29
 2014-03-17,2turno_aecio,Dilma Rousseff,interesse,Tem muito interesse,57
-2014-03-17,2turno_aecio,Branco/ Nulo,interesse,Tem muito interesse,8
+2014-03-17,2turno_aecio,Branco e Nulo,interesse,Tem muito interesse,8
 2014-03-17,2turno_aecio,NS/NR*,interesse,Tem muito interesse,6
 2014-03-17,2turno_aecio,Aécio Neves,interesse,Tem médio interesse,21
 2014-03-17,2turno_aecio,Dilma Rousseff,interesse,Tem médio interesse,59
-2014-03-17,2turno_aecio,Branco/ Nulo,interesse,Tem médio interesse,13
+2014-03-17,2turno_aecio,Branco e Nulo,interesse,Tem médio interesse,13
 2014-03-17,2turno_aecio,NS/NR*,interesse,Tem médio interesse,7
 2014-03-17,2turno_aecio,Aécio Neves,interesse,Não tem interesse,17
 2014-03-17,2turno_aecio,Dilma Rousseff,interesse,Não tem interesse,38
-2014-03-17,2turno_aecio,Branco/ Nulo,interesse,Não tem interesse,35
+2014-03-17,2turno_aecio,Branco e Nulo,interesse,Não tem interesse,35
 2014-03-17,2turno_aecio,NS/NR*,interesse,Não tem interesse,10
 2014-03-17,2turno_aecio,Aécio Neves,interesse,NS/NR*,13
 2014-03-17,2turno_aecio,Dilma Rousseff,interesse,NS/NR*,43
-2014-03-17,2turno_aecio,Branco/ Nulo,interesse,NS/NR*,10
+2014-03-17,2turno_aecio,Branco e Nulo,interesse,NS/NR*,10
 2014-03-17,2turno_aecio,NS/NR*,interesse,NS/NR*,33
 2014-03-17,2turno_campos,Dilma Rousseff,interesse,Tem muito interesse,58
 2014-03-17,2turno_campos,Eduardo Campos,interesse,Tem muito interesse,20
-2014-03-17,2turno_campos,Branco/ Nulo,interesse,Tem muito interesse,15
+2014-03-17,2turno_campos,Branco e Nulo,interesse,Tem muito interesse,15
 2014-03-17,2turno_campos,NS/NR*,interesse,Tem muito interesse,7
 2014-03-17,2turno_campos,Dilma Rousseff,interesse,Tem médio interesse,60
 2014-03-17,2turno_campos,Eduardo Campos,interesse,Tem médio interesse,17
-2014-03-17,2turno_campos,Branco/ Nulo,interesse,Tem médio interesse,14
+2014-03-17,2turno_campos,Branco e Nulo,interesse,Tem médio interesse,14
 2014-03-17,2turno_campos,NS/NR*,interesse,Tem médio interesse,9
 2014-03-17,2turno_campos,Dilma Rousseff,interesse,Não tem interesse,38
 2014-03-17,2turno_campos,Eduardo Campos,interesse,Não tem interesse,14
-2014-03-17,2turno_campos,Branco/ Nulo,interesse,Não tem interesse,36
+2014-03-17,2turno_campos,Branco e Nulo,interesse,Não tem interesse,36
 2014-03-17,2turno_campos,NS/NR*,interesse,Não tem interesse,12
 2014-03-17,2turno_campos,Dilma Rousseff,interesse,NS/NR*,47
 2014-03-17,2turno_campos,Eduardo Campos,interesse,NS/NR*,7
-2014-03-17,2turno_campos,Branco/ Nulo,interesse,NS/NR*,13
+2014-03-17,2turno_campos,Branco e Nulo,interesse,NS/NR*,13
 2014-03-17,2turno_campos,NS/NR*,interesse,NS/NR*,33
 2014-03-17,vida_hoje,Satisfeito,desejo_mudanca,Quer mudança,77
 2014-03-17,vida_hoje,Insatisfeito,desejo_mudanca,Quer mudança,23
@@ -999,27 +999,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,intencao_estimulada,Pastor Everaldo,desejo_mudanca,NS/NR*,4
 2014-03-17,2turno_aecio,Aécio Neves,desejo_mudanca,Quer mudança,25
 2014-03-17,2turno_aecio,Dilma Rousseff,desejo_mudanca,Quer mudança,32
-2014-03-17,2turno_aecio,Branco/ Nulo,desejo_mudanca,Quer mudança,32
+2014-03-17,2turno_aecio,Branco e Nulo,desejo_mudanca,Quer mudança,32
 2014-03-17,2turno_aecio,NS/NR*,desejo_mudanca,Quer mudança,11
 2014-03-17,2turno_aecio,Aécio Neves,desejo_mudanca,Quer continuidade,10
 2014-03-17,2turno_aecio,Dilma Rousseff,desejo_mudanca,Quer continuidade,79
-2014-03-17,2turno_aecio,Branco/ Nulo,desejo_mudanca,Quer continuidade,7
+2014-03-17,2turno_aecio,Branco e Nulo,desejo_mudanca,Quer continuidade,7
 2014-03-17,2turno_aecio,NS/NR*,desejo_mudanca,Quer continuidade,4
 2014-03-17,2turno_aecio,Aécio Neves,desejo_mudanca,NS/NR*,6
 2014-03-17,2turno_aecio,Dilma Rousseff,desejo_mudanca,NS/NR*,17
-2014-03-17,2turno_aecio,Branco/ Nulo,desejo_mudanca,NS/NR*,44
+2014-03-17,2turno_aecio,Branco e Nulo,desejo_mudanca,NS/NR*,44
 2014-03-17,2turno_aecio,NS/NR*,desejo_mudanca,NS/NR*,33
 2014-03-17,2turno_campos,Dilma Rousseff,desejo_mudanca,Quer mudança,32
 2014-03-17,2turno_campos,Eduardo Campos,desejo_mudanca,Quer mudança,20
-2014-03-17,2turno_campos,Branco/ Nulo,desejo_mudanca,Quer mudança,35
+2014-03-17,2turno_campos,Branco e Nulo,desejo_mudanca,Quer mudança,35
 2014-03-17,2turno_campos,NS/NR*,desejo_mudanca,Quer mudança,13
 2014-03-17,2turno_campos,Dilma Rousseff,desejo_mudanca,Quer continuidade,80
 2014-03-17,2turno_campos,Eduardo Campos,desejo_mudanca,Quer continuidade,8
-2014-03-17,2turno_campos,Branco/ Nulo,desejo_mudanca,Quer continuidade,8
+2014-03-17,2turno_campos,Branco e Nulo,desejo_mudanca,Quer continuidade,8
 2014-03-17,2turno_campos,NS/NR*,desejo_mudanca,Quer continuidade,4
 2014-03-17,2turno_campos,Dilma Rousseff,desejo_mudanca,NS/NR*,19
 2014-03-17,2turno_campos,Eduardo Campos,desejo_mudanca,NS/NR*,6
-2014-03-17,2turno_campos,Branco/ Nulo,desejo_mudanca,NS/NR*,44
+2014-03-17,2turno_campos,Branco e Nulo,desejo_mudanca,NS/NR*,44
 2014-03-17,2turno_campos,NS/NR*,desejo_mudanca,NS/NR*,31
 2014-03-17,vida_hoje,Satisfeito,total,total,80
 2014-03-17,vida_hoje,Insatisfeito,total,total,19
@@ -1048,11 +1048,11 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,NS/NR*,total,total,3
 2014-03-17,2turno_aecio,Aécio Neves,total,total,20
 2014-03-17,2turno_aecio,Dilma Rousseff,total,total,47
-2014-03-17,2turno_aecio,Branco/ Nulo,total,total,25
+2014-03-17,2turno_aecio,Branco e Nulo,total,total,25
 2014-03-17,2turno_aecio,NS/NR*,total,total,9
 2014-03-17,2turno_campos,Dilma Rousseff,total,total,47
 2014-03-17,2turno_campos,Eduardo Campos,total,total,16
-2014-03-17,2turno_campos,Branco/ Nulo,total,total,26
+2014-03-17,2turno_campos,Branco e Nulo,total,total,26
 2014-03-17,2turno_campos,NS/NR*,total,total,11
 2014-04-14,vida_hoje,Satisfeito,sexo,MAS,81
 2014-04-14,vida_hoje,Insatisfeito,sexo,MAS,19
@@ -1128,19 +1128,19 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,sexo,FEM,21
 2014-04-14,2turno_aecio,Aécio Neves,sexo,MAS,26
 2014-04-14,2turno_aecio,Dilma Rousseff,sexo,MAS,42
-2014-04-14,2turno_aecio,Branco/ Nulo,sexo,MAS,24
+2014-04-14,2turno_aecio,Branco e Nulo,sexo,MAS,24
 2014-04-14,2turno_aecio,NS/NR*,sexo,MAS,9
 2014-04-14,2turno_aecio,Aécio Neves,sexo,FEM,19
 2014-04-14,2turno_aecio,Dilma Rousseff,sexo,FEM,44
-2014-04-14,2turno_aecio,Branco/ Nulo,sexo,FEM,27
+2014-04-14,2turno_aecio,Branco e Nulo,sexo,FEM,27
 2014-04-14,2turno_aecio,NS/NR*,sexo,FEM,10
 2014-04-14,2turno_campos,Dilma Rousseff,sexo,MAS,42
 2014-04-14,2turno_campos,Eduardo Campos,sexo,MAS,20
-2014-04-14,2turno_campos,Branco/ Nulo,sexo,MAS,27
+2014-04-14,2turno_campos,Branco e Nulo,sexo,MAS,27
 2014-04-14,2turno_campos,NS/NR*,sexo,MAS,11
 2014-04-14,2turno_campos,Dilma Rousseff,sexo,FEM,45
 2014-04-14,2turno_campos,Eduardo Campos,sexo,FEM,14
-2014-04-14,2turno_campos,Branco/ Nulo,sexo,FEM,29
+2014-04-14,2turno_campos,Branco e Nulo,sexo,FEM,29
 2014-04-14,2turno_campos,NS/NR*,sexo,FEM,12
 2014-04-14,vida_hoje,Satisfeito,idade,16 a 24,86
 2014-04-14,vida_hoje,Insatisfeito,idade,16 a 24,14
@@ -1324,43 +1324,43 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,idade,55 ou mais,20
 2014-04-14,2turno_aecio,Aécio Neves,idade,16 a 24,24
 2014-04-14,2turno_aecio,Dilma Rousseff,idade,16 a 24,42
-2014-04-14,2turno_aecio,Branco/ Nulo,idade,16 a 24,25
+2014-04-14,2turno_aecio,Branco e Nulo,idade,16 a 24,25
 2014-04-14,2turno_aecio,NS/NR*,idade,16 a 24,9
 2014-04-14,2turno_aecio,Aécio Neves,idade,25 a 34,22
 2014-04-14,2turno_aecio,Dilma Rousseff,idade,25 a 34,40
-2014-04-14,2turno_aecio,Branco/ Nulo,idade,25 a 34,30
+2014-04-14,2turno_aecio,Branco e Nulo,idade,25 a 34,30
 2014-04-14,2turno_aecio,NS/NR*,idade,25 a 34,7
 2014-04-14,2turno_aecio,Aécio Neves,idade,35 a 44,22
 2014-04-14,2turno_aecio,Dilma Rousseff,idade,35 a 44,43
-2014-04-14,2turno_aecio,Branco/ Nulo,idade,35 a 44,24
+2014-04-14,2turno_aecio,Branco e Nulo,idade,35 a 44,24
 2014-04-14,2turno_aecio,NS/NR*,idade,35 a 44,10
 2014-04-14,2turno_aecio,Aécio Neves,idade,45 a 54,21
 2014-04-14,2turno_aecio,Dilma Rousseff,idade,45 a 54,46
-2014-04-14,2turno_aecio,Branco/ Nulo,idade,45 a 54,26
+2014-04-14,2turno_aecio,Branco e Nulo,idade,45 a 54,26
 2014-04-14,2turno_aecio,NS/NR*,idade,45 a 54,7
 2014-04-14,2turno_aecio,Aécio Neves,idade,55 ou mais,22
 2014-04-14,2turno_aecio,Dilma Rousseff,idade,55 ou mais,44
-2014-04-14,2turno_aecio,Branco/ Nulo,idade,55 ou mais,22
+2014-04-14,2turno_aecio,Branco e Nulo,idade,55 ou mais,22
 2014-04-14,2turno_aecio,NS/NR*,idade,55 ou mais,12
 2014-04-14,2turno_campos,Dilma Rousseff,idade,16 a 24,43
 2014-04-14,2turno_campos,Eduardo Campos,idade,16 a 24,21
-2014-04-14,2turno_campos,Branco/ Nulo,idade,16 a 24,26
+2014-04-14,2turno_campos,Branco e Nulo,idade,16 a 24,26
 2014-04-14,2turno_campos,NS/NR*,idade,16 a 24,10
 2014-04-14,2turno_campos,Dilma Rousseff,idade,25 a 34,41
 2014-04-14,2turno_campos,Eduardo Campos,idade,25 a 34,19
-2014-04-14,2turno_campos,Branco/ Nulo,idade,25 a 34,30
+2014-04-14,2turno_campos,Branco e Nulo,idade,25 a 34,30
 2014-04-14,2turno_campos,NS/NR*,idade,25 a 34,10
 2014-04-14,2turno_campos,Dilma Rousseff,idade,35 a 44,42
 2014-04-14,2turno_campos,Eduardo Campos,idade,35 a 44,17
-2014-04-14,2turno_campos,Branco/ Nulo,idade,35 a 44,28
+2014-04-14,2turno_campos,Branco e Nulo,idade,35 a 44,28
 2014-04-14,2turno_campos,NS/NR*,idade,35 a 44,13
 2014-04-14,2turno_campos,Dilma Rousseff,idade,45 a 54,46
 2014-04-14,2turno_campos,Eduardo Campos,idade,45 a 54,14
-2014-04-14,2turno_campos,Branco/ Nulo,idade,45 a 54,29
+2014-04-14,2turno_campos,Branco e Nulo,idade,45 a 54,29
 2014-04-14,2turno_campos,NS/NR*,idade,45 a 54,11
 2014-04-14,2turno_campos,Dilma Rousseff,idade,55 ou mais,46
 2014-04-14,2turno_campos,Eduardo Campos,idade,55 ou mais,13
-2014-04-14,2turno_campos,Branco/ Nulo,idade,55 ou mais,27
+2014-04-14,2turno_campos,Branco e Nulo,idade,55 ou mais,27
 2014-04-14,2turno_campos,NS/NR*,idade,55 ou mais,15
 2014-04-14,vida_hoje,Satisfeito,escolaridade,Fundamental 1,75
 2014-04-14,vida_hoje,Insatisfeito,escolaridade,Fundamental 1,24
@@ -1508,35 +1508,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,escolaridade,Superior,17
 2014-04-14,2turno_aecio,Aécio Neves,escolaridade,Fundamental 1,17
 2014-04-14,2turno_aecio,Dilma Rousseff,escolaridade,Fundamental 1,53
-2014-04-14,2turno_aecio,Branco/ Nulo,escolaridade,Fundamental 1,20
+2014-04-14,2turno_aecio,Branco e Nulo,escolaridade,Fundamental 1,20
 2014-04-14,2turno_aecio,NS/NR*,escolaridade,Fundamental 1,10
 2014-04-14,2turno_aecio,Aécio Neves,escolaridade,Fundamental 2,21
 2014-04-14,2turno_aecio,Dilma Rousseff,escolaridade,Fundamental 2,47
-2014-04-14,2turno_aecio,Branco/ Nulo,escolaridade,Fundamental 2,24
+2014-04-14,2turno_aecio,Branco e Nulo,escolaridade,Fundamental 2,24
 2014-04-14,2turno_aecio,NS/NR*,escolaridade,Fundamental 2,8
 2014-04-14,2turno_aecio,Aécio Neves,escolaridade,Medio,22
 2014-04-14,2turno_aecio,Dilma Rousseff,escolaridade,Medio,41
-2014-04-14,2turno_aecio,Branco/ Nulo,escolaridade,Medio,28
+2014-04-14,2turno_aecio,Branco e Nulo,escolaridade,Medio,28
 2014-04-14,2turno_aecio,NS/NR*,escolaridade,Medio,9
 2014-04-14,2turno_aecio,Aécio Neves,escolaridade,Superior,33
 2014-04-14,2turno_aecio,Dilma Rousseff,escolaridade,Superior,27
-2014-04-14,2turno_aecio,Branco/ Nulo,escolaridade,Superior,31
+2014-04-14,2turno_aecio,Branco e Nulo,escolaridade,Superior,31
 2014-04-14,2turno_aecio,NS/NR*,escolaridade,Superior,9
 2014-04-14,2turno_campos,Dilma Rousseff,escolaridade,Fundamental 1,53
 2014-04-14,2turno_campos,Eduardo Campos,escolaridade,Fundamental 1,12
-2014-04-14,2turno_campos,Branco/ Nulo,escolaridade,Fundamental 1,21
+2014-04-14,2turno_campos,Branco e Nulo,escolaridade,Fundamental 1,21
 2014-04-14,2turno_campos,NS/NR*,escolaridade,Fundamental 1,13
 2014-04-14,2turno_campos,Dilma Rousseff,escolaridade,Fundamental 2,46
 2014-04-14,2turno_campos,Eduardo Campos,escolaridade,Fundamental 2,17
-2014-04-14,2turno_campos,Branco/ Nulo,escolaridade,Fundamental 2,27
+2014-04-14,2turno_campos,Branco e Nulo,escolaridade,Fundamental 2,27
 2014-04-14,2turno_campos,NS/NR*,escolaridade,Fundamental 2,10
 2014-04-14,2turno_campos,Dilma Rousseff,escolaridade,Medio,41
 2014-04-14,2turno_campos,Eduardo Campos,escolaridade,Medio,18
-2014-04-14,2turno_campos,Branco/ Nulo,escolaridade,Medio,29
+2014-04-14,2turno_campos,Branco e Nulo,escolaridade,Medio,29
 2014-04-14,2turno_campos,NS/NR*,escolaridade,Medio,12
 2014-04-14,2turno_campos,Dilma Rousseff,escolaridade,Superior,30
 2014-04-14,2turno_campos,Eduardo Campos,escolaridade,Superior,21
-2014-04-14,2turno_campos,Branco/ Nulo,escolaridade,Superior,37
+2014-04-14,2turno_campos,Branco e Nulo,escolaridade,Superior,37
 2014-04-14,2turno_campos,NS/NR*,escolaridade,Superior,12
 2014-04-14,vida_hoje,Satisfeito,renda_familiar,Mais de 5,85
 2014-04-14,vida_hoje,Insatisfeito,renda_familiar,Mais de 5,15
@@ -1684,35 +1684,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,renda_familiar,Ate 1,22
 2014-04-14,2turno_aecio,Aécio Neves,renda_familiar,Mais de 5,33
 2014-04-14,2turno_aecio,Dilma Rousseff,renda_familiar,Mais de 5,33
-2014-04-14,2turno_aecio,Branco/ Nulo,renda_familiar,Mais de 5,27
+2014-04-14,2turno_aecio,Branco e Nulo,renda_familiar,Mais de 5,27
 2014-04-14,2turno_aecio,NS/NR*,renda_familiar,Mais de 5,7
 2014-04-14,2turno_aecio,Aécio Neves,renda_familiar,2 a 5,25
 2014-04-14,2turno_aecio,Dilma Rousseff,renda_familiar,2 a 5,40
-2014-04-14,2turno_aecio,Branco/ Nulo,renda_familiar,2 a 5,27
+2014-04-14,2turno_aecio,Branco e Nulo,renda_familiar,2 a 5,27
 2014-04-14,2turno_aecio,NS/NR*,renda_familiar,2 a 5,8
 2014-04-14,2turno_aecio,Aécio Neves,renda_familiar,1 a 2,19
 2014-04-14,2turno_aecio,Dilma Rousseff,renda_familiar,1 a 2,48
-2014-04-14,2turno_aecio,Branco/ Nulo,renda_familiar,1 a 2,23
+2014-04-14,2turno_aecio,Branco e Nulo,renda_familiar,1 a 2,23
 2014-04-14,2turno_aecio,NS/NR*,renda_familiar,1 a 2,11
 2014-04-14,2turno_aecio,Aécio Neves,renda_familiar,Ate 1,15
 2014-04-14,2turno_aecio,Dilma Rousseff,renda_familiar,Ate 1,48
-2014-04-14,2turno_aecio,Branco/ Nulo,renda_familiar,Ate 1,27
+2014-04-14,2turno_aecio,Branco e Nulo,renda_familiar,Ate 1,27
 2014-04-14,2turno_aecio,NS/NR*,renda_familiar,Ate 1,9
 2014-04-14,2turno_campos,Dilma Rousseff,renda_familiar,Mais de 5,33
 2014-04-14,2turno_campos,Eduardo Campos,renda_familiar,Mais de 5,22
-2014-04-14,2turno_campos,Branco/ Nulo,renda_familiar,Mais de 5,35
+2014-04-14,2turno_campos,Branco e Nulo,renda_familiar,Mais de 5,35
 2014-04-14,2turno_campos,NS/NR*,renda_familiar,Mais de 5,11
 2014-04-14,2turno_campos,Dilma Rousseff,renda_familiar,2 a 5,41
 2014-04-14,2turno_campos,Eduardo Campos,renda_familiar,2 a 5,16
-2014-04-14,2turno_campos,Branco/ Nulo,renda_familiar,2 a 5,31
+2014-04-14,2turno_campos,Branco e Nulo,renda_familiar,2 a 5,31
 2014-04-14,2turno_campos,NS/NR*,renda_familiar,2 a 5,11
 2014-04-14,2turno_campos,Dilma Rousseff,renda_familiar,1 a 2,50
 2014-04-14,2turno_campos,Eduardo Campos,renda_familiar,1 a 2,15
-2014-04-14,2turno_campos,Branco/ Nulo,renda_familiar,1 a 2,23
+2014-04-14,2turno_campos,Branco e Nulo,renda_familiar,1 a 2,23
 2014-04-14,2turno_campos,NS/NR*,renda_familiar,1 a 2,12
 2014-04-14,2turno_campos,Dilma Rousseff,renda_familiar,Ate 1,46
 2014-04-14,2turno_campos,Eduardo Campos,renda_familiar,Ate 1,16
-2014-04-14,2turno_campos,Branco/ Nulo,renda_familiar,Ate 1,25
+2014-04-14,2turno_campos,Branco e Nulo,renda_familiar,Ate 1,25
 2014-04-14,2turno_campos,NS/NR*,renda_familiar,Ate 1,13
 2014-04-14,vida_hoje,Satisfeito,condicao_municipio,CAPITAL,77
 2014-04-14,vida_hoje,Insatisfeito,condicao_municipio,CAPITAL,22
@@ -1824,27 +1824,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,condicao_municipio,INTERIOR,20
 2014-04-14,2turno_aecio,Aécio Neves,condicao_municipio,CAPITAL,21
 2014-04-14,2turno_aecio,Dilma Rousseff,condicao_municipio,CAPITAL,42
-2014-04-14,2turno_aecio,Branco/ Nulo,condicao_municipio,CAPITAL,28
+2014-04-14,2turno_aecio,Branco e Nulo,condicao_municipio,CAPITAL,28
 2014-04-14,2turno_aecio,NS/NR*,condicao_municipio,CAPITAL,9
 2014-04-14,2turno_aecio,Aécio Neves,condicao_municipio,PERIFERIA,21
 2014-04-14,2turno_aecio,Dilma Rousseff,condicao_municipio,PERIFERIA,41
-2014-04-14,2turno_aecio,Branco/ Nulo,condicao_municipio,PERIFERIA,28
+2014-04-14,2turno_aecio,Branco e Nulo,condicao_municipio,PERIFERIA,28
 2014-04-14,2turno_aecio,NS/NR*,condicao_municipio,PERIFERIA,11
 2014-04-14,2turno_aecio,Aécio Neves,condicao_municipio,INTERIOR,23
 2014-04-14,2turno_aecio,Dilma Rousseff,condicao_municipio,INTERIOR,44
-2014-04-14,2turno_aecio,Branco/ Nulo,condicao_municipio,INTERIOR,24
+2014-04-14,2turno_aecio,Branco e Nulo,condicao_municipio,INTERIOR,24
 2014-04-14,2turno_aecio,NS/NR*,condicao_municipio,INTERIOR,9
 2014-04-14,2turno_campos,Dilma Rousseff,condicao_municipio,CAPITAL,44
 2014-04-14,2turno_campos,Eduardo Campos,condicao_municipio,CAPITAL,13
-2014-04-14,2turno_campos,Branco/ Nulo,condicao_municipio,CAPITAL,30
+2014-04-14,2turno_campos,Branco e Nulo,condicao_municipio,CAPITAL,30
 2014-04-14,2turno_campos,NS/NR*,condicao_municipio,CAPITAL,13
 2014-04-14,2turno_campos,Dilma Rousseff,condicao_municipio,PERIFERIA,39
 2014-04-14,2turno_campos,Eduardo Campos,condicao_municipio,PERIFERIA,15
-2014-04-14,2turno_campos,Branco/ Nulo,condicao_municipio,PERIFERIA,33
+2014-04-14,2turno_campos,Branco e Nulo,condicao_municipio,PERIFERIA,33
 2014-04-14,2turno_campos,NS/NR*,condicao_municipio,PERIFERIA,12
 2014-04-14,2turno_campos,Dilma Rousseff,condicao_municipio,INTERIOR,44
 2014-04-14,2turno_campos,Eduardo Campos,condicao_municipio,INTERIOR,19
-2014-04-14,2turno_campos,Branco/ Nulo,condicao_municipio,INTERIOR,26
+2014-04-14,2turno_campos,Branco e Nulo,condicao_municipio,INTERIOR,26
 2014-04-14,2turno_campos,NS/NR*,condicao_municipio,INTERIOR,11
 2014-04-14,vida_hoje,Satisfeito,regiao,NORTE/ CENTRO OESTE,80
 2014-04-14,vida_hoje,Insatisfeito,regiao,NORTE/ CENTRO OESTE,19
@@ -1992,35 +1992,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,regiao,SUL,21
 2014-04-14,2turno_aecio,Aécio Neves,regiao,NORTE/ CENTRO OESTE,24
 2014-04-14,2turno_aecio,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,47
-2014-04-14,2turno_aecio,Branco/ Nulo,regiao,NORTE/ CENTRO OESTE,16
+2014-04-14,2turno_aecio,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,16
 2014-04-14,2turno_aecio,NS/NR*,regiao,NORTE/ CENTRO OESTE,13
 2014-04-14,2turno_aecio,Aécio Neves,regiao,NORDESTE,16
 2014-04-14,2turno_aecio,Dilma Rousseff,regiao,NORDESTE,61
-2014-04-14,2turno_aecio,Branco/ Nulo,regiao,NORDESTE,16
+2014-04-14,2turno_aecio,Branco e Nulo,regiao,NORDESTE,16
 2014-04-14,2turno_aecio,NS/NR*,regiao,NORDESTE,7
 2014-04-14,2turno_aecio,Aécio Neves,regiao,SUDESTE,26
 2014-04-14,2turno_aecio,Dilma Rousseff,regiao,SUDESTE,35
-2014-04-14,2turno_aecio,Branco/ Nulo,regiao,SUDESTE,31
+2014-04-14,2turno_aecio,Branco e Nulo,regiao,SUDESTE,31
 2014-04-14,2turno_aecio,NS/NR*,regiao,SUDESTE,8
 2014-04-14,2turno_aecio,Aécio Neves,regiao,SUL,21
 2014-04-14,2turno_aecio,Dilma Rousseff,regiao,SUL,31
-2014-04-14,2turno_aecio,Branco/ Nulo,regiao,SUL,36
+2014-04-14,2turno_aecio,Branco e Nulo,regiao,SUL,36
 2014-04-14,2turno_aecio,NS/NR*,regiao,SUL,12
 2014-04-14,2turno_campos,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,50
 2014-04-14,2turno_campos,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,16
-2014-04-14,2turno_campos,Branco/ Nulo,regiao,NORTE/ CENTRO OESTE,19
+2014-04-14,2turno_campos,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,19
 2014-04-14,2turno_campos,NS/NR*,regiao,NORTE/ CENTRO OESTE,16
 2014-04-14,2turno_campos,Dilma Rousseff,regiao,NORDESTE,58
 2014-04-14,2turno_campos,Eduardo Campos,regiao,NORDESTE,19
-2014-04-14,2turno_campos,Branco/ Nulo,regiao,NORDESTE,14
+2014-04-14,2turno_campos,Branco e Nulo,regiao,NORDESTE,14
 2014-04-14,2turno_campos,NS/NR*,regiao,NORDESTE,8
 2014-04-14,2turno_campos,Dilma Rousseff,regiao,SUDESTE,37
 2014-04-14,2turno_campos,Eduardo Campos,regiao,SUDESTE,15
-2014-04-14,2turno_campos,Branco/ Nulo,regiao,SUDESTE,35
+2014-04-14,2turno_campos,Branco e Nulo,regiao,SUDESTE,35
 2014-04-14,2turno_campos,NS/NR*,regiao,SUDESTE,13
 2014-04-14,2turno_campos,Dilma Rousseff,regiao,SUL,31
 2014-04-14,2turno_campos,Eduardo Campos,regiao,SUL,17
-2014-04-14,2turno_campos,Branco/ Nulo,regiao,SUL,40
+2014-04-14,2turno_campos,Branco e Nulo,regiao,SUL,40
 2014-04-14,2turno_campos,NS/NR*,regiao,SUL,12
 2014-04-14,vida_hoje,Satisfeito,cor,Branca,78
 2014-04-14,vida_hoje,Insatisfeito,cor,Branca,21
@@ -2132,27 +2132,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,cor,Outras,20
 2014-04-14,2turno_aecio,Aécio Neves,cor,Branca,24
 2014-04-14,2turno_aecio,Dilma Rousseff,cor,Branca,35
-2014-04-14,2turno_aecio,Branco/ Nulo,cor,Branca,31
+2014-04-14,2turno_aecio,Branco e Nulo,cor,Branca,31
 2014-04-14,2turno_aecio,NS/NR*,cor,Branca,10
 2014-04-14,2turno_aecio,Aécio Neves,cor,Preta ou parda,21
 2014-04-14,2turno_aecio,Dilma Rousseff,cor,Preta ou parda,49
-2014-04-14,2turno_aecio,Branco/ Nulo,cor,Preta ou parda,22
+2014-04-14,2turno_aecio,Branco e Nulo,cor,Preta ou parda,22
 2014-04-14,2turno_aecio,NS/NR*,cor,Preta ou parda,9
 2014-04-14,2turno_aecio,Aécio Neves,cor,Outras,25
 2014-04-14,2turno_aecio,Dilma Rousseff,cor,Outras,50
-2014-04-14,2turno_aecio,Branco/ Nulo,cor,Outras,17
+2014-04-14,2turno_aecio,Branco e Nulo,cor,Outras,17
 2014-04-14,2turno_aecio,NS/NR*,cor,Outras,8
 2014-04-14,2turno_campos,Dilma Rousseff,cor,Branca,36
 2014-04-14,2turno_campos,Eduardo Campos,cor,Branca,16
-2014-04-14,2turno_campos,Branco/ Nulo,cor,Branca,35
+2014-04-14,2turno_campos,Branco e Nulo,cor,Branca,35
 2014-04-14,2turno_campos,NS/NR*,cor,Branca,13
 2014-04-14,2turno_campos,Dilma Rousseff,cor,Preta ou parda,48
 2014-04-14,2turno_campos,Eduardo Campos,cor,Preta ou parda,17
-2014-04-14,2turno_campos,Branco/ Nulo,cor,Preta ou parda,23
+2014-04-14,2turno_campos,Branco e Nulo,cor,Preta ou parda,23
 2014-04-14,2turno_campos,NS/NR*,cor,Preta ou parda,12
 2014-04-14,2turno_campos,Dilma Rousseff,cor,Outras,55
 2014-04-14,2turno_campos,Eduardo Campos,cor,Outras,17
-2014-04-14,2turno_campos,Branco/ Nulo,cor,Outras,22
+2014-04-14,2turno_campos,Branco e Nulo,cor,Outras,22
 2014-04-14,2turno_campos,NS/NR*,cor,Outras,6
 2014-04-14,vida_hoje,Satisfeito,religiao,Catolica,80
 2014-04-14,vida_hoje,Insatisfeito,religiao,Catolica,20
@@ -2264,27 +2264,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,religiao,Outras,19
 2014-04-14,2turno_aecio,Aécio Neves,religiao,Catolica,23
 2014-04-14,2turno_aecio,Dilma Rousseff,religiao,Catolica,47
-2014-04-14,2turno_aecio,Branco/ Nulo,religiao,Catolica,22
+2014-04-14,2turno_aecio,Branco e Nulo,religiao,Catolica,22
 2014-04-14,2turno_aecio,NS/NR*,religiao,Catolica,9
 2014-04-14,2turno_aecio,Aécio Neves,religiao,Evangelica,22
 2014-04-14,2turno_aecio,Dilma Rousseff,religiao,Evangelica,42
-2014-04-14,2turno_aecio,Branco/ Nulo,religiao,Evangelica,27
+2014-04-14,2turno_aecio,Branco e Nulo,religiao,Evangelica,27
 2014-04-14,2turno_aecio,NS/NR*,religiao,Evangelica,9
 2014-04-14,2turno_aecio,Aécio Neves,religiao,Outras,21
 2014-04-14,2turno_aecio,Dilma Rousseff,religiao,Outras,28
-2014-04-14,2turno_aecio,Branco/ Nulo,religiao,Outras,40
+2014-04-14,2turno_aecio,Branco e Nulo,religiao,Outras,40
 2014-04-14,2turno_aecio,NS/NR*,religiao,Outras,11
 2014-04-14,2turno_campos,Dilma Rousseff,religiao,Catolica,47
 2014-04-14,2turno_campos,Eduardo Campos,religiao,Catolica,17
-2014-04-14,2turno_campos,Branco/ Nulo,religiao,Catolica,25
+2014-04-14,2turno_campos,Branco e Nulo,religiao,Catolica,25
 2014-04-14,2turno_campos,NS/NR*,religiao,Catolica,11
 2014-04-14,2turno_campos,Dilma Rousseff,religiao,Evangelica,41
 2014-04-14,2turno_campos,Eduardo Campos,religiao,Evangelica,16
-2014-04-14,2turno_campos,Branco/ Nulo,religiao,Evangelica,29
+2014-04-14,2turno_campos,Branco e Nulo,religiao,Evangelica,29
 2014-04-14,2turno_campos,NS/NR*,religiao,Evangelica,13
 2014-04-14,2turno_campos,Dilma Rousseff,religiao,Outras,28
 2014-04-14,2turno_campos,Eduardo Campos,religiao,Outras,17
-2014-04-14,2turno_campos,Branco/ Nulo,religiao,Outras,41
+2014-04-14,2turno_campos,Branco e Nulo,religiao,Outras,41
 2014-04-14,2turno_campos,NS/NR*,religiao,Outras,14
 2014-04-14,interesse,Tem muito interesse,vida_hoje,Satisfeito,16
 2014-04-14,interesse,Tem médio interesse,vida_hoje,Satisfeito,32
@@ -2387,27 +2387,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,vida_hoje,NS/NR*,9
 2014-04-14,2turno_aecio,Aécio Neves,vida_hoje,Satisfeito,23
 2014-04-14,2turno_aecio,Dilma Rousseff,vida_hoje,Satisfeito,46
-2014-04-14,2turno_aecio,Branco/ Nulo,vida_hoje,Satisfeito,22
+2014-04-14,2turno_aecio,Branco e Nulo,vida_hoje,Satisfeito,22
 2014-04-14,2turno_aecio,NS/NR*,vida_hoje,Satisfeito,8
 2014-04-14,2turno_aecio,Aécio Neves,vida_hoje,Insatisfeito,19
 2014-04-14,2turno_aecio,Dilma Rousseff,vida_hoje,Insatisfeito,31
-2014-04-14,2turno_aecio,Branco/ Nulo,vida_hoje,Insatisfeito,38
+2014-04-14,2turno_aecio,Branco e Nulo,vida_hoje,Insatisfeito,38
 2014-04-14,2turno_aecio,NS/NR*,vida_hoje,Insatisfeito,12
 2014-04-14,2turno_aecio,Aécio Neves,vida_hoje,NS/NR*,18
 2014-04-14,2turno_aecio,Dilma Rousseff,vida_hoje,NS/NR*,36
-2014-04-14,2turno_aecio,Branco/ Nulo,vida_hoje,NS/NR*,27
+2014-04-14,2turno_aecio,Branco e Nulo,vida_hoje,NS/NR*,27
 2014-04-14,2turno_aecio,NS/NR*,vida_hoje,NS/NR*,18
 2014-04-14,2turno_campos,Dilma Rousseff,vida_hoje,Satisfeito,47
 2014-04-14,2turno_campos,Eduardo Campos,vida_hoje,Satisfeito,17
-2014-04-14,2turno_campos,Branco/ Nulo,vida_hoje,Satisfeito,25
+2014-04-14,2turno_campos,Branco e Nulo,vida_hoje,Satisfeito,25
 2014-04-14,2turno_campos,NS/NR*,vida_hoje,Satisfeito,11
 2014-04-14,2turno_campos,Dilma Rousseff,vida_hoje,Insatisfeito,30
 2014-04-14,2turno_campos,Eduardo Campos,vida_hoje,Insatisfeito,15
-2014-04-14,2turno_campos,Branco/ Nulo,vida_hoje,Insatisfeito,40
+2014-04-14,2turno_campos,Branco e Nulo,vida_hoje,Insatisfeito,40
 2014-04-14,2turno_campos,NS/NR*,vida_hoje,Insatisfeito,14
 2014-04-14,2turno_campos,Dilma Rousseff,vida_hoje,NS/NR*,36
 2014-04-14,2turno_campos,Eduardo Campos,vida_hoje,NS/NR*,18
-2014-04-14,2turno_campos,Branco/ Nulo,vida_hoje,NS/NR*,27
+2014-04-14,2turno_campos,Branco e Nulo,vida_hoje,NS/NR*,27
 2014-04-14,2turno_campos,NS/NR*,vida_hoje,NS/NR*,18
 2014-04-14,vida_hoje,Satisfeito,interesse,Tem muito interesse,85
 2014-04-14,vida_hoje,Insatisfeito,interesse,Tem muito interesse,15
@@ -2539,35 +2539,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,interesse,NS/NR*,8
 2014-04-14,2turno_aecio,Aécio Neves,interesse,Tem muito interesse,30
 2014-04-14,2turno_aecio,Dilma Rousseff,interesse,Tem muito interesse,54
-2014-04-14,2turno_aecio,Branco/ Nulo,interesse,Tem muito interesse,13
+2014-04-14,2turno_aecio,Branco e Nulo,interesse,Tem muito interesse,13
 2014-04-14,2turno_aecio,NS/NR*,interesse,Tem muito interesse,3
 2014-04-14,2turno_aecio,Aécio Neves,interesse,Tem médio interesse,26
 2014-04-14,2turno_aecio,Dilma Rousseff,interesse,Tem médio interesse,50
-2014-04-14,2turno_aecio,Branco/ Nulo,interesse,Tem médio interesse,15
+2014-04-14,2turno_aecio,Branco e Nulo,interesse,Tem médio interesse,15
 2014-04-14,2turno_aecio,NS/NR*,interesse,Tem médio interesse,8
 2014-04-14,2turno_aecio,Aécio Neves,interesse,Não tem interesse,18
 2014-04-14,2turno_aecio,Dilma Rousseff,interesse,Não tem interesse,37
-2014-04-14,2turno_aecio,Branco/ Nulo,interesse,Não tem interesse,34
+2014-04-14,2turno_aecio,Branco e Nulo,interesse,Não tem interesse,34
 2014-04-14,2turno_aecio,NS/NR*,interesse,Não tem interesse,11
 2014-04-14,2turno_aecio,Aécio Neves,interesse,NS/NR*,31
 2014-04-14,2turno_aecio,Dilma Rousseff,interesse,NS/NR*,19
-2014-04-14,2turno_aecio,Branco/ Nulo,interesse,NS/NR*,19
+2014-04-14,2turno_aecio,Branco e Nulo,interesse,NS/NR*,19
 2014-04-14,2turno_aecio,NS/NR*,interesse,NS/NR*,31
 2014-04-14,2turno_campos,Dilma Rousseff,interesse,Tem muito interesse,54
 2014-04-14,2turno_campos,Eduardo Campos,interesse,Tem muito interesse,23
-2014-04-14,2turno_campos,Branco/ Nulo,interesse,Tem muito interesse,19
+2014-04-14,2turno_campos,Branco e Nulo,interesse,Tem muito interesse,19
 2014-04-14,2turno_campos,NS/NR*,interesse,Tem muito interesse,5
 2014-04-14,2turno_campos,Dilma Rousseff,interesse,Tem médio interesse,52
 2014-04-14,2turno_campos,Eduardo Campos,interesse,Tem médio interesse,17
-2014-04-14,2turno_campos,Branco/ Nulo,interesse,Tem médio interesse,19
+2014-04-14,2turno_campos,Branco e Nulo,interesse,Tem médio interesse,19
 2014-04-14,2turno_campos,NS/NR*,interesse,Tem médio interesse,12
 2014-04-14,2turno_campos,Dilma Rousseff,interesse,Não tem interesse,37
 2014-04-14,2turno_campos,Eduardo Campos,interesse,Não tem interesse,15
-2014-04-14,2turno_campos,Branco/ Nulo,interesse,Não tem interesse,35
+2014-04-14,2turno_campos,Branco e Nulo,interesse,Não tem interesse,35
 2014-04-14,2turno_campos,NS/NR*,interesse,Não tem interesse,13
 2014-04-14,2turno_campos,Dilma Rousseff,interesse,NS/NR*,31
 2014-04-14,2turno_campos,Eduardo Campos,interesse,NS/NR*,27
-2014-04-14,2turno_campos,Branco/ Nulo,interesse,NS/NR*,15
+2014-04-14,2turno_campos,Branco e Nulo,interesse,NS/NR*,15
 2014-04-14,2turno_campos,NS/NR*,interesse,NS/NR*,27
 2014-04-14,vida_hoje,Satisfeito,desejo_mudanca,Quer mudança,76
 2014-04-14,vida_hoje,Insatisfeito,desejo_mudanca,Quer mudança,23
@@ -2670,27 +2670,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,desejo_mudanca,NS/NR*,20
 2014-04-14,2turno_aecio,Aécio Neves,desejo_mudanca,Quer mudança,28
 2014-04-14,2turno_aecio,Dilma Rousseff,desejo_mudanca,Quer mudança,31
-2014-04-14,2turno_aecio,Branco/ Nulo,desejo_mudanca,Quer mudança,32
+2014-04-14,2turno_aecio,Branco e Nulo,desejo_mudanca,Quer mudança,32
 2014-04-14,2turno_aecio,NS/NR*,desejo_mudanca,Quer mudança,9
 2014-04-14,2turno_aecio,Aécio Neves,desejo_mudanca,Quer continuidade,10
 2014-04-14,2turno_aecio,Dilma Rousseff,desejo_mudanca,Quer continuidade,73
-2014-04-14,2turno_aecio,Branco/ Nulo,desejo_mudanca,Quer continuidade,10
+2014-04-14,2turno_aecio,Branco e Nulo,desejo_mudanca,Quer continuidade,10
 2014-04-14,2turno_aecio,NS/NR*,desejo_mudanca,Quer continuidade,7
 2014-04-14,2turno_aecio,Aécio Neves,desejo_mudanca,NS/NR*,11
 2014-04-14,2turno_aecio,Dilma Rousseff,desejo_mudanca,NS/NR*,33
-2014-04-14,2turno_aecio,Branco/ Nulo,desejo_mudanca,NS/NR*,31
+2014-04-14,2turno_aecio,Branco e Nulo,desejo_mudanca,NS/NR*,31
 2014-04-14,2turno_aecio,NS/NR*,desejo_mudanca,NS/NR*,25
 2014-04-14,2turno_campos,Dilma Rousseff,desejo_mudanca,Quer mudança,32
 2014-04-14,2turno_campos,Eduardo Campos,desejo_mudanca,Quer mudança,21
-2014-04-14,2turno_campos,Branco/ Nulo,desejo_mudanca,Quer mudança,35
+2014-04-14,2turno_campos,Branco e Nulo,desejo_mudanca,Quer mudança,35
 2014-04-14,2turno_campos,NS/NR*,desejo_mudanca,Quer mudança,12
 2014-04-14,2turno_campos,Dilma Rousseff,desejo_mudanca,Quer continuidade,73
 2014-04-14,2turno_campos,Eduardo Campos,desejo_mudanca,Quer continuidade,7
-2014-04-14,2turno_campos,Branco/ Nulo,desejo_mudanca,Quer continuidade,11
+2014-04-14,2turno_campos,Branco e Nulo,desejo_mudanca,Quer continuidade,11
 2014-04-14,2turno_campos,NS/NR*,desejo_mudanca,Quer continuidade,9
 2014-04-14,2turno_campos,Dilma Rousseff,desejo_mudanca,NS/NR*,33
 2014-04-14,2turno_campos,Eduardo Campos,desejo_mudanca,NS/NR*,9
-2014-04-14,2turno_campos,Branco/ Nulo,desejo_mudanca,NS/NR*,33
+2014-04-14,2turno_campos,Branco e Nulo,desejo_mudanca,NS/NR*,33
 2014-04-14,2turno_campos,NS/NR*,desejo_mudanca,NS/NR*,25
 2014-04-14,vida_hoje,Satisfeito,avaliacao_governo,Ótimo e bom,85
 2014-04-14,vida_hoje,Insatisfeito,avaliacao_governo,Ótimo e bom,14
@@ -2822,35 +2822,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,avaliacao_governo,NS/NR*,6
 2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,Ótimo e bom,6
 2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ótimo e bom,85
-2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ótimo e bom,4
+2014-04-14,2turno_aecio,Branco e Nulo,avaliacao_governo,Ótimo e bom,4
 2014-04-14,2turno_aecio,NS/NR*,avaliacao_governo,Ótimo e bom,5
 2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,Regular,28
 2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,Regular,37
-2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,Regular,23
+2014-04-14,2turno_aecio,Branco e Nulo,avaliacao_governo,Regular,23
 2014-04-14,2turno_aecio,NS/NR*,avaliacao_governo,Regular,12
 2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,Ruim e péssimo,35
 2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,4
-2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ruim e péssimo,53
+2014-04-14,2turno_aecio,Branco e Nulo,avaliacao_governo,Ruim e péssimo,53
 2014-04-14,2turno_aecio,NS/NR*,avaliacao_governo,Ruim e péssimo,8
 2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,NS/NR*,12
 2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,NS/NR*,3
-2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,NS/NR*,36
+2014-04-14,2turno_aecio,Branco e Nulo,avaliacao_governo,NS/NR*,36
 2014-04-14,2turno_aecio,NS/NR*,avaliacao_governo,NS/NR*,48
 2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,Ótimo e bom,85
 2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,Ótimo e bom,5
-2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,Ótimo e bom,5
+2014-04-14,2turno_campos,Branco e Nulo,avaliacao_governo,Ótimo e bom,5
 2014-04-14,2turno_campos,NS/NR*,avaliacao_governo,Ótimo e bom,5
 2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,Regular,38
 2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,Regular,20
-2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,Regular,25
+2014-04-14,2turno_campos,Branco e Nulo,avaliacao_governo,Regular,25
 2014-04-14,2turno_campos,NS/NR*,avaliacao_governo,Regular,17
 2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,5
 2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,Ruim e péssimo,26
-2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,Ruim e péssimo,58
+2014-04-14,2turno_campos,Branco e Nulo,avaliacao_governo,Ruim e péssimo,58
 2014-04-14,2turno_campos,NS/NR*,avaliacao_governo,Ruim e péssimo,12
 2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,NS/NR*,3
 2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,NS/NR*,9
-2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,NS/NR*,36
+2014-04-14,2turno_campos,Branco e Nulo,avaliacao_governo,NS/NR*,36
 2014-04-14,2turno_campos,NS/NR*,avaliacao_governo,NS/NR*,52
 2014-04-14,vida_hoje,Satisfeito,total,total,79
 2014-04-14,vida_hoje,Insatisfeito,total,total,21
@@ -2890,11 +2890,11 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Eduardo Campos,total,total,21
 2014-04-14,2turno_aecio,Aécio Neves,total,total,22
 2014-04-14,2turno_aecio,Dilma Rousseff,total,total,43
-2014-04-14,2turno_aecio,Branco/ Nulo,total,total,26
+2014-04-14,2turno_aecio,Branco e Nulo,total,total,26
 2014-04-14,2turno_aecio,NS/NR*,total,total,9
 2014-04-14,2turno_campos,Dilma Rousseff,total,total,44
 2014-04-14,2turno_campos,Eduardo Campos,total,total,17
-2014-04-14,2turno_campos,Branco/ Nulo,total,total,28
+2014-04-14,2turno_campos,Branco e Nulo,total,total,28
 2014-04-14,2turno_campos,NS/NR*,total,total,12
 2014-05-19,vida_hoje,Satisfeito,sexo,MAS,82
 2014-05-19,vida_hoje,Insatisfeito,sexo,MAS,17
@@ -2970,19 +2970,19 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,sexo,FEM,13
 2014-05-19,2turno_aecio,Aécio Neves,sexo,MAS,25
 2014-05-19,2turno_aecio,Dilma Rousseff,sexo,MAS,45
-2014-05-19,2turno_aecio,Branco/ Nulo,sexo,MAS,22
+2014-05-19,2turno_aecio,Branco e Nulo,sexo,MAS,22
 2014-05-19,2turno_aecio,NS/NR*,sexo,MAS,8
 2014-05-19,2turno_aecio,Aécio Neves,sexo,FEM,23
 2014-05-19,2turno_aecio,Dilma Rousseff,sexo,FEM,41
-2014-05-19,2turno_aecio,Branco/ Nulo,sexo,FEM,25
+2014-05-19,2turno_aecio,Branco e Nulo,sexo,FEM,25
 2014-05-19,2turno_aecio,NS/NR*,sexo,FEM,12
 2014-05-19,2turno_campos,Dilma Rousseff,sexo,MAS,43
 2014-05-19,2turno_campos,Eduardo Campos,sexo,MAS,23
-2014-05-19,2turno_campos,Branco/ Nulo,sexo,MAS,24
+2014-05-19,2turno_campos,Branco e Nulo,sexo,MAS,24
 2014-05-19,2turno_campos,NS/NR*,sexo,MAS,11
 2014-05-19,2turno_campos,Dilma Rousseff,sexo,FEM,40
 2014-05-19,2turno_campos,Eduardo Campos,sexo,FEM,21
-2014-05-19,2turno_campos,Branco/ Nulo,sexo,FEM,26
+2014-05-19,2turno_campos,Branco e Nulo,sexo,FEM,26
 2014-05-19,2turno_campos,NS/NR*,sexo,FEM,13
 2014-05-19,vida_hoje,Satisfeito,idade,16 a 24,85
 2014-05-19,vida_hoje,Insatisfeito,idade,16 a 24,15
@@ -3166,43 +3166,43 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,idade,55 ou mais,11
 2014-05-19,2turno_aecio,Aécio Neves,idade,16 a 24,24
 2014-05-19,2turno_aecio,Dilma Rousseff,idade,16 a 24,43
-2014-05-19,2turno_aecio,Branco/ Nulo,idade,16 a 24,23
+2014-05-19,2turno_aecio,Branco e Nulo,idade,16 a 24,23
 2014-05-19,2turno_aecio,NS/NR*,idade,16 a 24,9
 2014-05-19,2turno_aecio,Aécio Neves,idade,25 a 34,26
 2014-05-19,2turno_aecio,Dilma Rousseff,idade,25 a 34,42
-2014-05-19,2turno_aecio,Branco/ Nulo,idade,25 a 34,23
+2014-05-19,2turno_aecio,Branco e Nulo,idade,25 a 34,23
 2014-05-19,2turno_aecio,NS/NR*,idade,25 a 34,9
 2014-05-19,2turno_aecio,Aécio Neves,idade,35 a 44,21
 2014-05-19,2turno_aecio,Dilma Rousseff,idade,35 a 44,43
-2014-05-19,2turno_aecio,Branco/ Nulo,idade,35 a 44,28
+2014-05-19,2turno_aecio,Branco e Nulo,idade,35 a 44,28
 2014-05-19,2turno_aecio,NS/NR*,idade,35 a 44,8
 2014-05-19,2turno_aecio,Aécio Neves,idade,45 a 54,24
 2014-05-19,2turno_aecio,Dilma Rousseff,idade,45 a 54,41
-2014-05-19,2turno_aecio,Branco/ Nulo,idade,45 a 54,24
+2014-05-19,2turno_aecio,Branco e Nulo,idade,45 a 54,24
 2014-05-19,2turno_aecio,NS/NR*,idade,45 a 54,11
 2014-05-19,2turno_aecio,Aécio Neves,idade,55 ou mais,23
 2014-05-19,2turno_aecio,Dilma Rousseff,idade,55 ou mais,44
-2014-05-19,2turno_aecio,Branco/ Nulo,idade,55 ou mais,21
+2014-05-19,2turno_aecio,Branco e Nulo,idade,55 ou mais,21
 2014-05-19,2turno_aecio,NS/NR*,idade,55 ou mais,12
 2014-05-19,2turno_campos,Dilma Rousseff,idade,16 a 24,39
 2014-05-19,2turno_campos,Eduardo Campos,idade,16 a 24,28
-2014-05-19,2turno_campos,Branco/ Nulo,idade,16 a 24,23
+2014-05-19,2turno_campos,Branco e Nulo,idade,16 a 24,23
 2014-05-19,2turno_campos,NS/NR*,idade,16 a 24,10
 2014-05-19,2turno_campos,Dilma Rousseff,idade,25 a 34,41
 2014-05-19,2turno_campos,Eduardo Campos,idade,25 a 34,22
-2014-05-19,2turno_campos,Branco/ Nulo,idade,25 a 34,25
+2014-05-19,2turno_campos,Branco e Nulo,idade,25 a 34,25
 2014-05-19,2turno_campos,NS/NR*,idade,25 a 34,12
 2014-05-19,2turno_campos,Dilma Rousseff,idade,35 a 44,43
 2014-05-19,2turno_campos,Eduardo Campos,idade,35 a 44,22
-2014-05-19,2turno_campos,Branco/ Nulo,idade,35 a 44,27
+2014-05-19,2turno_campos,Branco e Nulo,idade,35 a 44,27
 2014-05-19,2turno_campos,NS/NR*,idade,35 a 44,9
 2014-05-19,2turno_campos,Dilma Rousseff,idade,45 a 54,40
 2014-05-19,2turno_campos,Eduardo Campos,idade,45 a 54,22
-2014-05-19,2turno_campos,Branco/ Nulo,idade,45 a 54,27
+2014-05-19,2turno_campos,Branco e Nulo,idade,45 a 54,27
 2014-05-19,2turno_campos,NS/NR*,idade,45 a 54,12
 2014-05-19,2turno_campos,Dilma Rousseff,idade,55 ou mais,44
 2014-05-19,2turno_campos,Eduardo Campos,idade,55 ou mais,15
-2014-05-19,2turno_campos,Branco/ Nulo,idade,55 ou mais,25
+2014-05-19,2turno_campos,Branco e Nulo,idade,55 ou mais,25
 2014-05-19,2turno_campos,NS/NR*,idade,55 ou mais,16
 2014-05-19,vida_hoje,Satisfeito,escolaridade,Fundamental 1,80
 2014-05-19,vida_hoje,Insatisfeito,escolaridade,Fundamental 1,19
@@ -3350,35 +3350,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,escolaridade,Superior,13
 2014-05-19,2turno_aecio,Aécio Neves,escolaridade,Fundamental 1,17
 2014-05-19,2turno_aecio,Dilma Rousseff,escolaridade,Fundamental 1,54
-2014-05-19,2turno_aecio,Branco/ Nulo,escolaridade,Fundamental 1,17
+2014-05-19,2turno_aecio,Branco e Nulo,escolaridade,Fundamental 1,17
 2014-05-19,2turno_aecio,NS/NR*,escolaridade,Fundamental 1,12
 2014-05-19,2turno_aecio,Aécio Neves,escolaridade,Fundamental 2,21
 2014-05-19,2turno_aecio,Dilma Rousseff,escolaridade,Fundamental 2,43
-2014-05-19,2turno_aecio,Branco/ Nulo,escolaridade,Fundamental 2,28
+2014-05-19,2turno_aecio,Branco e Nulo,escolaridade,Fundamental 2,28
 2014-05-19,2turno_aecio,NS/NR*,escolaridade,Fundamental 2,8
 2014-05-19,2turno_aecio,Aécio Neves,escolaridade,Medio,25
 2014-05-19,2turno_aecio,Dilma Rousseff,escolaridade,Medio,39
-2014-05-19,2turno_aecio,Branco/ Nulo,escolaridade,Medio,26
+2014-05-19,2turno_aecio,Branco e Nulo,escolaridade,Medio,26
 2014-05-19,2turno_aecio,NS/NR*,escolaridade,Medio,10
 2014-05-19,2turno_aecio,Aécio Neves,escolaridade,Superior,35
 2014-05-19,2turno_aecio,Dilma Rousseff,escolaridade,Superior,34
-2014-05-19,2turno_aecio,Branco/ Nulo,escolaridade,Superior,23
+2014-05-19,2turno_aecio,Branco e Nulo,escolaridade,Superior,23
 2014-05-19,2turno_aecio,NS/NR*,escolaridade,Superior,8
 2014-05-19,2turno_campos,Dilma Rousseff,escolaridade,Fundamental 1,52
 2014-05-19,2turno_campos,Eduardo Campos,escolaridade,Fundamental 1,15
-2014-05-19,2turno_campos,Branco/ Nulo,escolaridade,Fundamental 1,19
+2014-05-19,2turno_campos,Branco e Nulo,escolaridade,Fundamental 1,19
 2014-05-19,2turno_campos,NS/NR*,escolaridade,Fundamental 1,14
 2014-05-19,2turno_campos,Dilma Rousseff,escolaridade,Fundamental 2,43
 2014-05-19,2turno_campos,Eduardo Campos,escolaridade,Fundamental 2,18
-2014-05-19,2turno_campos,Branco/ Nulo,escolaridade,Fundamental 2,28
+2014-05-19,2turno_campos,Branco e Nulo,escolaridade,Fundamental 2,28
 2014-05-19,2turno_campos,NS/NR*,escolaridade,Fundamental 2,12
 2014-05-19,2turno_campos,Dilma Rousseff,escolaridade,Medio,37
 2014-05-19,2turno_campos,Eduardo Campos,escolaridade,Medio,24
-2014-05-19,2turno_campos,Branco/ Nulo,escolaridade,Medio,27
+2014-05-19,2turno_campos,Branco e Nulo,escolaridade,Medio,27
 2014-05-19,2turno_campos,NS/NR*,escolaridade,Medio,12
 2014-05-19,2turno_campos,Dilma Rousseff,escolaridade,Superior,34
 2014-05-19,2turno_campos,Eduardo Campos,escolaridade,Superior,31
-2014-05-19,2turno_campos,Branco/ Nulo,escolaridade,Superior,25
+2014-05-19,2turno_campos,Branco e Nulo,escolaridade,Superior,25
 2014-05-19,2turno_campos,NS/NR*,escolaridade,Superior,10
 2014-05-19,vida_hoje,Satisfeito,renda_familiar,Mais de 5,84
 2014-05-19,vida_hoje,Insatisfeito,renda_familiar,Mais de 5,16
@@ -3526,35 +3526,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,renda_familiar,Ate 1,11
 2014-05-19,2turno_aecio,Aécio Neves,renda_familiar,Mais de 5,32
 2014-05-19,2turno_aecio,Dilma Rousseff,renda_familiar,Mais de 5,37
-2014-05-19,2turno_aecio,Branco/ Nulo,renda_familiar,Mais de 5,23
+2014-05-19,2turno_aecio,Branco e Nulo,renda_familiar,Mais de 5,23
 2014-05-19,2turno_aecio,NS/NR*,renda_familiar,Mais de 5,8
 2014-05-19,2turno_aecio,Aécio Neves,renda_familiar,2 a 5,25
 2014-05-19,2turno_aecio,Dilma Rousseff,renda_familiar,2 a 5,38
-2014-05-19,2turno_aecio,Branco/ Nulo,renda_familiar,2 a 5,24
+2014-05-19,2turno_aecio,Branco e Nulo,renda_familiar,2 a 5,24
 2014-05-19,2turno_aecio,NS/NR*,renda_familiar,2 a 5,13
 2014-05-19,2turno_aecio,Aécio Neves,renda_familiar,1 a 2,20
 2014-05-19,2turno_aecio,Dilma Rousseff,renda_familiar,1 a 2,46
-2014-05-19,2turno_aecio,Branco/ Nulo,renda_familiar,1 a 2,26
+2014-05-19,2turno_aecio,Branco e Nulo,renda_familiar,1 a 2,26
 2014-05-19,2turno_aecio,NS/NR*,renda_familiar,1 a 2,8
 2014-05-19,2turno_aecio,Aécio Neves,renda_familiar,Ate 1,18
 2014-05-19,2turno_aecio,Dilma Rousseff,renda_familiar,Ate 1,57
-2014-05-19,2turno_aecio,Branco/ Nulo,renda_familiar,Ate 1,17
+2014-05-19,2turno_aecio,Branco e Nulo,renda_familiar,Ate 1,17
 2014-05-19,2turno_aecio,NS/NR*,renda_familiar,Ate 1,8
 2014-05-19,2turno_campos,Dilma Rousseff,renda_familiar,Mais de 5,37
 2014-05-19,2turno_campos,Eduardo Campos,renda_familiar,Mais de 5,27
-2014-05-19,2turno_campos,Branco/ Nulo,renda_familiar,Mais de 5,27
+2014-05-19,2turno_campos,Branco e Nulo,renda_familiar,Mais de 5,27
 2014-05-19,2turno_campos,NS/NR*,renda_familiar,Mais de 5,10
 2014-05-19,2turno_campos,Dilma Rousseff,renda_familiar,2 a 5,38
 2014-05-19,2turno_campos,Eduardo Campos,renda_familiar,2 a 5,22
-2014-05-19,2turno_campos,Branco/ Nulo,renda_familiar,2 a 5,26
+2014-05-19,2turno_campos,Branco e Nulo,renda_familiar,2 a 5,26
 2014-05-19,2turno_campos,NS/NR*,renda_familiar,2 a 5,15
 2014-05-19,2turno_campos,Dilma Rousseff,renda_familiar,1 a 2,45
 2014-05-19,2turno_campos,Eduardo Campos,renda_familiar,1 a 2,18
-2014-05-19,2turno_campos,Branco/ Nulo,renda_familiar,1 a 2,27
+2014-05-19,2turno_campos,Branco e Nulo,renda_familiar,1 a 2,27
 2014-05-19,2turno_campos,NS/NR*,renda_familiar,1 a 2,11
 2014-05-19,2turno_campos,Dilma Rousseff,renda_familiar,Ate 1,51
 2014-05-19,2turno_campos,Eduardo Campos,renda_familiar,Ate 1,23
-2014-05-19,2turno_campos,Branco/ Nulo,renda_familiar,Ate 1,17
+2014-05-19,2turno_campos,Branco e Nulo,renda_familiar,Ate 1,17
 2014-05-19,2turno_campos,NS/NR*,renda_familiar,Ate 1,9
 2014-05-19,vida_hoje,Satisfeito,condicao_municipio,CAPITAL,79
 2014-05-19,vida_hoje,Insatisfeito,condicao_municipio,CAPITAL,21
@@ -3666,27 +3666,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,condicao_municipio,INTERIOR,13
 2014-05-19,2turno_aecio,Aécio Neves,condicao_municipio,CAPITAL,24
 2014-05-19,2turno_aecio,Dilma Rousseff,condicao_municipio,CAPITAL,37
-2014-05-19,2turno_aecio,Branco/ Nulo,condicao_municipio,CAPITAL,30
+2014-05-19,2turno_aecio,Branco e Nulo,condicao_municipio,CAPITAL,30
 2014-05-19,2turno_aecio,NS/NR*,condicao_municipio,CAPITAL,9
 2014-05-19,2turno_aecio,Aécio Neves,condicao_municipio,PERIFERIA,20
 2014-05-19,2turno_aecio,Dilma Rousseff,condicao_municipio,PERIFERIA,45
-2014-05-19,2turno_aecio,Branco/ Nulo,condicao_municipio,PERIFERIA,23
+2014-05-19,2turno_aecio,Branco e Nulo,condicao_municipio,PERIFERIA,23
 2014-05-19,2turno_aecio,NS/NR*,condicao_municipio,PERIFERIA,12
 2014-05-19,2turno_aecio,Aécio Neves,condicao_municipio,INTERIOR,25
 2014-05-19,2turno_aecio,Dilma Rousseff,condicao_municipio,INTERIOR,45
-2014-05-19,2turno_aecio,Branco/ Nulo,condicao_municipio,INTERIOR,21
+2014-05-19,2turno_aecio,Branco e Nulo,condicao_municipio,INTERIOR,21
 2014-05-19,2turno_aecio,NS/NR*,condicao_municipio,INTERIOR,10
 2014-05-19,2turno_campos,Dilma Rousseff,condicao_municipio,CAPITAL,35
 2014-05-19,2turno_campos,Eduardo Campos,condicao_municipio,CAPITAL,23
-2014-05-19,2turno_campos,Branco/ Nulo,condicao_municipio,CAPITAL,33
+2014-05-19,2turno_campos,Branco e Nulo,condicao_municipio,CAPITAL,33
 2014-05-19,2turno_campos,NS/NR*,condicao_municipio,CAPITAL,9
 2014-05-19,2turno_campos,Dilma Rousseff,condicao_municipio,PERIFERIA,42
 2014-05-19,2turno_campos,Eduardo Campos,condicao_municipio,PERIFERIA,24
-2014-05-19,2turno_campos,Branco/ Nulo,condicao_municipio,PERIFERIA,20
+2014-05-19,2turno_campos,Branco e Nulo,condicao_municipio,PERIFERIA,20
 2014-05-19,2turno_campos,NS/NR*,condicao_municipio,PERIFERIA,13
 2014-05-19,2turno_campos,Dilma Rousseff,condicao_municipio,INTERIOR,44
 2014-05-19,2turno_campos,Eduardo Campos,condicao_municipio,INTERIOR,20
-2014-05-19,2turno_campos,Branco/ Nulo,condicao_municipio,INTERIOR,22
+2014-05-19,2turno_campos,Branco e Nulo,condicao_municipio,INTERIOR,22
 2014-05-19,2turno_campos,NS/NR*,condicao_municipio,INTERIOR,13
 2014-05-19,vida_hoje,Satisfeito,regiao,NORTE/ CENTRO OESTE,79
 2014-05-19,vida_hoje,Insatisfeito,regiao,NORTE/ CENTRO OESTE,20
@@ -3834,35 +3834,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,regiao,SUL,21
 2014-05-19,2turno_aecio,Aécio Neves,regiao,NORTE/ CENTRO OESTE,28
 2014-05-19,2turno_aecio,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,44
-2014-05-19,2turno_aecio,Branco/ Nulo,regiao,NORTE/ CENTRO OESTE,19
+2014-05-19,2turno_aecio,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,19
 2014-05-19,2turno_aecio,NS/NR*,regiao,NORTE/ CENTRO OESTE,9
 2014-05-19,2turno_aecio,Aécio Neves,regiao,NORDESTE,16
 2014-05-19,2turno_aecio,Dilma Rousseff,regiao,NORDESTE,58
-2014-05-19,2turno_aecio,Branco/ Nulo,regiao,NORDESTE,20
+2014-05-19,2turno_aecio,Branco e Nulo,regiao,NORDESTE,20
 2014-05-19,2turno_aecio,NS/NR*,regiao,NORDESTE,7
 2014-05-19,2turno_aecio,Aécio Neves,regiao,SUDESTE,28
 2014-05-19,2turno_aecio,Dilma Rousseff,regiao,SUDESTE,34
-2014-05-19,2turno_aecio,Branco/ Nulo,regiao,SUDESTE,27
+2014-05-19,2turno_aecio,Branco e Nulo,regiao,SUDESTE,27
 2014-05-19,2turno_aecio,NS/NR*,regiao,SUDESTE,12
 2014-05-19,2turno_aecio,Aécio Neves,regiao,SUL,23
 2014-05-19,2turno_aecio,Dilma Rousseff,regiao,SUL,41
-2014-05-19,2turno_aecio,Branco/ Nulo,regiao,SUL,26
+2014-05-19,2turno_aecio,Branco e Nulo,regiao,SUL,26
 2014-05-19,2turno_aecio,NS/NR*,regiao,SUL,10
 2014-05-19,2turno_campos,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,44
 2014-05-19,2turno_campos,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,24
-2014-05-19,2turno_campos,Branco/ Nulo,regiao,NORTE/ CENTRO OESTE,21
+2014-05-19,2turno_campos,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,21
 2014-05-19,2turno_campos,NS/NR*,regiao,NORTE/ CENTRO OESTE,10
 2014-05-19,2turno_campos,Dilma Rousseff,regiao,NORDESTE,50
 2014-05-19,2turno_campos,Eduardo Campos,regiao,NORDESTE,26
-2014-05-19,2turno_campos,Branco/ Nulo,regiao,NORDESTE,17
+2014-05-19,2turno_campos,Branco e Nulo,regiao,NORDESTE,17
 2014-05-19,2turno_campos,NS/NR*,regiao,NORDESTE,7
 2014-05-19,2turno_campos,Dilma Rousseff,regiao,SUDESTE,36
 2014-05-19,2turno_campos,Eduardo Campos,regiao,SUDESTE,18
-2014-05-19,2turno_campos,Branco/ Nulo,regiao,SUDESTE,30
+2014-05-19,2turno_campos,Branco e Nulo,regiao,SUDESTE,30
 2014-05-19,2turno_campos,NS/NR*,regiao,SUDESTE,16
 2014-05-19,2turno_campos,Dilma Rousseff,regiao,SUL,42
 2014-05-19,2turno_campos,Eduardo Campos,regiao,SUL,20
-2014-05-19,2turno_campos,Branco/ Nulo,regiao,SUL,29
+2014-05-19,2turno_campos,Branco e Nulo,regiao,SUL,29
 2014-05-19,2turno_campos,NS/NR*,regiao,SUL,9
 2014-05-19,vida_hoje,Satisfeito,cor,Branca,80
 2014-05-19,vida_hoje,Insatisfeito,cor,Branca,20
@@ -3974,27 +3974,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,cor,Outras,14
 2014-05-19,2turno_aecio,Aécio Neves,cor,Branca,27
 2014-05-19,2turno_aecio,Dilma Rousseff,cor,Branca,37
-2014-05-19,2turno_aecio,Branco/ Nulo,cor,Branca,26
+2014-05-19,2turno_aecio,Branco e Nulo,cor,Branca,26
 2014-05-19,2turno_aecio,NS/NR*,cor,Branca,10
 2014-05-19,2turno_aecio,Aécio Neves,cor,Preta ou parda,22
 2014-05-19,2turno_aecio,Dilma Rousseff,cor,Preta ou parda,47
-2014-05-19,2turno_aecio,Branco/ Nulo,cor,Preta ou parda,22
+2014-05-19,2turno_aecio,Branco e Nulo,cor,Preta ou parda,22
 2014-05-19,2turno_aecio,NS/NR*,cor,Preta ou parda,10
 2014-05-19,2turno_aecio,Aécio Neves,cor,Outras,19
 2014-05-19,2turno_aecio,Dilma Rousseff,cor,Outras,51
-2014-05-19,2turno_aecio,Branco/ Nulo,cor,Outras,24
+2014-05-19,2turno_aecio,Branco e Nulo,cor,Outras,24
 2014-05-19,2turno_aecio,NS/NR*,cor,Outras,5
 2014-05-19,2turno_campos,Dilma Rousseff,cor,Branca,37
 2014-05-19,2turno_campos,Eduardo Campos,cor,Branca,22
-2014-05-19,2turno_campos,Branco/ Nulo,cor,Branca,30
+2014-05-19,2turno_campos,Branco e Nulo,cor,Branca,30
 2014-05-19,2turno_campos,NS/NR*,cor,Branca,12
 2014-05-19,2turno_campos,Dilma Rousseff,cor,Preta ou parda,45
 2014-05-19,2turno_campos,Eduardo Campos,cor,Preta ou parda,22
-2014-05-19,2turno_campos,Branco/ Nulo,cor,Preta ou parda,22
+2014-05-19,2turno_campos,Branco e Nulo,cor,Preta ou parda,22
 2014-05-19,2turno_campos,NS/NR*,cor,Preta ou parda,12
 2014-05-19,2turno_campos,Dilma Rousseff,cor,Outras,46
 2014-05-19,2turno_campos,Eduardo Campos,cor,Outras,22
-2014-05-19,2turno_campos,Branco/ Nulo,cor,Outras,24
+2014-05-19,2turno_campos,Branco e Nulo,cor,Outras,24
 2014-05-19,2turno_campos,NS/NR*,cor,Outras,8
 2014-05-19,vida_hoje,Satisfeito,religiao,Catolica,82
 2014-05-19,vida_hoje,Insatisfeito,religiao,Catolica,18
@@ -4106,27 +4106,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,religiao,Outras,15
 2014-05-19,2turno_aecio,Aécio Neves,religiao,Catolica,24
 2014-05-19,2turno_aecio,Dilma Rousseff,religiao,Catolica,44
-2014-05-19,2turno_aecio,Branco/ Nulo,religiao,Catolica,23
+2014-05-19,2turno_aecio,Branco e Nulo,religiao,Catolica,23
 2014-05-19,2turno_aecio,NS/NR*,religiao,Catolica,10
 2014-05-19,2turno_aecio,Aécio Neves,religiao,Evangelica,27
 2014-05-19,2turno_aecio,Dilma Rousseff,religiao,Evangelica,42
-2014-05-19,2turno_aecio,Branco/ Nulo,religiao,Evangelica,20
+2014-05-19,2turno_aecio,Branco e Nulo,religiao,Evangelica,20
 2014-05-19,2turno_aecio,NS/NR*,religiao,Evangelica,11
 2014-05-19,2turno_aecio,Aécio Neves,religiao,Outras,21
 2014-05-19,2turno_aecio,Dilma Rousseff,religiao,Outras,39
-2014-05-19,2turno_aecio,Branco/ Nulo,religiao,Outras,33
+2014-05-19,2turno_aecio,Branco e Nulo,religiao,Outras,33
 2014-05-19,2turno_aecio,NS/NR*,religiao,Outras,8
 2014-05-19,2turno_campos,Dilma Rousseff,religiao,Catolica,43
 2014-05-19,2turno_campos,Eduardo Campos,religiao,Catolica,21
-2014-05-19,2turno_campos,Branco/ Nulo,religiao,Catolica,24
+2014-05-19,2turno_campos,Branco e Nulo,religiao,Catolica,24
 2014-05-19,2turno_campos,NS/NR*,religiao,Catolica,12
 2014-05-19,2turno_campos,Dilma Rousseff,religiao,Evangelica,40
 2014-05-19,2turno_campos,Eduardo Campos,religiao,Evangelica,24
-2014-05-19,2turno_campos,Branco/ Nulo,religiao,Evangelica,23
+2014-05-19,2turno_campos,Branco e Nulo,religiao,Evangelica,23
 2014-05-19,2turno_campos,NS/NR*,religiao,Evangelica,13
 2014-05-19,2turno_campos,Dilma Rousseff,religiao,Outras,37
 2014-05-19,2turno_campos,Eduardo Campos,religiao,Outras,19
-2014-05-19,2turno_campos,Branco/ Nulo,religiao,Outras,34
+2014-05-19,2turno_campos,Branco e Nulo,religiao,Outras,34
 2014-05-19,2turno_campos,NS/NR*,religiao,Outras,11
 2014-05-19,interesse,Tem muito interesse,vida_hoje,Satisfeito,14
 2014-05-19,interesse,Tem médio interesse,vida_hoje,Satisfeito,30
@@ -4229,27 +4229,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,vida_hoje,NS/NR*,0
 2014-05-19,2turno_aecio,Aécio Neves,vida_hoje,Satisfeito,23
 2014-05-19,2turno_aecio,Dilma Rousseff,vida_hoje,Satisfeito,47
-2014-05-19,2turno_aecio,Branco/ Nulo,vida_hoje,Satisfeito,21
+2014-05-19,2turno_aecio,Branco e Nulo,vida_hoje,Satisfeito,21
 2014-05-19,2turno_aecio,NS/NR*,vida_hoje,Satisfeito,9
 2014-05-19,2turno_aecio,Aécio Neves,vida_hoje,Insatisfeito,27
 2014-05-19,2turno_aecio,Dilma Rousseff,vida_hoje,Insatisfeito,27
-2014-05-19,2turno_aecio,Branco/ Nulo,vida_hoje,Insatisfeito,35
+2014-05-19,2turno_aecio,Branco e Nulo,vida_hoje,Insatisfeito,35
 2014-05-19,2turno_aecio,NS/NR*,vida_hoje,Insatisfeito,11
 2014-05-19,2turno_aecio,Aécio Neves,vida_hoje,NS/NR*,29
 2014-05-19,2turno_aecio,Dilma Rousseff,vida_hoje,NS/NR*,43
-2014-05-19,2turno_aecio,Branco/ Nulo,vida_hoje,NS/NR*,29
+2014-05-19,2turno_aecio,Branco e Nulo,vida_hoje,NS/NR*,29
 2014-05-19,2turno_aecio,NS/NR*,vida_hoje,NS/NR*,0
 2014-05-19,2turno_campos,Dilma Rousseff,vida_hoje,Satisfeito,45
 2014-05-19,2turno_campos,Eduardo Campos,vida_hoje,Satisfeito,21
-2014-05-19,2turno_campos,Branco/ Nulo,vida_hoje,Satisfeito,22
+2014-05-19,2turno_campos,Branco e Nulo,vida_hoje,Satisfeito,22
 2014-05-19,2turno_campos,NS/NR*,vida_hoje,Satisfeito,11
 2014-05-19,2turno_campos,Dilma Rousseff,vida_hoje,Insatisfeito,25
 2014-05-19,2turno_campos,Eduardo Campos,vida_hoje,Insatisfeito,24
-2014-05-19,2turno_campos,Branco/ Nulo,vida_hoje,Insatisfeito,37
+2014-05-19,2turno_campos,Branco e Nulo,vida_hoje,Insatisfeito,37
 2014-05-19,2turno_campos,NS/NR*,vida_hoje,Insatisfeito,14
 2014-05-19,2turno_campos,Dilma Rousseff,vida_hoje,NS/NR*,43
 2014-05-19,2turno_campos,Eduardo Campos,vida_hoje,NS/NR*,29
-2014-05-19,2turno_campos,Branco/ Nulo,vida_hoje,NS/NR*,29
+2014-05-19,2turno_campos,Branco e Nulo,vida_hoje,NS/NR*,29
 2014-05-19,2turno_campos,NS/NR*,vida_hoje,NS/NR*,0
 2014-05-19,vida_hoje,Satisfeito,interesse,Tem muito interesse,80
 2014-05-19,vida_hoje,Insatisfeito,interesse,Tem muito interesse,19
@@ -4381,35 +4381,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,interesse,NS/NR*,5
 2014-05-19,2turno_aecio,Aécio Neves,interesse,Tem muito interesse,35
 2014-05-19,2turno_aecio,Dilma Rousseff,interesse,Tem muito interesse,54
-2014-05-19,2turno_aecio,Branco/ Nulo,interesse,Tem muito interesse,7
+2014-05-19,2turno_aecio,Branco e Nulo,interesse,Tem muito interesse,7
 2014-05-19,2turno_aecio,NS/NR*,interesse,Tem muito interesse,4
 2014-05-19,2turno_aecio,Aécio Neves,interesse,Tem médio interesse,25
 2014-05-19,2turno_aecio,Dilma Rousseff,interesse,Tem médio interesse,55
-2014-05-19,2turno_aecio,Branco/ Nulo,interesse,Tem médio interesse,11
+2014-05-19,2turno_aecio,Branco e Nulo,interesse,Tem médio interesse,11
 2014-05-19,2turno_aecio,NS/NR*,interesse,Tem médio interesse,9
 2014-05-19,2turno_aecio,Aécio Neves,interesse,Não tem interesse,21
 2014-05-19,2turno_aecio,Dilma Rousseff,interesse,Não tem interesse,34
-2014-05-19,2turno_aecio,Branco/ Nulo,interesse,Não tem interesse,33
+2014-05-19,2turno_aecio,Branco e Nulo,interesse,Não tem interesse,33
 2014-05-19,2turno_aecio,NS/NR*,interesse,Não tem interesse,11
 2014-05-19,2turno_aecio,Aécio Neves,interesse,NS/NR*,14
 2014-05-19,2turno_aecio,Dilma Rousseff,interesse,NS/NR*,38
-2014-05-19,2turno_aecio,Branco/ Nulo,interesse,NS/NR*,24
+2014-05-19,2turno_aecio,Branco e Nulo,interesse,NS/NR*,24
 2014-05-19,2turno_aecio,NS/NR*,interesse,NS/NR*,24
 2014-05-19,2turno_campos,Dilma Rousseff,interesse,Tem muito interesse,54
 2014-05-19,2turno_campos,Eduardo Campos,interesse,Tem muito interesse,28
-2014-05-19,2turno_campos,Branco/ Nulo,interesse,Tem muito interesse,11
+2014-05-19,2turno_campos,Branco e Nulo,interesse,Tem muito interesse,11
 2014-05-19,2turno_campos,NS/NR*,interesse,Tem muito interesse,6
 2014-05-19,2turno_campos,Dilma Rousseff,interesse,Tem médio interesse,53
 2014-05-19,2turno_campos,Eduardo Campos,interesse,Tem médio interesse,26
-2014-05-19,2turno_campos,Branco/ Nulo,interesse,Tem médio interesse,12
+2014-05-19,2turno_campos,Branco e Nulo,interesse,Tem médio interesse,12
 2014-05-19,2turno_campos,NS/NR*,interesse,Tem médio interesse,9
 2014-05-19,2turno_campos,Dilma Rousseff,interesse,Não tem interesse,33
 2014-05-19,2turno_campos,Eduardo Campos,interesse,Não tem interesse,18
-2014-05-19,2turno_campos,Branco/ Nulo,interesse,Não tem interesse,35
+2014-05-19,2turno_campos,Branco e Nulo,interesse,Não tem interesse,35
 2014-05-19,2turno_campos,NS/NR*,interesse,Não tem interesse,14
 2014-05-19,2turno_campos,Dilma Rousseff,interesse,NS/NR*,38
 2014-05-19,2turno_campos,Eduardo Campos,interesse,NS/NR*,10
-2014-05-19,2turno_campos,Branco/ Nulo,interesse,NS/NR*,24
+2014-05-19,2turno_campos,Branco e Nulo,interesse,NS/NR*,24
 2014-05-19,2turno_campos,NS/NR*,interesse,NS/NR*,29
 2014-05-19,vida_hoje,Satisfeito,desejo_mudanca,Quer mudança,78
 2014-05-19,vida_hoje,Insatisfeito,desejo_mudanca,Quer mudança,22
@@ -4512,27 +4512,27 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,desejo_mudanca,NS/NR*,14
 2014-05-19,2turno_aecio,Aécio Neves,desejo_mudanca,Quer mudança,31
 2014-05-19,2turno_aecio,Dilma Rousseff,desejo_mudanca,Quer mudança,29
-2014-05-19,2turno_aecio,Branco/ Nulo,desejo_mudanca,Quer mudança,30
+2014-05-19,2turno_aecio,Branco e Nulo,desejo_mudanca,Quer mudança,30
 2014-05-19,2turno_aecio,NS/NR*,desejo_mudanca,Quer mudança,10
 2014-05-19,2turno_aecio,Aécio Neves,desejo_mudanca,Quer continuidade,10
 2014-05-19,2turno_aecio,Dilma Rousseff,desejo_mudanca,Quer continuidade,75
-2014-05-19,2turno_aecio,Branco/ Nulo,desejo_mudanca,Quer continuidade,8
+2014-05-19,2turno_aecio,Branco e Nulo,desejo_mudanca,Quer continuidade,8
 2014-05-19,2turno_aecio,NS/NR*,desejo_mudanca,Quer continuidade,7
 2014-05-19,2turno_aecio,Aécio Neves,desejo_mudanca,NS/NR*,10
 2014-05-19,2turno_aecio,Dilma Rousseff,desejo_mudanca,NS/NR*,24
-2014-05-19,2turno_aecio,Branco/ Nulo,desejo_mudanca,NS/NR*,42
+2014-05-19,2turno_aecio,Branco e Nulo,desejo_mudanca,NS/NR*,42
 2014-05-19,2turno_aecio,NS/NR*,desejo_mudanca,NS/NR*,24
 2014-05-19,2turno_campos,Dilma Rousseff,desejo_mudanca,Quer mudança,27
 2014-05-19,2turno_campos,Eduardo Campos,desejo_mudanca,Quer mudança,29
-2014-05-19,2turno_campos,Branco/ Nulo,desejo_mudanca,Quer mudança,31
+2014-05-19,2turno_campos,Branco e Nulo,desejo_mudanca,Quer mudança,31
 2014-05-19,2turno_campos,NS/NR*,desejo_mudanca,Quer mudança,13
 2014-05-19,2turno_campos,Dilma Rousseff,desejo_mudanca,Quer continuidade,74
 2014-05-19,2turno_campos,Eduardo Campos,desejo_mudanca,Quer continuidade,8
-2014-05-19,2turno_campos,Branco/ Nulo,desejo_mudanca,Quer continuidade,11
+2014-05-19,2turno_campos,Branco e Nulo,desejo_mudanca,Quer continuidade,11
 2014-05-19,2turno_campos,NS/NR*,desejo_mudanca,Quer continuidade,7
 2014-05-19,2turno_campos,Dilma Rousseff,desejo_mudanca,NS/NR*,24
 2014-05-19,2turno_campos,Eduardo Campos,desejo_mudanca,NS/NR*,6
-2014-05-19,2turno_campos,Branco/ Nulo,desejo_mudanca,NS/NR*,43
+2014-05-19,2turno_campos,Branco e Nulo,desejo_mudanca,NS/NR*,43
 2014-05-19,2turno_campos,NS/NR*,desejo_mudanca,NS/NR*,27
 2014-05-19,vida_hoje,Satisfeito,avaliacao_governo,Ótimo e bom,89
 2014-05-19,vida_hoje,Insatisfeito,avaliacao_governo,Ótimo e bom,10
@@ -4664,35 +4664,35 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,avaliacao_governo,NS/NR*,3
 2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,Ótimo e bom,5
 2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ótimo e bom,87
-2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ótimo e bom,4
+2014-05-19,2turno_aecio,Branco e Nulo,avaliacao_governo,Ótimo e bom,4
 2014-05-19,2turno_aecio,NS/NR*,avaliacao_governo,Ótimo e bom,4
 2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,Regular,24
 2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,Regular,38
-2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,Regular,23
+2014-05-19,2turno_aecio,Branco e Nulo,avaliacao_governo,Regular,23
 2014-05-19,2turno_aecio,NS/NR*,avaliacao_governo,Regular,15
 2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,Ruim e péssimo,43
 2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,3
-2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ruim e péssimo,44
+2014-05-19,2turno_aecio,Branco e Nulo,avaliacao_governo,Ruim e péssimo,44
 2014-05-19,2turno_aecio,NS/NR*,avaliacao_governo,Ruim e péssimo,10
 2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,NS/NR*,15
 2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,NS/NR*,3
-2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,NS/NR*,44
+2014-05-19,2turno_aecio,Branco e Nulo,avaliacao_governo,NS/NR*,44
 2014-05-19,2turno_aecio,NS/NR*,avaliacao_governo,NS/NR*,38
 2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,Ótimo e bom,85
 2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,Ótimo e bom,7
-2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,Ótimo e bom,4
+2014-05-19,2turno_campos,Branco e Nulo,avaliacao_governo,Ótimo e bom,4
 2014-05-19,2turno_campos,NS/NR*,avaliacao_governo,Ótimo e bom,4
 2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,Regular,35
 2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,Regular,24
-2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,Regular,24
+2014-05-19,2turno_campos,Branco e Nulo,avaliacao_governo,Regular,24
 2014-05-19,2turno_campos,NS/NR*,avaliacao_governo,Regular,17
 2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,3
 2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,Ruim e péssimo,35
-2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,Ruim e péssimo,47
+2014-05-19,2turno_campos,Branco e Nulo,avaliacao_governo,Ruim e péssimo,47
 2014-05-19,2turno_campos,NS/NR*,avaliacao_governo,Ruim e péssimo,14
 2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,NS/NR*,3
 2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,NS/NR*,6
-2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,NS/NR*,44
+2014-05-19,2turno_campos,Branco e Nulo,avaliacao_governo,NS/NR*,44
 2014-05-19,2turno_campos,NS/NR*,avaliacao_governo,NS/NR*,47
 2014-05-19,vida_hoje,Satisfeito,total,total,80
 2014-05-19,vida_hoje,Insatisfeito,total,total,19
@@ -4732,11 +4732,11 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Eduardo Campos,total,total,13
 2014-05-19,2turno_aecio,Aécio Neves,total,total,24
 2014-05-19,2turno_aecio,Dilma Rousseff,total,total,43
-2014-05-19,2turno_aecio,Branco/ Nulo,total,total,24
+2014-05-19,2turno_aecio,Branco e Nulo,total,total,24
 2014-05-19,2turno_aecio,NS/NR*,total,total,10
 2014-05-19,2turno_campos,Dilma Rousseff,total,total,42
 2014-05-19,2turno_campos,Eduardo Campos,total,total,22
-2014-05-19,2turno_campos,Branco/ Nulo,total,total,25
+2014-05-19,2turno_campos,Branco e Nulo,total,total,25
 2014-05-19,2turno_campos,NS/NR*,total,total,12
 2013-10-21,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,53
 2013-11-11,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,49

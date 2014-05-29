@@ -1098,13 +1098,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,sexo,FEM,14
 2014-04-14,intencao_estimulada,Outros,sexo,FEM,3
 2014-04-14,intencao_estimulada,Pastor Everaldo,sexo,FEM,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,sexo,MAS,36
+2014-04-14,avaliacao_governo,Ótimo e bom,sexo,MAS,36
 2014-04-14,avaliacao_governo,Regular,sexo,MAS,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,sexo,MAS,29
+2014-04-14,avaliacao_governo,Ruim e péssimo,sexo,MAS,29
 2014-04-14,avaliacao_governo,NS/NR*,sexo,MAS,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,sexo,FEM,33
+2014-04-14,avaliacao_governo,Ótimo e bom,sexo,FEM,33
 2014-04-14,avaliacao_governo,Regular,sexo,FEM,35
-2014-04-14,avaliacao_governo,Ruim ou péssimo,sexo,FEM,31
+2014-04-14,avaliacao_governo,Ruim e péssimo,sexo,FEM,31
 2014-04-14,avaliacao_governo,NS/NR*,sexo,FEM,2
 2014-04-14,aprova_dilma,Aprova,sexo,MAS,49
 2014-04-14,aprova_dilma,Desaprova,sexo,MAS,46
@@ -1252,25 +1252,25 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,idade,55 ou mais,16
 2014-04-14,intencao_estimulada,Outros,idade,55 ou mais,2
 2014-04-14,intencao_estimulada,Pastor Everaldo,idade,55 ou mais,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,idade,16 a 24,30
+2014-04-14,avaliacao_governo,Ótimo e bom,idade,16 a 24,30
 2014-04-14,avaliacao_governo,Regular,idade,16 a 24,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,idade,16 a 24,35
+2014-04-14,avaliacao_governo,Ruim e péssimo,idade,16 a 24,35
 2014-04-14,avaliacao_governo,NS/NR*,idade,16 a 24,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,idade,25 a 34,32
+2014-04-14,avaliacao_governo,Ótimo e bom,idade,25 a 34,32
 2014-04-14,avaliacao_governo,Regular,idade,25 a 34,36
-2014-04-14,avaliacao_governo,Ruim ou péssimo,idade,25 a 34,30
+2014-04-14,avaliacao_governo,Ruim e péssimo,idade,25 a 34,30
 2014-04-14,avaliacao_governo,NS/NR*,idade,25 a 34,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,idade,35 a 44,35
+2014-04-14,avaliacao_governo,Ótimo e bom,idade,35 a 44,35
 2014-04-14,avaliacao_governo,Regular,idade,35 a 44,35
-2014-04-14,avaliacao_governo,Ruim ou péssimo,idade,35 a 44,29
+2014-04-14,avaliacao_governo,Ruim e péssimo,idade,35 a 44,29
 2014-04-14,avaliacao_governo,NS/NR*,idade,35 a 44,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,idade,45 a 54,35
+2014-04-14,avaliacao_governo,Ótimo e bom,idade,45 a 54,35
 2014-04-14,avaliacao_governo,Regular,idade,45 a 54,36
-2014-04-14,avaliacao_governo,Ruim ou péssimo,idade,45 a 54,28
+2014-04-14,avaliacao_governo,Ruim e péssimo,idade,45 a 54,28
 2014-04-14,avaliacao_governo,NS/NR*,idade,45 a 54,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,idade,55 ou mais,39
+2014-04-14,avaliacao_governo,Ótimo e bom,idade,55 ou mais,39
 2014-04-14,avaliacao_governo,Regular,idade,55 ou mais,31
-2014-04-14,avaliacao_governo,Ruim ou péssimo,idade,55 ou mais,28
+2014-04-14,avaliacao_governo,Ruim e péssimo,idade,55 ou mais,28
 2014-04-14,avaliacao_governo,NS/NR*,idade,55 ou mais,3
 2014-04-14,aprova_dilma,Aprova,idade,16 a 24,44
 2014-04-14,aprova_dilma,Desaprova,idade,16 a 24,52
@@ -1450,21 +1450,21 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,escolaridade,Superior,13
 2014-04-14,intencao_estimulada,Outros,escolaridade,Superior,4
 2014-04-14,intencao_estimulada,Pastor Everaldo,escolaridade,Superior,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 1,48
+2014-04-14,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 1,48
 2014-04-14,avaliacao_governo,Regular,escolaridade,Fundamental 1,28
-2014-04-14,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 1,22
+2014-04-14,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 1,22
 2014-04-14,avaliacao_governo,NS/NR*,escolaridade,Fundamental 1,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 2,37
+2014-04-14,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 2,37
 2014-04-14,avaliacao_governo,Regular,escolaridade,Fundamental 2,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 2,27
+2014-04-14,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 2,27
 2014-04-14,avaliacao_governo,NS/NR*,escolaridade,Fundamental 2,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,escolaridade,Medio,29
+2014-04-14,avaliacao_governo,Ótimo e bom,escolaridade,Medio,29
 2014-04-14,avaliacao_governo,Regular,escolaridade,Medio,37
-2014-04-14,avaliacao_governo,Ruim ou péssimo,escolaridade,Medio,33
+2014-04-14,avaliacao_governo,Ruim e péssimo,escolaridade,Medio,33
 2014-04-14,avaliacao_governo,NS/NR*,escolaridade,Medio,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,escolaridade,Superior,21
+2014-04-14,avaliacao_governo,Ótimo e bom,escolaridade,Superior,21
 2014-04-14,avaliacao_governo,Regular,escolaridade,Superior,38
-2014-04-14,avaliacao_governo,Ruim ou péssimo,escolaridade,Superior,40
+2014-04-14,avaliacao_governo,Ruim e péssimo,escolaridade,Superior,40
 2014-04-14,avaliacao_governo,NS/NR*,escolaridade,Superior,2
 2014-04-14,aprova_dilma,Aprova,escolaridade,Fundamental 1,59
 2014-04-14,aprova_dilma,Desaprova,escolaridade,Fundamental 1,35
@@ -1626,21 +1626,21 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,renda_familiar,Ate 1,14
 2014-04-14,intencao_estimulada,Outros,renda_familiar,Ate 1,3
 2014-04-14,intencao_estimulada,Pastor Everaldo,renda_familiar,Ate 1,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,renda_familiar,Mais de 5,24
+2014-04-14,avaliacao_governo,Ótimo e bom,renda_familiar,Mais de 5,24
 2014-04-14,avaliacao_governo,Regular,renda_familiar,Mais de 5,33
-2014-04-14,avaliacao_governo,Ruim ou péssimo,renda_familiar,Mais de 5,41
+2014-04-14,avaliacao_governo,Ruim e péssimo,renda_familiar,Mais de 5,41
 2014-04-14,avaliacao_governo,NS/NR*,renda_familiar,Mais de 5,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,renda_familiar,2 a 5,32
+2014-04-14,avaliacao_governo,Ótimo e bom,renda_familiar,2 a 5,32
 2014-04-14,avaliacao_governo,Regular,renda_familiar,2 a 5,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,renda_familiar,2 a 5,32
+2014-04-14,avaliacao_governo,Ruim e péssimo,renda_familiar,2 a 5,32
 2014-04-14,avaliacao_governo,NS/NR*,renda_familiar,2 a 5,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,renda_familiar,1 a 2,38
+2014-04-14,avaliacao_governo,Ótimo e bom,renda_familiar,1 a 2,38
 2014-04-14,avaliacao_governo,Regular,renda_familiar,1 a 2,36
-2014-04-14,avaliacao_governo,Ruim ou péssimo,renda_familiar,1 a 2,25
+2014-04-14,avaliacao_governo,Ruim e péssimo,renda_familiar,1 a 2,25
 2014-04-14,avaliacao_governo,NS/NR*,renda_familiar,1 a 2,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,renda_familiar,Ate 1,41
+2014-04-14,avaliacao_governo,Ótimo e bom,renda_familiar,Ate 1,41
 2014-04-14,avaliacao_governo,Regular,renda_familiar,Ate 1,32
-2014-04-14,avaliacao_governo,Ruim ou péssimo,renda_familiar,Ate 1,24
+2014-04-14,avaliacao_governo,Ruim e péssimo,renda_familiar,Ate 1,24
 2014-04-14,avaliacao_governo,NS/NR*,renda_familiar,Ate 1,2
 2014-04-14,aprova_dilma,Aprova,renda_familiar,Mais de 5,36
 2014-04-14,aprova_dilma,Desaprova,renda_familiar,Mais de 5,61
@@ -1780,17 +1780,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,condicao_municipio,INTERIOR,14
 2014-04-14,intencao_estimulada,Outros,condicao_municipio,INTERIOR,3
 2014-04-14,intencao_estimulada,Pastor Everaldo,condicao_municipio,INTERIOR,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,condicao_municipio,CAPITAL,31
+2014-04-14,avaliacao_governo,Ótimo e bom,condicao_municipio,CAPITAL,31
 2014-04-14,avaliacao_governo,Regular,condicao_municipio,CAPITAL,35
-2014-04-14,avaliacao_governo,Ruim ou péssimo,condicao_municipio,CAPITAL,31
+2014-04-14,avaliacao_governo,Ruim e péssimo,condicao_municipio,CAPITAL,31
 2014-04-14,avaliacao_governo,NS/NR*,condicao_municipio,CAPITAL,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,condicao_municipio,PERIFERIA,28
+2014-04-14,avaliacao_governo,Ótimo e bom,condicao_municipio,PERIFERIA,28
 2014-04-14,avaliacao_governo,Regular,condicao_municipio,PERIFERIA,31
-2014-04-14,avaliacao_governo,Ruim ou péssimo,condicao_municipio,PERIFERIA,38
+2014-04-14,avaliacao_governo,Ruim e péssimo,condicao_municipio,PERIFERIA,38
 2014-04-14,avaliacao_governo,NS/NR*,condicao_municipio,PERIFERIA,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,condicao_municipio,INTERIOR,37
+2014-04-14,avaliacao_governo,Ótimo e bom,condicao_municipio,INTERIOR,37
 2014-04-14,avaliacao_governo,Regular,condicao_municipio,INTERIOR,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,condicao_municipio,INTERIOR,27
+2014-04-14,avaliacao_governo,Ruim e péssimo,condicao_municipio,INTERIOR,27
 2014-04-14,avaliacao_governo,NS/NR*,condicao_municipio,INTERIOR,1
 2014-04-14,aprova_dilma,Aprova,condicao_municipio,CAPITAL,46
 2014-04-14,aprova_dilma,Desaprova,condicao_municipio,CAPITAL,48
@@ -1934,21 +1934,21 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,regiao,SUL,17
 2014-04-14,intencao_estimulada,Outros,regiao,SUL,3
 2014-04-14,intencao_estimulada,Pastor Everaldo,regiao,SUL,3
-2014-04-14,avaliacao_governo,Ótimo ou bom,regiao,NORTE/ CENTRO OESTE,40
+2014-04-14,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,40
 2014-04-14,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,35
-2014-04-14,avaliacao_governo,Ruim ou péssimo,regiao,NORTE/ CENTRO OESTE,22
+2014-04-14,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,22
 2014-04-14,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,3
-2014-04-14,avaliacao_governo,Ótimo ou bom,regiao,NORDESTE,42
+2014-04-14,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,42
 2014-04-14,avaliacao_governo,Regular,regiao,NORDESTE,37
-2014-04-14,avaliacao_governo,Ruim ou péssimo,regiao,NORDESTE,19
+2014-04-14,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,19
 2014-04-14,avaliacao_governo,NS/NR*,regiao,NORDESTE,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,regiao,SUDESTE,30
+2014-04-14,avaliacao_governo,Ótimo e bom,regiao,SUDESTE,30
 2014-04-14,avaliacao_governo,Regular,regiao,SUDESTE,32
-2014-04-14,avaliacao_governo,Ruim ou péssimo,regiao,SUDESTE,36
+2014-04-14,avaliacao_governo,Ruim e péssimo,regiao,SUDESTE,36
 2014-04-14,avaliacao_governo,NS/NR*,regiao,SUDESTE,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,regiao,SUL,26
+2014-04-14,avaliacao_governo,Ótimo e bom,regiao,SUL,26
 2014-04-14,avaliacao_governo,Regular,regiao,SUL,35
-2014-04-14,avaliacao_governo,Ruim ou péssimo,regiao,SUL,38
+2014-04-14,avaliacao_governo,Ruim e péssimo,regiao,SUL,38
 2014-04-14,avaliacao_governo,NS/NR*,regiao,SUL,2
 2014-04-14,aprova_dilma,Aprova,regiao,NORTE/ CENTRO OESTE,57
 2014-04-14,aprova_dilma,Desaprova,regiao,NORTE/ CENTRO OESTE,38
@@ -2088,17 +2088,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,cor,Outras,11
 2014-04-14,intencao_estimulada,Outros,cor,Outras,0
 2014-04-14,intencao_estimulada,Pastor Everaldo,cor,Outras,5
-2014-04-14,avaliacao_governo,Ótimo ou bom,cor,Branca,29
+2014-04-14,avaliacao_governo,Ótimo e bom,cor,Branca,29
 2014-04-14,avaliacao_governo,Regular,cor,Branca,33
-2014-04-14,avaliacao_governo,Ruim ou péssimo,cor,Branca,36
+2014-04-14,avaliacao_governo,Ruim e péssimo,cor,Branca,36
 2014-04-14,avaliacao_governo,NS/NR*,cor,Branca,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,cor,Preta ou parda,38
+2014-04-14,avaliacao_governo,Ótimo e bom,cor,Preta ou parda,38
 2014-04-14,avaliacao_governo,Regular,cor,Preta ou parda,35
-2014-04-14,avaliacao_governo,Ruim ou péssimo,cor,Preta ou parda,26
+2014-04-14,avaliacao_governo,Ruim e péssimo,cor,Preta ou parda,26
 2014-04-14,avaliacao_governo,NS/NR*,cor,Preta ou parda,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,cor,Outras,38
+2014-04-14,avaliacao_governo,Ótimo e bom,cor,Outras,38
 2014-04-14,avaliacao_governo,Regular,cor,Outras,38
-2014-04-14,avaliacao_governo,Ruim ou péssimo,cor,Outras,22
+2014-04-14,avaliacao_governo,Ruim e péssimo,cor,Outras,22
 2014-04-14,avaliacao_governo,NS/NR*,cor,Outras,3
 2014-04-14,aprova_dilma,Aprova,cor,Branca,40
 2014-04-14,aprova_dilma,Desaprova,cor,Branca,55
@@ -2220,17 +2220,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,religiao,Outras,12
 2014-04-14,intencao_estimulada,Outros,religiao,Outras,5
 2014-04-14,intencao_estimulada,Pastor Everaldo,religiao,Outras,3
-2014-04-14,avaliacao_governo,Ótimo ou bom,religiao,Catolica,37
+2014-04-14,avaliacao_governo,Ótimo e bom,religiao,Catolica,37
 2014-04-14,avaliacao_governo,Regular,religiao,Catolica,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,religiao,Catolica,27
+2014-04-14,avaliacao_governo,Ruim e péssimo,religiao,Catolica,27
 2014-04-14,avaliacao_governo,NS/NR*,religiao,Catolica,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,religiao,Evangelica,31
+2014-04-14,avaliacao_governo,Ótimo e bom,religiao,Evangelica,31
 2014-04-14,avaliacao_governo,Regular,religiao,Evangelica,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,religiao,Evangelica,33
+2014-04-14,avaliacao_governo,Ruim e péssimo,religiao,Evangelica,33
 2014-04-14,avaliacao_governo,NS/NR*,religiao,Evangelica,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,religiao,Outras,24
+2014-04-14,avaliacao_governo,Ótimo e bom,religiao,Outras,24
 2014-04-14,avaliacao_governo,Regular,religiao,Outras,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,religiao,Outras,40
+2014-04-14,avaliacao_governo,Ruim e péssimo,religiao,Outras,40
 2014-04-14,avaliacao_governo,NS/NR*,religiao,Outras,2
 2014-04-14,aprova_dilma,Aprova,religiao,Catolica,52
 2014-04-14,aprova_dilma,Desaprova,religiao,Catolica,43
@@ -2343,17 +2343,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,vida_hoje,NS/NR*,27
 2014-04-14,intencao_estimulada,Outros,vida_hoje,NS/NR*,0
 2014-04-14,intencao_estimulada,Pastor Everaldo,vida_hoje,NS/NR*,0
-2014-04-14,avaliacao_governo,Ótimo ou bom,vida_hoje,Satisfeito,37
+2014-04-14,avaliacao_governo,Ótimo e bom,vida_hoje,Satisfeito,37
 2014-04-14,avaliacao_governo,Regular,vida_hoje,Satisfeito,35
-2014-04-14,avaliacao_governo,Ruim ou péssimo,vida_hoje,Satisfeito,26
+2014-04-14,avaliacao_governo,Ruim e péssimo,vida_hoje,Satisfeito,26
 2014-04-14,avaliacao_governo,NS/NR*,vida_hoje,Satisfeito,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,vida_hoje,Insatisfeito,23
+2014-04-14,avaliacao_governo,Ótimo e bom,vida_hoje,Insatisfeito,23
 2014-04-14,avaliacao_governo,Regular,vida_hoje,Insatisfeito,32
-2014-04-14,avaliacao_governo,Ruim ou péssimo,vida_hoje,Insatisfeito,43
+2014-04-14,avaliacao_governo,Ruim e péssimo,vida_hoje,Insatisfeito,43
 2014-04-14,avaliacao_governo,NS/NR*,vida_hoje,Insatisfeito,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,vida_hoje,NS/NR*,36
+2014-04-14,avaliacao_governo,Ótimo e bom,vida_hoje,NS/NR*,36
 2014-04-14,avaliacao_governo,Regular,vida_hoje,NS/NR*,36
-2014-04-14,avaliacao_governo,Ruim ou péssimo,vida_hoje,NS/NR*,27
+2014-04-14,avaliacao_governo,Ruim e péssimo,vida_hoje,NS/NR*,27
 2014-04-14,avaliacao_governo,NS/NR*,vida_hoje,NS/NR*,0
 2014-04-14,aprova_dilma,Aprova,vida_hoje,Satisfeito,51
 2014-04-14,aprova_dilma,Desaprova,vida_hoje,Satisfeito,43
@@ -2481,21 +2481,21 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,interesse,NS/NR*,35
 2014-04-14,intencao_estimulada,Outros,interesse,NS/NR*,0
 2014-04-14,intencao_estimulada,Pastor Everaldo,interesse,NS/NR*,0
-2014-04-14,avaliacao_governo,Ótimo ou bom,interesse,Tem muito interesse,47
+2014-04-14,avaliacao_governo,Ótimo e bom,interesse,Tem muito interesse,47
 2014-04-14,avaliacao_governo,Regular,interesse,Tem muito interesse,29
-2014-04-14,avaliacao_governo,Ruim ou péssimo,interesse,Tem muito interesse,23
+2014-04-14,avaliacao_governo,Ruim e péssimo,interesse,Tem muito interesse,23
 2014-04-14,avaliacao_governo,NS/NR*,interesse,Tem muito interesse,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,interesse,Tem médio interesse,42
+2014-04-14,avaliacao_governo,Ótimo e bom,interesse,Tem médio interesse,42
 2014-04-14,avaliacao_governo,Regular,interesse,Tem médio interesse,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,interesse,Tem médio interesse,23
+2014-04-14,avaliacao_governo,Ruim e péssimo,interesse,Tem médio interesse,23
 2014-04-14,avaliacao_governo,NS/NR*,interesse,Tem médio interesse,1
-2014-04-14,avaliacao_governo,Ótimo ou bom,interesse,Não tem interesse,27
+2014-04-14,avaliacao_governo,Ótimo e bom,interesse,Não tem interesse,27
 2014-04-14,avaliacao_governo,Regular,interesse,Não tem interesse,36
-2014-04-14,avaliacao_governo,Ruim ou péssimo,interesse,Não tem interesse,36
+2014-04-14,avaliacao_governo,Ruim e péssimo,interesse,Não tem interesse,36
 2014-04-14,avaliacao_governo,NS/NR*,interesse,Não tem interesse,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,interesse,NS/NR*,31
+2014-04-14,avaliacao_governo,Ótimo e bom,interesse,NS/NR*,31
 2014-04-14,avaliacao_governo,Regular,interesse,NS/NR*,38
-2014-04-14,avaliacao_governo,Ruim ou péssimo,interesse,NS/NR*,27
+2014-04-14,avaliacao_governo,Ruim e péssimo,interesse,NS/NR*,27
 2014-04-14,avaliacao_governo,NS/NR*,interesse,NS/NR*,4
 2014-04-14,aprova_dilma,Aprova,interesse,Tem muito interesse,56
 2014-04-14,aprova_dilma,Desaprova,interesse,Tem muito interesse,41
@@ -2635,17 +2635,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,desejo_mudanca,NS/NR*,25
 2014-04-14,intencao_estimulada,Outros,desejo_mudanca,NS/NR*,0
 2014-04-14,intencao_estimulada,Pastor Everaldo,desejo_mudanca,NS/NR*,0
-2014-04-14,avaliacao_governo,Ótimo ou bom,desejo_mudanca,Quer mudança,23
+2014-04-14,avaliacao_governo,Ótimo e bom,desejo_mudanca,Quer mudança,23
 2014-04-14,avaliacao_governo,Regular,desejo_mudanca,Quer mudança,37
-2014-04-14,avaliacao_governo,Ruim ou péssimo,desejo_mudanca,Quer mudança,38
+2014-04-14,avaliacao_governo,Ruim e péssimo,desejo_mudanca,Quer mudança,38
 2014-04-14,avaliacao_governo,NS/NR*,desejo_mudanca,Quer mudança,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,desejo_mudanca,Quer continuidade,61
+2014-04-14,avaliacao_governo,Ótimo e bom,desejo_mudanca,Quer continuidade,61
 2014-04-14,avaliacao_governo,Regular,desejo_mudanca,Quer continuidade,28
-2014-04-14,avaliacao_governo,Ruim ou péssimo,desejo_mudanca,Quer continuidade,11
+2014-04-14,avaliacao_governo,Ruim e péssimo,desejo_mudanca,Quer continuidade,11
 2014-04-14,avaliacao_governo,NS/NR*,desejo_mudanca,Quer continuidade,0
-2014-04-14,avaliacao_governo,Ótimo ou bom,desejo_mudanca,NS/NR*,41
+2014-04-14,avaliacao_governo,Ótimo e bom,desejo_mudanca,NS/NR*,41
 2014-04-14,avaliacao_governo,Regular,desejo_mudanca,NS/NR*,25
-2014-04-14,avaliacao_governo,Ruim ou péssimo,desejo_mudanca,NS/NR*,22
+2014-04-14,avaliacao_governo,Ruim e péssimo,desejo_mudanca,NS/NR*,22
 2014-04-14,avaliacao_governo,NS/NR*,desejo_mudanca,NS/NR*,12
 2014-04-14,aprova_dilma,Aprova,desejo_mudanca,Quer mudança,34
 2014-04-14,aprova_dilma,Desaprova,desejo_mudanca,Quer mudança,60
@@ -2692,42 +2692,42 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,2turno_campos,Eduardo Campos,desejo_mudanca,NS/NR*,9
 2014-04-14,2turno_campos,Branco/ Nulo,desejo_mudanca,NS/NR*,33
 2014-04-14,2turno_campos,Não sabe/ Não respondeu,desejo_mudanca,NS/NR*,25
-2014-04-14,vida_hoje,Satisfeito,avaliacao_governo,Ótimo ou bom,85
-2014-04-14,vida_hoje,Insatisfeito,avaliacao_governo,Ótimo ou bom,14
-2014-04-14,vida_hoje,NS/NR*,avaliacao_governo,Ótimo ou bom,1
+2014-04-14,vida_hoje,Satisfeito,avaliacao_governo,Ótimo e bom,85
+2014-04-14,vida_hoje,Insatisfeito,avaliacao_governo,Ótimo e bom,14
+2014-04-14,vida_hoje,NS/NR*,avaliacao_governo,Ótimo e bom,1
 2014-04-14,vida_hoje,Satisfeito,avaliacao_governo,Regular,80
 2014-04-14,vida_hoje,Insatisfeito,avaliacao_governo,Regular,19
 2014-04-14,vida_hoje,NS/NR*,avaliacao_governo,Regular,1
-2014-04-14,vida_hoje,Satisfeito,avaliacao_governo,Ruim ou péssimo,70
-2014-04-14,vida_hoje,Insatisfeito,avaliacao_governo,Ruim ou péssimo,30
-2014-04-14,vida_hoje,NS/NR*,avaliacao_governo,Ruim ou péssimo,1
+2014-04-14,vida_hoje,Satisfeito,avaliacao_governo,Ruim e péssimo,70
+2014-04-14,vida_hoje,Insatisfeito,avaliacao_governo,Ruim e péssimo,30
+2014-04-14,vida_hoje,NS/NR*,avaliacao_governo,Ruim e péssimo,1
 2014-04-14,vida_hoje,Satisfeito,avaliacao_governo,NS/NR*,76
 2014-04-14,vida_hoje,Insatisfeito,avaliacao_governo,NS/NR*,24
 2014-04-14,vida_hoje,NS/NR*,avaliacao_governo,NS/NR*,0
-2014-04-14,interesse,Tem muito interesse,avaliacao_governo,Ótimo ou bom,20
-2014-04-14,interesse,Tem médio interesse,avaliacao_governo,Ótimo ou bom,35
-2014-04-14,interesse,Não tem interesse,avaliacao_governo,Ótimo ou bom,44
-2014-04-14,interesse,NS/NR*,avaliacao_governo,Ótimo ou bom,1
+2014-04-14,interesse,Tem muito interesse,avaliacao_governo,Ótimo e bom,20
+2014-04-14,interesse,Tem médio interesse,avaliacao_governo,Ótimo e bom,35
+2014-04-14,interesse,Não tem interesse,avaliacao_governo,Ótimo e bom,44
+2014-04-14,interesse,NS/NR*,avaliacao_governo,Ótimo e bom,1
 2014-04-14,interesse,Tem muito interesse,avaliacao_governo,Regular,12
 2014-04-14,interesse,Tem médio interesse,avaliacao_governo,Regular,28
 2014-04-14,interesse,Não tem interesse,avaliacao_governo,Regular,58
 2014-04-14,interesse,NS/NR*,avaliacao_governo,Regular,1
-2014-04-14,interesse,Tem muito interesse,avaliacao_governo,Ruim ou péssimo,11
-2014-04-14,interesse,Tem médio interesse,avaliacao_governo,Ruim ou péssimo,21
-2014-04-14,interesse,Não tem interesse,avaliacao_governo,Ruim ou péssimo,66
-2014-04-14,interesse,NS/NR*,avaliacao_governo,Ruim ou péssimo,1
+2014-04-14,interesse,Tem muito interesse,avaliacao_governo,Ruim e péssimo,11
+2014-04-14,interesse,Tem médio interesse,avaliacao_governo,Ruim e péssimo,21
+2014-04-14,interesse,Não tem interesse,avaliacao_governo,Ruim e péssimo,66
+2014-04-14,interesse,NS/NR*,avaliacao_governo,Ruim e péssimo,1
 2014-04-14,interesse,Tem muito interesse,avaliacao_governo,NS/NR*,9
 2014-04-14,interesse,Tem médio interesse,avaliacao_governo,NS/NR*,24
 2014-04-14,interesse,Não tem interesse,avaliacao_governo,NS/NR*,64
 2014-04-14,interesse,NS/NR*,avaliacao_governo,NS/NR*,3
-2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo ou bom,2
-2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo ou bom,5
-2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,51
-2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ótimo ou bom,0
-2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Ótimo ou bom,8
-2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,Ótimo ou bom,1
-2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Ótimo ou bom,30
-2014-04-14,intencao_espontanea,Outros,avaliacao_governo,Ótimo ou bom,2
+2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo e bom,2
+2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo e bom,5
+2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ótimo e bom,51
+2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ótimo e bom,0
+2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Ótimo e bom,8
+2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,Ótimo e bom,1
+2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Ótimo e bom,30
+2014-04-14,intencao_espontanea,Outros,avaliacao_governo,Ótimo e bom,2
 2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Regular,9
 2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Regular,16
 2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Regular,14
@@ -2736,14 +2736,14 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,Regular,4
 2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Regular,46
 2014-04-14,intencao_espontanea,Outros,avaliacao_governo,Regular,3
-2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim ou péssimo,12
-2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,36
-2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,2
-2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,2
-2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Ruim ou péssimo,4
-2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,Ruim ou péssimo,7
-2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Ruim ou péssimo,34
-2014-04-14,intencao_espontanea,Outros,avaliacao_governo,Ruim ou péssimo,5
+2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim e péssimo,12
+2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim e péssimo,36
+2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,2
+2014-04-14,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ruim e péssimo,2
+2014-04-14,intencao_espontanea,Lula,avaliacao_governo,Ruim e péssimo,4
+2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,Ruim e péssimo,7
+2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,Ruim e péssimo,34
+2014-04-14,intencao_espontanea,Outros,avaliacao_governo,Ruim e péssimo,5
 2014-04-14,intencao_espontanea,Aécio Neves,avaliacao_governo,NS/NR*,3
 2014-04-14,intencao_espontanea,Branco e Nulo,avaliacao_governo,NS/NR*,33
 2014-04-14,intencao_espontanea,Dilma Rousseff,avaliacao_governo,NS/NR*,0
@@ -2752,13 +2752,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_espontanea,Marina Silva,avaliacao_governo,NS/NR*,0
 2014-04-14,intencao_espontanea,Não sabe,avaliacao_governo,NS/NR*,58
 2014-04-14,intencao_espontanea,Outros,avaliacao_governo,NS/NR*,0
-2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Ótimo ou bom,4
-2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ótimo ou bom,4
-2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,78
-2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ótimo ou bom,2
-2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Ótimo ou bom,7
-2014-04-14,intencao_estimulada,Outros,avaliacao_governo,Ótimo ou bom,3
-2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ótimo ou bom,1
+2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Ótimo e bom,4
+2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ótimo e bom,4
+2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo e bom,78
+2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ótimo e bom,2
+2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Ótimo e bom,7
+2014-04-14,intencao_estimulada,Outros,avaliacao_governo,Ótimo e bom,3
+2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ótimo e bom,1
 2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Regular,19
 2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Regular,23
 2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Regular,27
@@ -2766,13 +2766,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Regular,17
 2014-04-14,intencao_estimulada,Outros,avaliacao_governo,Regular,4
 2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Regular,2
-2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim ou péssimo,21
-2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,48
-2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,3
-2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,8
-2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Ruim ou péssimo,14
-2014-04-14,intencao_estimulada,Outros,avaliacao_governo,Ruim ou péssimo,5
-2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ruim ou péssimo,3
+2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim e péssimo,21
+2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim e péssimo,48
+2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,3
+2014-04-14,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ruim e péssimo,8
+2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,Ruim e péssimo,14
+2014-04-14,intencao_estimulada,Outros,avaliacao_governo,Ruim e péssimo,5
+2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ruim e péssimo,3
 2014-04-14,intencao_estimulada,Aécio Neves,avaliacao_governo,NS/NR*,9
 2014-04-14,intencao_estimulada,Branco e Nulo,avaliacao_governo,NS/NR*,36
 2014-04-14,intencao_estimulada,Dilma Rousseff,avaliacao_governo,NS/NR*,3
@@ -2780,74 +2780,74 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,avaliacao_governo,NS/NR*,45
 2014-04-14,intencao_estimulada,Outros,avaliacao_governo,NS/NR*,0
 2014-04-14,intencao_estimulada,Pastor Everaldo,avaliacao_governo,NS/NR*,3
-2014-04-14,aprova_dilma,Aprova,avaliacao_governo,Ótimo ou bom,94
-2014-04-14,aprova_dilma,Desaprova,avaliacao_governo,Ótimo ou bom,5
-2014-04-14,aprova_dilma,NS/NR*,avaliacao_governo,Ótimo ou bom,1
+2014-04-14,aprova_dilma,Aprova,avaliacao_governo,Ótimo e bom,94
+2014-04-14,aprova_dilma,Desaprova,avaliacao_governo,Ótimo e bom,5
+2014-04-14,aprova_dilma,NS/NR*,avaliacao_governo,Ótimo e bom,1
 2014-04-14,aprova_dilma,Aprova,avaliacao_governo,Regular,42
 2014-04-14,aprova_dilma,Desaprova,avaliacao_governo,Regular,48
 2014-04-14,aprova_dilma,NS/NR*,avaliacao_governo,Regular,10
-2014-04-14,aprova_dilma,Aprova,avaliacao_governo,Ruim ou péssimo,1
-2014-04-14,aprova_dilma,Desaprova,avaliacao_governo,Ruim ou péssimo,99
-2014-04-14,aprova_dilma,NS/NR*,avaliacao_governo,Ruim ou péssimo,1
+2014-04-14,aprova_dilma,Aprova,avaliacao_governo,Ruim e péssimo,1
+2014-04-14,aprova_dilma,Desaprova,avaliacao_governo,Ruim e péssimo,99
+2014-04-14,aprova_dilma,NS/NR*,avaliacao_governo,Ruim e péssimo,1
 2014-04-14,aprova_dilma,Aprova,avaliacao_governo,NS/NR*,9
 2014-04-14,aprova_dilma,Desaprova,avaliacao_governo,NS/NR*,6
 2014-04-14,aprova_dilma,NS/NR*,avaliacao_governo,NS/NR*,85
-2014-04-14,desejo_mudanca,Quer mudança,avaliacao_governo,Ótimo ou bom,46
-2014-04-14,desejo_mudanca,Quer continuidade,avaliacao_governo,Ótimo ou bom,51
-2014-04-14,desejo_mudanca,NS/NR*,avaliacao_governo,Ótimo ou bom,4
+2014-04-14,desejo_mudanca,Quer mudança,avaliacao_governo,Ótimo e bom,46
+2014-04-14,desejo_mudanca,Quer continuidade,avaliacao_governo,Ótimo e bom,51
+2014-04-14,desejo_mudanca,NS/NR*,avaliacao_governo,Ótimo e bom,4
 2014-04-14,desejo_mudanca,Quer mudança,avaliacao_governo,Regular,74
 2014-04-14,desejo_mudanca,Quer continuidade,avaliacao_governo,Regular,24
 2014-04-14,desejo_mudanca,NS/NR*,avaliacao_governo,Regular,2
-2014-04-14,desejo_mudanca,Quer mudança,avaliacao_governo,Ruim ou péssimo,88
-2014-04-14,desejo_mudanca,Quer continuidade,avaliacao_governo,Ruim ou péssimo,10
-2014-04-14,desejo_mudanca,NS/NR*,avaliacao_governo,Ruim ou péssimo,2
+2014-04-14,desejo_mudanca,Quer mudança,avaliacao_governo,Ruim e péssimo,88
+2014-04-14,desejo_mudanca,Quer continuidade,avaliacao_governo,Ruim e péssimo,10
+2014-04-14,desejo_mudanca,NS/NR*,avaliacao_governo,Ruim e péssimo,2
 2014-04-14,desejo_mudanca,Quer mudança,avaliacao_governo,NS/NR*,70
 2014-04-14,desejo_mudanca,Quer continuidade,avaliacao_governo,NS/NR*,6
 2014-04-14,desejo_mudanca,NS/NR*,avaliacao_governo,NS/NR*,24
-2014-04-14,rejeicao,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,3
-2014-04-14,rejeicao,Aécio Neves,avaliacao_governo,Ótimo ou bom,31
-2014-04-14,rejeicao,Pastor Everaldo,avaliacao_governo,Ótimo ou bom,26
-2014-04-14,rejeicao,Eduardo Campos,avaliacao_governo,Ótimo ou bom,26
+2014-04-14,rejeicao,Dilma Rousseff,avaliacao_governo,Ótimo e bom,3
+2014-04-14,rejeicao,Aécio Neves,avaliacao_governo,Ótimo e bom,31
+2014-04-14,rejeicao,Pastor Everaldo,avaliacao_governo,Ótimo e bom,26
+2014-04-14,rejeicao,Eduardo Campos,avaliacao_governo,Ótimo e bom,26
 2014-04-14,rejeicao,Dilma Rousseff,avaliacao_governo,Regular,26
 2014-04-14,rejeicao,Aécio Neves,avaliacao_governo,Regular,22
 2014-04-14,rejeicao,Pastor Everaldo,avaliacao_governo,Regular,21
 2014-04-14,rejeicao,Eduardo Campos,avaliacao_governo,Regular,17
-2014-04-14,rejeicao,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,76
-2014-04-14,rejeicao,Aécio Neves,avaliacao_governo,Ruim ou péssimo,23
-2014-04-14,rejeicao,Pastor Everaldo,avaliacao_governo,Ruim ou péssimo,23
-2014-04-14,rejeicao,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,19
+2014-04-14,rejeicao,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,76
+2014-04-14,rejeicao,Aécio Neves,avaliacao_governo,Ruim e péssimo,23
+2014-04-14,rejeicao,Pastor Everaldo,avaliacao_governo,Ruim e péssimo,23
+2014-04-14,rejeicao,Eduardo Campos,avaliacao_governo,Ruim e péssimo,19
 2014-04-14,rejeicao,Dilma Rousseff,avaliacao_governo,NS/NR*,18
 2014-04-14,rejeicao,Aécio Neves,avaliacao_governo,NS/NR*,9
 2014-04-14,rejeicao,Pastor Everaldo,avaliacao_governo,NS/NR*,6
 2014-04-14,rejeicao,Eduardo Campos,avaliacao_governo,NS/NR*,6
-2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,Ótimo ou bom,6
-2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,85
-2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ótimo ou bom,4
-2014-04-14,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Ótimo ou bom,5
+2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,Ótimo e bom,6
+2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ótimo e bom,85
+2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ótimo e bom,4
+2014-04-14,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Ótimo e bom,5
 2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,Regular,28
 2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,Regular,37
 2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,Regular,23
 2014-04-14,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Regular,12
-2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,Ruim ou péssimo,35
-2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,4
-2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ruim ou péssimo,53
-2014-04-14,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Ruim ou péssimo,8
+2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,Ruim e péssimo,35
+2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,4
+2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ruim e péssimo,53
+2014-04-14,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Ruim e péssimo,8
 2014-04-14,2turno_aecio,Aécio Neves,avaliacao_governo,NS/NR*,12
 2014-04-14,2turno_aecio,Dilma Rousseff,avaliacao_governo,NS/NR*,3
 2014-04-14,2turno_aecio,Branco/ Nulo,avaliacao_governo,NS/NR*,36
 2014-04-14,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,NS/NR*,48
-2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,85
-2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,Ótimo ou bom,5
-2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,Ótimo ou bom,5
-2014-04-14,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Ótimo ou bom,5
+2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,Ótimo e bom,85
+2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,Ótimo e bom,5
+2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,Ótimo e bom,5
+2014-04-14,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Ótimo e bom,5
 2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,Regular,38
 2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,Regular,20
 2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,Regular,25
 2014-04-14,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Regular,17
-2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,5
-2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,26
-2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,Ruim ou péssimo,58
-2014-04-14,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Ruim ou péssimo,12
+2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,5
+2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,Ruim e péssimo,26
+2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,Ruim e péssimo,58
+2014-04-14,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Ruim e péssimo,12
 2014-04-14,2turno_campos,Dilma Rousseff,avaliacao_governo,NS/NR*,3
 2014-04-14,2turno_campos,Eduardo Campos,avaliacao_governo,NS/NR*,9
 2014-04-14,2turno_campos,Branco/ Nulo,avaliacao_governo,NS/NR*,36
@@ -2874,9 +2874,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,Não sabe,total,total,13
 2014-04-14,intencao_estimulada,Outros,total,total,3
 2014-04-14,intencao_estimulada,Pastor Everaldo,total,total,2
-2014-04-14,avaliacao_governo,Ótimo ou bom,total,total,34
+2014-04-14,avaliacao_governo,Ótimo e bom,total,total,34
 2014-04-14,avaliacao_governo,Regular,total,total,34
-2014-04-14,avaliacao_governo,Ruim ou péssimo,total,total,30
+2014-04-14,avaliacao_governo,Ruim e péssimo,total,total,30
 2014-04-14,avaliacao_governo,NS/NR*,total,total,2
 2014-04-14,aprova_dilma,Aprova,total,total,47
 2014-04-14,aprova_dilma,Desaprova,total,total,48
@@ -2940,13 +2940,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,sexo,FEM,10
 2014-05-19,intencao_estimulada,Outros,sexo,FEM,3
 2014-05-19,intencao_estimulada,Pastor Everaldo,sexo,FEM,3
-2014-05-19,avaliacao_governo,Ótimo ou bom,sexo,MAS,36
+2014-05-19,avaliacao_governo,Ótimo e bom,sexo,MAS,36
 2014-05-19,avaliacao_governo,Regular,sexo,MAS,30
-2014-05-19,avaliacao_governo,Ruim ou péssimo,sexo,MAS,33
+2014-05-19,avaliacao_governo,Ruim e péssimo,sexo,MAS,33
 2014-05-19,avaliacao_governo,NS/NR*,sexo,MAS,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,sexo,FEM,34
+2014-05-19,avaliacao_governo,Ótimo e bom,sexo,FEM,34
 2014-05-19,avaliacao_governo,Regular,sexo,FEM,30
-2014-05-19,avaliacao_governo,Ruim ou péssimo,sexo,FEM,35
+2014-05-19,avaliacao_governo,Ruim e péssimo,sexo,FEM,35
 2014-05-19,avaliacao_governo,NS/NR*,sexo,FEM,2
 2014-05-19,aprova_dilma,Aprova,sexo,MAS,48
 2014-05-19,aprova_dilma,Desaprova,sexo,MAS,48
@@ -3094,25 +3094,25 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,idade,55 ou mais,11
 2014-05-19,intencao_estimulada,Outros,idade,55 ou mais,2
 2014-05-19,intencao_estimulada,Pastor Everaldo,idade,55 ou mais,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,idade,16 a 24,34
+2014-05-19,avaliacao_governo,Ótimo e bom,idade,16 a 24,34
 2014-05-19,avaliacao_governo,Regular,idade,16 a 24,29
-2014-05-19,avaliacao_governo,Ruim ou péssimo,idade,16 a 24,35
+2014-05-19,avaliacao_governo,Ruim e péssimo,idade,16 a 24,35
 2014-05-19,avaliacao_governo,NS/NR*,idade,16 a 24,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,idade,25 a 34,31
+2014-05-19,avaliacao_governo,Ótimo e bom,idade,25 a 34,31
 2014-05-19,avaliacao_governo,Regular,idade,25 a 34,35
-2014-05-19,avaliacao_governo,Ruim ou péssimo,idade,25 a 34,33
+2014-05-19,avaliacao_governo,Ruim e péssimo,idade,25 a 34,33
 2014-05-19,avaliacao_governo,NS/NR*,idade,25 a 34,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,idade,35 a 44,37
+2014-05-19,avaliacao_governo,Ótimo e bom,idade,35 a 44,37
 2014-05-19,avaliacao_governo,Regular,idade,35 a 44,27
-2014-05-19,avaliacao_governo,Ruim ou péssimo,idade,35 a 44,35
+2014-05-19,avaliacao_governo,Ruim e péssimo,idade,35 a 44,35
 2014-05-19,avaliacao_governo,NS/NR*,idade,35 a 44,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,idade,45 a 54,33
+2014-05-19,avaliacao_governo,Ótimo e bom,idade,45 a 54,33
 2014-05-19,avaliacao_governo,Regular,idade,45 a 54,32
-2014-05-19,avaliacao_governo,Ruim ou péssimo,idade,45 a 54,33
+2014-05-19,avaliacao_governo,Ruim e péssimo,idade,45 a 54,33
 2014-05-19,avaliacao_governo,NS/NR*,idade,45 a 54,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,idade,55 ou mais,41
+2014-05-19,avaliacao_governo,Ótimo e bom,idade,55 ou mais,41
 2014-05-19,avaliacao_governo,Regular,idade,55 ou mais,24
-2014-05-19,avaliacao_governo,Ruim ou péssimo,idade,55 ou mais,32
+2014-05-19,avaliacao_governo,Ruim e péssimo,idade,55 ou mais,32
 2014-05-19,avaliacao_governo,NS/NR*,idade,55 ou mais,3
 2014-05-19,aprova_dilma,Aprova,idade,16 a 24,46
 2014-05-19,aprova_dilma,Desaprova,idade,16 a 24,51
@@ -3292,21 +3292,21 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,escolaridade,Superior,8
 2014-05-19,intencao_estimulada,Outros,escolaridade,Superior,1
 2014-05-19,intencao_estimulada,Pastor Everaldo,escolaridade,Superior,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 1,49
+2014-05-19,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 1,49
 2014-05-19,avaliacao_governo,Regular,escolaridade,Fundamental 1,22
-2014-05-19,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 1,27
+2014-05-19,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 1,27
 2014-05-19,avaliacao_governo,NS/NR*,escolaridade,Fundamental 1,3
-2014-05-19,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 2,34
+2014-05-19,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 2,34
 2014-05-19,avaliacao_governo,Regular,escolaridade,Fundamental 2,30
-2014-05-19,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 2,33
+2014-05-19,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 2,33
 2014-05-19,avaliacao_governo,NS/NR*,escolaridade,Fundamental 2,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,escolaridade,Medio,29
+2014-05-19,avaliacao_governo,Ótimo e bom,escolaridade,Medio,29
 2014-05-19,avaliacao_governo,Regular,escolaridade,Medio,33
-2014-05-19,avaliacao_governo,Ruim ou péssimo,escolaridade,Medio,36
+2014-05-19,avaliacao_governo,Ruim e péssimo,escolaridade,Medio,36
 2014-05-19,avaliacao_governo,NS/NR*,escolaridade,Medio,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,escolaridade,Superior,28
+2014-05-19,avaliacao_governo,Ótimo e bom,escolaridade,Superior,28
 2014-05-19,avaliacao_governo,Regular,escolaridade,Superior,32
-2014-05-19,avaliacao_governo,Ruim ou péssimo,escolaridade,Superior,39
+2014-05-19,avaliacao_governo,Ruim e péssimo,escolaridade,Superior,39
 2014-05-19,avaliacao_governo,NS/NR*,escolaridade,Superior,1
 2014-05-19,aprova_dilma,Aprova,escolaridade,Fundamental 1,60
 2014-05-19,aprova_dilma,Desaprova,escolaridade,Fundamental 1,35
@@ -3468,21 +3468,21 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,renda_familiar,Ate 1,8
 2014-05-19,intencao_estimulada,Outros,renda_familiar,Ate 1,5
 2014-05-19,intencao_estimulada,Pastor Everaldo,renda_familiar,Ate 1,3
-2014-05-19,avaliacao_governo,Ótimo ou bom,renda_familiar,Mais de 5,29
+2014-05-19,avaliacao_governo,Ótimo e bom,renda_familiar,Mais de 5,29
 2014-05-19,avaliacao_governo,Regular,renda_familiar,Mais de 5,29
-2014-05-19,avaliacao_governo,Ruim ou péssimo,renda_familiar,Mais de 5,40
+2014-05-19,avaliacao_governo,Ruim e péssimo,renda_familiar,Mais de 5,40
 2014-05-19,avaliacao_governo,NS/NR*,renda_familiar,Mais de 5,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,renda_familiar,2 a 5,31
+2014-05-19,avaliacao_governo,Ótimo e bom,renda_familiar,2 a 5,31
 2014-05-19,avaliacao_governo,Regular,renda_familiar,2 a 5,31
-2014-05-19,avaliacao_governo,Ruim ou péssimo,renda_familiar,2 a 5,36
+2014-05-19,avaliacao_governo,Ruim e péssimo,renda_familiar,2 a 5,36
 2014-05-19,avaliacao_governo,NS/NR*,renda_familiar,2 a 5,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,renda_familiar,1 a 2,38
+2014-05-19,avaliacao_governo,Ótimo e bom,renda_familiar,1 a 2,38
 2014-05-19,avaliacao_governo,Regular,renda_familiar,1 a 2,28
-2014-05-19,avaliacao_governo,Ruim ou péssimo,renda_familiar,1 a 2,32
+2014-05-19,avaliacao_governo,Ruim e péssimo,renda_familiar,1 a 2,32
 2014-05-19,avaliacao_governo,NS/NR*,renda_familiar,1 a 2,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,renda_familiar,Ate 1,46
+2014-05-19,avaliacao_governo,Ótimo e bom,renda_familiar,Ate 1,46
 2014-05-19,avaliacao_governo,Regular,renda_familiar,Ate 1,29
-2014-05-19,avaliacao_governo,Ruim ou péssimo,renda_familiar,Ate 1,23
+2014-05-19,avaliacao_governo,Ruim e péssimo,renda_familiar,Ate 1,23
 2014-05-19,avaliacao_governo,NS/NR*,renda_familiar,Ate 1,2
 2014-05-19,aprova_dilma,Aprova,renda_familiar,Mais de 5,38
 2014-05-19,aprova_dilma,Desaprova,renda_familiar,Mais de 5,56
@@ -3622,17 +3622,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,condicao_municipio,INTERIOR,10
 2014-05-19,intencao_estimulada,Outros,condicao_municipio,INTERIOR,2
 2014-05-19,intencao_estimulada,Pastor Everaldo,condicao_municipio,INTERIOR,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,condicao_municipio,CAPITAL,29
+2014-05-19,avaliacao_governo,Ótimo e bom,condicao_municipio,CAPITAL,29
 2014-05-19,avaliacao_governo,Regular,condicao_municipio,CAPITAL,30
-2014-05-19,avaliacao_governo,Ruim ou péssimo,condicao_municipio,CAPITAL,38
+2014-05-19,avaliacao_governo,Ruim e péssimo,condicao_municipio,CAPITAL,38
 2014-05-19,avaliacao_governo,NS/NR*,condicao_municipio,CAPITAL,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,condicao_municipio,PERIFERIA,33
+2014-05-19,avaliacao_governo,Ótimo e bom,condicao_municipio,PERIFERIA,33
 2014-05-19,avaliacao_governo,Regular,condicao_municipio,PERIFERIA,32
-2014-05-19,avaliacao_governo,Ruim ou péssimo,condicao_municipio,PERIFERIA,34
+2014-05-19,avaliacao_governo,Ruim e péssimo,condicao_municipio,PERIFERIA,34
 2014-05-19,avaliacao_governo,NS/NR*,condicao_municipio,PERIFERIA,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,condicao_municipio,INTERIOR,38
+2014-05-19,avaliacao_governo,Ótimo e bom,condicao_municipio,INTERIOR,38
 2014-05-19,avaliacao_governo,Regular,condicao_municipio,INTERIOR,29
-2014-05-19,avaliacao_governo,Ruim ou péssimo,condicao_municipio,INTERIOR,31
+2014-05-19,avaliacao_governo,Ruim e péssimo,condicao_municipio,INTERIOR,31
 2014-05-19,avaliacao_governo,NS/NR*,condicao_municipio,INTERIOR,2
 2014-05-19,aprova_dilma,Aprova,condicao_municipio,CAPITAL,40
 2014-05-19,aprova_dilma,Desaprova,condicao_municipio,CAPITAL,55
@@ -3776,21 +3776,21 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,regiao,SUL,10
 2014-05-19,intencao_estimulada,Outros,regiao,SUL,2
 2014-05-19,intencao_estimulada,Pastor Everaldo,regiao,SUL,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,regiao,NORTE/ CENTRO OESTE,36
+2014-05-19,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,36
 2014-05-19,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,32
-2014-05-19,avaliacao_governo,Ruim ou péssimo,regiao,NORTE/ CENTRO OESTE,30
+2014-05-19,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,30
 2014-05-19,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,regiao,NORDESTE,44
+2014-05-19,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,44
 2014-05-19,avaliacao_governo,Regular,regiao,NORDESTE,31
-2014-05-19,avaliacao_governo,Ruim ou péssimo,regiao,NORDESTE,24
+2014-05-19,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,24
 2014-05-19,avaliacao_governo,NS/NR*,regiao,NORDESTE,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,regiao,SUDESTE,29
+2014-05-19,avaliacao_governo,Ótimo e bom,regiao,SUDESTE,29
 2014-05-19,avaliacao_governo,Regular,regiao,SUDESTE,28
-2014-05-19,avaliacao_governo,Ruim ou péssimo,regiao,SUDESTE,41
+2014-05-19,avaliacao_governo,Ruim e péssimo,regiao,SUDESTE,41
 2014-05-19,avaliacao_governo,NS/NR*,regiao,SUDESTE,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,regiao,SUL,36
+2014-05-19,avaliacao_governo,Ótimo e bom,regiao,SUL,36
 2014-05-19,avaliacao_governo,Regular,regiao,SUL,29
-2014-05-19,avaliacao_governo,Ruim ou péssimo,regiao,SUL,33
+2014-05-19,avaliacao_governo,Ruim e péssimo,regiao,SUL,33
 2014-05-19,avaliacao_governo,NS/NR*,regiao,SUL,2
 2014-05-19,aprova_dilma,Aprova,regiao,NORTE/ CENTRO OESTE,49
 2014-05-19,aprova_dilma,Desaprova,regiao,NORTE/ CENTRO OESTE,44
@@ -3930,17 +3930,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,cor,Outras,14
 2014-05-19,intencao_estimulada,Outros,cor,Outras,0
 2014-05-19,intencao_estimulada,Pastor Everaldo,cor,Outras,5
-2014-05-19,avaliacao_governo,Ótimo ou bom,cor,Branca,32
+2014-05-19,avaliacao_governo,Ótimo e bom,cor,Branca,32
 2014-05-19,avaliacao_governo,Regular,cor,Branca,26
-2014-05-19,avaliacao_governo,Ruim ou péssimo,cor,Branca,40
+2014-05-19,avaliacao_governo,Ruim e péssimo,cor,Branca,40
 2014-05-19,avaliacao_governo,NS/NR*,cor,Branca,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,cor,Preta ou parda,37
+2014-05-19,avaliacao_governo,Ótimo e bom,cor,Preta ou parda,37
 2014-05-19,avaliacao_governo,Regular,cor,Preta ou parda,32
-2014-05-19,avaliacao_governo,Ruim ou péssimo,cor,Preta ou parda,29
+2014-05-19,avaliacao_governo,Ruim e péssimo,cor,Preta ou parda,29
 2014-05-19,avaliacao_governo,NS/NR*,cor,Preta ou parda,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,cor,Outras,43
+2014-05-19,avaliacao_governo,Ótimo e bom,cor,Outras,43
 2014-05-19,avaliacao_governo,Regular,cor,Outras,32
-2014-05-19,avaliacao_governo,Ruim ou péssimo,cor,Outras,24
+2014-05-19,avaliacao_governo,Ruim e péssimo,cor,Outras,24
 2014-05-19,avaliacao_governo,NS/NR*,cor,Outras,0
 2014-05-19,aprova_dilma,Aprova,cor,Branca,42
 2014-05-19,aprova_dilma,Desaprova,cor,Branca,53
@@ -4062,17 +4062,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,religiao,Outras,11
 2014-05-19,intencao_estimulada,Outros,religiao,Outras,1
 2014-05-19,intencao_estimulada,Pastor Everaldo,religiao,Outras,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,religiao,Catolica,38
+2014-05-19,avaliacao_governo,Ótimo e bom,religiao,Catolica,38
 2014-05-19,avaliacao_governo,Regular,religiao,Catolica,28
-2014-05-19,avaliacao_governo,Ruim ou péssimo,religiao,Catolica,33
+2014-05-19,avaliacao_governo,Ruim e péssimo,religiao,Catolica,33
 2014-05-19,avaliacao_governo,NS/NR*,religiao,Catolica,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,religiao,Evangelica,34
+2014-05-19,avaliacao_governo,Ótimo e bom,religiao,Evangelica,34
 2014-05-19,avaliacao_governo,Regular,religiao,Evangelica,33
-2014-05-19,avaliacao_governo,Ruim ou péssimo,religiao,Evangelica,32
+2014-05-19,avaliacao_governo,Ruim e péssimo,religiao,Evangelica,32
 2014-05-19,avaliacao_governo,NS/NR*,religiao,Evangelica,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,religiao,Outras,28
+2014-05-19,avaliacao_governo,Ótimo e bom,religiao,Outras,28
 2014-05-19,avaliacao_governo,Regular,religiao,Outras,30
-2014-05-19,avaliacao_governo,Ruim ou péssimo,religiao,Outras,40
+2014-05-19,avaliacao_governo,Ruim e péssimo,religiao,Outras,40
 2014-05-19,avaliacao_governo,NS/NR*,religiao,Outras,3
 2014-05-19,aprova_dilma,Aprova,religiao,Catolica,50
 2014-05-19,aprova_dilma,Desaprova,religiao,Catolica,46
@@ -4185,17 +4185,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,vida_hoje,NS/NR*,14
 2014-05-19,intencao_estimulada,Outros,vida_hoje,NS/NR*,0
 2014-05-19,intencao_estimulada,Pastor Everaldo,vida_hoje,NS/NR*,14
-2014-05-19,avaliacao_governo,Ótimo ou bom,vida_hoje,Satisfeito,39
+2014-05-19,avaliacao_governo,Ótimo e bom,vida_hoje,Satisfeito,39
 2014-05-19,avaliacao_governo,Regular,vida_hoje,Satisfeito,30
-2014-05-19,avaliacao_governo,Ruim ou péssimo,vida_hoje,Satisfeito,30
+2014-05-19,avaliacao_governo,Ruim e péssimo,vida_hoje,Satisfeito,30
 2014-05-19,avaliacao_governo,NS/NR*,vida_hoje,Satisfeito,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,vida_hoje,Insatisfeito,19
+2014-05-19,avaliacao_governo,Ótimo e bom,vida_hoje,Insatisfeito,19
 2014-05-19,avaliacao_governo,Regular,vida_hoje,Insatisfeito,29
-2014-05-19,avaliacao_governo,Ruim ou péssimo,vida_hoje,Insatisfeito,49
+2014-05-19,avaliacao_governo,Ruim e péssimo,vida_hoje,Insatisfeito,49
 2014-05-19,avaliacao_governo,NS/NR*,vida_hoje,Insatisfeito,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,vida_hoje,NS/NR*,14
+2014-05-19,avaliacao_governo,Ótimo e bom,vida_hoje,NS/NR*,14
 2014-05-19,avaliacao_governo,Regular,vida_hoje,NS/NR*,29
-2014-05-19,avaliacao_governo,Ruim ou péssimo,vida_hoje,NS/NR*,29
+2014-05-19,avaliacao_governo,Ruim e péssimo,vida_hoje,NS/NR*,29
 2014-05-19,avaliacao_governo,NS/NR*,vida_hoje,NS/NR*,29
 2014-05-19,aprova_dilma,Aprova,vida_hoje,Satisfeito,51
 2014-05-19,aprova_dilma,Desaprova,vida_hoje,Satisfeito,44
@@ -4323,21 +4323,21 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,interesse,NS/NR*,24
 2014-05-19,intencao_estimulada,Outros,interesse,NS/NR*,5
 2014-05-19,intencao_estimulada,Pastor Everaldo,interesse,NS/NR*,5
-2014-05-19,avaliacao_governo,Ótimo ou bom,interesse,Tem muito interesse,43
+2014-05-19,avaliacao_governo,Ótimo e bom,interesse,Tem muito interesse,43
 2014-05-19,avaliacao_governo,Regular,interesse,Tem muito interesse,27
-2014-05-19,avaliacao_governo,Ruim ou péssimo,interesse,Tem muito interesse,29
+2014-05-19,avaliacao_governo,Ruim e péssimo,interesse,Tem muito interesse,29
 2014-05-19,avaliacao_governo,NS/NR*,interesse,Tem muito interesse,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,interesse,Tem médio interesse,47
+2014-05-19,avaliacao_governo,Ótimo e bom,interesse,Tem médio interesse,47
 2014-05-19,avaliacao_governo,Regular,interesse,Tem médio interesse,26
-2014-05-19,avaliacao_governo,Ruim ou péssimo,interesse,Tem médio interesse,25
+2014-05-19,avaliacao_governo,Ruim e péssimo,interesse,Tem médio interesse,25
 2014-05-19,avaliacao_governo,NS/NR*,interesse,Tem médio interesse,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,interesse,Não tem interesse,28
+2014-05-19,avaliacao_governo,Ótimo e bom,interesse,Não tem interesse,28
 2014-05-19,avaliacao_governo,Regular,interesse,Não tem interesse,32
-2014-05-19,avaliacao_governo,Ruim ou péssimo,interesse,Não tem interesse,39
+2014-05-19,avaliacao_governo,Ruim e péssimo,interesse,Não tem interesse,39
 2014-05-19,avaliacao_governo,NS/NR*,interesse,Não tem interesse,2
-2014-05-19,avaliacao_governo,Ótimo ou bom,interesse,NS/NR*,38
+2014-05-19,avaliacao_governo,Ótimo e bom,interesse,NS/NR*,38
 2014-05-19,avaliacao_governo,Regular,interesse,NS/NR*,29
-2014-05-19,avaliacao_governo,Ruim ou péssimo,interesse,NS/NR*,19
+2014-05-19,avaliacao_governo,Ruim e péssimo,interesse,NS/NR*,19
 2014-05-19,avaliacao_governo,NS/NR*,interesse,NS/NR*,14
 2014-05-19,aprova_dilma,Aprova,interesse,Tem muito interesse,53
 2014-05-19,aprova_dilma,Desaprova,interesse,Tem muito interesse,43
@@ -4477,17 +4477,17 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,desejo_mudanca,NS/NR*,20
 2014-05-19,intencao_estimulada,Outros,desejo_mudanca,NS/NR*,11
 2014-05-19,intencao_estimulada,Pastor Everaldo,desejo_mudanca,NS/NR*,4
-2014-05-19,avaliacao_governo,Ótimo ou bom,desejo_mudanca,Quer mudança,21
+2014-05-19,avaliacao_governo,Ótimo e bom,desejo_mudanca,Quer mudança,21
 2014-05-19,avaliacao_governo,Regular,desejo_mudanca,Quer mudança,32
-2014-05-19,avaliacao_governo,Ruim ou péssimo,desejo_mudanca,Quer mudança,46
+2014-05-19,avaliacao_governo,Ruim e péssimo,desejo_mudanca,Quer mudança,46
 2014-05-19,avaliacao_governo,NS/NR*,desejo_mudanca,Quer mudança,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,desejo_mudanca,Quer continuidade,66
+2014-05-19,avaliacao_governo,Ótimo e bom,desejo_mudanca,Quer continuidade,66
 2014-05-19,avaliacao_governo,Regular,desejo_mudanca,Quer continuidade,23
-2014-05-19,avaliacao_governo,Ruim ou péssimo,desejo_mudanca,Quer continuidade,9
+2014-05-19,avaliacao_governo,Ruim e péssimo,desejo_mudanca,Quer continuidade,9
 2014-05-19,avaliacao_governo,NS/NR*,desejo_mudanca,Quer continuidade,1
-2014-05-19,avaliacao_governo,Ótimo ou bom,desejo_mudanca,NS/NR*,33
+2014-05-19,avaliacao_governo,Ótimo e bom,desejo_mudanca,NS/NR*,33
 2014-05-19,avaliacao_governo,Regular,desejo_mudanca,NS/NR*,36
-2014-05-19,avaliacao_governo,Ruim ou péssimo,desejo_mudanca,NS/NR*,18
+2014-05-19,avaliacao_governo,Ruim e péssimo,desejo_mudanca,NS/NR*,18
 2014-05-19,avaliacao_governo,NS/NR*,desejo_mudanca,NS/NR*,13
 2014-05-19,aprova_dilma,Aprova,desejo_mudanca,Quer mudança,32
 2014-05-19,aprova_dilma,Desaprova,desejo_mudanca,Quer mudança,64
@@ -4534,42 +4534,42 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,2turno_campos,Eduardo Campos,desejo_mudanca,NS/NR*,6
 2014-05-19,2turno_campos,Branco/ Nulo,desejo_mudanca,NS/NR*,43
 2014-05-19,2turno_campos,Não sabe/ Não respondeu,desejo_mudanca,NS/NR*,27
-2014-05-19,vida_hoje,Satisfeito,avaliacao_governo,Ótimo ou bom,89
-2014-05-19,vida_hoje,Insatisfeito,avaliacao_governo,Ótimo ou bom,10
-2014-05-19,vida_hoje,NS/NR*,avaliacao_governo,Ótimo ou bom,0
+2014-05-19,vida_hoje,Satisfeito,avaliacao_governo,Ótimo e bom,89
+2014-05-19,vida_hoje,Insatisfeito,avaliacao_governo,Ótimo e bom,10
+2014-05-19,vida_hoje,NS/NR*,avaliacao_governo,Ótimo e bom,0
 2014-05-19,vida_hoje,Satisfeito,avaliacao_governo,Regular,81
 2014-05-19,vida_hoje,Insatisfeito,avaliacao_governo,Regular,19
 2014-05-19,vida_hoje,NS/NR*,avaliacao_governo,Regular,0
-2014-05-19,vida_hoje,Satisfeito,avaliacao_governo,Ruim ou péssimo,71
-2014-05-19,vida_hoje,Insatisfeito,avaliacao_governo,Ruim ou péssimo,28
-2014-05-19,vida_hoje,NS/NR*,avaliacao_governo,Ruim ou péssimo,0
+2014-05-19,vida_hoje,Satisfeito,avaliacao_governo,Ruim e péssimo,71
+2014-05-19,vida_hoje,Insatisfeito,avaliacao_governo,Ruim e péssimo,28
+2014-05-19,vida_hoje,NS/NR*,avaliacao_governo,Ruim e péssimo,0
 2014-05-19,vida_hoje,Satisfeito,avaliacao_governo,NS/NR*,68
 2014-05-19,vida_hoje,Insatisfeito,avaliacao_governo,NS/NR*,26
 2014-05-19,vida_hoje,NS/NR*,avaliacao_governo,NS/NR*,6
-2014-05-19,interesse,Tem muito interesse,avaliacao_governo,Ótimo ou bom,17
-2014-05-19,interesse,Tem médio interesse,avaliacao_governo,Ótimo ou bom,37
-2014-05-19,interesse,Não tem interesse,avaliacao_governo,Ótimo ou bom,45
-2014-05-19,interesse,NS/NR*,avaliacao_governo,Ótimo ou bom,1
+2014-05-19,interesse,Tem muito interesse,avaliacao_governo,Ótimo e bom,17
+2014-05-19,interesse,Tem médio interesse,avaliacao_governo,Ótimo e bom,37
+2014-05-19,interesse,Não tem interesse,avaliacao_governo,Ótimo e bom,45
+2014-05-19,interesse,NS/NR*,avaliacao_governo,Ótimo e bom,1
 2014-05-19,interesse,Tem muito interesse,avaliacao_governo,Regular,12
 2014-05-19,interesse,Tem médio interesse,avaliacao_governo,Regular,24
 2014-05-19,interesse,Não tem interesse,avaliacao_governo,Regular,62
 2014-05-19,interesse,NS/NR*,avaliacao_governo,Regular,1
-2014-05-19,interesse,Tem muito interesse,avaliacao_governo,Ruim ou péssimo,12
-2014-05-19,interesse,Tem médio interesse,avaliacao_governo,Ruim ou péssimo,20
-2014-05-19,interesse,Não tem interesse,avaliacao_governo,Ruim ou péssimo,67
-2014-05-19,interesse,NS/NR*,avaliacao_governo,Ruim ou péssimo,1
+2014-05-19,interesse,Tem muito interesse,avaliacao_governo,Ruim e péssimo,12
+2014-05-19,interesse,Tem médio interesse,avaliacao_governo,Ruim e péssimo,20
+2014-05-19,interesse,Não tem interesse,avaliacao_governo,Ruim e péssimo,67
+2014-05-19,interesse,NS/NR*,avaliacao_governo,Ruim e péssimo,1
 2014-05-19,interesse,Tem muito interesse,avaliacao_governo,NS/NR*,12
 2014-05-19,interesse,Tem médio interesse,avaliacao_governo,NS/NR*,21
 2014-05-19,interesse,Não tem interesse,avaliacao_governo,NS/NR*,59
 2014-05-19,interesse,NS/NR*,avaliacao_governo,NS/NR*,9
-2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo ou bom,2
-2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo ou bom,6
-2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,52
-2014-05-19,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ótimo ou bom,1
-2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Ótimo ou bom,6
-2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Ótimo ou bom,0
-2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Ótimo ou bom,31
-2014-05-19,intencao_espontanea,Outros,avaliacao_governo,Ótimo ou bom,1
+2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo e bom,2
+2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo e bom,6
+2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ótimo e bom,52
+2014-05-19,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ótimo e bom,1
+2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Ótimo e bom,6
+2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Ótimo e bom,0
+2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Ótimo e bom,31
+2014-05-19,intencao_espontanea,Outros,avaliacao_governo,Ótimo e bom,1
 2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Regular,6
 2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Regular,16
 2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Regular,13
@@ -4578,14 +4578,14 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Regular,2
 2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Regular,47
 2014-05-19,intencao_espontanea,Outros,avaliacao_governo,Regular,3
-2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim ou péssimo,17
-2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,32
-2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,0
-2014-05-19,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,6
-2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Ruim ou péssimo,4
-2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Ruim ou péssimo,4
-2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Ruim ou péssimo,33
-2014-05-19,intencao_espontanea,Outros,avaliacao_governo,Ruim ou péssimo,3
+2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim e péssimo,17
+2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim e péssimo,32
+2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,0
+2014-05-19,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ruim e péssimo,6
+2014-05-19,intencao_espontanea,Lula,avaliacao_governo,Ruim e péssimo,4
+2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,Ruim e péssimo,4
+2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,Ruim e péssimo,33
+2014-05-19,intencao_espontanea,Outros,avaliacao_governo,Ruim e péssimo,3
 2014-05-19,intencao_espontanea,Aécio Neves,avaliacao_governo,NS/NR*,9
 2014-05-19,intencao_espontanea,Branco e Nulo,avaliacao_governo,NS/NR*,35
 2014-05-19,intencao_espontanea,Dilma Rousseff,avaliacao_governo,NS/NR*,0
@@ -4594,13 +4594,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_espontanea,Marina Silva,avaliacao_governo,NS/NR*,3
 2014-05-19,intencao_espontanea,Não sabe,avaliacao_governo,NS/NR*,50
 2014-05-19,intencao_espontanea,Outros,avaliacao_governo,NS/NR*,0
-2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Ótimo ou bom,5
-2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ótimo ou bom,2
-2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,82
-2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ótimo ou bom,4
-2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Ótimo ou bom,5
-2014-05-19,intencao_estimulada,Outros,avaliacao_governo,Ótimo ou bom,2
-2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ótimo ou bom,1
+2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Ótimo e bom,5
+2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ótimo e bom,2
+2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo e bom,82
+2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ótimo e bom,4
+2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Ótimo e bom,5
+2014-05-19,intencao_estimulada,Outros,avaliacao_governo,Ótimo e bom,2
+2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ótimo e bom,1
 2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Regular,20
 2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Regular,13
 2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Regular,33
@@ -4608,13 +4608,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Regular,14
 2014-05-19,intencao_estimulada,Outros,avaliacao_governo,Regular,3
 2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Regular,2
-2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim ou péssimo,35
-2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim ou péssimo,28
-2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,5
-2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,15
-2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Ruim ou péssimo,10
-2014-05-19,intencao_estimulada,Outros,avaliacao_governo,Ruim ou péssimo,3
-2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ruim ou péssimo,4
+2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim e péssimo,35
+2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim e péssimo,28
+2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,5
+2014-05-19,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ruim e péssimo,15
+2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,Ruim e péssimo,10
+2014-05-19,intencao_estimulada,Outros,avaliacao_governo,Ruim e péssimo,3
+2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ruim e péssimo,4
 2014-05-19,intencao_estimulada,Aécio Neves,avaliacao_governo,NS/NR*,18
 2014-05-19,intencao_estimulada,Branco e Nulo,avaliacao_governo,NS/NR*,26
 2014-05-19,intencao_estimulada,Dilma Rousseff,avaliacao_governo,NS/NR*,3
@@ -4622,74 +4622,74 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,avaliacao_governo,NS/NR*,44
 2014-05-19,intencao_estimulada,Outros,avaliacao_governo,NS/NR*,0
 2014-05-19,intencao_estimulada,Pastor Everaldo,avaliacao_governo,NS/NR*,6
-2014-05-19,aprova_dilma,Aprova,avaliacao_governo,Ótimo ou bom,96
-2014-05-19,aprova_dilma,Desaprova,avaliacao_governo,Ótimo ou bom,3
-2014-05-19,aprova_dilma,NS/NR*,avaliacao_governo,Ótimo ou bom,1
+2014-05-19,aprova_dilma,Aprova,avaliacao_governo,Ótimo e bom,96
+2014-05-19,aprova_dilma,Desaprova,avaliacao_governo,Ótimo e bom,3
+2014-05-19,aprova_dilma,NS/NR*,avaliacao_governo,Ótimo e bom,1
 2014-05-19,aprova_dilma,Aprova,avaliacao_governo,Regular,45
 2014-05-19,aprova_dilma,Desaprova,avaliacao_governo,Regular,47
 2014-05-19,aprova_dilma,NS/NR*,avaliacao_governo,Regular,9
-2014-05-19,aprova_dilma,Aprova,avaliacao_governo,Ruim ou péssimo,1
-2014-05-19,aprova_dilma,Desaprova,avaliacao_governo,Ruim ou péssimo,98
-2014-05-19,aprova_dilma,NS/NR*,avaliacao_governo,Ruim ou péssimo,1
+2014-05-19,aprova_dilma,Aprova,avaliacao_governo,Ruim e péssimo,1
+2014-05-19,aprova_dilma,Desaprova,avaliacao_governo,Ruim e péssimo,98
+2014-05-19,aprova_dilma,NS/NR*,avaliacao_governo,Ruim e péssimo,1
 2014-05-19,aprova_dilma,Aprova,avaliacao_governo,NS/NR*,3
 2014-05-19,aprova_dilma,Desaprova,avaliacao_governo,NS/NR*,3
 2014-05-19,aprova_dilma,NS/NR*,avaliacao_governo,NS/NR*,94
-2014-05-19,desejo_mudanca,Quer mudança,avaliacao_governo,Ótimo ou bom,38
-2014-05-19,desejo_mudanca,Quer continuidade,avaliacao_governo,Ótimo ou bom,58
-2014-05-19,desejo_mudanca,NS/NR*,avaliacao_governo,Ótimo ou bom,4
+2014-05-19,desejo_mudanca,Quer mudança,avaliacao_governo,Ótimo e bom,38
+2014-05-19,desejo_mudanca,Quer continuidade,avaliacao_governo,Ótimo e bom,58
+2014-05-19,desejo_mudanca,NS/NR*,avaliacao_governo,Ótimo e bom,4
 2014-05-19,desejo_mudanca,Quer mudança,avaliacao_governo,Regular,71
 2014-05-19,desejo_mudanca,Quer continuidade,avaliacao_governo,Regular,24
 2014-05-19,desejo_mudanca,NS/NR*,avaliacao_governo,Regular,5
-2014-05-19,desejo_mudanca,Quer mudança,avaliacao_governo,Ruim ou péssimo,89
-2014-05-19,desejo_mudanca,Quer continuidade,avaliacao_governo,Ruim ou péssimo,8
-2014-05-19,desejo_mudanca,NS/NR*,avaliacao_governo,Ruim ou péssimo,2
+2014-05-19,desejo_mudanca,Quer mudança,avaliacao_governo,Ruim e péssimo,89
+2014-05-19,desejo_mudanca,Quer continuidade,avaliacao_governo,Ruim e péssimo,8
+2014-05-19,desejo_mudanca,NS/NR*,avaliacao_governo,Ruim e péssimo,2
 2014-05-19,desejo_mudanca,Quer mudança,avaliacao_governo,NS/NR*,50
 2014-05-19,desejo_mudanca,Quer continuidade,avaliacao_governo,NS/NR*,18
 2014-05-19,desejo_mudanca,NS/NR*,avaliacao_governo,NS/NR*,32
-2014-05-19,rejeicao,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,5
-2014-05-19,rejeicao,Aécio Neves,avaliacao_governo,Ótimo ou bom,25
-2014-05-19,rejeicao,Pastor Everaldo,avaliacao_governo,Ótimo ou bom,13
-2014-05-19,rejeicao,Eduardo Campos,avaliacao_governo,Ótimo ou bom,12
+2014-05-19,rejeicao,Dilma Rousseff,avaliacao_governo,Ótimo e bom,5
+2014-05-19,rejeicao,Aécio Neves,avaliacao_governo,Ótimo e bom,25
+2014-05-19,rejeicao,Pastor Everaldo,avaliacao_governo,Ótimo e bom,13
+2014-05-19,rejeicao,Eduardo Campos,avaliacao_governo,Ótimo e bom,12
 2014-05-19,rejeicao,Dilma Rousseff,avaliacao_governo,Regular,25
 2014-05-19,rejeicao,Aécio Neves,avaliacao_governo,Regular,17
 2014-05-19,rejeicao,Pastor Everaldo,avaliacao_governo,Regular,16
 2014-05-19,rejeicao,Eduardo Campos,avaliacao_governo,Regular,12
-2014-05-19,rejeicao,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,69
-2014-05-19,rejeicao,Aécio Neves,avaliacao_governo,Ruim ou péssimo,18
-2014-05-19,rejeicao,Pastor Everaldo,avaliacao_governo,Ruim ou péssimo,21
-2014-05-19,rejeicao,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,15
+2014-05-19,rejeicao,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,69
+2014-05-19,rejeicao,Aécio Neves,avaliacao_governo,Ruim e péssimo,18
+2014-05-19,rejeicao,Pastor Everaldo,avaliacao_governo,Ruim e péssimo,21
+2014-05-19,rejeicao,Eduardo Campos,avaliacao_governo,Ruim e péssimo,15
 2014-05-19,rejeicao,Dilma Rousseff,avaliacao_governo,NS/NR*,6
 2014-05-19,rejeicao,Aécio Neves,avaliacao_governo,NS/NR*,0
 2014-05-19,rejeicao,Pastor Everaldo,avaliacao_governo,NS/NR*,9
 2014-05-19,rejeicao,Eduardo Campos,avaliacao_governo,NS/NR*,3
-2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,Ótimo ou bom,5
-2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,87
-2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ótimo ou bom,4
-2014-05-19,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Ótimo ou bom,4
+2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,Ótimo e bom,5
+2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ótimo e bom,87
+2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ótimo e bom,4
+2014-05-19,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Ótimo e bom,4
 2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,Regular,24
 2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,Regular,38
 2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,Regular,23
 2014-05-19,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Regular,15
-2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,Ruim ou péssimo,43
-2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,3
-2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ruim ou péssimo,44
-2014-05-19,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Ruim ou péssimo,10
+2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,Ruim e péssimo,43
+2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,3
+2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,Ruim e péssimo,44
+2014-05-19,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,Ruim e péssimo,10
 2014-05-19,2turno_aecio,Aécio Neves,avaliacao_governo,NS/NR*,15
 2014-05-19,2turno_aecio,Dilma Rousseff,avaliacao_governo,NS/NR*,3
 2014-05-19,2turno_aecio,Branco/ Nulo,avaliacao_governo,NS/NR*,44
 2014-05-19,2turno_aecio,Não sabe/ Não respondeu,avaliacao_governo,NS/NR*,38
-2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,Ótimo ou bom,85
-2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,Ótimo ou bom,7
-2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,Ótimo ou bom,4
-2014-05-19,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Ótimo ou bom,4
+2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,Ótimo e bom,85
+2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,Ótimo e bom,7
+2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,Ótimo e bom,4
+2014-05-19,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Ótimo e bom,4
 2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,Regular,35
 2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,Regular,24
 2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,Regular,24
 2014-05-19,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Regular,17
-2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,Ruim ou péssimo,3
-2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,Ruim ou péssimo,35
-2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,Ruim ou péssimo,47
-2014-05-19,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Ruim ou péssimo,14
+2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,3
+2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,Ruim e péssimo,35
+2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,Ruim e péssimo,47
+2014-05-19,2turno_campos,Não sabe/ Não respondeu,avaliacao_governo,Ruim e péssimo,14
 2014-05-19,2turno_campos,Dilma Rousseff,avaliacao_governo,NS/NR*,3
 2014-05-19,2turno_campos,Eduardo Campos,avaliacao_governo,NS/NR*,6
 2014-05-19,2turno_campos,Branco/ Nulo,avaliacao_governo,NS/NR*,44
@@ -4716,9 +4716,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,Não sabe,total,total,10
 2014-05-19,intencao_estimulada,Outros,total,total,3
 2014-05-19,intencao_estimulada,Pastor Everaldo,total,total,3
-2014-05-19,avaliacao_governo,Ótimo ou bom,total,total,35
+2014-05-19,avaliacao_governo,Ótimo e bom,total,total,35
 2014-05-19,avaliacao_governo,Regular,total,total,30
-2014-05-19,avaliacao_governo,Ruim ou péssimo,total,total,34
+2014-05-19,avaliacao_governo,Ruim e péssimo,total,total,34
 2014-05-19,avaliacao_governo,NS/NR*,total,total,2
 2014-05-19,aprova_dilma,Aprova,total,total,47
 2014-05-19,aprova_dilma,Desaprova,total,total,48
@@ -4738,144 +4738,144 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,2turno_campos,Eduardo Campos,total,total,22
 2014-05-19,2turno_campos,Branco/ Nulo,total,total,25
 2014-05-19,2turno_campos,Não sabe/ Não respondeu,total,total,12
-2013-10-21,avaliacao_governo,Ótimo ou bom,regiao,NORDESTE,53
-2013-11-11,avaliacao_governo,Ótimo ou bom,regiao,NORDESTE,49
-2013-10-21,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 1,47
-2013-11-11,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 1,46
-2013-11-11,avaliacao_governo,Ótimo ou bom,condicao_municipio,INTERIOR,46
-2013-10-21,avaliacao_governo,Ótimo ou bom,idade,55 ou mais,45
-2013-11-11,avaliacao_governo,Ótimo ou bom,renda_familiar,1 a 2,44
-2013-10-21,avaliacao_governo,Ótimo ou bom,renda_familiar,1 a 2,44
-2013-10-21,avaliacao_governo,Ótimo ou bom,renda_familiar,Ate 1,44
-2013-11-11,avaliacao_governo,Ótimo ou bom,idade,55 ou mais,43
-2013-11-11,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 2,42
+2013-10-21,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,53
+2013-11-11,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,49
+2013-10-21,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 1,47
+2013-11-11,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 1,46
+2013-11-11,avaliacao_governo,Ótimo e bom,condicao_municipio,INTERIOR,46
+2013-10-21,avaliacao_governo,Ótimo e bom,idade,55 ou mais,45
+2013-11-11,avaliacao_governo,Ótimo e bom,renda_familiar,1 a 2,44
+2013-10-21,avaliacao_governo,Ótimo e bom,renda_familiar,1 a 2,44
+2013-10-21,avaliacao_governo,Ótimo e bom,renda_familiar,Ate 1,44
+2013-11-11,avaliacao_governo,Ótimo e bom,idade,55 ou mais,43
+2013-11-11,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 2,42
 2013-10-21,avaliacao_governo,Regular,condicao_municipio,PERIFERIA,42
 2013-11-11,avaliacao_governo,Regular,escolaridade,Medio,41
 2013-11-11,avaliacao_governo,Regular,renda_familiar,Mais de 5,41
-2013-11-11,avaliacao_governo,Ótimo ou bom,regiao,SUL,41
-2013-10-21,avaliacao_governo,Ótimo ou bom,condicao_municipio,INTERIOR,41
-2013-11-11,avaliacao_governo,Ótimo ou bom,sexo,MAS,40
+2013-11-11,avaliacao_governo,Ótimo e bom,regiao,SUL,41
+2013-10-21,avaliacao_governo,Ótimo e bom,condicao_municipio,INTERIOR,41
+2013-11-11,avaliacao_governo,Ótimo e bom,sexo,MAS,40
 2013-11-11,avaliacao_governo,Regular,idade,25 a 34,40
-2013-11-11,avaliacao_governo,Ótimo ou bom,idade,45 a 54,40
+2013-11-11,avaliacao_governo,Ótimo e bom,idade,45 a 54,40
 2013-11-11,avaliacao_governo,Regular,condicao_municipio,PERIFERIA,40
-2013-10-21,avaliacao_governo,Ótimo ou bom,idade,45 a 54,40
-2013-11-11,avaliacao_governo,Ótimo ou bom,idade,35 a 44,39
+2013-10-21,avaliacao_governo,Ótimo e bom,idade,45 a 54,40
+2013-11-11,avaliacao_governo,Ótimo e bom,idade,35 a 44,39
 2013-11-11,avaliacao_governo,Regular,condicao_municipio,CAPITAL,39
-2013-11-11,avaliacao_governo,Ótimo ou bom,regiao,NORTE/ CENTRO OESTE,39
-2013-11-11,avaliacao_governo,Ótimo ou bom,total,total,39
+2013-11-11,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,39
+2013-11-11,avaliacao_governo,Ótimo e bom,total,total,39
 2013-10-21,avaliacao_governo,Regular,idade,25 a 34,39
 2013-10-21,avaliacao_governo,Regular,escolaridade,Superior,39
-2013-11-11,avaliacao_governo,Ótimo ou bom,sexo,FEM,38
-2013-11-11,avaliacao_governo,Ótimo ou bom,renda_familiar,Ate 1,38
+2013-11-11,avaliacao_governo,Ótimo e bom,sexo,FEM,38
+2013-11-11,avaliacao_governo,Ótimo e bom,renda_familiar,Ate 1,38
 2013-11-11,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,38
-2013-10-21,avaliacao_governo,Ótimo ou bom,sexo,MAS,38
+2013-10-21,avaliacao_governo,Ótimo e bom,sexo,MAS,38
 2013-10-21,avaliacao_governo,Regular,escolaridade,Fundamental 2,38
 2013-10-21,avaliacao_governo,Regular,renda_familiar,2 a 5,38
 2013-10-21,avaliacao_governo,Regular,regiao,SUL,38
-2013-11-11,avaliacao_governo,Ótimo ou bom,idade,25 a 34,37
+2013-11-11,avaliacao_governo,Ótimo e bom,idade,25 a 34,37
 2013-11-11,avaliacao_governo,Regular,idade,45 a 54,37
-2013-11-11,avaliacao_governo,Ótimo ou bom,renda_familiar,2 a 5,37
+2013-11-11,avaliacao_governo,Ótimo e bom,renda_familiar,2 a 5,37
 2013-11-11,avaliacao_governo,Regular,regiao,SUL,37
-2013-10-21,avaliacao_governo,Ótimo ou bom,sexo,FEM,37
+2013-10-21,avaliacao_governo,Ótimo e bom,sexo,FEM,37
 2013-10-21,avaliacao_governo,Regular,regiao,SUDESTE,37
-2013-10-21,avaliacao_governo,Ótimo ou bom,total,total,37
+2013-10-21,avaliacao_governo,Ótimo e bom,total,total,37
 2013-11-11,avaliacao_governo,Regular,sexo,MAS,36
 2013-11-11,avaliacao_governo,Regular,renda_familiar,2 a 5,36
 2013-11-11,avaliacao_governo,Regular,regiao,NORDESTE,36
 2013-11-11,avaliacao_governo,Regular,total,total,36
 2013-10-21,avaliacao_governo,Regular,sexo,MAS,36
 2013-10-21,avaliacao_governo,Regular,idade,16 a 24,36
-2013-10-21,avaliacao_governo,Ótimo ou bom,escolaridade,Medio,36
-2013-10-21,avaliacao_governo,Ruim ou péssimo,escolaridade,Superior,36
+2013-10-21,avaliacao_governo,Ótimo e bom,escolaridade,Medio,36
+2013-10-21,avaliacao_governo,Ruim e péssimo,escolaridade,Superior,36
 2013-10-21,avaliacao_governo,Regular,renda_familiar,Ate 1,36
-2013-10-21,avaliacao_governo,Ótimo ou bom,regiao,SUL,36
+2013-10-21,avaliacao_governo,Ótimo e bom,regiao,SUL,36
 2013-11-11,avaliacao_governo,Regular,sexo,FEM,35
-2013-11-11,avaliacao_governo,Ótimo ou bom,idade,16 a 24,35
+2013-11-11,avaliacao_governo,Ótimo e bom,idade,16 a 24,35
 2013-11-11,avaliacao_governo,Regular,idade,16 a 24,35
 2013-11-11,avaliacao_governo,Regular,idade,35 a 44,35
 2013-11-11,avaliacao_governo,Regular,renda_familiar,1 a 2,35
-2013-10-21,avaliacao_governo,Ótimo ou bom,idade,35 a 44,35
-2013-10-21,avaliacao_governo,Ótimo ou bom,escolaridade,Fundamental 2,35
+2013-10-21,avaliacao_governo,Ótimo e bom,idade,35 a 44,35
+2013-10-21,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 2,35
 2013-10-21,avaliacao_governo,Regular,escolaridade,Medio,35
-2013-10-21,avaliacao_governo,Ruim ou péssimo,renda_familiar,Mais de 5,35
+2013-10-21,avaliacao_governo,Ruim e péssimo,renda_familiar,Mais de 5,35
 2013-10-21,avaliacao_governo,Regular,condicao_municipio,CAPITAL,35
 2013-10-21,avaliacao_governo,Regular,total,total,35
-2013-11-11,avaliacao_governo,Ótimo ou bom,escolaridade,Medio,34
-2013-11-11,avaliacao_governo,Ótimo ou bom,escolaridade,Superior,34
+2013-11-11,avaliacao_governo,Ótimo e bom,escolaridade,Medio,34
+2013-11-11,avaliacao_governo,Ótimo e bom,escolaridade,Superior,34
 2013-11-11,avaliacao_governo,Regular,escolaridade,Superior,34
 2013-11-11,avaliacao_governo,Regular,regiao,SUDESTE,34
 2013-10-21,avaliacao_governo,Regular,sexo,FEM,34
-2013-10-21,avaliacao_governo,Ótimo ou bom,idade,25 a 34,34
+2013-10-21,avaliacao_governo,Ótimo e bom,idade,25 a 34,34
 2013-10-21,avaliacao_governo,Regular,idade,35 a 44,34
 2013-10-21,avaliacao_governo,Regular,renda_familiar,Mais de 5,34
-2013-10-21,avaliacao_governo,Ótimo ou bom,condicao_municipio,PERIFERIA,34
+2013-10-21,avaliacao_governo,Ótimo e bom,condicao_municipio,PERIFERIA,34
 2013-10-21,avaliacao_governo,Regular,condicao_municipio,INTERIOR,34
 2013-11-11,avaliacao_governo,Regular,escolaridade,Fundamental 1,33
-2013-11-11,avaliacao_governo,Ótimo ou bom,renda_familiar,Mais de 5,33
+2013-11-11,avaliacao_governo,Ótimo e bom,renda_familiar,Mais de 5,33
 2013-11-11,avaliacao_governo,Regular,renda_familiar,Ate 1,33
-2013-11-11,avaliacao_governo,Ótimo ou bom,condicao_municipio,PERIFERIA,33
-2013-10-21,avaliacao_governo,Ótimo ou bom,idade,16 a 24,33
+2013-11-11,avaliacao_governo,Ótimo e bom,condicao_municipio,PERIFERIA,33
+2013-10-21,avaliacao_governo,Ótimo e bom,idade,16 a 24,33
 2013-10-21,avaliacao_governo,Regular,idade,45 a 54,33
-2013-10-21,avaliacao_governo,Ruim ou péssimo,condicao_municipio,CAPITAL,33
-2013-10-21,avaliacao_governo,Ótimo ou bom,regiao,NORTE/ CENTRO OESTE,33
+2013-10-21,avaliacao_governo,Ruim e péssimo,condicao_municipio,CAPITAL,33
+2013-10-21,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,33
 2013-10-21,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,33
 2013-11-11,avaliacao_governo,Regular,idade,55 ou mais,32
 2013-11-11,avaliacao_governo,Regular,escolaridade,Fundamental 2,32
-2013-11-11,avaliacao_governo,Ótimo ou bom,condicao_municipio,CAPITAL,32
+2013-11-11,avaliacao_governo,Ótimo e bom,condicao_municipio,CAPITAL,32
 2013-11-11,avaliacao_governo,Regular,condicao_municipio,INTERIOR,32
-2013-11-11,avaliacao_governo,Ótimo ou bom,regiao,SUDESTE,32
-2013-11-11,avaliacao_governo,Ruim ou péssimo,regiao,SUDESTE,32
+2013-11-11,avaliacao_governo,Ótimo e bom,regiao,SUDESTE,32
+2013-11-11,avaliacao_governo,Ruim e péssimo,regiao,SUDESTE,32
 2013-10-21,avaliacao_governo,Regular,idade,55 ou mais,32
 2013-10-21,avaliacao_governo,Regular,escolaridade,Fundamental 1,32
 2013-10-21,avaliacao_governo,Regular,renda_familiar,1 a 2,32
 2013-10-21,avaliacao_governo,Regular,regiao,NORDESTE,32
-2013-10-21,avaliacao_governo,Ruim ou péssimo,regiao,SUDESTE,32
-2013-10-21,avaliacao_governo,Ruim ou péssimo,renda_familiar,2 a 5,31
-2013-10-21,avaliacao_governo,Ótimo ou bom,condicao_municipio,CAPITAL,31
-2013-11-11,avaliacao_governo,Ruim ou péssimo,escolaridade,Superior,30
-2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,16 a 24,30
-2013-10-21,avaliacao_governo,Ótimo ou bom,renda_familiar,Mais de 5,30
-2013-10-21,avaliacao_governo,Ótimo ou bom,renda_familiar,2 a 5,30
-2013-10-21,avaliacao_governo,Ruim ou péssimo,regiao,NORTE/ CENTRO OESTE,30
-2013-10-21,avaliacao_governo,Ótimo ou bom,regiao,SUDESTE,30
-2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,16 a 24,29
-2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,35 a 44,29
-2013-10-21,avaliacao_governo,Ruim ou péssimo,escolaridade,Medio,28
-2013-11-11,avaliacao_governo,Ruim ou péssimo,condicao_municipio,CAPITAL,27
-2013-10-21,avaliacao_governo,Ruim ou péssimo,sexo,FEM,27
-2013-11-11,avaliacao_governo,Ruim ou péssimo,renda_familiar,Ate 1,26
-2013-11-11,avaliacao_governo,Ruim ou péssimo,condicao_municipio,PERIFERIA,26
-2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,25 a 34,26
-2013-10-21,avaliacao_governo,Ruim ou péssimo,regiao,SUL,26
-2013-10-21,avaliacao_governo,Ruim ou péssimo,total,total,26
-2013-11-11,avaliacao_governo,Ruim ou péssimo,sexo,FEM,25
-2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,35 a 44,25
-2013-11-11,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 2,25
-2013-11-11,avaliacao_governo,Ruim ou péssimo,renda_familiar,Mais de 5,25
-2013-11-11,avaliacao_governo,Ruim ou péssimo,renda_familiar,2 a 5,25
-2013-10-21,avaliacao_governo,Ruim ou péssimo,sexo,MAS,25
-2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,45 a 54,25
-2013-10-21,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 2,25
-2013-11-11,avaliacao_governo,Ruim ou péssimo,escolaridade,Medio,24
-2013-11-11,avaliacao_governo,Ruim ou péssimo,total,total,24
-2013-10-21,avaliacao_governo,Ótimo ou bom,escolaridade,Superior,24
-2013-10-21,avaliacao_governo,Ruim ou péssimo,condicao_municipio,INTERIOR,24
-2013-11-11,avaliacao_governo,Ruim ou péssimo,sexo,MAS,23
-2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,45 a 54,23
-2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,55 ou mais,23
-2013-11-11,avaliacao_governo,Ruim ou péssimo,idade,25 a 34,22
-2013-10-21,avaliacao_governo,Ruim ou péssimo,renda_familiar,1 a 2,22
-2013-11-11,avaliacao_governo,Ruim ou péssimo,condicao_municipio,INTERIOR,21
-2013-10-21,avaliacao_governo,Ruim ou péssimo,idade,55 ou mais,21
-2013-11-11,avaliacao_governo,Ruim ou péssimo,renda_familiar,1 a 2,20
-2013-11-11,avaliacao_governo,Ruim ou péssimo,regiao,SUL,20
-2013-11-11,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 1,19
-2013-11-11,avaliacao_governo,Ruim ou péssimo,regiao,NORTE/ CENTRO OESTE,19
-2013-10-21,avaliacao_governo,Ruim ou péssimo,escolaridade,Fundamental 1,19
-2013-10-21,avaliacao_governo,Ruim ou péssimo,condicao_municipio,PERIFERIA,19
-2013-10-21,avaliacao_governo,Ruim ou péssimo,renda_familiar,Ate 1,17
-2013-11-11,avaliacao_governo,Ruim ou péssimo,regiao,NORDESTE,14
-2013-10-21,avaliacao_governo,Ruim ou péssimo,regiao,NORDESTE,14
+2013-10-21,avaliacao_governo,Ruim e péssimo,regiao,SUDESTE,32
+2013-10-21,avaliacao_governo,Ruim e péssimo,renda_familiar,2 a 5,31
+2013-10-21,avaliacao_governo,Ótimo e bom,condicao_municipio,CAPITAL,31
+2013-11-11,avaliacao_governo,Ruim e péssimo,escolaridade,Superior,30
+2013-10-21,avaliacao_governo,Ruim e péssimo,idade,16 a 24,30
+2013-10-21,avaliacao_governo,Ótimo e bom,renda_familiar,Mais de 5,30
+2013-10-21,avaliacao_governo,Ótimo e bom,renda_familiar,2 a 5,30
+2013-10-21,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,30
+2013-10-21,avaliacao_governo,Ótimo e bom,regiao,SUDESTE,30
+2013-11-11,avaliacao_governo,Ruim e péssimo,idade,16 a 24,29
+2013-10-21,avaliacao_governo,Ruim e péssimo,idade,35 a 44,29
+2013-10-21,avaliacao_governo,Ruim e péssimo,escolaridade,Medio,28
+2013-11-11,avaliacao_governo,Ruim e péssimo,condicao_municipio,CAPITAL,27
+2013-10-21,avaliacao_governo,Ruim e péssimo,sexo,FEM,27
+2013-11-11,avaliacao_governo,Ruim e péssimo,renda_familiar,Ate 1,26
+2013-11-11,avaliacao_governo,Ruim e péssimo,condicao_municipio,PERIFERIA,26
+2013-10-21,avaliacao_governo,Ruim e péssimo,idade,25 a 34,26
+2013-10-21,avaliacao_governo,Ruim e péssimo,regiao,SUL,26
+2013-10-21,avaliacao_governo,Ruim e péssimo,total,total,26
+2013-11-11,avaliacao_governo,Ruim e péssimo,sexo,FEM,25
+2013-11-11,avaliacao_governo,Ruim e péssimo,idade,35 a 44,25
+2013-11-11,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 2,25
+2013-11-11,avaliacao_governo,Ruim e péssimo,renda_familiar,Mais de 5,25
+2013-11-11,avaliacao_governo,Ruim e péssimo,renda_familiar,2 a 5,25
+2013-10-21,avaliacao_governo,Ruim e péssimo,sexo,MAS,25
+2013-10-21,avaliacao_governo,Ruim e péssimo,idade,45 a 54,25
+2013-10-21,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 2,25
+2013-11-11,avaliacao_governo,Ruim e péssimo,escolaridade,Medio,24
+2013-11-11,avaliacao_governo,Ruim e péssimo,total,total,24
+2013-10-21,avaliacao_governo,Ótimo e bom,escolaridade,Superior,24
+2013-10-21,avaliacao_governo,Ruim e péssimo,condicao_municipio,INTERIOR,24
+2013-11-11,avaliacao_governo,Ruim e péssimo,sexo,MAS,23
+2013-11-11,avaliacao_governo,Ruim e péssimo,idade,45 a 54,23
+2013-11-11,avaliacao_governo,Ruim e péssimo,idade,55 ou mais,23
+2013-11-11,avaliacao_governo,Ruim e péssimo,idade,25 a 34,22
+2013-10-21,avaliacao_governo,Ruim e péssimo,renda_familiar,1 a 2,22
+2013-11-11,avaliacao_governo,Ruim e péssimo,condicao_municipio,INTERIOR,21
+2013-10-21,avaliacao_governo,Ruim e péssimo,idade,55 ou mais,21
+2013-11-11,avaliacao_governo,Ruim e péssimo,renda_familiar,1 a 2,20
+2013-11-11,avaliacao_governo,Ruim e péssimo,regiao,SUL,20
+2013-11-11,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 1,19
+2013-11-11,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,19
+2013-10-21,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 1,19
+2013-10-21,avaliacao_governo,Ruim e péssimo,condicao_municipio,PERIFERIA,19
+2013-10-21,avaliacao_governo,Ruim e péssimo,renda_familiar,Ate 1,17
+2013-11-11,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,14
+2013-10-21,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,14
 2013-11-11,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,4
 2013-10-21,avaliacao_governo,NS/NR*,condicao_municipio,PERIFERIA,4
 2013-10-21,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,4

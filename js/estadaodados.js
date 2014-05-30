@@ -102,7 +102,7 @@ function ordemLegenda(pergunta) {
                 fill: window.chart.getColor(v).fill,
                 stroke: window.chart.getColor(v).stroke,
                 opacity: window.chart.getColor(v).opacity,
-                series: s,
+                series: linha,
                 aggField: [v]
             }
         );

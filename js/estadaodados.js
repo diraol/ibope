@@ -27,8 +27,10 @@ function cria_grafico() {
     //x.timeInterval = 4;
     myChart.addMeasureAxis("y","valor");
 
-    myChart.addSeries("dado",dimple.plot.line);
-    s = myChart.addSeries("dado", dimple.plot.bubble);
+    linha = myChart.addSeries("dado",dimple.plot.line);
+    linha.lineWeight = 4
+    linha.lineMarkers = true;
+    
     legend = myChart.addLegend(720, 2, 195, 220, "right");
     myChart = configuraCores(myChart,"intencao_estimulada");
 
@@ -50,7 +52,7 @@ function cria_grafico() {
     y.title = "Intenção de Voto (%)"
 
     //customiza a tooltip
-    s.getTooltipText = function (e) {
+    linha.getTooltipText = function (e) {
         return [
             e.aggField[0]+": "+ e.y
         ];

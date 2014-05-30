@@ -12,9 +12,10 @@ function carrega () {
 }
 
 function cria_grafico() {
-    var data = dimple.filterData(window.complete_data, "cat_recorte", "total");
-        data = dimple.filterData(data, "recorte", "total");
-        data = dimple.filterData(data, "cat_pergunta", "intencao_estimulada");
+    var data = dimple.filterData(window.complete_data, "cat_pergunta", "intencao_estimulada"); //filtra pergunta
+        data = dimple.filterData(data, "cat_recorte", "total"); //filtra categoria do recorte
+    var maximo_y = d3.max(data, function(d){ return parseInt(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
+        data = dimple.filterData(data, "recorte", "total"); //filtra recorte na categoria
     var myChart = new dimple.chart(svg,data);
     window.chart=myChart;
     myChart.setBounds(45,20,725,390);
@@ -42,6 +43,7 @@ function cria_grafico() {
     x.fontSize = "95%";
 
     y = myChart.axes[1]
+    y.overrideMax = maximo_y;
 
     //y.fontFamily = "Arial";
     y.fontSize = "95%";
@@ -182,9 +184,10 @@ function atualiza_grafico(argumentos) {
     }
 
     // filtra os dados de acordo com a pergunta e o recorte atuais
-    var data = dimple.filterData(window.complete_data,"cat_recorte", cat_recorte);
-        data = dimple.filterData(data, "recorte", recorte);
-        data = dimple.filterData(data, "cat_pergunta", pergunta);
+    var data = dimple.filterData(window.complete_data, "cat_pergunta", pergunta); //filtrando pergunta
+        data = dimple.filterData(data, "cat_recorte",  cat_recorte); //filtrando categoria recorte
+    var maximo_y = d3.max(data, function(d){ return parseInt(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
+        data = dimple.filterData(data, "recorte", recorte); //filtrando recorte
 
     $(".botao-selecao-pergunta").html(texto_pergunta); // Alterando texto do botão de pergunta
     $(".botao-selecao-recorte").html(texto_recorte); // Alterando texto do botão de recorte
@@ -202,6 +205,7 @@ function atualiza_grafico(argumentos) {
     chart = configuraCores(chart, pergunta); //aruma as cores
 
     y.title = texto_pergunta + " (%)";
+    y.overrideMax = maximo_y;
 
     chart.draw(1000); // Desenhando novo gráfico com animação durando 1000 ms
 }

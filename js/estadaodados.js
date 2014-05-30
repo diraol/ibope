@@ -231,7 +231,7 @@ function nomeMes() {
     for (var i =0; i < todos_textos.length; i++) {
         texto = todos_textos[i].innerHTML
         data = texto.split("/")
-        if (data.length > 1) {
+        if ((data.length > 1) & (data[0] != "NS")){
             if (data[1] == "01") mes = "jan"
             if (data[1] == "02") mes = "fev"
             if (data[1] == "03") mes = "mar"

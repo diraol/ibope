@@ -57,12 +57,17 @@ function cria_grafico() {
     };
 
     myChart.draw();
-
-    x.shapes.selectAll("text").attr("transform",
+    
+    //conserta o nome do mês
+    nomeMes()
+    
+    //roda labels do eixo x
+/*    x.shapes.selectAll("text").attr("transform",
         function (d) {
             //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
             return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
         });
+*/
 }
 
 function ordemLegenda(pergunta) {
@@ -78,7 +83,7 @@ function ordemLegenda(pergunta) {
     } else if (pergunta.indexOf("turno_campos") != -1) {
         orderedValues = ["Dilma Rousseff", "Eduardo Campos","Branco e Nulo","NS/NR*"];
     } else if (pergunta.indexOf("avaliacao") != -1) {
-        orderedValues = ["Ótimo ou bom","Regular","Ruim ou péssimo","NS/NR*"]
+        orderedValues = ["Ótimo e bom","Regular","Ruim e péssimo","NS/NR*"]
     } else if (pergunta.indexOf("interesse")!= -1) {
         orderedValues = ["Tem muito interesse","Tem médio interesse","Não tem interesse","NS/NR*"]
     } else if (pergunta.indexOf("aprova")!= -1) {
@@ -112,13 +117,11 @@ function configuraCores(grafico, pergunta) {
         grafico.assignColor("Branco e Nulo","#C9C9C9");
     } else if (pergunta.indexOf("avalia") != -1 || pergunta.indexOf("aprova") != -1 ) {
         grafico.defaultColors = [
-            new dimple.color("#3C3C3C"),
-            new dimple.color("#5C5C5C"),
-            new dimple.color("#8C8C8C"),
-            new dimple.color("#ACACAC"),
-            new dimple.color("#CCCCCC"),
-            new dimple.color("#000000")
-            ]
+            new dimple.color("#592640"),
+            new dimple.color("#CCB1BE"),
+            new dimple.color("#B06898")
+            
+        ]
     }else if (pergunta.indexOf("interesse") != -1) {
          grafico.defaultColors = [
             new dimple.color("#001C44"),
@@ -203,11 +206,16 @@ function atualiza_grafico(argumentos) {
     legend = chart.addLegend(720, 2, 195, 220, "right"); //adiciona as novas
     legend._getEntries = function () { return ordemLegenda(pergunta); }; //arruma a ordem
     chart = configuraCores(chart, pergunta); //aruma as cores
-
+    
+    //coloca o nome certo e % no eixo y
     y.title = texto_pergunta + " (%)";
     y.overrideMax = maximo_y;
 
     chart.draw(1000); // Desenhando novo gráfico com animação durando 1000 ms
+    
+    //muda os meses para o nome em extenso
+    nomeMes()
+    
 }
 
 function atualiza_recorte(cat_recorte, recorte, texto){
@@ -216,6 +224,29 @@ function atualiza_recorte(cat_recorte, recorte, texto){
 
 function atualiza_pergunta(pergunta, texto){
     atualiza_grafico({pergunta: pergunta, texto_pergunta: texto})
+}
+
+function nomeMes() {
+    todos_textos = $("text")
+    for (var i =0; i < todos_textos.length; i++) {
+        texto = todos_textos[i].innerHTML
+        data = texto.split("/")
+        if (data.length > 1) {
+            if (data[1] == "01") mes = "jan"
+            if (data[1] == "02") mes = "fev"
+            if (data[1] == "03") mes = "mar"
+            if (data[1] == "04") mes = "abr"
+            if (data[1] == "05") mes = "mai"
+            if (data[1] == "06") mes = "jun"
+            if (data[1] == "07") mes = "jul"
+            if (data[1] == "08") mes = "ago"
+            if (data[1] == "09") mes = "set"
+            if (data[1] == "10") mes = "out"
+            if (data[1] == "11") mes = "nov"
+            if (data[1] == "12") mes = "dez"
+            todos_textos[i].innerHTML = data[0] + "/" + mes
+        }
+    }    
 }
 
 $(document).ready(function(){

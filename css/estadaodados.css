@@ -132,6 +132,33 @@ footer {
   max-height: 490px;
 }
 
+#grafico {
+  display: block;
+}
+
+body  {
+  background-color: #E6E8EE;
+}
+
+.explicativo p  {
+  padding-left: 60px;
+  padding-right: 165px;
+}
+
+#leia_tambem h5, #leia_tambem p {
+  padding-left: 75px;
+  padding-right: 180px;
+
+}
+
+div.div-botao-pergunta .input-group {
+  padding-left: 60px;
+}
+
+.recorte {
+  padding-right: 165px;
+}
+
 /*@media screen and (max-width: 768px ) {*/
   /*div.div-botao-pergunta {*/
     /*text-align: center;*/

@@ -275,7 +275,7 @@ function nomeMes() {
 }
 
 $(document).ready(function(){
-    window.svg = dimple.newSvg("#grafico", "100%", "80%");
+    window.svg = dimple.newSvg("#grafico", "100%", "75%");
     carrega();
     window.onresize = function () {
         // As of 1.1.0 the second parameter here allows you to draw

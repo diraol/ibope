@@ -11,14 +11,36 @@ function carrega () {
    });
 }
 
+function atualiza_background() {
+
+    d3.select("#background_plot_area")
+        .attr("width", dimple._parentWidth(svg.node()) - 225 )
+        .attr("height", dimple._parentHeight(svg.node()) - 100)
+
+}
+
 function cria_grafico() {
+
+    //Retângulo de fundo (background) do gráfico
+    svg.append("rect")
+        .attr("id", "background_plot_area")
+        .attr("x", 60)
+        .attr("y", 30)
+        .attr("width", dimple._parentWidth(svg.node()) - 225 )
+        .attr("height", dimple._parentHeight(svg.node()) - 100)
+        .style("fill", "#fff");
+
     var data = dimple.filterData(window.complete_data, "cat_pergunta", "intencao_estimulada"); //filtra pergunta
         data = dimple.filterData(data, "cat_recorte", "total"); //filtra categoria do recorte
     var maximo_y = d3.max(data, function(d){ return parseInt(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
         data = dimple.filterData(data, "recorte", "total"); //filtra recorte na categoria
+
     var myChart = new dimple.chart(svg,data);
     window.chart=myChart;
-    myChart.setBounds(45,20,725,390);
+
+    myChart.setBounds(45,20,"85%","80%");
+    myChart.setMargins("60px","30px","165px","70px");
+
     var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%d/%m");
     x.addOrderRule("");
     x.title = "";
@@ -28,11 +50,12 @@ function cria_grafico() {
     myChart.addMeasureAxis("y","valor");
 
     linha = myChart.addSeries("dado",dimple.plot.line);
+
     linha.lineWeight = 4
     linha.lineMarkers = true;
-    
-    legend = myChart.addLegend(720, 2, 195, 220, "right");
-    myChart = configuraCores(myChart,"intencao_estimulada");
+
+    legend = myChart.addLegend(-200, 30, 195, 220, "right");
+    myChart = configuraCores(myChart, "intencao_estimulada");
 
     //arruma ordem da legenda
     legend._getEntries = function () { return ordemLegenda("intencao_estimulada"); };
@@ -59,17 +82,17 @@ function cria_grafico() {
     };
 
     myChart.draw();
-    
+
     //conserta o nome do mês
     nomeMes()
-    
-    //roda labels do eixo x
-/*    x.shapes.selectAll("text").attr("transform",
+
+    //translada labels do eixo x
+    x.shapes.selectAll("text").attr("transform",
         function (d) {
             //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
-            return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
+            return d3.select(this).attr("transform") + " translate(0, 5)";
         });
-*/
+
 }
 
 function ordemLegenda(pergunta) {
@@ -122,7 +145,7 @@ function configuraCores(grafico, pergunta) {
             new dimple.color("#592640"),
             new dimple.color("#CCB1BE"),
             new dimple.color("#B06898")
-            
+
         ]
     }else if (pergunta.indexOf("interesse") != -1) {
          grafico.defaultColors = [
@@ -205,19 +228,19 @@ function atualiza_grafico(argumentos) {
     //arruma as legendas
     chart.legends = [];
     limpar_legendas(); //limpa as antigas
-    legend = chart.addLegend(720, 2, 195, 220, "right"); //adiciona as novas
+    legend = chart.addLegend(-200, 10, 195, 220, "right");
     legend._getEntries = function () { return ordemLegenda(pergunta); }; //arruma a ordem
     chart = configuraCores(chart, pergunta); //aruma as cores
-    
+
     //coloca o nome certo e % no eixo y
     y.title = texto_pergunta + " (%)";
     y.overrideMax = maximo_y;
 
     chart.draw(1000); // Desenhando novo gráfico com animação durando 1000 ms
-    
+
     //muda os meses para o nome em extenso
     nomeMes()
-    
+
 }
 
 function atualiza_recorte(cat_recorte, recorte, texto){
@@ -248,10 +271,18 @@ function nomeMes() {
             if (data[1] == "12") mes = "dez"
             todos_textos[i].innerHTML = data[0] + "/" + mes
         }
-    }    
+    }
 }
 
 $(document).ready(function(){
-    window.svg = dimple.newSvg("#grafico", 950, 490);
+    window.svg = dimple.newSvg("#grafico", "100%", "80%");
     carrega();
+    window.onresize = function () {
+        // As of 1.1.0 the second parameter here allows you to draw
+        // without reprocessing data.  This saves a lot on performance
+        // when you know the data won't have changed.
+        chart.draw(0, true);
+        atualiza_background();
+    };
+
 });

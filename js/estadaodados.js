@@ -1,6 +1,5 @@
 var complete_data = null;
 var meuGrafico = null;
-new dimple.color("")
 
 function carrega () {
   //desenha grafico

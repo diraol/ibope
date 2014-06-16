@@ -98,9 +98,11 @@ var Main = (function() {
                 cat_rec = decodeURI(cat_rec);
                 rec = decodeURI(rec);
                 currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
+                _filtra_recorte_por_pergunta();
                 if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
                     currentRoute["categoriaRecorte"] = cat_rec;
                     currentRoute["recorte"] = rec;
+                    _filtra_pergunta_por_catRecorte();
                 } else {
                     currentRoute["categoriaRecorte"] = defaultFilters.categoriaRecorte;
                     currentRoute["recorte"] = defaultFilters.recorte;
@@ -112,9 +114,11 @@ var Main = (function() {
                 cat_rec = decodeURI(cat_rec);
                 rec = decodeURI(rec);
                 currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
+                _filtra_recorte_por_pergunta();
                 if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
                     currentRoute["categoriaRecorte"] = cat_rec;
                     currentRoute["recorte"] = rec;
+                    _filtra_pergunta_por_catRecorte();
                 } else {
                     currentRoute["categoriaRecorte"] = defaultFilters.categoriaRecorte;
                     currentRoute["recorte"] = defaultFilters.recorte;
@@ -124,6 +128,7 @@ var Main = (function() {
             crossroads.addRoute('/p/{perg}', function(perg){
                 perg = decodeURI(perg);
                 currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
+                _filtra_recorte_por_pergunta();
             });
 
             crossroads.addRoute('/cr/{cat_rec}/r/{rec}', function(cat_rec, rec){
@@ -132,6 +137,7 @@ var Main = (function() {
                 if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
                     currentRoute["categoriaRecorte"] = cat_rec;
                     currentRoute["recorte"] = rec;
+                    _filtra_pergunta_por_catRecorte();
                 } else {
                     currentRoute["categoriaRecorte"] = defaultFilters.categoriaRecorte;
                     currentRoute["recorte"] = defaultFilters.recorte;
@@ -169,8 +175,46 @@ var Main = (function() {
             chart.draw(0, true);
             _atualiza_background();
         };
+    }
 
+    function _filtra_recorte_por_pergunta(){
+        if (currentRoute["pergunta"] == "desejo_mudanca"){
+            $(".rec-avalia").show();
+            $(".rec-muda").hide();
+            if (currentRoute["categoriaRecorte"] == "desejo_mudanca" ) {
+                currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
+                currentRoute["recorte"] = defaultFilters["recorte"];
+            }
+        } else if (currentRoute["pergunta"] == "avaliacao_governo") {
+            $(".rec-muda").show();
+            $(".rec-avalia").hide();
+            if (currentRoute["categoriaRecorte"] == "avaliacao_governo") {
+                currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
+                currentRoute["recorte"] = defaultFilters["recorte"];
+            }
+        } else {
+            $(".rec-muda").show();
+            $(".rec-avalia").show();
+        }
+    }
 
+    function _filtra_pergunta_por_catRecorte() {
+        if (currentRoute["categoriaRecorte"] == "desejo_mudanca"){
+            $(".perg-avalia").show();
+            $(".perg-muda").hide();
+            if (currentRoute["pergunta"] == "desejo_mudanca" ) {
+                currentRoute["pergunta"] = defaultFilters["pergunta"];
+            }
+        } else if (currentRoute["categoriaRecorte"] == "avaliacao_governo") {
+            $(".perg-muda").show();
+            $(".perg-avalia").hide();
+            if (currentRoute["pergunta"] == "avaliacao_governo") {
+                currentRoute["pergunta"] = defaultFilters["pergunta"];
+            }
+        } else {
+            $(".perg-muda").show();
+            $(".perg-avalia").show();
+        }
     }
 
     function _atualiza_background() {
@@ -367,27 +411,6 @@ var Main = (function() {
         //aruma tamanho do eixo de data
         chart.axes[0].overrideMin = minimo_data.setDate(minimo_data.getDate()*0.95);
         chart.axes[0].overrideMax = maximo_data.setDate(maximo_data.getDate()*1.3);
-
-        if ( pergunta == "desejo_mudanca" ){
-            $(".rec-avalia").show();
-            $(".rec-muda").hide();
-            if (cat_recorte == "desejo_mudanca" ) {
-                cat_recorte = "total";
-                recorte = "total";
-                texto_recorte = extensao['recorte'][cat_recorte][recorte];
-            }
-        } else if (pergunta == "avaliacao_governo") {
-            $(".rec-muda").show();
-            $(".rec-avalia").hide();
-            if (cat_recorte == "avaliacao_governo") {
-                cat_recorte = "total";
-                recorte = "total";
-                texto_recorte = extensao['recorte'][cat_recorte][recorte];
-            }
-        } else {
-            $(".rec-muda").show();
-            $(".rec-avalia").show();
-        }
 
         $(".botao-selecao-pergunta").html(texto_pergunta); // Alterando texto do botão de pergunta
         $(".botao-selecao-recorte").html(texto_recorte); // Alterando texto do botão de recorte

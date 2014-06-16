@@ -195,9 +195,13 @@ var Main = (function() {
         var x = myChart.addTimeAxis("x","data","%Y-%m-%d","%d/%m");
         x.addOrderRule("");
         x.title = "";
-        x.overrideMin = new Date("2014-03-16"); //TODO: pegar a menor data usando a d3 e lendo a base de dados e subtrair 1
-        x.overrideMax = new Date("2014-05-20"); //TODO: pegar a maior data usando a d3 e lendo a base de dados e somar 1
-        //x.timeInterval = 4;
+        var maximo_data = new Date(d3.max(data, function(d){ return d.data;})); //encontra maior data
+        var minimo_data = new Date(d3.min(data, function(d){ return d.data;})); //encontra menor data
+
+        //aruma tamanho do eixo de data
+        x.overrideMin = minimo_data.setDate(minimo_data.getDate()*0.95);
+        x.overrideMax = maximo_data.setDate(maximo_data.getDate()*1.3);
+
         myChart.addMeasureAxis("y","valor");
 
         linha = myChart.addSeries("dado",dimple.plot.line);
@@ -341,11 +345,20 @@ var Main = (function() {
             texto_pergunta = extensao['pergunta'][pergunta],
             texto_recorte = extensao['recorte'][cat_recorte][recorte];
 
+        // filtra os dados de acordo com a pergunta e o recorte atuais
+        var data = dimple.filterData(window.complete_data, "cat_pergunta", pergunta); //filtrando pergunta
+            data = dimple.filterData(data, "cat_recorte",  cat_recorte); //filtrando categoria recorte
+        var maximo_y = d3.max(data, function(d){ return parseInt(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
+            data = dimple.filterData(data, "recorte", recorte); //filtrando recorte
 
         //Escondendo opções de recorte que são incompatíveis com perguntas
-        chart.axes[0].overrideMin.setUTCDate('16');
-        chart.axes[0].overrideMin.setMonth('02');
-        chart.axes[0].overrideMin.setFullYear('2014');
+        var maximo_data = new Date(d3.max(data, function(d){ return d.data;})); //encontra maior data
+        var minimo_data = new Date(d3.min(data, function(d){ return d.data;})); //encontra menor data
+
+        //aruma tamanho do eixo de data
+        chart.axes[0].overrideMin = minimo_data.setDate(minimo_data.getDate()*0.95);
+        chart.axes[0].overrideMax = maximo_data.setDate(maximo_data.getDate()*1.3);
+
         if ( pergunta == "desejo_mudanca" ){
             $(".rec-avalia").show();
             $(".rec-muda").hide();
@@ -355,9 +368,6 @@ var Main = (function() {
                 texto_recorte = extensao['recorte'][cat_recorte][recorte];
             }
         } else if (pergunta == "avaliacao_governo") {
-            chart.axes[0].overrideMin.setUTCDate('20');
-            chart.axes[0].overrideMin.setMonth('09');
-            chart.axes[0].overrideMin.setFullYear('2013');
             $(".rec-muda").show();
             $(".rec-avalia").hide();
             if (cat_recorte == "avaliacao_governo") {
@@ -370,12 +380,6 @@ var Main = (function() {
             $(".rec-avalia").show();
         }
 
-        // filtra os dados de acordo com a pergunta e o recorte atuais
-        var data = dimple.filterData(window.complete_data, "cat_pergunta", pergunta); //filtrando pergunta
-            data = dimple.filterData(data, "cat_recorte",  cat_recorte); //filtrando categoria recorte
-        var maximo_y = d3.max(data, function(d){ return parseInt(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
-            data = dimple.filterData(data, "recorte", recorte); //filtrando recorte
-
         $(".botao-selecao-pergunta").html(texto_pergunta); // Alterando texto do botão de pergunta
         $(".botao-selecao-recorte").html(texto_recorte); // Alterando texto do botão de recorte
         $(".botao-selecao-pergunta").data("pergunta",pergunta); // e coloca um atributo de "data" no botão mostrando qual é a atual pergunta
@@ -387,7 +391,13 @@ var Main = (function() {
         //arruma as legendas
         chart.legends = [];
         _limpar_legendas(); //limpa as antigas
-        legend = chart.addLegend(-200, 10, 195, 220, "right");
+
+        //adiciona legenda menor se for aprovação da Dilma
+        if (pergunta == "aprova_dilma")
+            legend = chart.addLegend(-200, 10, 165, 220, "right")
+        else
+            legend = chart.addLegend(-200, 10, 195, 220, "right");
+
         legend._getEntries = function () { return _ordemLegenda(pergunta); }; //arruma a ordem
         chart = _configuraCores(chart, pergunta); //aruma as cores
 
@@ -395,7 +405,7 @@ var Main = (function() {
         y.title = texto_pergunta + " (%)";
         y.overrideMax = maximo_y;
 
-        chart.draw(1000); // Desenhando novo gráfico com animação durando 1000 ms
+        chart.draw(750); // Desenhando novo gráfico com animação durando 1000 ms
 
         //muda os meses para o nome em extenso
         _nomeMes()

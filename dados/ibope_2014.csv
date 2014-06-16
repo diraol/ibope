@@ -593,9 +593,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,2turno_campos,Eduardo Campos,condicao_municipio,INTERIOR,15
 2014-03-17,2turno_campos,Branco e Nulo,condicao_municipio,INTERIOR,22
 2014-03-17,2turno_campos,NS/NR*,condicao_municipio,INTERIOR,13
-2014-03-17,vida_hoje,Satisfeito,regiao,NORTE/ CENTRO OESTE,84
-2014-03-17,vida_hoje,Insatisfeito,regiao,NORTE/ CENTRO OESTE,16
-2014-03-17,vida_hoje,NS/NR*,regiao,NORTE/ CENTRO OESTE,1
+2014-03-17,vida_hoje,Satisfeito,regiao,NORTE-CENTRO-OESTE,84
+2014-03-17,vida_hoje,Insatisfeito,regiao,NORTE-CENTRO-OESTE,16
+2014-03-17,vida_hoje,NS/NR*,regiao,NORTE-CENTRO-OESTE,1
 2014-03-17,vida_hoje,Satisfeito,regiao,NORDESTE,81
 2014-03-17,vida_hoje,Insatisfeito,regiao,NORDESTE,19
 2014-03-17,vida_hoje,NS/NR*,regiao,NORDESTE,0
@@ -605,10 +605,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,vida_hoje,Satisfeito,regiao,SUL,77
 2014-03-17,vida_hoje,Insatisfeito,regiao,SUL,23
 2014-03-17,vida_hoje,NS/NR*,regiao,SUL,0
-2014-03-17,interesse,Tem muito interesse,regiao,NORTE/ CENTRO OESTE,15
-2014-03-17,interesse,Tem médio interesse,regiao,NORTE/ CENTRO OESTE,26
-2014-03-17,interesse,Não tem interesse,regiao,NORTE/ CENTRO OESTE,58
-2014-03-17,interesse,NS/NR*,regiao,NORTE/ CENTRO OESTE,1
+2014-03-17,interesse,Tem muito interesse,regiao,NORTE-CENTRO-OESTE,15
+2014-03-17,interesse,Tem médio interesse,regiao,NORTE-CENTRO-OESTE,26
+2014-03-17,interesse,Não tem interesse,regiao,NORTE-CENTRO-OESTE,58
+2014-03-17,interesse,NS/NR*,regiao,NORTE-CENTRO-OESTE,1
 2014-03-17,interesse,Tem muito interesse,regiao,NORDESTE,12
 2014-03-17,interesse,Tem médio interesse,regiao,NORDESTE,33
 2014-03-17,interesse,Não tem interesse,regiao,NORDESTE,53
@@ -621,14 +621,14 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,interesse,Tem médio interesse,regiao,SUL,31
 2014-03-17,interesse,Não tem interesse,regiao,SUL,58
 2014-03-17,interesse,NS/NR*,regiao,SUL,2
-2014-03-17,intencao_espontanea,Aécio Neves,regiao,NORTE/ CENTRO OESTE,4
-2014-03-17,intencao_espontanea,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,21
-2014-03-17,intencao_espontanea,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,25
-2014-03-17,intencao_espontanea,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,4
-2014-03-17,intencao_espontanea,Lula,regiao,NORTE/ CENTRO OESTE,13
-2014-03-17,intencao_espontanea,Marina Silva,regiao,NORTE/ CENTRO OESTE,3
-2014-03-17,intencao_espontanea,NS/NR*,regiao,NORTE/ CENTRO OESTE,27
-2014-03-17,intencao_espontanea,Outros,regiao,NORTE/ CENTRO OESTE,3
+2014-03-17,intencao_espontanea,Aécio Neves,regiao,NORTE-CENTRO-OESTE,4
+2014-03-17,intencao_espontanea,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,21
+2014-03-17,intencao_espontanea,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,25
+2014-03-17,intencao_espontanea,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,4
+2014-03-17,intencao_espontanea,Lula,regiao,NORTE-CENTRO-OESTE,13
+2014-03-17,intencao_espontanea,Marina Silva,regiao,NORTE-CENTRO-OESTE,3
+2014-03-17,intencao_espontanea,NS/NR*,regiao,NORTE-CENTRO-OESTE,27
+2014-03-17,intencao_espontanea,Outros,regiao,NORTE-CENTRO-OESTE,3
 2014-03-17,intencao_espontanea,Aécio Neves,regiao,NORDESTE,2
 2014-03-17,intencao_espontanea,Branco e Nulo,regiao,NORDESTE,12
 2014-03-17,intencao_espontanea,Dilma Rousseff,regiao,NORDESTE,29
@@ -653,13 +653,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,intencao_espontanea,Marina Silva,regiao,SUL,2
 2014-03-17,intencao_espontanea,NS/NR*,regiao,SUL,41
 2014-03-17,intencao_espontanea,Outros,regiao,SUL,4
-2014-03-17,intencao_estimulada,Aécio Neves,regiao,NORTE/ CENTRO OESTE,11
-2014-03-17,intencao_estimulada,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,24
-2014-03-17,intencao_estimulada,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,42
-2014-03-17,intencao_estimulada,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,6
-2014-03-17,intencao_estimulada,NS/NR*,regiao,NORTE/ CENTRO OESTE,11
-2014-03-17,intencao_estimulada,Outros,regiao,NORTE/ CENTRO OESTE,3
-2014-03-17,intencao_estimulada,Pastor Everaldo,regiao,NORTE/ CENTRO OESTE,3
+2014-03-17,intencao_estimulada,Aécio Neves,regiao,NORTE-CENTRO-OESTE,11
+2014-03-17,intencao_estimulada,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,24
+2014-03-17,intencao_estimulada,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,42
+2014-03-17,intencao_estimulada,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,6
+2014-03-17,intencao_estimulada,NS/NR*,regiao,NORTE-CENTRO-OESTE,11
+2014-03-17,intencao_estimulada,Outros,regiao,NORTE-CENTRO-OESTE,3
+2014-03-17,intencao_estimulada,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,3
 2014-03-17,intencao_estimulada,Aécio Neves,regiao,NORDESTE,6
 2014-03-17,intencao_estimulada,Branco e Nulo,regiao,NORDESTE,16
 2014-03-17,intencao_estimulada,Dilma Rousseff,regiao,NORDESTE,54
@@ -681,9 +681,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,intencao_estimulada,NS/NR*,regiao,SUL,16
 2014-03-17,intencao_estimulada,Outros,regiao,SUL,0
 2014-03-17,intencao_estimulada,Pastor Everaldo,regiao,SUL,3
-2014-03-17,desejo_mudanca,Quer mudança,regiao,NORTE/ CENTRO OESTE,63
-2014-03-17,desejo_mudanca,Quer continuidade,regiao,NORTE/ CENTRO OESTE,33
-2014-03-17,desejo_mudanca,NS/NR*,regiao,NORTE/ CENTRO OESTE,4
+2014-03-17,desejo_mudanca,Quer mudança,regiao,NORTE-CENTRO-OESTE,63
+2014-03-17,desejo_mudanca,Quer continuidade,regiao,NORTE-CENTRO-OESTE,33
+2014-03-17,desejo_mudanca,NS/NR*,regiao,NORTE-CENTRO-OESTE,4
 2014-03-17,desejo_mudanca,Quer mudança,regiao,NORDESTE,54
 2014-03-17,desejo_mudanca,Quer continuidade,regiao,NORDESTE,41
 2014-03-17,desejo_mudanca,NS/NR*,regiao,NORDESTE,5
@@ -693,10 +693,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,desejo_mudanca,Quer mudança,regiao,SUL,66
 2014-03-17,desejo_mudanca,Quer continuidade,regiao,SUL,29
 2014-03-17,desejo_mudanca,NS/NR*,regiao,SUL,6
-2014-03-17,2turno_aecio,Aécio Neves,regiao,NORTE/ CENTRO OESTE,19
-2014-03-17,2turno_aecio,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,50
-2014-03-17,2turno_aecio,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,22
-2014-03-17,2turno_aecio,NS/NR*,regiao,NORTE/ CENTRO OESTE,8
+2014-03-17,2turno_aecio,Aécio Neves,regiao,NORTE-CENTRO-OESTE,19
+2014-03-17,2turno_aecio,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,50
+2014-03-17,2turno_aecio,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,22
+2014-03-17,2turno_aecio,NS/NR*,regiao,NORTE-CENTRO-OESTE,8
 2014-03-17,2turno_aecio,Aécio Neves,regiao,NORDESTE,11
 2014-03-17,2turno_aecio,Dilma Rousseff,regiao,NORDESTE,63
 2014-03-17,2turno_aecio,Branco e Nulo,regiao,NORDESTE,19
@@ -709,10 +709,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-03-17,2turno_aecio,Dilma Rousseff,regiao,SUL,37
 2014-03-17,2turno_aecio,Branco e Nulo,regiao,SUL,27
 2014-03-17,2turno_aecio,NS/NR*,regiao,SUL,13
-2014-03-17,2turno_campos,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,54
-2014-03-17,2turno_campos,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,14
-2014-03-17,2turno_campos,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,24
-2014-03-17,2turno_campos,NS/NR*,regiao,NORTE/ CENTRO OESTE,8
+2014-03-17,2turno_campos,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,54
+2014-03-17,2turno_campos,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,14
+2014-03-17,2turno_campos,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,24
+2014-03-17,2turno_campos,NS/NR*,regiao,NORTE-CENTRO-OESTE,8
 2014-03-17,2turno_campos,Dilma Rousseff,regiao,NORDESTE,60
 2014-03-17,2turno_campos,Eduardo Campos,regiao,NORDESTE,17
 2014-03-17,2turno_campos,Branco e Nulo,regiao,NORDESTE,16
@@ -1846,9 +1846,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,2turno_campos,Eduardo Campos,condicao_municipio,INTERIOR,19
 2014-04-14,2turno_campos,Branco e Nulo,condicao_municipio,INTERIOR,26
 2014-04-14,2turno_campos,NS/NR*,condicao_municipio,INTERIOR,11
-2014-04-14,vida_hoje,Satisfeito,regiao,NORTE/ CENTRO OESTE,80
-2014-04-14,vida_hoje,Insatisfeito,regiao,NORTE/ CENTRO OESTE,19
-2014-04-14,vida_hoje,NS/NR*,regiao,NORTE/ CENTRO OESTE,1
+2014-04-14,vida_hoje,Satisfeito,regiao,NORTE-CENTRO-OESTE,80
+2014-04-14,vida_hoje,Insatisfeito,regiao,NORTE-CENTRO-OESTE,19
+2014-04-14,vida_hoje,NS/NR*,regiao,NORTE-CENTRO-OESTE,1
 2014-04-14,vida_hoje,Satisfeito,regiao,NORDESTE,82
 2014-04-14,vida_hoje,Insatisfeito,regiao,NORDESTE,18
 2014-04-14,vida_hoje,NS/NR*,regiao,NORDESTE,0
@@ -1858,10 +1858,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,vida_hoje,Satisfeito,regiao,SUL,69
 2014-04-14,vida_hoje,Insatisfeito,regiao,SUL,30
 2014-04-14,vida_hoje,NS/NR*,regiao,SUL,1
-2014-04-14,interesse,Tem muito interesse,regiao,NORTE/ CENTRO OESTE,10
-2014-04-14,interesse,Tem médio interesse,regiao,NORTE/ CENTRO OESTE,27
-2014-04-14,interesse,Não tem interesse,regiao,NORTE/ CENTRO OESTE,62
-2014-04-14,interesse,NS/NR*,regiao,NORTE/ CENTRO OESTE,1
+2014-04-14,interesse,Tem muito interesse,regiao,NORTE-CENTRO-OESTE,10
+2014-04-14,interesse,Tem médio interesse,regiao,NORTE-CENTRO-OESTE,27
+2014-04-14,interesse,Não tem interesse,regiao,NORTE-CENTRO-OESTE,62
+2014-04-14,interesse,NS/NR*,regiao,NORTE-CENTRO-OESTE,1
 2014-04-14,interesse,Tem muito interesse,regiao,NORDESTE,16
 2014-04-14,interesse,Tem médio interesse,regiao,NORDESTE,25
 2014-04-14,interesse,Não tem interesse,regiao,NORDESTE,58
@@ -1874,14 +1874,14 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,interesse,Tem médio interesse,regiao,SUL,28
 2014-04-14,interesse,Não tem interesse,regiao,SUL,55
 2014-04-14,interesse,NS/NR*,regiao,SUL,2
-2014-04-14,intencao_espontanea,Aécio Neves,regiao,NORTE/ CENTRO OESTE,7
-2014-04-14,intencao_espontanea,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,11
-2014-04-14,intencao_espontanea,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,20
-2014-04-14,intencao_espontanea,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,1
-2014-04-14,intencao_espontanea,Lula,regiao,NORTE/ CENTRO OESTE,9
-2014-04-14,intencao_espontanea,Marina Silva,regiao,NORTE/ CENTRO OESTE,6
-2014-04-14,intencao_espontanea,NS/NR*,regiao,NORTE/ CENTRO OESTE,41
-2014-04-14,intencao_espontanea,Outros,regiao,NORTE/ CENTRO OESTE,6
+2014-04-14,intencao_espontanea,Aécio Neves,regiao,NORTE-CENTRO-OESTE,7
+2014-04-14,intencao_espontanea,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,11
+2014-04-14,intencao_espontanea,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,20
+2014-04-14,intencao_espontanea,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,1
+2014-04-14,intencao_espontanea,Lula,regiao,NORTE-CENTRO-OESTE,9
+2014-04-14,intencao_espontanea,Marina Silva,regiao,NORTE-CENTRO-OESTE,6
+2014-04-14,intencao_espontanea,NS/NR*,regiao,NORTE-CENTRO-OESTE,41
+2014-04-14,intencao_espontanea,Outros,regiao,NORTE-CENTRO-OESTE,6
 2014-04-14,intencao_espontanea,Aécio Neves,regiao,NORDESTE,3
 2014-04-14,intencao_espontanea,Branco e Nulo,regiao,NORDESTE,13
 2014-04-14,intencao_espontanea,Dilma Rousseff,regiao,NORDESTE,32
@@ -1906,13 +1906,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_espontanea,Marina Silva,regiao,SUL,3
 2014-04-14,intencao_espontanea,NS/NR*,regiao,SUL,36
 2014-04-14,intencao_espontanea,Outros,regiao,SUL,4
-2014-04-14,intencao_estimulada,Aécio Neves,regiao,NORTE/ CENTRO OESTE,13
-2014-04-14,intencao_estimulada,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,18
-2014-04-14,intencao_estimulada,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,39
-2014-04-14,intencao_estimulada,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,4
-2014-04-14,intencao_estimulada,NS/NR*,regiao,NORTE/ CENTRO OESTE,18
-2014-04-14,intencao_estimulada,Outros,regiao,NORTE/ CENTRO OESTE,6
-2014-04-14,intencao_estimulada,Pastor Everaldo,regiao,NORTE/ CENTRO OESTE,2
+2014-04-14,intencao_estimulada,Aécio Neves,regiao,NORTE-CENTRO-OESTE,13
+2014-04-14,intencao_estimulada,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,18
+2014-04-14,intencao_estimulada,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,39
+2014-04-14,intencao_estimulada,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,4
+2014-04-14,intencao_estimulada,NS/NR*,regiao,NORTE-CENTRO-OESTE,18
+2014-04-14,intencao_estimulada,Outros,regiao,NORTE-CENTRO-OESTE,6
+2014-04-14,intencao_estimulada,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,2
 2014-04-14,intencao_estimulada,Aécio Neves,regiao,NORDESTE,8
 2014-04-14,intencao_estimulada,Branco e Nulo,regiao,NORDESTE,15
 2014-04-14,intencao_estimulada,Dilma Rousseff,regiao,NORDESTE,51
@@ -1934,10 +1934,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,intencao_estimulada,NS/NR*,regiao,SUL,17
 2014-04-14,intencao_estimulada,Outros,regiao,SUL,3
 2014-04-14,intencao_estimulada,Pastor Everaldo,regiao,SUL,3
-2014-04-14,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,40
-2014-04-14,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,35
-2014-04-14,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,22
-2014-04-14,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,3
+2014-04-14,avaliacao_governo,Ótimo e bom,regiao,NORTE-CENTRO-OESTE,40
+2014-04-14,avaliacao_governo,Regular,regiao,NORTE-CENTRO-OESTE,35
+2014-04-14,avaliacao_governo,Ruim e péssimo,regiao,NORTE-CENTRO-OESTE,22
+2014-04-14,avaliacao_governo,NS/NR*,regiao,NORTE-CENTRO-OESTE,3
 2014-04-14,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,42
 2014-04-14,avaliacao_governo,Regular,regiao,NORDESTE,37
 2014-04-14,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,19
@@ -1950,9 +1950,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,avaliacao_governo,Regular,regiao,SUL,35
 2014-04-14,avaliacao_governo,Ruim e péssimo,regiao,SUL,38
 2014-04-14,avaliacao_governo,NS/NR*,regiao,SUL,2
-2014-04-14,aprova_dilma,Aprova,regiao,NORTE/ CENTRO OESTE,57
-2014-04-14,aprova_dilma,Desaprova,regiao,NORTE/ CENTRO OESTE,38
-2014-04-14,aprova_dilma,NS/NR*,regiao,NORTE/ CENTRO OESTE,5
+2014-04-14,aprova_dilma,Aprova,regiao,NORTE-CENTRO-OESTE,57
+2014-04-14,aprova_dilma,Desaprova,regiao,NORTE-CENTRO-OESTE,38
+2014-04-14,aprova_dilma,NS/NR*,regiao,NORTE-CENTRO-OESTE,5
 2014-04-14,aprova_dilma,Aprova,regiao,NORDESTE,60
 2014-04-14,aprova_dilma,Desaprova,regiao,NORDESTE,35
 2014-04-14,aprova_dilma,NS/NR*,regiao,NORDESTE,5
@@ -1962,9 +1962,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,aprova_dilma,Aprova,regiao,SUL,35
 2014-04-14,aprova_dilma,Desaprova,regiao,SUL,58
 2014-04-14,aprova_dilma,NS/NR*,regiao,SUL,7
-2014-04-14,desejo_mudanca,Quer mudança,regiao,NORTE/ CENTRO OESTE,67
-2014-04-14,desejo_mudanca,Quer continuidade,regiao,NORTE/ CENTRO OESTE,30
-2014-04-14,desejo_mudanca,NS/NR*,regiao,NORTE/ CENTRO OESTE,3
+2014-04-14,desejo_mudanca,Quer mudança,regiao,NORTE-CENTRO-OESTE,67
+2014-04-14,desejo_mudanca,Quer continuidade,regiao,NORTE-CENTRO-OESTE,30
+2014-04-14,desejo_mudanca,NS/NR*,regiao,NORTE-CENTRO-OESTE,3
 2014-04-14,desejo_mudanca,Quer mudança,regiao,NORDESTE,62
 2014-04-14,desejo_mudanca,Quer continuidade,regiao,NORDESTE,35
 2014-04-14,desejo_mudanca,NS/NR*,regiao,NORDESTE,3
@@ -1974,10 +1974,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,desejo_mudanca,Quer mudança,regiao,SUL,65
 2014-04-14,desejo_mudanca,Quer continuidade,regiao,SUL,30
 2014-04-14,desejo_mudanca,NS/NR*,regiao,SUL,5
-2014-04-14,rejeicao,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,28
-2014-04-14,rejeicao,Aécio Neves,regiao,NORTE/ CENTRO OESTE,23
-2014-04-14,rejeicao,Pastor Everaldo,regiao,NORTE/ CENTRO OESTE,22
-2014-04-14,rejeicao,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,25
+2014-04-14,rejeicao,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,28
+2014-04-14,rejeicao,Aécio Neves,regiao,NORTE-CENTRO-OESTE,23
+2014-04-14,rejeicao,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,22
+2014-04-14,rejeicao,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,25
 2014-04-14,rejeicao,Dilma Rousseff,regiao,NORDESTE,25
 2014-04-14,rejeicao,Aécio Neves,regiao,NORDESTE,32
 2014-04-14,rejeicao,Pastor Everaldo,regiao,NORDESTE,28
@@ -1990,10 +1990,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,rejeicao,Aécio Neves,regiao,SUL,31
 2014-04-14,rejeicao,Pastor Everaldo,regiao,SUL,24
 2014-04-14,rejeicao,Eduardo Campos,regiao,SUL,21
-2014-04-14,2turno_aecio,Aécio Neves,regiao,NORTE/ CENTRO OESTE,24
-2014-04-14,2turno_aecio,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,47
-2014-04-14,2turno_aecio,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,16
-2014-04-14,2turno_aecio,NS/NR*,regiao,NORTE/ CENTRO OESTE,13
+2014-04-14,2turno_aecio,Aécio Neves,regiao,NORTE-CENTRO-OESTE,24
+2014-04-14,2turno_aecio,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,47
+2014-04-14,2turno_aecio,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,16
+2014-04-14,2turno_aecio,NS/NR*,regiao,NORTE-CENTRO-OESTE,13
 2014-04-14,2turno_aecio,Aécio Neves,regiao,NORDESTE,16
 2014-04-14,2turno_aecio,Dilma Rousseff,regiao,NORDESTE,61
 2014-04-14,2turno_aecio,Branco e Nulo,regiao,NORDESTE,16
@@ -2006,10 +2006,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-04-14,2turno_aecio,Dilma Rousseff,regiao,SUL,31
 2014-04-14,2turno_aecio,Branco e Nulo,regiao,SUL,36
 2014-04-14,2turno_aecio,NS/NR*,regiao,SUL,12
-2014-04-14,2turno_campos,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,50
-2014-04-14,2turno_campos,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,16
-2014-04-14,2turno_campos,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,19
-2014-04-14,2turno_campos,NS/NR*,regiao,NORTE/ CENTRO OESTE,16
+2014-04-14,2turno_campos,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,50
+2014-04-14,2turno_campos,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,16
+2014-04-14,2turno_campos,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,19
+2014-04-14,2turno_campos,NS/NR*,regiao,NORTE-CENTRO-OESTE,16
 2014-04-14,2turno_campos,Dilma Rousseff,regiao,NORDESTE,58
 2014-04-14,2turno_campos,Eduardo Campos,regiao,NORDESTE,19
 2014-04-14,2turno_campos,Branco e Nulo,regiao,NORDESTE,14
@@ -3688,9 +3688,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,2turno_campos,Eduardo Campos,condicao_municipio,INTERIOR,20
 2014-05-19,2turno_campos,Branco e Nulo,condicao_municipio,INTERIOR,22
 2014-05-19,2turno_campos,NS/NR*,condicao_municipio,INTERIOR,13
-2014-05-19,vida_hoje,Satisfeito,regiao,NORTE/ CENTRO OESTE,79
-2014-05-19,vida_hoje,Insatisfeito,regiao,NORTE/ CENTRO OESTE,20
-2014-05-19,vida_hoje,NS/NR*,regiao,NORTE/ CENTRO OESTE,1
+2014-05-19,vida_hoje,Satisfeito,regiao,NORTE-CENTRO-OESTE,79
+2014-05-19,vida_hoje,Insatisfeito,regiao,NORTE-CENTRO-OESTE,20
+2014-05-19,vida_hoje,NS/NR*,regiao,NORTE-CENTRO-OESTE,1
 2014-05-19,vida_hoje,Satisfeito,regiao,NORDESTE,86
 2014-05-19,vida_hoje,Insatisfeito,regiao,NORDESTE,13
 2014-05-19,vida_hoje,NS/NR*,regiao,NORDESTE,1
@@ -3700,10 +3700,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,vida_hoje,Satisfeito,regiao,SUL,73
 2014-05-19,vida_hoje,Insatisfeito,regiao,SUL,27
 2014-05-19,vida_hoje,NS/NR*,regiao,SUL,0
-2014-05-19,interesse,Tem muito interesse,regiao,NORTE/ CENTRO OESTE,15
-2014-05-19,interesse,Tem médio interesse,regiao,NORTE/ CENTRO OESTE,26
-2014-05-19,interesse,Não tem interesse,regiao,NORTE/ CENTRO OESTE,58
-2014-05-19,interesse,NS/NR*,regiao,NORTE/ CENTRO OESTE,0
+2014-05-19,interesse,Tem muito interesse,regiao,NORTE-CENTRO-OESTE,15
+2014-05-19,interesse,Tem médio interesse,regiao,NORTE-CENTRO-OESTE,26
+2014-05-19,interesse,Não tem interesse,regiao,NORTE-CENTRO-OESTE,58
+2014-05-19,interesse,NS/NR*,regiao,NORTE-CENTRO-OESTE,0
 2014-05-19,interesse,Tem muito interesse,regiao,NORDESTE,13
 2014-05-19,interesse,Tem médio interesse,regiao,NORDESTE,29
 2014-05-19,interesse,Não tem interesse,regiao,NORDESTE,57
@@ -3716,14 +3716,14 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,interesse,Tem médio interesse,regiao,SUL,30
 2014-05-19,interesse,Não tem interesse,regiao,SUL,56
 2014-05-19,interesse,NS/NR*,regiao,SUL,1
-2014-05-19,intencao_espontanea,Aécio Neves,regiao,NORTE/ CENTRO OESTE,7
-2014-05-19,intencao_espontanea,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,14
-2014-05-19,intencao_espontanea,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,23
-2014-05-19,intencao_espontanea,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,5
-2014-05-19,intencao_espontanea,Lula,regiao,NORTE/ CENTRO OESTE,9
-2014-05-19,intencao_espontanea,Marina Silva,regiao,NORTE/ CENTRO OESTE,2
-2014-05-19,intencao_espontanea,NS/NR*,regiao,NORTE/ CENTRO OESTE,38
-2014-05-19,intencao_espontanea,Outros,regiao,NORTE/ CENTRO OESTE,1
+2014-05-19,intencao_espontanea,Aécio Neves,regiao,NORTE-CENTRO-OESTE,7
+2014-05-19,intencao_espontanea,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,14
+2014-05-19,intencao_espontanea,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,23
+2014-05-19,intencao_espontanea,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,5
+2014-05-19,intencao_espontanea,Lula,regiao,NORTE-CENTRO-OESTE,9
+2014-05-19,intencao_espontanea,Marina Silva,regiao,NORTE-CENTRO-OESTE,2
+2014-05-19,intencao_espontanea,NS/NR*,regiao,NORTE-CENTRO-OESTE,38
+2014-05-19,intencao_espontanea,Outros,regiao,NORTE-CENTRO-OESTE,1
 2014-05-19,intencao_espontanea,Aécio Neves,regiao,NORDESTE,5
 2014-05-19,intencao_espontanea,Branco e Nulo,regiao,NORDESTE,17
 2014-05-19,intencao_espontanea,Dilma Rousseff,regiao,NORDESTE,30
@@ -3748,13 +3748,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_espontanea,Marina Silva,regiao,SUL,4
 2014-05-19,intencao_espontanea,NS/NR*,regiao,SUL,37
 2014-05-19,intencao_espontanea,Outros,regiao,SUL,2
-2014-05-19,intencao_estimulada,Aécio Neves,regiao,NORTE/ CENTRO OESTE,23
-2014-05-19,intencao_estimulada,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,5
-2014-05-19,intencao_estimulada,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,43
-2014-05-19,intencao_estimulada,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,13
-2014-05-19,intencao_estimulada,NS/NR*,regiao,NORTE/ CENTRO OESTE,8
-2014-05-19,intencao_estimulada,Outros,regiao,NORTE/ CENTRO OESTE,3
-2014-05-19,intencao_estimulada,Pastor Everaldo,regiao,NORTE/ CENTRO OESTE,5
+2014-05-19,intencao_estimulada,Aécio Neves,regiao,NORTE-CENTRO-OESTE,23
+2014-05-19,intencao_estimulada,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,5
+2014-05-19,intencao_estimulada,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,43
+2014-05-19,intencao_estimulada,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,13
+2014-05-19,intencao_estimulada,NS/NR*,regiao,NORTE-CENTRO-OESTE,8
+2014-05-19,intencao_estimulada,Outros,regiao,NORTE-CENTRO-OESTE,3
+2014-05-19,intencao_estimulada,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,5
 2014-05-19,intencao_estimulada,Aécio Neves,regiao,NORDESTE,11
 2014-05-19,intencao_estimulada,Branco e Nulo,regiao,NORDESTE,8
 2014-05-19,intencao_estimulada,Dilma Rousseff,regiao,NORDESTE,52
@@ -3776,10 +3776,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,intencao_estimulada,NS/NR*,regiao,SUL,10
 2014-05-19,intencao_estimulada,Outros,regiao,SUL,2
 2014-05-19,intencao_estimulada,Pastor Everaldo,regiao,SUL,2
-2014-05-19,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,36
-2014-05-19,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,32
-2014-05-19,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,30
-2014-05-19,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,1
+2014-05-19,avaliacao_governo,Ótimo e bom,regiao,NORTE-CENTRO-OESTE,36
+2014-05-19,avaliacao_governo,Regular,regiao,NORTE-CENTRO-OESTE,32
+2014-05-19,avaliacao_governo,Ruim e péssimo,regiao,NORTE-CENTRO-OESTE,30
+2014-05-19,avaliacao_governo,NS/NR*,regiao,NORTE-CENTRO-OESTE,1
 2014-05-19,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,44
 2014-05-19,avaliacao_governo,Regular,regiao,NORDESTE,31
 2014-05-19,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,24
@@ -3792,9 +3792,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,avaliacao_governo,Regular,regiao,SUL,29
 2014-05-19,avaliacao_governo,Ruim e péssimo,regiao,SUL,33
 2014-05-19,avaliacao_governo,NS/NR*,regiao,SUL,2
-2014-05-19,aprova_dilma,Aprova,regiao,NORTE/ CENTRO OESTE,49
-2014-05-19,aprova_dilma,Desaprova,regiao,NORTE/ CENTRO OESTE,44
-2014-05-19,aprova_dilma,NS/NR*,regiao,NORTE/ CENTRO OESTE,6
+2014-05-19,aprova_dilma,Aprova,regiao,NORTE-CENTRO-OESTE,49
+2014-05-19,aprova_dilma,Desaprova,regiao,NORTE-CENTRO-OESTE,44
+2014-05-19,aprova_dilma,NS/NR*,regiao,NORTE-CENTRO-OESTE,6
 2014-05-19,aprova_dilma,Aprova,regiao,NORDESTE,59
 2014-05-19,aprova_dilma,Desaprova,regiao,NORDESTE,36
 2014-05-19,aprova_dilma,NS/NR*,regiao,NORDESTE,4
@@ -3804,9 +3804,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,aprova_dilma,Aprova,regiao,SUL,47
 2014-05-19,aprova_dilma,Desaprova,regiao,SUL,49
 2014-05-19,aprova_dilma,NS/NR*,regiao,SUL,3
-2014-05-19,desejo_mudanca,Quer mudança,regiao,NORTE/ CENTRO OESTE,71
-2014-05-19,desejo_mudanca,Quer continuidade,regiao,NORTE/ CENTRO OESTE,22
-2014-05-19,desejo_mudanca,NS/NR*,regiao,NORTE/ CENTRO OESTE,7
+2014-05-19,desejo_mudanca,Quer mudança,regiao,NORTE-CENTRO-OESTE,71
+2014-05-19,desejo_mudanca,Quer continuidade,regiao,NORTE-CENTRO-OESTE,22
+2014-05-19,desejo_mudanca,NS/NR*,regiao,NORTE-CENTRO-OESTE,7
 2014-05-19,desejo_mudanca,Quer mudança,regiao,NORDESTE,51
 2014-05-19,desejo_mudanca,Quer continuidade,regiao,NORDESTE,43
 2014-05-19,desejo_mudanca,NS/NR*,regiao,NORDESTE,7
@@ -3816,10 +3816,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,desejo_mudanca,Quer mudança,regiao,SUL,70
 2014-05-19,desejo_mudanca,Quer continuidade,regiao,SUL,28
 2014-05-19,desejo_mudanca,NS/NR*,regiao,SUL,2
-2014-05-19,rejeicao,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,29
-2014-05-19,rejeicao,Aécio Neves,regiao,NORTE/ CENTRO OESTE,15
-2014-05-19,rejeicao,Pastor Everaldo,regiao,NORTE/ CENTRO OESTE,9
-2014-05-19,rejeicao,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,11
+2014-05-19,rejeicao,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,29
+2014-05-19,rejeicao,Aécio Neves,regiao,NORTE-CENTRO-OESTE,15
+2014-05-19,rejeicao,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,9
+2014-05-19,rejeicao,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,11
 2014-05-19,rejeicao,Dilma Rousseff,regiao,NORDESTE,24
 2014-05-19,rejeicao,Aécio Neves,regiao,NORDESTE,24
 2014-05-19,rejeicao,Pastor Everaldo,regiao,NORDESTE,18
@@ -3832,10 +3832,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,rejeicao,Aécio Neves,regiao,SUL,25
 2014-05-19,rejeicao,Pastor Everaldo,regiao,SUL,22
 2014-05-19,rejeicao,Eduardo Campos,regiao,SUL,21
-2014-05-19,2turno_aecio,Aécio Neves,regiao,NORTE/ CENTRO OESTE,28
-2014-05-19,2turno_aecio,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,44
-2014-05-19,2turno_aecio,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,19
-2014-05-19,2turno_aecio,NS/NR*,regiao,NORTE/ CENTRO OESTE,9
+2014-05-19,2turno_aecio,Aécio Neves,regiao,NORTE-CENTRO-OESTE,28
+2014-05-19,2turno_aecio,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,44
+2014-05-19,2turno_aecio,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,19
+2014-05-19,2turno_aecio,NS/NR*,regiao,NORTE-CENTRO-OESTE,9
 2014-05-19,2turno_aecio,Aécio Neves,regiao,NORDESTE,16
 2014-05-19,2turno_aecio,Dilma Rousseff,regiao,NORDESTE,58
 2014-05-19,2turno_aecio,Branco e Nulo,regiao,NORDESTE,20
@@ -3848,10 +3848,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-05-19,2turno_aecio,Dilma Rousseff,regiao,SUL,41
 2014-05-19,2turno_aecio,Branco e Nulo,regiao,SUL,26
 2014-05-19,2turno_aecio,NS/NR*,regiao,SUL,10
-2014-05-19,2turno_campos,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,44
-2014-05-19,2turno_campos,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,24
-2014-05-19,2turno_campos,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,21
-2014-05-19,2turno_campos,NS/NR*,regiao,NORTE/ CENTRO OESTE,10
+2014-05-19,2turno_campos,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,44
+2014-05-19,2turno_campos,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,24
+2014-05-19,2turno_campos,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,21
+2014-05-19,2turno_campos,NS/NR*,regiao,NORTE-CENTRO-OESTE,10
 2014-05-19,2turno_campos,Dilma Rousseff,regiao,NORDESTE,50
 2014-05-19,2turno_campos,Eduardo Campos,regiao,NORDESTE,26
 2014-05-19,2turno_campos,Branco e Nulo,regiao,NORDESTE,17
@@ -4761,13 +4761,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2013-10-21,avaliacao_governo,Ótimo e bom,idade,45 a 54,40
 2013-11-11,avaliacao_governo,Ótimo e bom,idade,35 a 44,39
 2013-11-11,avaliacao_governo,Regular,condicao_municipio,CAPITAL,39
-2013-11-11,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,39
+2013-11-11,avaliacao_governo,Ótimo e bom,regiao,NORTE-CENTRO-OESTE,39
 2013-11-11,avaliacao_governo,Ótimo e bom,total,total,39
 2013-10-21,avaliacao_governo,Regular,idade,25 a 34,39
 2013-10-21,avaliacao_governo,Regular,escolaridade,Superior,39
 2013-11-11,avaliacao_governo,Ótimo e bom,sexo,FEM,38
 2013-11-11,avaliacao_governo,Ótimo e bom,renda_familiar,Ate 1,38
-2013-11-11,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,38
+2013-11-11,avaliacao_governo,Regular,regiao,NORTE-CENTRO-OESTE,38
 2013-10-21,avaliacao_governo,Ótimo e bom,sexo,MAS,38
 2013-10-21,avaliacao_governo,Regular,escolaridade,Fundamental 2,38
 2013-10-21,avaliacao_governo,Regular,renda_familiar,2 a 5,38
@@ -4817,8 +4817,8 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2013-10-21,avaliacao_governo,Ótimo e bom,idade,16 a 24,33
 2013-10-21,avaliacao_governo,Regular,idade,45 a 54,33
 2013-10-21,avaliacao_governo,Ruim e péssimo,condicao_municipio,CAPITAL,33
-2013-10-21,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,33
-2013-10-21,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,33
+2013-10-21,avaliacao_governo,Ótimo e bom,regiao,NORTE-CENTRO-OESTE,33
+2013-10-21,avaliacao_governo,Regular,regiao,NORTE-CENTRO-OESTE,33
 2013-11-11,avaliacao_governo,Regular,idade,55 ou mais,32
 2013-11-11,avaliacao_governo,Regular,escolaridade,Fundamental 2,32
 2013-11-11,avaliacao_governo,Ótimo e bom,condicao_municipio,CAPITAL,32
@@ -4836,7 +4836,7 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2013-10-21,avaliacao_governo,Ruim e péssimo,idade,16 a 24,30
 2013-10-21,avaliacao_governo,Ótimo e bom,renda_familiar,Mais de 5,30
 2013-10-21,avaliacao_governo,Ótimo e bom,renda_familiar,2 a 5,30
-2013-10-21,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,30
+2013-10-21,avaliacao_governo,Ruim e péssimo,regiao,NORTE-CENTRO-OESTE,30
 2013-10-21,avaliacao_governo,Ótimo e bom,regiao,SUDESTE,30
 2013-11-11,avaliacao_governo,Ruim e péssimo,idade,16 a 24,29
 2013-10-21,avaliacao_governo,Ruim e péssimo,idade,35 a 44,29
@@ -4870,15 +4870,15 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2013-11-11,avaliacao_governo,Ruim e péssimo,renda_familiar,1 a 2,20
 2013-11-11,avaliacao_governo,Ruim e péssimo,regiao,SUL,20
 2013-11-11,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 1,19
-2013-11-11,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,19
+2013-11-11,avaliacao_governo,Ruim e péssimo,regiao,NORTE-CENTRO-OESTE,19
 2013-10-21,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 1,19
 2013-10-21,avaliacao_governo,Ruim e péssimo,condicao_municipio,PERIFERIA,19
 2013-10-21,avaliacao_governo,Ruim e péssimo,renda_familiar,Ate 1,17
 2013-11-11,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,14
 2013-10-21,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,14
-2013-11-11,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,4
+2013-11-11,avaliacao_governo,NS/NR*,regiao,NORTE-CENTRO-OESTE,4
 2013-10-21,avaliacao_governo,NS/NR*,condicao_municipio,PERIFERIA,4
-2013-10-21,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,4
+2013-10-21,avaliacao_governo,NS/NR*,regiao,NORTE-CENTRO-OESTE,4
 2013-11-11,avaliacao_governo,NS/NR*,renda_familiar,Ate 1,3
 2013-10-21,avaliacao_governo,NS/NR*,idade,55 ou mais,3
 2013-10-21,avaliacao_governo,NS/NR*,renda_familiar,Ate 1,3
@@ -5606,10 +5606,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,2turno_campos,Dilma Rousseff,condicao_municipio,INTERIOR,42
 2014-06-07,2turno_campos,Eduardo Campos,condicao_municipio,INTERIOR,30
 2014-06-07,2turno_campos,NS/NR*,condicao_municipio,INTERIOR,8
-2014-06-07,interesse,Tem muito interesse,regiao,NORTE/ CENTRO OESTE,16
-2014-06-07,interesse,Tem médio interesse,regiao,NORTE/ CENTRO OESTE,26
-2014-06-07,interesse,Não tem interesse,regiao,NORTE/ CENTRO OESTE,57
-2014-06-07,interesse,NS/NR*,regiao,NORTE/ CENTRO OESTE,0
+2014-06-07,interesse,Tem muito interesse,regiao,NORTE-CENTRO-OESTE,16
+2014-06-07,interesse,Tem médio interesse,regiao,NORTE-CENTRO-OESTE,26
+2014-06-07,interesse,Não tem interesse,regiao,NORTE-CENTRO-OESTE,57
+2014-06-07,interesse,NS/NR*,regiao,NORTE-CENTRO-OESTE,0
 2014-06-07,interesse,Tem muito interesse,regiao,NORDESTE,22
 2014-06-07,interesse,Tem médio interesse,regiao,NORDESTE,23
 2014-06-07,interesse,Não tem interesse,regiao,NORDESTE,55
@@ -5622,14 +5622,14 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,interesse,Tem médio interesse,regiao,SUL,28
 2014-06-07,interesse,Não tem interesse,regiao,SUL,56
 2014-06-07,interesse,NS/NR*,regiao,SUL,1
-2014-06-07,intencao_espontanea,Aécio Neves,regiao,NORTE/ CENTRO OESTE,12
-2014-06-07,intencao_espontanea,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,9
-2014-06-07,intencao_espontanea,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,19
-2014-06-07,intencao_espontanea,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,4
-2014-06-07,intencao_espontanea,Lula,regiao,NORTE/ CENTRO OESTE,6
-2014-06-07,intencao_espontanea,Marina Silva,regiao,NORTE/ CENTRO OESTE,2
-2014-06-07,intencao_espontanea,NS/NR*,regiao,NORTE/ CENTRO OESTE,45
-2014-06-07,intencao_espontanea,Outros,regiao,NORTE/ CENTRO OESTE,4
+2014-06-07,intencao_espontanea,Aécio Neves,regiao,NORTE-CENTRO-OESTE,12
+2014-06-07,intencao_espontanea,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,9
+2014-06-07,intencao_espontanea,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,19
+2014-06-07,intencao_espontanea,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,4
+2014-06-07,intencao_espontanea,Lula,regiao,NORTE-CENTRO-OESTE,6
+2014-06-07,intencao_espontanea,Marina Silva,regiao,NORTE-CENTRO-OESTE,2
+2014-06-07,intencao_espontanea,NS/NR*,regiao,NORTE-CENTRO-OESTE,45
+2014-06-07,intencao_espontanea,Outros,regiao,NORTE-CENTRO-OESTE,4
 2014-06-07,intencao_espontanea,Aécio Neves,regiao,NORDESTE,3
 2014-06-07,intencao_espontanea,Branco e Nulo,regiao,NORDESTE,10
 2014-06-07,intencao_espontanea,Dilma Rousseff,regiao,NORDESTE,32
@@ -5654,13 +5654,13 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,intencao_espontanea,Marina Silva,regiao,SUL,1
 2014-06-07,intencao_espontanea,NS/NR*,regiao,SUL,52
 2014-06-07,intencao_espontanea,Outros,regiao,SUL,5
-2014-06-07,intencao_estimulada,Aécio Neves,regiao,NORTE/ CENTRO OESTE,27
-2014-06-07,intencao_estimulada,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,8
-2014-06-07,intencao_estimulada,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,35
-2014-06-07,intencao_estimulada,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,16
-2014-06-07,intencao_estimulada,NS/NR*,regiao,NORTE/ CENTRO OESTE,7
-2014-06-07,intencao_estimulada,Outros,regiao,NORTE/ CENTRO OESTE,4
-2014-06-07,intencao_estimulada,Pastor Everaldo,regiao,NORTE/ CENTRO OESTE,3
+2014-06-07,intencao_estimulada,Aécio Neves,regiao,NORTE-CENTRO-OESTE,27
+2014-06-07,intencao_estimulada,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,8
+2014-06-07,intencao_estimulada,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,35
+2014-06-07,intencao_estimulada,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,16
+2014-06-07,intencao_estimulada,NS/NR*,regiao,NORTE-CENTRO-OESTE,7
+2014-06-07,intencao_estimulada,Outros,regiao,NORTE-CENTRO-OESTE,4
+2014-06-07,intencao_estimulada,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,3
 2014-06-07,intencao_estimulada,Aécio Neves,regiao,NORDESTE,10
 2014-06-07,intencao_estimulada,Branco e Nulo,regiao,NORDESTE,5
 2014-06-07,intencao_estimulada,Dilma Rousseff,regiao,NORDESTE,58
@@ -5682,10 +5682,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,intencao_estimulada,NS/NR*,regiao,SUL,11
 2014-06-07,intencao_estimulada,Outros,regiao,SUL,1
 2014-06-07,intencao_estimulada,Pastor Everaldo,regiao,SUL,1
-2014-06-07,avaliacao_governo,Ótimo e bom,regiao,NORTE/ CENTRO OESTE,28
-2014-06-07,avaliacao_governo,Regular,regiao,NORTE/ CENTRO OESTE,35
-2014-06-07,avaliacao_governo,Ruim e péssimo,regiao,NORTE/ CENTRO OESTE,35
-2014-06-07,avaliacao_governo,NS/NR*,regiao,NORTE/ CENTRO OESTE,2
+2014-06-07,avaliacao_governo,Ótimo e bom,regiao,NORTE-CENTRO-OESTE,28
+2014-06-07,avaliacao_governo,Regular,regiao,NORTE-CENTRO-OESTE,35
+2014-06-07,avaliacao_governo,Ruim e péssimo,regiao,NORTE-CENTRO-OESTE,35
+2014-06-07,avaliacao_governo,NS/NR*,regiao,NORTE-CENTRO-OESTE,2
 2014-06-07,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,46
 2014-06-07,avaliacao_governo,Regular,regiao,NORDESTE,34
 2014-06-07,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,19
@@ -5698,9 +5698,9 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,avaliacao_governo,Regular,regiao,SUL,27
 2014-06-07,avaliacao_governo,Ruim e péssimo,regiao,SUL,45
 2014-06-07,avaliacao_governo,NS/NR*,regiao,SUL,2
-2014-06-07,aprova_dilma,Aprova,regiao,NORTE/ CENTRO OESTE,40
-2014-06-07,aprova_dilma,Desaprova,regiao,NORTE/ CENTRO OESTE,55
-2014-06-07,aprova_dilma,NS/NR*,regiao,NORTE/ CENTRO OESTE,5
+2014-06-07,aprova_dilma,Aprova,regiao,NORTE-CENTRO-OESTE,40
+2014-06-07,aprova_dilma,Desaprova,regiao,NORTE-CENTRO-OESTE,55
+2014-06-07,aprova_dilma,NS/NR*,regiao,NORTE-CENTRO-OESTE,5
 2014-06-07,aprova_dilma,Aprova,regiao,NORDESTE,66
 2014-06-07,aprova_dilma,Desaprova,regiao,NORDESTE,28
 2014-06-07,aprova_dilma,NS/NR*,regiao,NORDESTE,6
@@ -5710,10 +5710,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,aprova_dilma,Aprova,regiao,SUL,34
 2014-06-07,aprova_dilma,Desaprova,regiao,SUL,61
 2014-06-07,aprova_dilma,NS/NR*,regiao,SUL,5
-2014-06-07,rejeicao,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,40
-2014-06-07,rejeicao,Aécio Neves,regiao,NORTE/ CENTRO OESTE,15
-2014-06-07,rejeicao,Pastor Everaldo,regiao,NORTE/ CENTRO OESTE,11
-2014-06-07,rejeicao,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,8
+2014-06-07,rejeicao,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,40
+2014-06-07,rejeicao,Aécio Neves,regiao,NORTE-CENTRO-OESTE,15
+2014-06-07,rejeicao,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,11
+2014-06-07,rejeicao,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,8
 2014-06-07,rejeicao,Dilma Rousseff,regiao,NORDESTE,20
 2014-06-07,rejeicao,Aécio Neves,regiao,NORDESTE,20
 2014-06-07,rejeicao,Pastor Everaldo,regiao,NORDESTE,23
@@ -5726,10 +5726,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,rejeicao,Aécio Neves,regiao,SUL,15
 2014-06-07,rejeicao,Pastor Everaldo,regiao,SUL,15
 2014-06-07,rejeicao,Eduardo Campos,regiao,SUL,13
-2014-06-07,2turno_aecio,Aécio Neves,regiao,NORTE/ CENTRO OESTE,39
-2014-06-07,2turno_aecio,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,17
-2014-06-07,2turno_aecio,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,39
-2014-06-07,2turno_aecio,NS/NR*,regiao,NORTE/ CENTRO OESTE,5
+2014-06-07,2turno_aecio,Aécio Neves,regiao,NORTE-CENTRO-OESTE,39
+2014-06-07,2turno_aecio,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,17
+2014-06-07,2turno_aecio,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,39
+2014-06-07,2turno_aecio,NS/NR*,regiao,NORTE-CENTRO-OESTE,5
 2014-06-07,2turno_aecio,Aécio Neves,regiao,NORDESTE,19
 2014-06-07,2turno_aecio,Branco e Nulo,regiao,NORDESTE,13
 2014-06-07,2turno_aecio,Dilma Rousseff,regiao,NORDESTE,65
@@ -5742,10 +5742,10 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,2turno_aecio,Branco e Nulo,regiao,SUL,17
 2014-06-07,2turno_aecio,Dilma Rousseff,regiao,SUL,30
 2014-06-07,2turno_aecio,NS/NR*,regiao,SUL,10
-2014-06-07,2turno_campos,Branco e Nulo,regiao,NORTE/ CENTRO OESTE,16
-2014-06-07,2turno_campos,Dilma Rousseff,regiao,NORTE/ CENTRO OESTE,40
-2014-06-07,2turno_campos,Eduardo Campos,regiao,NORTE/ CENTRO OESTE,33
-2014-06-07,2turno_campos,NS/NR*,regiao,NORTE/ CENTRO OESTE,10
+2014-06-07,2turno_campos,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,16
+2014-06-07,2turno_campos,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,40
+2014-06-07,2turno_campos,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,33
+2014-06-07,2turno_campos,NS/NR*,regiao,NORTE-CENTRO-OESTE,10
 2014-06-07,2turno_campos,Branco e Nulo,regiao,NORDESTE,10
 2014-06-07,2turno_campos,Dilma Rousseff,regiao,NORDESTE,59
 2014-06-07,2turno_campos,Eduardo Campos,regiao,NORDESTE,27

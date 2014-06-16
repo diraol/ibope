@@ -131,15 +131,15 @@
             <div class="input-group-btn">
               <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-pergunta" data-pergunta="intencao_estimulada">Intenção de Voto Estimulada</span>&nbsp;<span class="caret"></span></button>
               <ul class="dropdown-menu text-right pull-right">
-                <li><a href="#" onClick="atualiza_pergunta('intencao_estimulada','Intenção de voto estimulada')">Intenção de voto estimulada</a></li>
-                <li><a href="#" onClick="atualiza_pergunta('intencao_espontanea','Intenção de voto espontânea')">Intenção de voto espontânea</a></li>
-                <li><a href="#" data-pergunta="interesse" onClick="atualiza_pergunta('interesse','Qual interesse nas eleições')">Qual seu interesse nas eleições?</a></li>
-                <li><a href="#" onClick="atualiza_pergunta('avaliacao_governo','Avaliação do governo')">Avaliação do governo</a></li>
-                <li><a href="#" onClick="atualiza_pergunta('aprova_dilma','Aprovação da Dilma')">Aprovação da Dilma</a></li>
-                <li><a href="#" onClick="atualiza_pergunta('desejo_mudanca','Desejo de mudança')">Desejo de mudança</a></li>
-                <li><a href="#" onClick="atualiza_pergunta('rejeicao','Rejeição')">Rejeição</a></li>
-                <li><a href="#" onClick="atualiza_pergunta('2turno_aecio','2o. turno - com Aécio')">2o. turno - com Aécio</a></li>
-                <li><a href="#" onClick="atualiza_pergunta('2turno_campos','2o. turno - com Campos')">2o. turno - com Campos</a></li>
+                <li><a class="link-pergunta" href="#p/intencao_estimulada">Intenção de voto estimulada</a></li>
+                <li><a class="link-pergunta" href="#p/intencao_espontanea">Intenção de voto espontânea</a></li>
+                <li><a class="link-pergunta" href="#p/interesse">Qual seu interesse nas eleições?</a></li>
+                <li><a class="link-pergunta" href="#p/avaliacao_governo">Avaliação do governo</a></li>
+                <li><a class="link-pergunta" href="#p/aprova_dilma">Aprovação da Dilma</a></li>
+                <li><a class="link-pergunta" href="#p/desejo_mudanca">Desejo de mudança</a></li>
+                <li><a class="link-pergunta" href="#p/rejeicao">Rejeição</a></li>
+                <li><a class="link-pergunta" href="#p/2turno_aecio">2o. turno - com Aécio</a></li>
+                <li><a class="link-pergunta" href="#p/2turno_campos">2o. turno - com Campos</a></li>
               </ul>
             </div><!-- /btn-group-->
           </div><!-- /input-group-->
@@ -152,50 +152,50 @@
             <div class="input-group-btn">
               <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-recorte" data-catRecorte="total" data-recorte="total">Total</span>&nbsp;<span class="caret"></span></button>
               <ul class="dropdown-menu">
-                <li><a href="#" onClick="atualiza_recorte('total','total','Total')">Total</a></li>
+                <li><a class="link-recorte" href="#cr/total/r/total">Total</a></li>
                 <li class="cat-label">do Sexo</li>
-                <li><a href="#" onClick="atualiza_recorte('sexo','MAS','do sexo masculino')">Masculino</a></li>
-                <li><a href="#" onClick="atualiza_recorte('sexo','FEM','do sexo feminino')">Feminino</a></li>
+                <li><a class="link-recorte" href="#cr/sexo/r/MAS">Masculino</a></li>
+                <li><a class="link-recorte" href="#cr/sexo/r/FEM">Feminino</a></li>
                 <li class="cat-label">da Região</li>
-                <li><a href="#" onClick="atualiza_recorte('regiao','NORTE/ CENTRO OESTE','das regiões Norte e Centro-Oeste')">Norte e Centro-Oeste</a></li>
-                <li><a href="#" onClick="atualiza_recorte('regiao','NORDESTE','da região Nordeste')">Nordeste</a></li>
-                <li><a href="#" onClick="atualiza_recorte('regiao','SUDESTE','da região Sudeste')">Sudeste</a></li>
-                <li><a href="#" onClick="atualiza_recorte('regiao','SUL','da região Sul')">Sul</a></li>
+                <li><a class="link-recorte" href="#cr/regiao/r/NORTE-CENTRO-OESTE">Norte e Centro-Oeste</a></li>
+                <li><a class="link-recorte" href="#cr/regiao/r/NORDESTE">Nordeste</a></li>
+                <li><a class="link-recorte" href="#cr/regiao/r/SUDESTE">Sudeste</a></li>
+                <li><a class="link-recorte" href="#cr/regiao/r/SUL">Sul</a></li>
                 <li class="cat-label">com nível de Escolaridade</li>
-                <li><a href="#" onClick="atualiza_recorte('escolaridade','Fundamental 1','com Ensino Fundamental 1')">Ensino Fundamental 1</a></li>
-                <li><a href="#" onClick="atualiza_recorte('escolaridade','Fundamental 2','com Ensino Fundamental 2')">Ensino Fundamental 2</a></li>
-                <li><a href="#" onClick="atualiza_recorte('escolaridade','Medio','com Ensino Médio')">Ensino Médio</a></li>
-                <li><a href="#" onClick="atualiza_recorte('escolaridade','Superior','com Ensino Superior')">Ensino Superior</a></li>
+                <li><a class="link-recorte" href="#cr/escolaridade/r/Fundamental 1">Ensino Fundamental 1</a></li>
+                <li><a class="link-recorte" href="#cr/escolaridade/r/Fundamental 2">Ensino Fundamental 2</a></li>
+                <li><a class="link-recorte" href="#cr/escolaridade/r/Medio">Ensino Médio</a></li>
+                <li><a class="link-recorte" href="#cr/escolaridade/r/Superior">Ensino Superior</a></li>
                 <li class="cat-label">com Renda Familiar (Salário Mínimo)</li>
-                <li><a href="#" onClick="atualiza_recorte('renda_familiar','Ate 1','com renda Até 1 SM')">Até 1</a></li>
-                <li><a href="#" onClick="atualiza_recorte('renda_familiar','1 a 2','com renda de 1 a 2 SM')">Mais de 1 a 2</a></li>
-                <li><a href="#" onClick="atualiza_recorte('renda_familiar','2 a 5','com renda de 2 a 5 SM')">Mais de 2 a 5</a></li>
-                <li><a href="#" onClick="atualiza_recorte('renda_familiar','Mais de 5','com renda maior que 5 SM')">Mais de 5</a></li>
+                <li><a class="link-recorte" href="#cr/renda_familiar/r/Ate 1">Até 1</a></li>
+                <li><a class="link-recorte" href="#cr/renda_familiar/r/1 a 2">Mais de 1 a 2</a></li>
+                <li><a class="link-recorte" href="#cr/renda_familiar/r/2 a 5">Mais de 2 a 5</a></li>
+                <li><a class="link-recorte" href="#cr/renda_familiar/r/Mais de 5">Mais de 5</a></li>
                 <li class="cat-label">cujo Município é</li>
-                <li><a href="#" onClick="atualiza_recorte('condicao_municipio','CAPITAL','cujo município é Capital')">Capital</a></li>
-                <li><a href="#" onClick="atualiza_recorte('condicao_municipio','PERIFERIA','cujo município é da Periferia')">Periferia</a></li>
-                <li><a href="#" onClick="atualiza_recorte('condicao_municipio','INTERIOR','cujo município é do Interior')">Interior</a></li>
+                <li><a class="link-recorte" href="#cr/condicao_municipio/r/CAPITAL">Capital</a></li>
+                <li><a class="link-recorte" href="#cr/condicao_municipio/r/PERIFERIA">Periferia</a></li>
+                <li><a class="link-recorte" href="#cr/condicao_municipio/r/INTERIOR">Interior</a></li>
                 <li class="cat-label">com Idade na faixa de</li>
-                <li><a href="#" onClick="atualiza_recorte('idade','16 a 24','com idade de 16 a 24 anos')">16 a 24 anos</a></li>
-                <li><a href="#" onClick="atualiza_recorte('idade','25 a 34','com idade de 25 a 34 anos')">25 a 34 anos</a></li>
-                <li><a href="#" onClick="atualiza_recorte('idade','35 a 44','com idade de 35 a 44 anos')">35 a 44 anos</a></li>
-                <li><a href="#" onClick="atualiza_recorte('idade','45 a 54','com idade de 45 a 54 anos')">45 a 54 anos</a></li>
-                <li><a href="#" onClick="atualiza_recorte('idade','55 ou mais','com idade de 55 ou mais anos')">55 ou mais anos</a></li>
+                <li><a class="link-recorte" href="#cr/idade/r/16 a 24">16 a 24 anos</a></li>
+                <li><a class="link-recorte" href="#cr/idade/r/25 a 34">25 a 34 anos</a></li>
+                <li><a class="link-recorte" href="#cr/idade/r/35 a 44">35 a 44 anos</a></li>
+                <li><a class="link-recorte" href="#cr/idade/r/45 a 54">45 a 54 anos</a></li>
+                <li><a class="link-recorte" href="#cr/idade/r/55 ou mais">55 ou mais anos</a></li>
                 <li class="cat-label">cuja Cor é</li>
-                <li><a href="#" onClick="atualiza_recorte('cor','Branca','cuja cor é Branca')">Branca</a></li>
-                <li><a href="#" onClick="atualiza_recorte('cor','Preta ou parda','cuja cor é Preta ou Parda')">Preta ou Parda</a></li>
-                <li><a href="#" onClick="atualiza_recorte('cor','Outras','de outras cores')">Outras</a></li>
+                <li><a class="link-recorte" href="#cr/cor/r/Branca">Branca</a></li>
+                <li><a class="link-recorte" href="#cr/cor/r/Preta ou parda">Preta ou Parda</a></li>
+                <li><a class="link-recorte" href="#cr/cor/r/Outras">Outras</a></li>
                 <li class="cat-label">cuja Religião é</li>
-                <li><a href="#" onClick="atualiza_recorte('religiao','Catolica','Católico')">Católica</a></li>
-                <li><a href="#" onClick="atualiza_recorte('religiao','Evangelica','Evangélico')">Evangélica</a></li>
-                <li><a href="#" onClick="atualiza_recorte('religiao','Outras','de outras religiões')">Outras</a></li>
+                <li><a class="link-recorte" href="#cr/religiao/r/Catolica">Católica</a></li>
+                <li><a class="link-recorte" href="#cr/religiao/r/Evangelica">Evangélica</a></li>
+                <li><a class="link-recorte" href="#cr/religiao/r/Outras">Outras</a></li>
                 <li class="cat-label rec-avalia">que avalia o Governo como</li>
-                <li class="rec-avalia"><a href="#" onClick="atualiza_recorte('avaliacao_governo','Ótimo e bom','que avalia o governo como Ótimo/Bom')">Ótimo/Bom</a></li>
-                <li class="rec-avalia"><a href="#" onClick="atualiza_recorte('avaliacao_governo','Regular','que avalia o governo como Regular')">Regular</a></li>
-                <li class="rec-avalia"><a href="#" onClick="atualiza_recorte('avaliacao_governo','Ruim e péssimo','que avalia o governo como Ruim/Péssimo')">Ruim/Péssimo</a></li>
+                <li class="rec-avalia"><a class="link-recorte" href="#cr/avaliacao_governo/r/Ótimo e bom">Ótimo/Bom</a></li>
+                <li class="rec-avalia"><a class="link-recorte" href="#cr/avaliacao_governo/r/Regular">Regular</a></li>
+                <li class="rec-avalia"><a class="link-recorte" href="#cr/avaliacao_governo/r/Ruim e péssimo">Ruim/Péssimo</a></li>
                 <li class="cat-label rec-muda">que entre Mudança e continuidade quer:</li>
-                <li class="rec-muda"><a href="#" onClick="atualiza_recorte('desejo_mudanca','Quer mudança','que prefere Mudança')">Mudança</a></li>
-                <li class="rec-muda"><a href="#" onClick="atualiza_recorte('desejo_mudanca','Quer continuidade','que prefere Continuidade')">Continuidade</a></li>
+                <li class="rec-muda"><a class="link-recorte" href="#cr/desejo_mudanca/r/Quer mudança">Mudança</a></li>
+                <li class="rec-muda"><a class="link-recorte" href="#cr/desejo_mudanca/r/Quer continuidade">Continuidade</a></li>
               </ul>
             </div><!-- /btn-group-->
           </div><!-- /input-group-->
@@ -232,6 +232,8 @@
   <script src="js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/d3.v3.min.js"></script>
   <script type="text/javascript" src="js/dimple.v2.0.0.min.js"></script>
+  <script src="js/signals.min.js"></script>
+  <script src="js/crossroads.js"></script>
   <script src="js/estadaodados.js"></script>
 
   <!-- AddThis Button BEGIN -->

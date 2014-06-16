@@ -457,9 +457,6 @@ var Main = (function() {
 
     return {
         inicializa: inicializa,
-        atualiza: _atualiza_grafico,
-        atualiza_pergunta: atualiza_pergunta,
-        atualiza_recorte: atualiza_recorte
     };
 
 })();

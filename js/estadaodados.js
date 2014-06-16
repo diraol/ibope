@@ -94,6 +94,9 @@ var Main = (function() {
             window.complete_data = data;
 
             crossroads.addRoute('/p/{perg}/cr/{cat_rec}/r/{rec}', function(perg, cat_rec, rec){
+                perg = decodeURI(perg);
+                cat_rec = decodeURI(cat_rec);
+                rec = decodeURI(rec);
                 currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
                 if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
                     currentRoute["categoriaRecorte"] = cat_rec;
@@ -105,6 +108,9 @@ var Main = (function() {
             });
 
             crossroads.addRoute('/cr/{cat_rec}/r/{rec}/p/{perg}', function(cat_rec, rec, perg){
+                perg = decodeURI(perg);
+                cat_rec = decodeURI(cat_rec);
+                rec = decodeURI(rec);
                 currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
                 if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
                     currentRoute["categoriaRecorte"] = cat_rec;
@@ -116,10 +122,13 @@ var Main = (function() {
             });
 
             crossroads.addRoute('/p/{perg}', function(perg){
+                perg = decodeURI(perg);
                 currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
             });
 
             crossroads.addRoute('/cr/{cat_rec}/r/{rec}', function(cat_rec, rec){
+                cat_rec = decodeURI(cat_rec);
+                rec = decodeURI(rec);
                 if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
                     currentRoute["categoriaRecorte"] = cat_rec;
                     currentRoute["recorte"] = rec;
@@ -130,7 +139,7 @@ var Main = (function() {
             });
 
             crossroads.routed.add(function(request, data){
-                window.location.hash = "#p/" + currentRoute["pergunta"] + "/cr/" + currentRoute["categoriaRecorte"] + "/r/" + currentRoute["recorte"];
+                window.location.hash = "#p/" + encodeURI(currentRoute["pergunta"]) + "/cr/" + encodeURI(currentRoute["categoriaRecorte"]) + "/r/" + encodeURI(currentRoute["recorte"]);
                 _atualiza_grafico();
             });
 

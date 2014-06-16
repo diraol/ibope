@@ -1,5 +1,11 @@
 var Main = (function() {
 
+    var defaultFilters = {
+            pergunta: 'intencao_estimulada',
+            categoriaRecorte: 'total',
+            recorte: 'total'
+    };
+
     var extensao = {
         'pergunta': {
             'intencao_estimulada': 'Intenção de voto estimulada',
@@ -21,7 +27,7 @@ var Main = (function() {
                 'FEM': 'do sexo feminino'
             },
             'regiao': {
-                'NORTE/ CENTRO OESTE': 'das regiões Norte e Centro-Oeste',
+                'NORTE-CENTRO-OESTE': 'das regiões Norte e Centro-Oeste',
                 'NORDESTE': 'da região Nordeste',
                 'SUDESTE': 'da região Sudeste',
                 'SUL': 'da região Sul'
@@ -71,7 +77,11 @@ var Main = (function() {
             }
         }
     };
-
+    var currentRoute = {
+        pergunta: "intencao_estimulada",
+        categoriaRecorte: "total",
+        recorte: "total"
+    };
     var complete_data = null;
     var meuGrafico = null;
     var svg = null;
@@ -82,7 +92,64 @@ var Main = (function() {
         //desenha grafico
         d3.csv("dados/ibope_2014.csv", function (data) {
             window.complete_data = data;
-            //atualiza_recorte("escolaridade","medio");
+
+            crossroads.addRoute('/p/{perg}/cr/{cat_rec}/r/{rec}', function(perg, cat_rec, rec){
+                currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
+                if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
+                    currentRoute["categoriaRecorte"] = cat_rec;
+                    currentRoute["recorte"] = rec;
+                } else {
+                    currentRoute["categoriaRecorte"] = defaultFilters.categoriaRecorte;
+                    currentRoute["recorte"] = defaultFilters.recorte;
+                }
+            });
+
+            crossroads.addRoute('/cr/{cat_rec}/r/{rec}/p/{perg}', function(cat_rec, rec, perg){
+                currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
+                if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
+                    currentRoute["categoriaRecorte"] = cat_rec;
+                    currentRoute["recorte"] = rec;
+                } else {
+                    currentRoute["categoriaRecorte"] = defaultFilters.categoriaRecorte;
+                    currentRoute["recorte"] = defaultFilters.recorte;
+                }
+            });
+
+            crossroads.addRoute('/p/{perg}', function(perg){
+                currentRoute["pergunta"] = perg in extensao.pergunta ? perg : defaultFilters.pergunta;
+            });
+
+            crossroads.addRoute('/cr/{cat_rec}/r/{rec}', function(cat_rec, rec){
+                if (cat_rec in extensao.recorte && rec in extensao.recorte[cat_rec]) {
+                    currentRoute["categoriaRecorte"] = cat_rec;
+                    currentRoute["recorte"] = rec;
+                } else {
+                    currentRoute["categoriaRecorte"] = defaultFilters.categoriaRecorte;
+                    currentRoute["recorte"] = defaultFilters.recorte;
+                }
+            });
+
+            crossroads.routed.add(function(request, data){
+                window.location.hash = "#p/" + currentRoute["pergunta"] + "/cr/" + currentRoute["categoriaRecorte"] + "/r/" + currentRoute["recorte"];
+                _atualiza_grafico();
+            });
+
+            var a = $('.link-pergunta');
+            for (var i=0; i<a.length; i++){
+                a[i].onclick=function(e){
+                    e.preventDefault();
+                    crossroads.parse('/p/' + this.href.split("#p/").pop());
+                }
+            };
+
+            var a = $('.link-recorte');
+            for (var i=0; i<a.length; i++){
+                a[i].onclick=function(e){
+                    e.preventDefault();
+                    crossroads.parse('/cr/' + this.href.split("#cr/").pop());
+                }
+            };
+
             _cria_grafico();
         });
 
@@ -93,6 +160,8 @@ var Main = (function() {
             chart.draw(0, true);
             _atualiza_background();
         };
+
+
     }
 
     function _atualiza_background() {
@@ -175,6 +244,13 @@ var Main = (function() {
                 return d3.select(this).attr("transform") + " translate(0, 5)";
             });
 
+        if (window.location.hash) {
+            crossroads.parse('/' + window.location.hash.split("#").pop());
+        } else {
+            crossroads.parse('/p/intencao_estimulada/cr/total/r/total');
+        }
+
+
     }
 
     function _ordemLegenda(pergunta) {
@@ -254,20 +330,17 @@ var Main = (function() {
         $('*[class^="dimple-legend"]').remove()
     }
 
-    function atualiza(args) {
-        _atualiza_grafico({'pergunta': pergunta, 'cat_recorte': cat_recorte, 'recorte': recorte});
-    }
-
-    function _atualiza_grafico(argumentos) {
+    function _atualiza_grafico() {
         // argumentos é um dicionário com as seguintes variáveis:
-        // pergunta, recorte, variavel, texto_pergunta, texto_recorte
+        // pergunta, recorte, variavel
 
         // Definindo valor padrão para as variáveis, caso nenhum seja passado.
-        var pergunta = argumentos.pergunta || $(".botao-selecao-pergunta").data("pergunta") || "intencao_estimulada",
-            cat_recorte = argumentos.cat_recorte || $(".botao-selecao-recorte").data("catRecorte") || "total",
-            recorte = argumentos.recorte || $(".botao-selecao-recorte").data("recorte") || "total",
+        var pergunta = currentRoute["pergunta"] || "intencao_estimulada",
+            cat_recorte = currentRoute["categoriaRecorte"]  || "total",
+            recorte = currentRoute["recorte"] || "total",
             texto_pergunta = extensao['pergunta'][pergunta],
             texto_recorte = extensao['recorte'][cat_recorte][recorte];
+
 
         //Escondendo opções de recorte que são incompatíveis com perguntas
         chart.axes[0].overrideMin.setUTCDate('16');
@@ -330,11 +403,11 @@ var Main = (function() {
     }
 
     function atualiza_recorte(cat_recorte, recorte, texto){
-        atualiza_grafico({cat_recorte: cat_recorte, recorte: recorte, texto_recorte: texto});
+        _atualiza_grafico({cat_recorte: cat_recorte, recorte: recorte, texto_recorte: texto});
     }
 
     function atualiza_pergunta(pergunta, texto){
-        atualiza_grafico({pergunta: pergunta, texto_pergunta: texto})
+        _atualiza_grafico({pergunta: pergunta, texto_pergunta: texto})
     }
 
     function _nomeMes() {
@@ -365,7 +438,7 @@ var Main = (function() {
 
     return {
         inicializa: inicializa,
-        atualiza: atualiza,
+        atualiza: _atualiza_grafico,
         atualiza_pergunta: atualiza_pergunta,
         atualiza_recorte: atualiza_recorte
     };
@@ -374,4 +447,4 @@ var Main = (function() {
 
 $(document).ready(function(){
     Main.inicializa();
-    });
+});

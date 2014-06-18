@@ -453,7 +453,7 @@ var Main = (function() {
     }
 
     function _nomeMes() {
-        var todos_textos = $("text");
+        var todos_textos = $(".dimple-axis text");
         var meses = {
                 "01": "jan",
                 "02": "fev",
@@ -470,10 +470,10 @@ var Main = (function() {
         };
 
         for (var i = 0; i < todos_textos.length; i++) {
-            var texto = todos_textos[i].innerHTML;
+            var texto = todos_textos[i].textContent;
             var data = texto.split("/");
             if ((data.length > 1) & (data[0] != "NS")){
-                todos_textos[i].innerHTML = data[0] + "/" + meses[data[1]];
+                todos_textos[i].textContent = data[0] + "/" + meses[data[1]];
             }
         }
     }

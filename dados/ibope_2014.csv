@@ -6068,3 +6068,1266 @@ data,cat_pergunta,dado,cat_recorte,recorte,valor
 2014-06-07,2turno_campos,Dilma Rousseff,total,total,41
 2014-06-07,2turno_campos,Eduardo Campos,total,total,30
 2014-06-07,2turno_campos,NS/NR*,total,total,8
+2014-06-15,interesse,Tem muito interesse,sexo,MAS,18
+2014-06-15,interesse,Tem médio interesse,sexo,MAS,27
+2014-06-15,interesse,Não tem interesse,sexo,MAS,54
+2014-06-15,interesse,NS/NR*,sexo,MAS,0
+2014-06-15,interesse,Tem muito interesse,sexo,FEM,14
+2014-06-15,interesse,Tem médio interesse,sexo,FEM,30
+2014-06-15,interesse,Não tem interesse,sexo,FEM,55
+2014-06-15,interesse,NS/NR*,sexo,FEM,1
+2014-06-15,intencao_espontanea,Aécio Neves,sexo,MAS,12
+2014-06-15,intencao_espontanea,Branco e Nulo,sexo,MAS,18
+2014-06-15,intencao_espontanea,Dilma Rousseff,sexo,MAS,27
+2014-06-15,intencao_espontanea,Eduardo Campos,sexo,MAS,5
+2014-06-15,intencao_espontanea,Lula,sexo,MAS,3
+2014-06-15,intencao_espontanea,Marina Silva,sexo,MAS,1
+2014-06-15,intencao_espontanea,NS/NR*,sexo,MAS,32
+2014-06-15,intencao_espontanea,Outros,sexo,MAS,1
+2014-06-15,intencao_espontanea,Pastor Everaldo,sexo,MAS,1
+2014-06-15,intencao_espontanea,Aécio Neves,sexo,FEM,9
+2014-06-15,intencao_espontanea,Branco e Nulo,sexo,FEM,15
+2014-06-15,intencao_espontanea,Dilma Rousseff,sexo,FEM,23
+2014-06-15,intencao_espontanea,Eduardo Campos,sexo,FEM,3
+2014-06-15,intencao_espontanea,Lula,sexo,FEM,4
+2014-06-15,intencao_espontanea,Marina Silva,sexo,FEM,2
+2014-06-15,intencao_espontanea,NS/NR*,sexo,FEM,41
+2014-06-15,intencao_espontanea,Outros,sexo,FEM,3
+2014-06-15,intencao_espontanea,Pastor Everaldo,sexo,FEM,1
+2014-06-15,intencao_estimulada,Aécio Neves,sexo,MAS,23
+2014-06-15,intencao_estimulada,Branco e Nulo,sexo,MAS,13
+2014-06-15,intencao_estimulada,Dilma Rousseff,sexo,MAS,38
+2014-06-15,intencao_estimulada,Eduardo Campos,sexo,MAS,10
+2014-06-15,intencao_estimulada,NS/NR*,sexo,MAS,6
+2014-06-15,intencao_estimulada,Outros,sexo,MAS,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,sexo,MAS,3
+2014-06-15,intencao_estimulada,Aécio Neves,sexo,FEM,19
+2014-06-15,intencao_estimulada,Branco e Nulo,sexo,FEM,14
+2014-06-15,intencao_estimulada,Dilma Rousseff,sexo,FEM,40
+2014-06-15,intencao_estimulada,Eduardo Campos,sexo,FEM,9
+2014-06-15,intencao_estimulada,NS/NR*,sexo,FEM,9
+2014-06-15,intencao_estimulada,Outros,sexo,FEM,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,sexo,FEM,4
+2014-06-15,avaliacao_governo,Ótimo e bom,sexo,MAS,30
+2014-06-15,avaliacao_governo,Regular,sexo,MAS,34
+2014-06-15,avaliacao_governo,Ruim e péssimo,sexo,MAS,35
+2014-06-15,avaliacao_governo,NS/NR*,sexo,MAS,0
+2014-06-15,avaliacao_governo,Ótimo e bom,sexo,FEM,33
+2014-06-15,avaliacao_governo,Regular,sexo,FEM,34
+2014-06-15,avaliacao_governo,Ruim e péssimo,sexo,FEM,32
+2014-06-15,avaliacao_governo,NS/NR*,sexo,FEM,1
+2014-06-15,aprova_dilma,Aprova,sexo,MAS,44
+2014-06-15,aprova_dilma,Desaprova,sexo,MAS,52
+2014-06-15,aprova_dilma,NS/NR*,sexo,MAS,5
+2014-06-15,aprova_dilma,Aprova,sexo,FEM,44
+2014-06-15,aprova_dilma,Desaprova,sexo,FEM,48
+2014-06-15,aprova_dilma,NS/NR*,sexo,FEM,7
+2014-06-15,2turno_aecio,Aécio Neves,sexo,MAS,32
+2014-06-15,2turno_aecio,Branco e Nulo,sexo,MAS,20
+2014-06-15,2turno_aecio,Dilma Rousseff,sexo,MAS,42
+2014-06-15,2turno_aecio,NS/NR*,sexo,MAS,6
+2014-06-15,2turno_aecio,Aécio Neves,sexo,FEM,29
+2014-06-15,2turno_aecio,Branco e Nulo,sexo,FEM,18
+2014-06-15,2turno_aecio,Dilma Rousseff,sexo,FEM,43
+2014-06-15,2turno_aecio,NS/NR*,sexo,FEM,9
+2014-06-15,2turno_campos,Branco e Nulo,sexo,MAS,23
+2014-06-15,2turno_campos,Dilma Rousseff,sexo,MAS,42
+2014-06-15,2turno_campos,Eduardo Campos,sexo,MAS,26
+2014-06-15,2turno_campos,NS/NR*,sexo,MAS,9
+2014-06-15,2turno_campos,Branco e Nulo,sexo,FEM,20
+2014-06-15,2turno_campos,Dilma Rousseff,sexo,FEM,43
+2014-06-15,2turno_campos,Eduardo Campos,sexo,FEM,27
+2014-06-15,2turno_campos,NS/NR*,sexo,FEM,10
+2014-06-15,interesse,Tem muito interesse,idade,16 a 24,12
+2014-06-15,interesse,Tem médio interesse,idade,16 a 24,31
+2014-06-15,interesse,Não tem interesse,idade,16 a 24,57
+2014-06-15,interesse,NS/NR*,idade,16 a 24,0
+2014-06-15,interesse,Tem muito interesse,idade,25 a 34,15
+2014-06-15,interesse,Tem médio interesse,idade,25 a 34,33
+2014-06-15,interesse,Não tem interesse,idade,25 a 34,52
+2014-06-15,interesse,NS/NR*,idade,25 a 34,1
+2014-06-15,interesse,Tem muito interesse,idade,35 a 44,20
+2014-06-15,interesse,Tem médio interesse,idade,35 a 44,24
+2014-06-15,interesse,Não tem interesse,idade,35 a 44,56
+2014-06-15,interesse,NS/NR*,idade,35 a 44,0
+2014-06-15,interesse,Tem muito interesse,idade,45 a 54,14
+2014-06-15,interesse,Tem médio interesse,idade,45 a 54,27
+2014-06-15,interesse,Não tem interesse,idade,45 a 54,59
+2014-06-15,interesse,NS/NR*,idade,45 a 54,1
+2014-06-15,interesse,Tem muito interesse,idade,55 ou mais,19
+2014-06-15,interesse,Tem médio interesse,idade,55 ou mais,28
+2014-06-15,interesse,Não tem interesse,idade,55 ou mais,52
+2014-06-15,interesse,NS/NR*,idade,55 ou mais,1
+2014-06-15,intencao_espontanea,Aécio Neves,idade,16 a 24,12
+2014-06-15,intencao_espontanea,Branco e Nulo,idade,16 a 24,17
+2014-06-15,intencao_espontanea,Dilma Rousseff,idade,16 a 24,21
+2014-06-15,intencao_espontanea,Eduardo Campos,idade,16 a 24,3
+2014-06-15,intencao_espontanea,Lula,idade,16 a 24,2
+2014-06-15,intencao_espontanea,Marina Silva,idade,16 a 24,2
+2014-06-15,intencao_espontanea,NS/NR*,idade,16 a 24,41
+2014-06-15,intencao_espontanea,Outros,idade,16 a 24,1
+2014-06-15,intencao_espontanea,Pastor Everaldo,idade,16 a 24,1
+2014-06-15,intencao_espontanea,Aécio Neves,idade,25 a 34,10
+2014-06-15,intencao_espontanea,Branco e Nulo,idade,25 a 34,17
+2014-06-15,intencao_espontanea,Dilma Rousseff,idade,25 a 34,28
+2014-06-15,intencao_espontanea,Eduardo Campos,idade,25 a 34,2
+2014-06-15,intencao_espontanea,Lula,idade,25 a 34,3
+2014-06-15,intencao_espontanea,Marina Silva,idade,25 a 34,1
+2014-06-15,intencao_espontanea,NS/NR*,idade,25 a 34,34
+2014-06-15,intencao_espontanea,Outros,idade,25 a 34,3
+2014-06-15,intencao_espontanea,Pastor Everaldo,idade,25 a 34,1
+2014-06-15,intencao_espontanea,Aécio Neves,idade,35 a 44,8
+2014-06-15,intencao_espontanea,Branco e Nulo,idade,35 a 44,21
+2014-06-15,intencao_espontanea,Dilma Rousseff,idade,35 a 44,23
+2014-06-15,intencao_espontanea,Eduardo Campos,idade,35 a 44,5
+2014-06-15,intencao_espontanea,Lula,idade,35 a 44,4
+2014-06-15,intencao_espontanea,Marina Silva,idade,35 a 44,1
+2014-06-15,intencao_espontanea,NS/NR*,idade,35 a 44,35
+2014-06-15,intencao_espontanea,Outros,idade,35 a 44,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,idade,35 a 44,0
+2014-06-15,intencao_espontanea,Aécio Neves,idade,45 a 54,13
+2014-06-15,intencao_espontanea,Branco e Nulo,idade,45 a 54,16
+2014-06-15,intencao_espontanea,Dilma Rousseff,idade,45 a 54,27
+2014-06-15,intencao_espontanea,Eduardo Campos,idade,45 a 54,2
+2014-06-15,intencao_espontanea,Lula,idade,45 a 54,4
+2014-06-15,intencao_espontanea,Marina Silva,idade,45 a 54,2
+2014-06-15,intencao_espontanea,NS/NR*,idade,45 a 54,34
+2014-06-15,intencao_espontanea,Outros,idade,45 a 54,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,idade,45 a 54,0
+2014-06-15,intencao_espontanea,Aécio Neves,idade,55 ou mais,10
+2014-06-15,intencao_espontanea,Branco e Nulo,idade,55 ou mais,11
+2014-06-15,intencao_espontanea,Dilma Rousseff,idade,55 ou mais,25
+2014-06-15,intencao_espontanea,Eduardo Campos,idade,55 ou mais,6
+2014-06-15,intencao_espontanea,Lula,idade,55 ou mais,5
+2014-06-15,intencao_espontanea,Marina Silva,idade,55 ou mais,1
+2014-06-15,intencao_espontanea,NS/NR*,idade,55 ou mais,39
+2014-06-15,intencao_espontanea,Outros,idade,55 ou mais,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,idade,55 ou mais,0
+2014-06-15,intencao_estimulada,Aécio Neves,idade,16 a 24,21
+2014-06-15,intencao_estimulada,Branco e Nulo,idade,16 a 24,15
+2014-06-15,intencao_estimulada,Dilma Rousseff,idade,16 a 24,35
+2014-06-15,intencao_estimulada,Eduardo Campos,idade,16 a 24,10
+2014-06-15,intencao_estimulada,NS/NR*,idade,16 a 24,6
+2014-06-15,intencao_estimulada,Outros,idade,16 a 24,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,idade,16 a 24,6
+2014-06-15,intencao_estimulada,Aécio Neves,idade,25 a 34,22
+2014-06-15,intencao_estimulada,Branco e Nulo,idade,25 a 34,13
+2014-06-15,intencao_estimulada,Dilma Rousseff,idade,25 a 34,41
+2014-06-15,intencao_estimulada,Eduardo Campos,idade,25 a 34,9
+2014-06-15,intencao_estimulada,NS/NR*,idade,25 a 34,6
+2014-06-15,intencao_estimulada,Outros,idade,25 a 34,5
+2014-06-15,intencao_estimulada,Pastor Everaldo,idade,25 a 34,4
+2014-06-15,intencao_estimulada,Aécio Neves,idade,35 a 44,17
+2014-06-15,intencao_estimulada,Branco e Nulo,idade,35 a 44,18
+2014-06-15,intencao_estimulada,Dilma Rousseff,idade,35 a 44,39
+2014-06-15,intencao_estimulada,Eduardo Campos,idade,35 a 44,10
+2014-06-15,intencao_estimulada,NS/NR*,idade,35 a 44,8
+2014-06-15,intencao_estimulada,Outros,idade,35 a 44,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,idade,35 a 44,2
+2014-06-15,intencao_estimulada,Aécio Neves,idade,45 a 54,23
+2014-06-15,intencao_estimulada,Branco e Nulo,idade,45 a 54,13
+2014-06-15,intencao_estimulada,Dilma Rousseff,idade,45 a 54,40
+2014-06-15,intencao_estimulada,Eduardo Campos,idade,45 a 54,8
+2014-06-15,intencao_estimulada,NS/NR*,idade,45 a 54,7
+2014-06-15,intencao_estimulada,Outros,idade,45 a 54,7
+2014-06-15,intencao_estimulada,Pastor Everaldo,idade,45 a 54,2
+2014-06-15,intencao_estimulada,Aécio Neves,idade,55 ou mais,20
+2014-06-15,intencao_estimulada,Branco e Nulo,idade,55 ou mais,8
+2014-06-15,intencao_estimulada,Dilma Rousseff,idade,55 ou mais,40
+2014-06-15,intencao_estimulada,Eduardo Campos,idade,55 ou mais,12
+2014-06-15,intencao_estimulada,NS/NR*,idade,55 ou mais,12
+2014-06-15,intencao_estimulada,Outros,idade,55 ou mais,5
+2014-06-15,intencao_estimulada,Pastor Everaldo,idade,55 ou mais,3
+2014-06-15,avaliacao_governo,Ótimo e bom,idade,16 a 24,23
+2014-06-15,avaliacao_governo,Regular,idade,16 a 24,34
+2014-06-15,avaliacao_governo,Ruim e péssimo,idade,16 a 24,41
+2014-06-15,avaliacao_governo,NS/NR*,idade,16 a 24,0
+2014-06-15,avaliacao_governo,Ótimo e bom,idade,25 a 34,32
+2014-06-15,avaliacao_governo,Regular,idade,25 a 34,35
+2014-06-15,avaliacao_governo,Ruim e péssimo,idade,25 a 34,32
+2014-06-15,avaliacao_governo,NS/NR*,idade,25 a 34,1
+2014-06-15,avaliacao_governo,Ótimo e bom,idade,35 a 44,35
+2014-06-15,avaliacao_governo,Regular,idade,35 a 44,32
+2014-06-15,avaliacao_governo,Ruim e péssimo,idade,35 a 44,33
+2014-06-15,avaliacao_governo,NS/NR*,idade,35 a 44,0
+2014-06-15,avaliacao_governo,Ótimo e bom,idade,45 a 54,34
+2014-06-15,avaliacao_governo,Regular,idade,45 a 54,35
+2014-06-15,avaliacao_governo,Ruim e péssimo,idade,45 a 54,31
+2014-06-15,avaliacao_governo,NS/NR*,idade,45 a 54,0
+2014-06-15,avaliacao_governo,Ótimo e bom,idade,55 ou mais,35
+2014-06-15,avaliacao_governo,Regular,idade,55 ou mais,34
+2014-06-15,avaliacao_governo,Ruim e péssimo,idade,55 ou mais,28
+2014-06-15,avaliacao_governo,NS/NR*,idade,55 ou mais,3
+2014-06-15,aprova_dilma,Aprova,idade,16 a 24,37
+2014-06-15,aprova_dilma,Desaprova,idade,16 a 24,59
+2014-06-15,aprova_dilma,NS/NR*,idade,16 a 24,4
+2014-06-15,aprova_dilma,Aprova,idade,25 a 34,44
+2014-06-15,aprova_dilma,Desaprova,idade,25 a 34,50
+2014-06-15,aprova_dilma,NS/NR*,idade,25 a 34,6
+2014-06-15,aprova_dilma,Aprova,idade,35 a 44,43
+2014-06-15,aprova_dilma,Desaprova,idade,35 a 44,51
+2014-06-15,aprova_dilma,NS/NR*,idade,35 a 44,6
+2014-06-15,aprova_dilma,Aprova,idade,45 a 54,47
+2014-06-15,aprova_dilma,Desaprova,idade,45 a 54,48
+2014-06-15,aprova_dilma,NS/NR*,idade,45 a 54,5
+2014-06-15,aprova_dilma,Aprova,idade,55 ou mais,50
+2014-06-15,aprova_dilma,Desaprova,idade,55 ou mais,41
+2014-06-15,aprova_dilma,NS/NR*,idade,55 ou mais,9
+2014-06-15,2turno_aecio,Aécio Neves,idade,16 a 24,36
+2014-06-15,2turno_aecio,Branco e Nulo,idade,16 a 24,19
+2014-06-15,2turno_aecio,Dilma Rousseff,idade,16 a 24,36
+2014-06-15,2turno_aecio,NS/NR*,idade,16 a 24,8
+2014-06-15,2turno_aecio,Aécio Neves,idade,25 a 34,30
+2014-06-15,2turno_aecio,Branco e Nulo,idade,25 a 34,20
+2014-06-15,2turno_aecio,Dilma Rousseff,idade,25 a 34,44
+2014-06-15,2turno_aecio,NS/NR*,idade,25 a 34,6
+2014-06-15,2turno_aecio,Aécio Neves,idade,35 a 44,27
+2014-06-15,2turno_aecio,Branco e Nulo,idade,35 a 44,23
+2014-06-15,2turno_aecio,Dilma Rousseff,idade,35 a 44,42
+2014-06-15,2turno_aecio,NS/NR*,idade,35 a 44,8
+2014-06-15,2turno_aecio,Aécio Neves,idade,45 a 54,30
+2014-06-15,2turno_aecio,Branco e Nulo,idade,45 a 54,18
+2014-06-15,2turno_aecio,Dilma Rousseff,idade,45 a 54,47
+2014-06-15,2turno_aecio,NS/NR*,idade,45 a 54,5
+2014-06-15,2turno_aecio,Aécio Neves,idade,55 ou mais,30
+2014-06-15,2turno_aecio,Branco e Nulo,idade,55 ou mais,14
+2014-06-15,2turno_aecio,Dilma Rousseff,idade,55 ou mais,44
+2014-06-15,2turno_aecio,NS/NR*,idade,55 ou mais,12
+2014-06-15,2turno_campos,Branco e Nulo,idade,16 a 24,22
+2014-06-15,2turno_campos,Dilma Rousseff,idade,16 a 24,38
+2014-06-15,2turno_campos,Eduardo Campos,idade,16 a 24,31
+2014-06-15,2turno_campos,NS/NR*,idade,16 a 24,10
+2014-06-15,2turno_campos,Branco e Nulo,idade,25 a 34,22
+2014-06-15,2turno_campos,Dilma Rousseff,idade,25 a 34,44
+2014-06-15,2turno_campos,Eduardo Campos,idade,25 a 34,27
+2014-06-15,2turno_campos,NS/NR*,idade,25 a 34,7
+2014-06-15,2turno_campos,Branco e Nulo,idade,35 a 44,25
+2014-06-15,2turno_campos,Dilma Rousseff,idade,35 a 44,42
+2014-06-15,2turno_campos,Eduardo Campos,idade,35 a 44,24
+2014-06-15,2turno_campos,NS/NR*,idade,35 a 44,8
+2014-06-15,2turno_campos,Branco e Nulo,idade,45 a 54,21
+2014-06-15,2turno_campos,Dilma Rousseff,idade,45 a 54,45
+2014-06-15,2turno_campos,Eduardo Campos,idade,45 a 54,27
+2014-06-15,2turno_campos,NS/NR*,idade,45 a 54,8
+2014-06-15,2turno_campos,Branco e Nulo,idade,55 ou mais,18
+2014-06-15,2turno_campos,Dilma Rousseff,idade,55 ou mais,44
+2014-06-15,2turno_campos,Eduardo Campos,idade,55 ou mais,25
+2014-06-15,2turno_campos,NS/NR*,idade,55 ou mais,13
+2014-06-15,interesse,Tem muito interesse,escolaridade,Fundamental 1,15
+2014-06-15,interesse,Tem médio interesse,escolaridade,Fundamental 1,31
+2014-06-15,interesse,Não tem interesse,escolaridade,Fundamental 1,52
+2014-06-15,interesse,NS/NR*,escolaridade,Fundamental 1,2
+2014-06-15,interesse,Tem muito interesse,escolaridade,Fundamental 2,11
+2014-06-15,interesse,Tem médio interesse,escolaridade,Fundamental 2,28
+2014-06-15,interesse,Não tem interesse,escolaridade,Fundamental 2,60
+2014-06-15,interesse,NS/NR*,escolaridade,Fundamental 2,1
+2014-06-15,interesse,Tem muito interesse,escolaridade,Medio,14
+2014-06-15,interesse,Tem médio interesse,escolaridade,Medio,28
+2014-06-15,interesse,Não tem interesse,escolaridade,Medio,58
+2014-06-15,interesse,NS/NR*,escolaridade,Medio,0
+2014-06-15,interesse,Tem muito interesse,escolaridade,Superior,27
+2014-06-15,interesse,Tem médio interesse,escolaridade,Superior,29
+2014-06-15,interesse,Não tem interesse,escolaridade,Superior,44
+2014-06-15,interesse,NS/NR*,escolaridade,Superior,0
+2014-06-15,intencao_espontanea,Aécio Neves,escolaridade,Fundamental 1,9
+2014-06-15,intencao_espontanea,Branco e Nulo,escolaridade,Fundamental 1,11
+2014-06-15,intencao_espontanea,Dilma Rousseff,escolaridade,Fundamental 1,30
+2014-06-15,intencao_espontanea,Eduardo Campos,escolaridade,Fundamental 1,4
+2014-06-15,intencao_espontanea,Lula,escolaridade,Fundamental 1,6
+2014-06-15,intencao_espontanea,Marina Silva,escolaridade,Fundamental 1,1
+2014-06-15,intencao_espontanea,NS/NR*,escolaridade,Fundamental 1,38
+2014-06-15,intencao_espontanea,Outros,escolaridade,Fundamental 1,1
+2014-06-15,intencao_espontanea,Pastor Everaldo,escolaridade,Fundamental 1,1
+2014-06-15,intencao_espontanea,Aécio Neves,escolaridade,Fundamental 2,8
+2014-06-15,intencao_espontanea,Branco e Nulo,escolaridade,Fundamental 2,16
+2014-06-15,intencao_espontanea,Dilma Rousseff,escolaridade,Fundamental 2,28
+2014-06-15,intencao_espontanea,Eduardo Campos,escolaridade,Fundamental 2,3
+2014-06-15,intencao_espontanea,Lula,escolaridade,Fundamental 2,4
+2014-06-15,intencao_espontanea,Marina Silva,escolaridade,Fundamental 2,0
+2014-06-15,intencao_espontanea,NS/NR*,escolaridade,Fundamental 2,37
+2014-06-15,intencao_espontanea,Outros,escolaridade,Fundamental 2,3
+2014-06-15,intencao_espontanea,Pastor Everaldo,escolaridade,Fundamental 2,0
+2014-06-15,intencao_espontanea,Aécio Neves,escolaridade,Medio,10
+2014-06-15,intencao_espontanea,Branco e Nulo,escolaridade,Medio,19
+2014-06-15,intencao_espontanea,Dilma Rousseff,escolaridade,Medio,24
+2014-06-15,intencao_espontanea,Eduardo Campos,escolaridade,Medio,3
+2014-06-15,intencao_espontanea,Lula,escolaridade,Medio,3
+2014-06-15,intencao_espontanea,Marina Silva,escolaridade,Medio,2
+2014-06-15,intencao_espontanea,NS/NR*,escolaridade,Medio,36
+2014-06-15,intencao_espontanea,Outros,escolaridade,Medio,1
+2014-06-15,intencao_espontanea,Pastor Everaldo,escolaridade,Medio,1
+2014-06-15,intencao_espontanea,Aécio Neves,escolaridade,Superior,17
+2014-06-15,intencao_espontanea,Branco e Nulo,escolaridade,Superior,17
+2014-06-15,intencao_espontanea,Dilma Rousseff,escolaridade,Superior,20
+2014-06-15,intencao_espontanea,Eduardo Campos,escolaridade,Superior,6
+2014-06-15,intencao_espontanea,Lula,escolaridade,Superior,1
+2014-06-15,intencao_espontanea,Marina Silva,escolaridade,Superior,1
+2014-06-15,intencao_espontanea,NS/NR*,escolaridade,Superior,34
+2014-06-15,intencao_espontanea,Outros,escolaridade,Superior,3
+2014-06-15,intencao_espontanea,Pastor Everaldo,escolaridade,Superior,0
+2014-06-15,intencao_estimulada,Aécio Neves,escolaridade,Fundamental 1,16
+2014-06-15,intencao_estimulada,Branco e Nulo,escolaridade,Fundamental 1,7
+2014-06-15,intencao_estimulada,Dilma Rousseff,escolaridade,Fundamental 1,49
+2014-06-15,intencao_estimulada,Eduardo Campos,escolaridade,Fundamental 1,8
+2014-06-15,intencao_estimulada,NS/NR*,escolaridade,Fundamental 1,12
+2014-06-15,intencao_estimulada,Outros,escolaridade,Fundamental 1,4
+2014-06-15,intencao_estimulada,Pastor Everaldo,escolaridade,Fundamental 1,4
+2014-06-15,intencao_estimulada,Aécio Neves,escolaridade,Fundamental 2,18
+2014-06-15,intencao_estimulada,Branco e Nulo,escolaridade,Fundamental 2,12
+2014-06-15,intencao_estimulada,Dilma Rousseff,escolaridade,Fundamental 2,42
+2014-06-15,intencao_estimulada,Eduardo Campos,escolaridade,Fundamental 2,9
+2014-06-15,intencao_estimulada,NS/NR*,escolaridade,Fundamental 2,7
+2014-06-15,intencao_estimulada,Outros,escolaridade,Fundamental 2,7
+2014-06-15,intencao_estimulada,Pastor Everaldo,escolaridade,Fundamental 2,4
+2014-06-15,intencao_estimulada,Aécio Neves,escolaridade,Medio,21
+2014-06-15,intencao_estimulada,Branco e Nulo,escolaridade,Medio,16
+2014-06-15,intencao_estimulada,Dilma Rousseff,escolaridade,Medio,38
+2014-06-15,intencao_estimulada,Eduardo Campos,escolaridade,Medio,10
+2014-06-15,intencao_estimulada,NS/NR*,escolaridade,Medio,6
+2014-06-15,intencao_estimulada,Outros,escolaridade,Medio,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,escolaridade,Medio,3
+2014-06-15,intencao_estimulada,Aécio Neves,escolaridade,Superior,29
+2014-06-15,intencao_estimulada,Branco e Nulo,escolaridade,Superior,17
+2014-06-15,intencao_estimulada,Dilma Rousseff,escolaridade,Superior,26
+2014-06-15,intencao_estimulada,Eduardo Campos,escolaridade,Superior,12
+2014-06-15,intencao_estimulada,NS/NR*,escolaridade,Superior,9
+2014-06-15,intencao_estimulada,Outros,escolaridade,Superior,5
+2014-06-15,intencao_estimulada,Pastor Everaldo,escolaridade,Superior,2
+2014-06-15,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 1,44
+2014-06-15,avaliacao_governo,Regular,escolaridade,Fundamental 1,32
+2014-06-15,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 1,22
+2014-06-15,avaliacao_governo,NS/NR*,escolaridade,Fundamental 1,2
+2014-06-15,avaliacao_governo,Ótimo e bom,escolaridade,Fundamental 2,32
+2014-06-15,avaliacao_governo,Regular,escolaridade,Fundamental 2,37
+2014-06-15,avaliacao_governo,Ruim e péssimo,escolaridade,Fundamental 2,30
+2014-06-15,avaliacao_governo,NS/NR*,escolaridade,Fundamental 2,1
+2014-06-15,avaliacao_governo,Ótimo e bom,escolaridade,Medio,30
+2014-06-15,avaliacao_governo,Regular,escolaridade,Medio,35
+2014-06-15,avaliacao_governo,Ruim e péssimo,escolaridade,Medio,35
+2014-06-15,avaliacao_governo,NS/NR*,escolaridade,Medio,0
+2014-06-15,avaliacao_governo,Ótimo e bom,escolaridade,Superior,22
+2014-06-15,avaliacao_governo,Regular,escolaridade,Superior,33
+2014-06-15,avaliacao_governo,Ruim e péssimo,escolaridade,Superior,45
+2014-06-15,avaliacao_governo,NS/NR*,escolaridade,Superior,1
+2014-06-15,aprova_dilma,Aprova,escolaridade,Fundamental 1,60
+2014-06-15,aprova_dilma,Desaprova,escolaridade,Fundamental 1,34
+2014-06-15,aprova_dilma,NS/NR*,escolaridade,Fundamental 1,6
+2014-06-15,aprova_dilma,Aprova,escolaridade,Fundamental 2,47
+2014-06-15,aprova_dilma,Desaprova,escolaridade,Fundamental 2,47
+2014-06-15,aprova_dilma,NS/NR*,escolaridade,Fundamental 2,6
+2014-06-15,aprova_dilma,Aprova,escolaridade,Medio,41
+2014-06-15,aprova_dilma,Desaprova,escolaridade,Medio,52
+2014-06-15,aprova_dilma,NS/NR*,escolaridade,Medio,7
+2014-06-15,aprova_dilma,Aprova,escolaridade,Superior,30
+2014-06-15,aprova_dilma,Desaprova,escolaridade,Superior,65
+2014-06-15,aprova_dilma,NS/NR*,escolaridade,Superior,5
+2014-06-15,2turno_aecio,Aécio Neves,escolaridade,Fundamental 1,22
+2014-06-15,2turno_aecio,Branco e Nulo,escolaridade,Fundamental 1,14
+2014-06-15,2turno_aecio,Dilma Rousseff,escolaridade,Fundamental 1,56
+2014-06-15,2turno_aecio,NS/NR*,escolaridade,Fundamental 1,9
+2014-06-15,2turno_aecio,Aécio Neves,escolaridade,Fundamental 2,28
+2014-06-15,2turno_aecio,Branco e Nulo,escolaridade,Fundamental 2,17
+2014-06-15,2turno_aecio,Dilma Rousseff,escolaridade,Fundamental 2,47
+2014-06-15,2turno_aecio,NS/NR*,escolaridade,Fundamental 2,9
+2014-06-15,2turno_aecio,Aécio Neves,escolaridade,Medio,31
+2014-06-15,2turno_aecio,Branco e Nulo,escolaridade,Medio,21
+2014-06-15,2turno_aecio,Dilma Rousseff,escolaridade,Medio,41
+2014-06-15,2turno_aecio,NS/NR*,escolaridade,Medio,7
+2014-06-15,2turno_aecio,Aécio Neves,escolaridade,Superior,41
+2014-06-15,2turno_aecio,Branco e Nulo,escolaridade,Superior,23
+2014-06-15,2turno_aecio,Dilma Rousseff,escolaridade,Superior,28
+2014-06-15,2turno_aecio,NS/NR*,escolaridade,Superior,8
+2014-06-15,2turno_campos,Branco e Nulo,escolaridade,Fundamental 1,16
+2014-06-15,2turno_campos,Dilma Rousseff,escolaridade,Fundamental 1,55
+2014-06-15,2turno_campos,Eduardo Campos,escolaridade,Fundamental 1,18
+2014-06-15,2turno_campos,NS/NR*,escolaridade,Fundamental 1,11
+2014-06-15,2turno_campos,Branco e Nulo,escolaridade,Fundamental 2,19
+2014-06-15,2turno_campos,Dilma Rousseff,escolaridade,Fundamental 2,46
+2014-06-15,2turno_campos,Eduardo Campos,escolaridade,Fundamental 2,24
+2014-06-15,2turno_campos,NS/NR*,escolaridade,Fundamental 2,11
+2014-06-15,2turno_campos,Branco e Nulo,escolaridade,Medio,24
+2014-06-15,2turno_campos,Dilma Rousseff,escolaridade,Medio,41
+2014-06-15,2turno_campos,Eduardo Campos,escolaridade,Medio,28
+2014-06-15,2turno_campos,NS/NR*,escolaridade,Medio,8
+2014-06-15,2turno_campos,Branco e Nulo,escolaridade,Superior,25
+2014-06-15,2turno_campos,Dilma Rousseff,escolaridade,Superior,30
+2014-06-15,2turno_campos,Eduardo Campos,escolaridade,Superior,36
+2014-06-15,2turno_campos,NS/NR*,escolaridade,Superior,9
+2014-06-15,interesse,Tem muito interesse,renda_familiar,Mais de 5,21
+2014-06-15,interesse,Tem médio interesse,renda_familiar,Mais de 5,27
+2014-06-15,interesse,Não tem interesse,renda_familiar,Mais de 5,51
+2014-06-15,interesse,NS/NR*,renda_familiar,Mais de 5,0
+2014-06-15,interesse,Tem muito interesse,renda_familiar,2 a 5,15
+2014-06-15,interesse,Tem médio interesse,renda_familiar,2 a 5,27
+2014-06-15,interesse,Não tem interesse,renda_familiar,2 a 5,57
+2014-06-15,interesse,NS/NR*,renda_familiar,2 a 5,0
+2014-06-15,interesse,Tem muito interesse,renda_familiar,1 a 2,13
+2014-06-15,interesse,Tem médio interesse,renda_familiar,1 a 2,34
+2014-06-15,interesse,Não tem interesse,renda_familiar,1 a 2,53
+2014-06-15,interesse,NS/NR*,renda_familiar,1 a 2,1
+2014-06-15,interesse,Tem muito interesse,renda_familiar,Ate 1,17
+2014-06-15,interesse,Tem médio interesse,renda_familiar,Ate 1,26
+2014-06-15,interesse,Não tem interesse,renda_familiar,Ate 1,54
+2014-06-15,interesse,NS/NR*,renda_familiar,Ate 1,1
+2014-06-15,intencao_espontanea,Aécio Neves,renda_familiar,Mais de 5,15
+2014-06-15,intencao_espontanea,Branco e Nulo,renda_familiar,Mais de 5,15
+2014-06-15,intencao_espontanea,Dilma Rousseff,renda_familiar,Mais de 5,25
+2014-06-15,intencao_espontanea,Eduardo Campos,renda_familiar,Mais de 5,7
+2014-06-15,intencao_espontanea,Lula,renda_familiar,Mais de 5,2
+2014-06-15,intencao_espontanea,Marina Silva,renda_familiar,Mais de 5,2
+2014-06-15,intencao_espontanea,NS/NR*,renda_familiar,Mais de 5,33
+2014-06-15,intencao_espontanea,Outros,renda_familiar,Mais de 5,1
+2014-06-15,intencao_espontanea,Pastor Everaldo,renda_familiar,Mais de 5,0
+2014-06-15,intencao_espontanea,Aécio Neves,renda_familiar,2 a 5,12
+2014-06-15,intencao_espontanea,Branco e Nulo,renda_familiar,2 a 5,19
+2014-06-15,intencao_espontanea,Dilma Rousseff,renda_familiar,2 a 5,22
+2014-06-15,intencao_espontanea,Eduardo Campos,renda_familiar,2 a 5,3
+2014-06-15,intencao_espontanea,Lula,renda_familiar,2 a 5,3
+2014-06-15,intencao_espontanea,Marina Silva,renda_familiar,2 a 5,1
+2014-06-15,intencao_espontanea,NS/NR*,renda_familiar,2 a 5,36
+2014-06-15,intencao_espontanea,Outros,renda_familiar,2 a 5,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,renda_familiar,2 a 5,0
+2014-06-15,intencao_espontanea,Aécio Neves,renda_familiar,1 a 2,9
+2014-06-15,intencao_espontanea,Branco e Nulo,renda_familiar,1 a 2,12
+2014-06-15,intencao_espontanea,Dilma Rousseff,renda_familiar,1 a 2,31
+2014-06-15,intencao_espontanea,Eduardo Campos,renda_familiar,1 a 2,2
+2014-06-15,intencao_espontanea,Lula,renda_familiar,1 a 2,5
+2014-06-15,intencao_espontanea,Marina Silva,renda_familiar,1 a 2,1
+2014-06-15,intencao_espontanea,NS/NR*,renda_familiar,1 a 2,38
+2014-06-15,intencao_espontanea,Outros,renda_familiar,1 a 2,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,renda_familiar,1 a 2,1
+2014-06-15,intencao_espontanea,Aécio Neves,renda_familiar,Ate 1,7
+2014-06-15,intencao_espontanea,Branco e Nulo,renda_familiar,Ate 1,18
+2014-06-15,intencao_espontanea,Dilma Rousseff,renda_familiar,Ate 1,25
+2014-06-15,intencao_espontanea,Eduardo Campos,renda_familiar,Ate 1,4
+2014-06-15,intencao_espontanea,Lula,renda_familiar,Ate 1,3
+2014-06-15,intencao_espontanea,Marina Silva,renda_familiar,Ate 1,2
+2014-06-15,intencao_espontanea,NS/NR*,renda_familiar,Ate 1,39
+2014-06-15,intencao_espontanea,Outros,renda_familiar,Ate 1,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,renda_familiar,Ate 1,1
+2014-06-15,intencao_estimulada,Aécio Neves,renda_familiar,Mais de 5,28
+2014-06-15,intencao_estimulada,Branco e Nulo,renda_familiar,Mais de 5,10
+2014-06-15,intencao_estimulada,Dilma Rousseff,renda_familiar,Mais de 5,36
+2014-06-15,intencao_estimulada,Eduardo Campos,renda_familiar,Mais de 5,13
+2014-06-15,intencao_estimulada,NS/NR*,renda_familiar,Mais de 5,5
+2014-06-15,intencao_estimulada,Outros,renda_familiar,Mais de 5,4
+2014-06-15,intencao_estimulada,Pastor Everaldo,renda_familiar,Mais de 5,3
+2014-06-15,intencao_estimulada,Aécio Neves,renda_familiar,2 a 5,23
+2014-06-15,intencao_estimulada,Branco e Nulo,renda_familiar,2 a 5,16
+2014-06-15,intencao_estimulada,Dilma Rousseff,renda_familiar,2 a 5,35
+2014-06-15,intencao_estimulada,Eduardo Campos,renda_familiar,2 a 5,9
+2014-06-15,intencao_estimulada,NS/NR*,renda_familiar,2 a 5,8
+2014-06-15,intencao_estimulada,Outros,renda_familiar,2 a 5,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,renda_familiar,2 a 5,3
+2014-06-15,intencao_estimulada,Aécio Neves,renda_familiar,1 a 2,18
+2014-06-15,intencao_estimulada,Branco e Nulo,renda_familiar,1 a 2,10
+2014-06-15,intencao_estimulada,Dilma Rousseff,renda_familiar,1 a 2,44
+2014-06-15,intencao_estimulada,Eduardo Campos,renda_familiar,1 a 2,9
+2014-06-15,intencao_estimulada,NS/NR*,renda_familiar,1 a 2,8
+2014-06-15,intencao_estimulada,Outros,renda_familiar,1 a 2,7
+2014-06-15,intencao_estimulada,Pastor Everaldo,renda_familiar,1 a 2,3
+2014-06-15,intencao_estimulada,Aécio Neves,renda_familiar,Ate 1,14
+2014-06-15,intencao_estimulada,Branco e Nulo,renda_familiar,Ate 1,15
+2014-06-15,intencao_estimulada,Dilma Rousseff,renda_familiar,Ate 1,42
+2014-06-15,intencao_estimulada,Eduardo Campos,renda_familiar,Ate 1,10
+2014-06-15,intencao_estimulada,NS/NR*,renda_familiar,Ate 1,10
+2014-06-15,intencao_estimulada,Outros,renda_familiar,Ate 1,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,renda_familiar,Ate 1,4
+2014-06-15,avaliacao_governo,Ótimo e bom,renda_familiar,Mais de 5,30
+2014-06-15,avaliacao_governo,Regular,renda_familiar,Mais de 5,27
+2014-06-15,avaliacao_governo,Ruim e péssimo,renda_familiar,Mais de 5,43
+2014-06-15,avaliacao_governo,NS/NR*,renda_familiar,Mais de 5,1
+2014-06-15,avaliacao_governo,Ótimo e bom,renda_familiar,2 a 5,26
+2014-06-15,avaliacao_governo,Regular,renda_familiar,2 a 5,36
+2014-06-15,avaliacao_governo,Ruim e péssimo,renda_familiar,2 a 5,37
+2014-06-15,avaliacao_governo,NS/NR*,renda_familiar,2 a 5,1
+2014-06-15,avaliacao_governo,Ótimo e bom,renda_familiar,1 a 2,38
+2014-06-15,avaliacao_governo,Regular,renda_familiar,1 a 2,34
+2014-06-15,avaliacao_governo,Ruim e péssimo,renda_familiar,1 a 2,27
+2014-06-15,avaliacao_governo,NS/NR*,renda_familiar,1 a 2,1
+2014-06-15,avaliacao_governo,Ótimo e bom,renda_familiar,Ate 1,42
+2014-06-15,avaliacao_governo,Regular,renda_familiar,Ate 1,36
+2014-06-15,avaliacao_governo,Ruim e péssimo,renda_familiar,Ate 1,19
+2014-06-15,avaliacao_governo,NS/NR*,renda_familiar,Ate 1,2
+2014-06-15,aprova_dilma,Aprova,renda_familiar,Mais de 5,39
+2014-06-15,aprova_dilma,Desaprova,renda_familiar,Mais de 5,57
+2014-06-15,aprova_dilma,NS/NR*,renda_familiar,Mais de 5,4
+2014-06-15,aprova_dilma,Aprova,renda_familiar,2 a 5,38
+2014-06-15,aprova_dilma,Desaprova,renda_familiar,2 a 5,56
+2014-06-15,aprova_dilma,NS/NR*,renda_familiar,2 a 5,6
+2014-06-15,aprova_dilma,Aprova,renda_familiar,1 a 2,52
+2014-06-15,aprova_dilma,Desaprova,renda_familiar,1 a 2,43
+2014-06-15,aprova_dilma,NS/NR*,renda_familiar,1 a 2,6
+2014-06-15,aprova_dilma,Aprova,renda_familiar,Ate 1,49
+2014-06-15,aprova_dilma,Desaprova,renda_familiar,Ate 1,43
+2014-06-15,aprova_dilma,NS/NR*,renda_familiar,Ate 1,8
+2014-06-15,2turno_aecio,Aécio Neves,renda_familiar,Mais de 5,36
+2014-06-15,2turno_aecio,Branco e Nulo,renda_familiar,Mais de 5,18
+2014-06-15,2turno_aecio,Dilma Rousseff,renda_familiar,Mais de 5,39
+2014-06-15,2turno_aecio,NS/NR*,renda_familiar,Mais de 5,7
+2014-06-15,2turno_aecio,Aécio Neves,renda_familiar,2 a 5,33
+2014-06-15,2turno_aecio,Branco e Nulo,renda_familiar,2 a 5,22
+2014-06-15,2turno_aecio,Dilma Rousseff,renda_familiar,2 a 5,37
+2014-06-15,2turno_aecio,NS/NR*,renda_familiar,2 a 5,8
+2014-06-15,2turno_aecio,Aécio Neves,renda_familiar,1 a 2,27
+2014-06-15,2turno_aecio,Branco e Nulo,renda_familiar,1 a 2,15
+2014-06-15,2turno_aecio,Dilma Rousseff,renda_familiar,1 a 2,49
+2014-06-15,2turno_aecio,NS/NR*,renda_familiar,1 a 2,8
+2014-06-15,2turno_aecio,Aécio Neves,renda_familiar,Ate 1,24
+2014-06-15,2turno_aecio,Branco e Nulo,renda_familiar,Ate 1,20
+2014-06-15,2turno_aecio,Dilma Rousseff,renda_familiar,Ate 1,48
+2014-06-15,2turno_aecio,NS/NR*,renda_familiar,Ate 1,8
+2014-06-15,2turno_campos,Branco e Nulo,renda_familiar,Mais de 5,21
+2014-06-15,2turno_campos,Dilma Rousseff,renda_familiar,Mais de 5,37
+2014-06-15,2turno_campos,Eduardo Campos,renda_familiar,Mais de 5,36
+2014-06-15,2turno_campos,NS/NR*,renda_familiar,Mais de 5,5
+2014-06-15,2turno_campos,Branco e Nulo,renda_familiar,2 a 5,24
+2014-06-15,2turno_campos,Dilma Rousseff,renda_familiar,2 a 5,38
+2014-06-15,2turno_campos,Eduardo Campos,renda_familiar,2 a 5,27
+2014-06-15,2turno_campos,NS/NR*,renda_familiar,2 a 5,11
+2014-06-15,2turno_campos,Branco e Nulo,renda_familiar,1 a 2,18
+2014-06-15,2turno_campos,Dilma Rousseff,renda_familiar,1 a 2,49
+2014-06-15,2turno_campos,Eduardo Campos,renda_familiar,1 a 2,23
+2014-06-15,2turno_campos,NS/NR*,renda_familiar,1 a 2,10
+2014-06-15,2turno_campos,Branco e Nulo,renda_familiar,Ate 1,21
+2014-06-15,2turno_campos,Dilma Rousseff,renda_familiar,Ate 1,48
+2014-06-15,2turno_campos,Eduardo Campos,renda_familiar,Ate 1,22
+2014-06-15,2turno_campos,NS/NR*,renda_familiar,Ate 1,9
+2014-06-15,interesse,Tem muito interesse,condicao_municipio,CAPITAL,14
+2014-06-15,interesse,Tem médio interesse,condicao_municipio,CAPITAL,26
+2014-06-15,interesse,Não tem interesse,condicao_municipio,CAPITAL,59
+2014-06-15,interesse,NS/NR*,condicao_municipio,CAPITAL,1
+2014-06-15,interesse,Tem muito interesse,condicao_municipio,PERIFERIA,12
+2014-06-15,interesse,Tem médio interesse,condicao_municipio,PERIFERIA,36
+2014-06-15,interesse,Não tem interesse,condicao_municipio,PERIFERIA,52
+2014-06-15,interesse,NS/NR*,condicao_municipio,PERIFERIA,0
+2014-06-15,interesse,Tem muito interesse,condicao_municipio,INTERIOR,18
+2014-06-15,interesse,Tem médio interesse,condicao_municipio,INTERIOR,28
+2014-06-15,interesse,Não tem interesse,condicao_municipio,INTERIOR,54
+2014-06-15,interesse,NS/NR*,condicao_municipio,INTERIOR,1
+2014-06-15,intencao_espontanea,Aécio Neves,condicao_municipio,CAPITAL,12
+2014-06-15,intencao_espontanea,Branco e Nulo,condicao_municipio,CAPITAL,24
+2014-06-15,intencao_espontanea,Dilma Rousseff,condicao_municipio,CAPITAL,19
+2014-06-15,intencao_espontanea,Eduardo Campos,condicao_municipio,CAPITAL,6
+2014-06-15,intencao_espontanea,Lula,condicao_municipio,CAPITAL,4
+2014-06-15,intencao_espontanea,Marina Silva,condicao_municipio,CAPITAL,2
+2014-06-15,intencao_espontanea,NS/NR*,condicao_municipio,CAPITAL,30
+2014-06-15,intencao_espontanea,Outros,condicao_municipio,CAPITAL,3
+2014-06-15,intencao_espontanea,Pastor Everaldo,condicao_municipio,CAPITAL,1
+2014-06-15,intencao_espontanea,Aécio Neves,condicao_municipio,PERIFERIA,8
+2014-06-15,intencao_espontanea,Branco e Nulo,condicao_municipio,PERIFERIA,20
+2014-06-15,intencao_espontanea,Dilma Rousseff,condicao_municipio,PERIFERIA,29
+2014-06-15,intencao_espontanea,Eduardo Campos,condicao_municipio,PERIFERIA,4
+2014-06-15,intencao_espontanea,Lula,condicao_municipio,PERIFERIA,3
+2014-06-15,intencao_espontanea,Marina Silva,condicao_municipio,PERIFERIA,0
+2014-06-15,intencao_espontanea,NS/NR*,condicao_municipio,PERIFERIA,33
+2014-06-15,intencao_espontanea,Outros,condicao_municipio,PERIFERIA,1
+2014-06-15,intencao_espontanea,Pastor Everaldo,condicao_municipio,PERIFERIA,1
+2014-06-15,intencao_espontanea,Aécio Neves,condicao_municipio,INTERIOR,10
+2014-06-15,intencao_espontanea,Branco e Nulo,condicao_municipio,INTERIOR,12
+2014-06-15,intencao_espontanea,Dilma Rousseff,condicao_municipio,INTERIOR,27
+2014-06-15,intencao_espontanea,Eduardo Campos,condicao_municipio,INTERIOR,3
+2014-06-15,intencao_espontanea,Lula,condicao_municipio,INTERIOR,3
+2014-06-15,intencao_espontanea,Marina Silva,condicao_municipio,INTERIOR,1
+2014-06-15,intencao_espontanea,NS/NR*,condicao_municipio,INTERIOR,41
+2014-06-15,intencao_espontanea,Outros,condicao_municipio,INTERIOR,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,condicao_municipio,INTERIOR,1
+2014-06-15,intencao_estimulada,Aécio Neves,condicao_municipio,CAPITAL,21
+2014-06-15,intencao_estimulada,Branco e Nulo,condicao_municipio,CAPITAL,20
+2014-06-15,intencao_estimulada,Dilma Rousseff,condicao_municipio,CAPITAL,32
+2014-06-15,intencao_estimulada,Eduardo Campos,condicao_municipio,CAPITAL,12
+2014-06-15,intencao_estimulada,NS/NR*,condicao_municipio,CAPITAL,8
+2014-06-15,intencao_estimulada,Outros,condicao_municipio,CAPITAL,5
+2014-06-15,intencao_estimulada,Pastor Everaldo,condicao_municipio,CAPITAL,3
+2014-06-15,intencao_estimulada,Aécio Neves,condicao_municipio,PERIFERIA,16
+2014-06-15,intencao_estimulada,Branco e Nulo,condicao_municipio,PERIFERIA,15
+2014-06-15,intencao_estimulada,Dilma Rousseff,condicao_municipio,PERIFERIA,41
+2014-06-15,intencao_estimulada,Eduardo Campos,condicao_municipio,PERIFERIA,12
+2014-06-15,intencao_estimulada,NS/NR*,condicao_municipio,PERIFERIA,5
+2014-06-15,intencao_estimulada,Outros,condicao_municipio,PERIFERIA,7
+2014-06-15,intencao_estimulada,Pastor Everaldo,condicao_municipio,PERIFERIA,4
+2014-06-15,intencao_estimulada,Aécio Neves,condicao_municipio,INTERIOR,22
+2014-06-15,intencao_estimulada,Branco e Nulo,condicao_municipio,INTERIOR,10
+2014-06-15,intencao_estimulada,Dilma Rousseff,condicao_municipio,INTERIOR,42
+2014-06-15,intencao_estimulada,Eduardo Campos,condicao_municipio,INTERIOR,8
+2014-06-15,intencao_estimulada,NS/NR*,condicao_municipio,INTERIOR,9
+2014-06-15,intencao_estimulada,Outros,condicao_municipio,INTERIOR,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,condicao_municipio,INTERIOR,4
+2014-06-15,avaliacao_governo,Ótimo e bom,condicao_municipio,CAPITAL,23
+2014-06-15,avaliacao_governo,Regular,condicao_municipio,CAPITAL,40
+2014-06-15,avaliacao_governo,Ruim e péssimo,condicao_municipio,CAPITAL,38
+2014-06-15,avaliacao_governo,NS/NR*,condicao_municipio,CAPITAL,1
+2014-06-15,avaliacao_governo,Ótimo e bom,condicao_municipio,PERIFERIA,26
+2014-06-15,avaliacao_governo,Regular,condicao_municipio,PERIFERIA,38
+2014-06-15,avaliacao_governo,Ruim e péssimo,condicao_municipio,PERIFERIA,34
+2014-06-15,avaliacao_governo,NS/NR*,condicao_municipio,PERIFERIA,2
+2014-06-15,avaliacao_governo,Ótimo e bom,condicao_municipio,INTERIOR,37
+2014-06-15,avaliacao_governo,Regular,condicao_municipio,INTERIOR,31
+2014-06-15,avaliacao_governo,Ruim e péssimo,condicao_municipio,INTERIOR,31
+2014-06-15,avaliacao_governo,NS/NR*,condicao_municipio,INTERIOR,1
+2014-06-15,aprova_dilma,Aprova,condicao_municipio,CAPITAL,38
+2014-06-15,aprova_dilma,Desaprova,condicao_municipio,CAPITAL,55
+2014-06-15,aprova_dilma,NS/NR*,condicao_municipio,CAPITAL,7
+2014-06-15,aprova_dilma,Aprova,condicao_municipio,PERIFERIA,41
+2014-06-15,aprova_dilma,Desaprova,condicao_municipio,PERIFERIA,52
+2014-06-15,aprova_dilma,NS/NR*,condicao_municipio,PERIFERIA,8
+2014-06-15,aprova_dilma,Aprova,condicao_municipio,INTERIOR,48
+2014-06-15,aprova_dilma,Desaprova,condicao_municipio,INTERIOR,47
+2014-06-15,aprova_dilma,NS/NR*,condicao_municipio,INTERIOR,5
+2014-06-15,2turno_aecio,Aécio Neves,condicao_municipio,CAPITAL,30
+2014-06-15,2turno_aecio,Branco e Nulo,condicao_municipio,CAPITAL,25
+2014-06-15,2turno_aecio,Dilma Rousseff,condicao_municipio,CAPITAL,37
+2014-06-15,2turno_aecio,NS/NR*,condicao_municipio,CAPITAL,9
+2014-06-15,2turno_aecio,Aécio Neves,condicao_municipio,PERIFERIA,25
+2014-06-15,2turno_aecio,Branco e Nulo,condicao_municipio,PERIFERIA,23
+2014-06-15,2turno_aecio,Dilma Rousseff,condicao_municipio,PERIFERIA,46
+2014-06-15,2turno_aecio,NS/NR*,condicao_municipio,PERIFERIA,6
+2014-06-15,2turno_aecio,Aécio Neves,condicao_municipio,INTERIOR,32
+2014-06-15,2turno_aecio,Branco e Nulo,condicao_municipio,INTERIOR,16
+2014-06-15,2turno_aecio,Dilma Rousseff,condicao_municipio,INTERIOR,44
+2014-06-15,2turno_aecio,NS/NR*,condicao_municipio,INTERIOR,8
+2014-06-15,2turno_campos,Branco e Nulo,condicao_municipio,CAPITAL,28
+2014-06-15,2turno_campos,Dilma Rousseff,condicao_municipio,CAPITAL,34
+2014-06-15,2turno_campos,Eduardo Campos,condicao_municipio,CAPITAL,29
+2014-06-15,2turno_campos,NS/NR*,condicao_municipio,CAPITAL,9
+2014-06-15,2turno_campos,Branco e Nulo,condicao_municipio,PERIFERIA,22
+2014-06-15,2turno_campos,Dilma Rousseff,condicao_municipio,PERIFERIA,45
+2014-06-15,2turno_campos,Eduardo Campos,condicao_municipio,PERIFERIA,25
+2014-06-15,2turno_campos,NS/NR*,condicao_municipio,PERIFERIA,8
+2014-06-15,2turno_campos,Branco e Nulo,condicao_municipio,INTERIOR,18
+2014-06-15,2turno_campos,Dilma Rousseff,condicao_municipio,INTERIOR,46
+2014-06-15,2turno_campos,Eduardo Campos,condicao_municipio,INTERIOR,26
+2014-06-15,2turno_campos,NS/NR*,condicao_municipio,INTERIOR,10
+2014-06-15,interesse,Tem muito interesse,regiao,NORDESTE,18
+2014-06-15,interesse,Tem médio interesse,regiao,NORDESTE,27
+2014-06-15,interesse,Não tem interesse,regiao,NORDESTE,54
+2014-06-15,interesse,NS/NR*,regiao,NORDESTE,1
+2014-06-15,interesse,Tem muito interesse,regiao,NORTE-CENTRO-OESTE,19
+2014-06-15,interesse,Tem médio interesse,regiao,NORTE-CENTRO-OESTE,34
+2014-06-15,interesse,Não tem interesse,regiao,NORTE-CENTRO-OESTE,46
+2014-06-15,interesse,NS/NR*,regiao,NORTE-CENTRO-OESTE,1
+2014-06-15,interesse,Tem muito interesse,regiao,SUDESTE,13
+2014-06-15,interesse,Tem médio interesse,regiao,SUDESTE,26
+2014-06-15,interesse,Não tem interesse,regiao,SUDESTE,60
+2014-06-15,interesse,NS/NR*,regiao,SUDESTE,0
+2014-06-15,interesse,Tem muito interesse,regiao,SUL,17
+2014-06-15,interesse,Tem médio interesse,regiao,SUL,33
+2014-06-15,interesse,Não tem interesse,regiao,SUL,50
+2014-06-15,interesse,NS/NR*,regiao,SUL,0
+2014-06-15,intencao_espontanea,Aécio Neves,regiao,NORDESTE,5
+2014-06-15,intencao_espontanea,Branco e Nulo,regiao,NORDESTE,13
+2014-06-15,intencao_espontanea,Dilma Rousseff,regiao,NORDESTE,33
+2014-06-15,intencao_espontanea,Eduardo Campos,regiao,NORDESTE,5
+2014-06-15,intencao_espontanea,Lula,regiao,NORDESTE,6
+2014-06-15,intencao_espontanea,Marina Silva,regiao,NORDESTE,2
+2014-06-15,intencao_espontanea,NS/NR*,regiao,NORDESTE,36
+2014-06-15,intencao_espontanea,Outros,regiao,NORDESTE,1
+2014-06-15,intencao_espontanea,Pastor Everaldo,regiao,NORDESTE,0
+2014-06-15,intencao_espontanea,Aécio Neves,regiao,NORTE-CENTRO-OESTE,14
+2014-06-15,intencao_espontanea,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,12
+2014-06-15,intencao_espontanea,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,28
+2014-06-15,intencao_espontanea,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,5
+2014-06-15,intencao_espontanea,Lula,regiao,NORTE-CENTRO-OESTE,5
+2014-06-15,intencao_espontanea,Marina Silva,regiao,NORTE-CENTRO-OESTE,2
+2014-06-15,intencao_espontanea,NS/NR*,regiao,NORTE-CENTRO-OESTE,31
+2014-06-15,intencao_espontanea,Outros,regiao,NORTE-CENTRO-OESTE,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,1
+2014-06-15,intencao_espontanea,Aécio Neves,regiao,SUDESTE,12
+2014-06-15,intencao_espontanea,Branco e Nulo,regiao,SUDESTE,19
+2014-06-15,intencao_espontanea,Dilma Rousseff,regiao,SUDESTE,22
+2014-06-15,intencao_espontanea,Eduardo Campos,regiao,SUDESTE,3
+2014-06-15,intencao_espontanea,Lula,regiao,SUDESTE,2
+2014-06-15,intencao_espontanea,Marina Silva,regiao,SUDESTE,1
+2014-06-15,intencao_espontanea,NS/NR*,regiao,SUDESTE,38
+2014-06-15,intencao_espontanea,Outros,regiao,SUDESTE,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,regiao,SUDESTE,1
+2014-06-15,intencao_espontanea,Aécio Neves,regiao,SUL,12
+2014-06-15,intencao_espontanea,Branco e Nulo,regiao,SUL,18
+2014-06-15,intencao_espontanea,Dilma Rousseff,regiao,SUL,19
+2014-06-15,intencao_espontanea,Eduardo Campos,regiao,SUL,4
+2014-06-15,intencao_espontanea,Lula,regiao,SUL,2
+2014-06-15,intencao_espontanea,Marina Silva,regiao,SUL,1
+2014-06-15,intencao_espontanea,NS/NR*,regiao,SUL,40
+2014-06-15,intencao_espontanea,Outros,regiao,SUL,4
+2014-06-15,intencao_espontanea,Pastor Everaldo,regiao,SUL,1
+2014-06-15,intencao_estimulada,Aécio Neves,regiao,NORDESTE,8
+2014-06-15,intencao_estimulada,Branco e Nulo,regiao,NORDESTE,11
+2014-06-15,intencao_estimulada,Dilma Rousseff,regiao,NORDESTE,52
+2014-06-15,intencao_estimulada,Eduardo Campos,regiao,NORDESTE,13
+2014-06-15,intencao_estimulada,NS/NR*,regiao,NORDESTE,8
+2014-06-15,intencao_estimulada,Outros,regiao,NORDESTE,5
+2014-06-15,intencao_estimulada,Pastor Everaldo,regiao,NORDESTE,2
+2014-06-15,intencao_estimulada,Aécio Neves,regiao,NORTE-CENTRO-OESTE,26
+2014-06-15,intencao_estimulada,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,11
+2014-06-15,intencao_estimulada,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,41
+2014-06-15,intencao_estimulada,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,9
+2014-06-15,intencao_estimulada,NS/NR*,regiao,NORTE-CENTRO-OESTE,6
+2014-06-15,intencao_estimulada,Outros,regiao,NORTE-CENTRO-OESTE,2
+2014-06-15,intencao_estimulada,Pastor Everaldo,regiao,NORTE-CENTRO-OESTE,5
+2014-06-15,intencao_estimulada,Aécio Neves,regiao,SUDESTE,25
+2014-06-15,intencao_estimulada,Branco e Nulo,regiao,SUDESTE,15
+2014-06-15,intencao_estimulada,Dilma Rousseff,regiao,SUDESTE,34
+2014-06-15,intencao_estimulada,Eduardo Campos,regiao,SUDESTE,8
+2014-06-15,intencao_estimulada,NS/NR*,regiao,SUDESTE,9
+2014-06-15,intencao_estimulada,Outros,regiao,SUDESTE,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,regiao,SUDESTE,4
+2014-06-15,intencao_estimulada,Aécio Neves,regiao,SUL,26
+2014-06-15,intencao_estimulada,Branco e Nulo,regiao,SUL,16
+2014-06-15,intencao_estimulada,Dilma Rousseff,regiao,SUL,30
+2014-06-15,intencao_estimulada,Eduardo Campos,regiao,SUL,11
+2014-06-15,intencao_estimulada,NS/NR*,regiao,SUL,6
+2014-06-15,intencao_estimulada,Outros,regiao,SUL,8
+2014-06-15,intencao_estimulada,Pastor Everaldo,regiao,SUL,4
+2014-06-15,avaliacao_governo,Ótimo e bom,regiao,NORDESTE,42
+2014-06-15,avaliacao_governo,Regular,regiao,NORDESTE,35
+2014-06-15,avaliacao_governo,Ruim e péssimo,regiao,NORDESTE,20
+2014-06-15,avaliacao_governo,NS/NR*,regiao,NORDESTE,2
+2014-06-15,avaliacao_governo,Ótimo e bom,regiao,NORTE-CENTRO-OESTE,28
+2014-06-15,avaliacao_governo,Regular,regiao,NORTE-CENTRO-OESTE,40
+2014-06-15,avaliacao_governo,Ruim e péssimo,regiao,NORTE-CENTRO-OESTE,32
+2014-06-15,avaliacao_governo,NS/NR*,regiao,NORTE-CENTRO-OESTE,1
+2014-06-15,avaliacao_governo,Ótimo e bom,regiao,SUDESTE,27
+2014-06-15,avaliacao_governo,Regular,regiao,SUDESTE,33
+2014-06-15,avaliacao_governo,Ruim e péssimo,regiao,SUDESTE,38
+2014-06-15,avaliacao_governo,NS/NR*,regiao,SUDESTE,1
+2014-06-15,avaliacao_governo,Ótimo e bom,regiao,SUL,27
+2014-06-15,avaliacao_governo,Regular,regiao,SUL,31
+2014-06-15,avaliacao_governo,Ruim e péssimo,regiao,SUL,42
+2014-06-15,avaliacao_governo,NS/NR*,regiao,SUL,0
+2014-06-15,aprova_dilma,Aprova,regiao,NORDESTE,58
+2014-06-15,aprova_dilma,Desaprova,regiao,NORDESTE,37
+2014-06-15,aprova_dilma,NS/NR*,regiao,NORDESTE,6
+2014-06-15,aprova_dilma,Aprova,regiao,NORTE-CENTRO-OESTE,42
+2014-06-15,aprova_dilma,Desaprova,regiao,NORTE-CENTRO-OESTE,51
+2014-06-15,aprova_dilma,NS/NR*,regiao,NORTE-CENTRO-OESTE,7
+2014-06-15,aprova_dilma,Aprova,regiao,SUDESTE,39
+2014-06-15,aprova_dilma,Desaprova,regiao,SUDESTE,55
+2014-06-15,aprova_dilma,NS/NR*,regiao,SUDESTE,7
+2014-06-15,aprova_dilma,Aprova,regiao,SUL,38
+2014-06-15,aprova_dilma,Desaprova,regiao,SUL,58
+2014-06-15,aprova_dilma,NS/NR*,regiao,SUL,3
+2014-06-15,2turno_aecio,Aécio Neves,regiao,NORDESTE,21
+2014-06-15,2turno_aecio,Branco e Nulo,regiao,NORDESTE,15
+2014-06-15,2turno_aecio,Dilma Rousseff,regiao,NORDESTE,57
+2014-06-15,2turno_aecio,NS/NR*,regiao,NORDESTE,7
+2014-06-15,2turno_aecio,Aécio Neves,regiao,NORTE-CENTRO-OESTE,36
+2014-06-15,2turno_aecio,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,16
+2014-06-15,2turno_aecio,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,41
+2014-06-15,2turno_aecio,NS/NR*,regiao,NORTE-CENTRO-OESTE,6
+2014-06-15,2turno_aecio,Aécio Neves,regiao,SUDESTE,32
+2014-06-15,2turno_aecio,Branco e Nulo,regiao,SUDESTE,22
+2014-06-15,2turno_aecio,Dilma Rousseff,regiao,SUDESTE,37
+2014-06-15,2turno_aecio,NS/NR*,regiao,SUDESTE,9
+2014-06-15,2turno_aecio,Aécio Neves,regiao,SUL,38
+2014-06-15,2turno_aecio,Branco e Nulo,regiao,SUL,21
+2014-06-15,2turno_aecio,Dilma Rousseff,regiao,SUL,34
+2014-06-15,2turno_aecio,NS/NR*,regiao,SUL,6
+2014-06-15,2turno_campos,Branco e Nulo,regiao,NORDESTE,14
+2014-06-15,2turno_campos,Dilma Rousseff,regiao,NORDESTE,55
+2014-06-15,2turno_campos,Eduardo Campos,regiao,NORDESTE,24
+2014-06-15,2turno_campos,NS/NR*,regiao,NORDESTE,8
+2014-06-15,2turno_campos,Branco e Nulo,regiao,NORTE-CENTRO-OESTE,19
+2014-06-15,2turno_campos,Dilma Rousseff,regiao,NORTE-CENTRO-OESTE,44
+2014-06-15,2turno_campos,Eduardo Campos,regiao,NORTE-CENTRO-OESTE,33
+2014-06-15,2turno_campos,NS/NR*,regiao,NORTE-CENTRO-OESTE,5
+2014-06-15,2turno_campos,Branco e Nulo,regiao,SUDESTE,25
+2014-06-15,2turno_campos,Dilma Rousseff,regiao,SUDESTE,38
+2014-06-15,2turno_campos,Eduardo Campos,regiao,SUDESTE,25
+2014-06-15,2turno_campos,NS/NR*,regiao,SUDESTE,12
+2014-06-15,2turno_campos,Branco e Nulo,regiao,SUL,26
+2014-06-15,2turno_campos,Dilma Rousseff,regiao,SUL,35
+2014-06-15,2turno_campos,Eduardo Campos,regiao,SUL,30
+2014-06-15,2turno_campos,NS/NR*,regiao,SUL,9
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+2014-06-15,intencao_espontanea,Aécio Neves,interesse,Tem muito interesse,17
+2014-06-15,intencao_espontanea,Branco e Nulo,interesse,Tem muito interesse,5
+2014-06-15,intencao_espontanea,Dilma Rousseff,interesse,Tem muito interesse,34
+2014-06-15,intencao_espontanea,Eduardo Campos,interesse,Tem muito interesse,8
+2014-06-15,intencao_espontanea,Lula,interesse,Tem muito interesse,3
+2014-06-15,intencao_espontanea,Marina Silva,interesse,Tem muito interesse,3
+2014-06-15,intencao_espontanea,NS/NR*,interesse,Tem muito interesse,26
+2014-06-15,intencao_espontanea,Outros,interesse,Tem muito interesse,3
+2014-06-15,intencao_espontanea,Pastor Everaldo,interesse,Tem muito interesse,1
+2014-06-15,intencao_espontanea,Aécio Neves,interesse,Tem médio interesse,13
+2014-06-15,intencao_espontanea,Branco e Nulo,interesse,Tem médio interesse,6
+2014-06-15,intencao_espontanea,Dilma Rousseff,interesse,Tem médio interesse,39
+2014-06-15,intencao_espontanea,Eduardo Campos,interesse,Tem médio interesse,4
+2014-06-15,intencao_espontanea,Lula,interesse,Tem médio interesse,5
+2014-06-15,intencao_espontanea,Marina Silva,interesse,Tem médio interesse,1
+2014-06-15,intencao_espontanea,NS/NR*,interesse,Tem médio interesse,29
+2014-06-15,intencao_espontanea,Outros,interesse,Tem médio interesse,3
+2014-06-15,intencao_espontanea,Pastor Everaldo,interesse,Tem médio interesse,0
+2014-06-15,intencao_espontanea,Aécio Neves,interesse,Não tem interesse,8
+2014-06-15,intencao_espontanea,Branco e Nulo,interesse,Não tem interesse,25
+2014-06-15,intencao_espontanea,Dilma Rousseff,interesse,Não tem interesse,16
+2014-06-15,intencao_espontanea,Eduardo Campos,interesse,Não tem interesse,2
+2014-06-15,intencao_espontanea,Lula,interesse,Não tem interesse,3
+2014-06-15,intencao_espontanea,Marina Silva,interesse,Não tem interesse,1
+2014-06-15,intencao_espontanea,NS/NR*,interesse,Não tem interesse,43
+2014-06-15,intencao_espontanea,Outros,interesse,Não tem interesse,1
+2014-06-15,intencao_espontanea,Pastor Everaldo,interesse,Não tem interesse,0
+2014-06-15,intencao_espontanea,Aécio Neves,interesse,NS/NR*,0
+2014-06-15,intencao_espontanea,Branco e Nulo,interesse,NS/NR*,27
+2014-06-15,intencao_espontanea,Dilma Rousseff,interesse,NS/NR*,9
+2014-06-15,intencao_espontanea,Eduardo Campos,interesse,NS/NR*,0
+2014-06-15,intencao_espontanea,Lula,interesse,NS/NR*,0
+2014-06-15,intencao_espontanea,Marina Silva,interesse,NS/NR*,0
+2014-06-15,intencao_espontanea,NS/NR*,interesse,NS/NR*,64
+2014-06-15,intencao_espontanea,Outros,interesse,NS/NR*,0
+2014-06-15,intencao_espontanea,Pastor Everaldo,interesse,NS/NR*,0
+2014-06-15,intencao_estimulada,Aécio Neves,interesse,Tem muito interesse,26
+2014-06-15,intencao_estimulada,Branco e Nulo,interesse,Tem muito interesse,5
+2014-06-15,intencao_estimulada,Dilma Rousseff,interesse,Tem muito interesse,42
+2014-06-15,intencao_estimulada,Eduardo Campos,interesse,Tem muito interesse,12
+2014-06-15,intencao_estimulada,NS/NR*,interesse,Tem muito interesse,6
+2014-06-15,intencao_estimulada,Outros,interesse,Tem muito interesse,7
+2014-06-15,intencao_estimulada,Pastor Everaldo,interesse,Tem muito interesse,3
+2014-06-15,intencao_estimulada,Aécio Neves,interesse,Tem médio interesse,22
+2014-06-15,intencao_estimulada,Branco e Nulo,interesse,Tem médio interesse,4
+2014-06-15,intencao_estimulada,Dilma Rousseff,interesse,Tem médio interesse,52
+2014-06-15,intencao_estimulada,Eduardo Campos,interesse,Tem médio interesse,10
+2014-06-15,intencao_estimulada,NS/NR*,interesse,Tem médio interesse,5
+2014-06-15,intencao_estimulada,Outros,interesse,Tem médio interesse,5
+2014-06-15,intencao_estimulada,Pastor Everaldo,interesse,Tem médio interesse,2
+2014-06-15,intencao_estimulada,Aécio Neves,interesse,Não tem interesse,18
+2014-06-15,intencao_estimulada,Branco e Nulo,interesse,Não tem interesse,21
+2014-06-15,intencao_estimulada,Dilma Rousseff,interesse,Não tem interesse,31
+2014-06-15,intencao_estimulada,Eduardo Campos,interesse,Não tem interesse,9
+2014-06-15,intencao_estimulada,NS/NR*,interesse,Não tem interesse,10
+2014-06-15,intencao_estimulada,Outros,interesse,Não tem interesse,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,interesse,Não tem interesse,5
+2014-06-15,intencao_estimulada,Aécio Neves,interesse,NS/NR*,9
+2014-06-15,intencao_estimulada,Branco e Nulo,interesse,NS/NR*,18
+2014-06-15,intencao_estimulada,Dilma Rousseff,interesse,NS/NR*,36
+2014-06-15,intencao_estimulada,Eduardo Campos,interesse,NS/NR*,9
+2014-06-15,intencao_estimulada,NS/NR*,interesse,NS/NR*,27
+2014-06-15,intencao_estimulada,Outros,interesse,NS/NR*,0
+2014-06-15,intencao_estimulada,Pastor Everaldo,interesse,NS/NR*,0
+2014-06-15,avaliacao_governo,Ótimo e bom,interesse,Tem muito interesse,41
+2014-06-15,avaliacao_governo,Regular,interesse,Tem muito interesse,25
+2014-06-15,avaliacao_governo,Ruim e péssimo,interesse,Tem muito interesse,34
+2014-06-15,avaliacao_governo,NS/NR*,interesse,Tem muito interesse,1
+2014-06-15,avaliacao_governo,Ótimo e bom,interesse,Tem médio interesse,43
+2014-06-15,avaliacao_governo,Regular,interesse,Tem médio interesse,38
+2014-06-15,avaliacao_governo,Ruim e péssimo,interesse,Tem médio interesse,19
+2014-06-15,avaliacao_governo,NS/NR*,interesse,Tem médio interesse,1
+2014-06-15,avaliacao_governo,Ótimo e bom,interesse,Não tem interesse,23
+2014-06-15,avaliacao_governo,Regular,interesse,Não tem interesse,35
+2014-06-15,avaliacao_governo,Ruim e péssimo,interesse,Não tem interesse,41
+2014-06-15,avaliacao_governo,NS/NR*,interesse,Não tem interesse,1
+2014-06-15,avaliacao_governo,Ótimo e bom,interesse,NS/NR*,27
+2014-06-15,avaliacao_governo,Regular,interesse,NS/NR*,45
+2014-06-15,avaliacao_governo,Ruim e péssimo,interesse,NS/NR*,18
+2014-06-15,avaliacao_governo,NS/NR*,interesse,NS/NR*,9
+2014-06-15,aprova_dilma,Aprova,interesse,Tem muito interesse,50
+2014-06-15,aprova_dilma,Desaprova,interesse,Tem muito interesse,46
+2014-06-15,aprova_dilma,NS/NR*,interesse,Tem muito interesse,4
+2014-06-15,aprova_dilma,Aprova,interesse,Tem médio interesse,58
+2014-06-15,aprova_dilma,Desaprova,interesse,Tem médio interesse,36
+2014-06-15,aprova_dilma,NS/NR*,interesse,Tem médio interesse,6
+2014-06-15,aprova_dilma,Aprova,interesse,Não tem interesse,35
+2014-06-15,aprova_dilma,Desaprova,interesse,Não tem interesse,58
+2014-06-15,aprova_dilma,NS/NR*,interesse,Não tem interesse,7
+2014-06-15,aprova_dilma,Aprova,interesse,NS/NR*,55
+2014-06-15,aprova_dilma,Desaprova,interesse,NS/NR*,27
+2014-06-15,aprova_dilma,NS/NR*,interesse,NS/NR*,18
+2014-06-15,2turno_aecio,Aécio Neves,interesse,Tem muito interesse,44
+2014-06-15,2turno_aecio,Branco e Nulo,interesse,Tem muito interesse,6
+2014-06-15,2turno_aecio,Dilma Rousseff,interesse,Tem muito interesse,47
+2014-06-15,2turno_aecio,NS/NR*,interesse,Tem muito interesse,3
+2014-06-15,2turno_aecio,Aécio Neves,interesse,Tem médio interesse,28
+2014-06-15,2turno_aecio,Branco e Nulo,interesse,Tem médio interesse,9
+2014-06-15,2turno_aecio,Dilma Rousseff,interesse,Tem médio interesse,57
+2014-06-15,2turno_aecio,NS/NR*,interesse,Tem médio interesse,5
+2014-06-15,2turno_aecio,Aécio Neves,interesse,Não tem interesse,28
+2014-06-15,2turno_aecio,Branco e Nulo,interesse,Não tem interesse,28
+2014-06-15,2turno_aecio,Dilma Rousseff,interesse,Não tem interesse,34
+2014-06-15,2turno_aecio,NS/NR*,interesse,Não tem interesse,11
+2014-06-15,2turno_aecio,Aécio Neves,interesse,NS/NR*,0
+2014-06-15,2turno_aecio,Branco e Nulo,interesse,NS/NR*,36
+2014-06-15,2turno_aecio,Dilma Rousseff,interesse,NS/NR*,45
+2014-06-15,2turno_aecio,NS/NR*,interesse,NS/NR*,18
+2014-06-15,2turno_campos,Branco e Nulo,interesse,Tem muito interesse,11
+2014-06-15,2turno_campos,Dilma Rousseff,interesse,Tem muito interesse,48
+2014-06-15,2turno_campos,Eduardo Campos,interesse,Tem muito interesse,36
+2014-06-15,2turno_campos,NS/NR*,interesse,Tem muito interesse,5
+2014-06-15,2turno_campos,Branco e Nulo,interesse,Tem médio interesse,11
+2014-06-15,2turno_campos,Dilma Rousseff,interesse,Tem médio interesse,57
+2014-06-15,2turno_campos,Eduardo Campos,interesse,Tem médio interesse,25
+2014-06-15,2turno_campos,NS/NR*,interesse,Tem médio interesse,7
+2014-06-15,2turno_campos,Branco e Nulo,interesse,Não tem interesse,30
+2014-06-15,2turno_campos,Dilma Rousseff,interesse,Não tem interesse,34
+2014-06-15,2turno_campos,Eduardo Campos,interesse,Não tem interesse,25
+2014-06-15,2turno_campos,NS/NR*,interesse,Não tem interesse,12
+2014-06-15,2turno_campos,Branco e Nulo,interesse,NS/NR*,36
+2014-06-15,2turno_campos,Dilma Rousseff,interesse,NS/NR*,45
+2014-06-15,2turno_campos,Eduardo Campos,interesse,NS/NR*,0
+2014-06-15,2turno_campos,NS/NR*,interesse,NS/NR*,18
+2014-06-15,interesse,Tem muito interesse,avaliacao_governo,Ótimo e bom,21
+2014-06-15,interesse,Tem médio interesse,avaliacao_governo,Ótimo e bom,39
+2014-06-15,interesse,Não tem interesse,avaliacao_governo,Ótimo e bom,40
+2014-06-15,interesse,NS/NR*,avaliacao_governo,Ótimo e bom,0
+2014-06-15,interesse,Tem muito interesse,avaliacao_governo,Regular,11
+2014-06-15,interesse,Tem médio interesse,avaliacao_governo,Regular,32
+2014-06-15,interesse,Não tem interesse,avaliacao_governo,Regular,56
+2014-06-15,interesse,NS/NR*,avaliacao_governo,Regular,1
+2014-06-15,interesse,Tem muito interesse,avaliacao_governo,Ruim e péssimo,16
+2014-06-15,interesse,Tem médio interesse,avaliacao_governo,Ruim e péssimo,16
+2014-06-15,interesse,Não tem interesse,avaliacao_governo,Ruim e péssimo,68
+2014-06-15,interesse,NS/NR*,avaliacao_governo,Ruim e péssimo,0
+2014-06-15,interesse,Tem muito interesse,avaliacao_governo,NS/NR*,18
+2014-06-15,interesse,Tem médio interesse,avaliacao_governo,NS/NR*,29
+2014-06-15,interesse,Não tem interesse,avaliacao_governo,NS/NR*,47
+2014-06-15,interesse,NS/NR*,avaliacao_governo,NS/NR*,6
+2014-06-15,intencao_espontanea,Aécio Neves,avaliacao_governo,Ótimo e bom,3
+2014-06-15,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ótimo e bom,4
+2014-06-15,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ótimo e bom,58
+2014-06-15,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ótimo e bom,1
+2014-06-15,intencao_espontanea,Lula,avaliacao_governo,Ótimo e bom,4
+2014-06-15,intencao_espontanea,Marina Silva,avaliacao_governo,Ótimo e bom,0
+2014-06-15,intencao_espontanea,NS/NR*,avaliacao_governo,Ótimo e bom,28
+2014-06-15,intencao_espontanea,Outros,avaliacao_governo,Ótimo e bom,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,avaliacao_governo,Ótimo e bom,0
+2014-06-15,intencao_espontanea,Aécio Neves,avaliacao_governo,Regular,9
+2014-06-15,intencao_espontanea,Branco e Nulo,avaliacao_governo,Regular,15
+2014-06-15,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Regular,20
+2014-06-15,intencao_espontanea,Eduardo Campos,avaliacao_governo,Regular,4
+2014-06-15,intencao_espontanea,Lula,avaliacao_governo,Regular,4
+2014-06-15,intencao_espontanea,Marina Silva,avaliacao_governo,Regular,2
+2014-06-15,intencao_espontanea,NS/NR*,avaliacao_governo,Regular,43
+2014-06-15,intencao_espontanea,Outros,avaliacao_governo,Regular,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,avaliacao_governo,Regular,1
+2014-06-15,intencao_espontanea,Aécio Neves,avaliacao_governo,Ruim e péssimo,19
+2014-06-15,intencao_espontanea,Branco e Nulo,avaliacao_governo,Ruim e péssimo,30
+2014-06-15,intencao_espontanea,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,0
+2014-06-15,intencao_espontanea,Eduardo Campos,avaliacao_governo,Ruim e péssimo,6
+2014-06-15,intencao_espontanea,Lula,avaliacao_governo,Ruim e péssimo,2
+2014-06-15,intencao_espontanea,Marina Silva,avaliacao_governo,Ruim e péssimo,2
+2014-06-15,intencao_espontanea,NS/NR*,avaliacao_governo,Ruim e péssimo,38
+2014-06-15,intencao_espontanea,Outros,avaliacao_governo,Ruim e péssimo,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,avaliacao_governo,Ruim e péssimo,1
+2014-06-15,intencao_espontanea,Aécio Neves,avaliacao_governo,NS/NR*,0
+2014-06-15,intencao_espontanea,Branco e Nulo,avaliacao_governo,NS/NR*,29
+2014-06-15,intencao_espontanea,Dilma Rousseff,avaliacao_governo,NS/NR*,0
+2014-06-15,intencao_espontanea,Eduardo Campos,avaliacao_governo,NS/NR*,18
+2014-06-15,intencao_espontanea,Lula,avaliacao_governo,NS/NR*,0
+2014-06-15,intencao_espontanea,Marina Silva,avaliacao_governo,NS/NR*,6
+2014-06-15,intencao_espontanea,NS/NR*,avaliacao_governo,NS/NR*,47
+2014-06-15,intencao_espontanea,Outros,avaliacao_governo,NS/NR*,0
+2014-06-15,intencao_espontanea,Pastor Everaldo,avaliacao_governo,NS/NR*,0
+2014-06-15,intencao_estimulada,Aécio Neves,avaliacao_governo,Ótimo e bom,7
+2014-06-15,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ótimo e bom,2
+2014-06-15,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ótimo e bom,79
+2014-06-15,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ótimo e bom,3
+2014-06-15,intencao_estimulada,NS/NR*,avaliacao_governo,Ótimo e bom,4
+2014-06-15,intencao_estimulada,Outros,avaliacao_governo,Ótimo e bom,4
+2014-06-15,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ótimo e bom,1
+2014-06-15,intencao_estimulada,Aécio Neves,avaliacao_governo,Regular,19
+2014-06-15,intencao_estimulada,Branco e Nulo,avaliacao_governo,Regular,10
+2014-06-15,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Regular,38
+2014-06-15,intencao_estimulada,Eduardo Campos,avaliacao_governo,Regular,11
+2014-06-15,intencao_estimulada,NS/NR*,avaliacao_governo,Regular,12
+2014-06-15,intencao_estimulada,Outros,avaliacao_governo,Regular,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Regular,4
+2014-06-15,intencao_estimulada,Aécio Neves,avaliacao_governo,Ruim e péssimo,36
+2014-06-15,intencao_estimulada,Branco e Nulo,avaliacao_governo,Ruim e péssimo,28
+2014-06-15,intencao_estimulada,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,3
+2014-06-15,intencao_estimulada,Eduardo Campos,avaliacao_governo,Ruim e péssimo,14
+2014-06-15,intencao_estimulada,NS/NR*,avaliacao_governo,Ruim e péssimo,7
+2014-06-15,intencao_estimulada,Outros,avaliacao_governo,Ruim e péssimo,7
+2014-06-15,intencao_estimulada,Pastor Everaldo,avaliacao_governo,Ruim e péssimo,5
+2014-06-15,intencao_estimulada,Aécio Neves,avaliacao_governo,NS/NR*,0
+2014-06-15,intencao_estimulada,Branco e Nulo,avaliacao_governo,NS/NR*,24
+2014-06-15,intencao_estimulada,Dilma Rousseff,avaliacao_governo,NS/NR*,12
+2014-06-15,intencao_estimulada,Eduardo Campos,avaliacao_governo,NS/NR*,29
+2014-06-15,intencao_estimulada,NS/NR*,avaliacao_governo,NS/NR*,29
+2014-06-15,intencao_estimulada,Outros,avaliacao_governo,NS/NR*,0
+2014-06-15,intencao_estimulada,Pastor Everaldo,avaliacao_governo,NS/NR*,6
+2014-06-15,aprova_dilma,Aprova,avaliacao_governo,Ótimo e bom,92
+2014-06-15,aprova_dilma,Desaprova,avaliacao_governo,Ótimo e bom,5
+2014-06-15,aprova_dilma,NS/NR*,avaliacao_governo,Ótimo e bom,3
+2014-06-15,aprova_dilma,Aprova,avaliacao_governo,Regular,43
+2014-06-15,aprova_dilma,Desaprova,avaliacao_governo,Regular,45
+2014-06-15,aprova_dilma,NS/NR*,avaliacao_governo,Regular,11
+2014-06-15,aprova_dilma,Aprova,avaliacao_governo,Ruim e péssimo,0
+2014-06-15,aprova_dilma,Desaprova,avaliacao_governo,Ruim e péssimo,98
+2014-06-15,aprova_dilma,NS/NR*,avaliacao_governo,Ruim e péssimo,2
+2014-06-15,aprova_dilma,Aprova,avaliacao_governo,NS/NR*,6
+2014-06-15,aprova_dilma,Desaprova,avaliacao_governo,NS/NR*,24
+2014-06-15,aprova_dilma,NS/NR*,avaliacao_governo,NS/NR*,71
+2014-06-15,2turno_aecio,Aécio Neves,avaliacao_governo,Ótimo e bom,10
+2014-06-15,2turno_aecio,Branco e Nulo,avaliacao_governo,Ótimo e bom,2
+2014-06-15,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ótimo e bom,85
+2014-06-15,2turno_aecio,NS/NR*,avaliacao_governo,Ótimo e bom,3
+2014-06-15,2turno_aecio,Aécio Neves,avaliacao_governo,Regular,30
+2014-06-15,2turno_aecio,Branco e Nulo,avaliacao_governo,Regular,14
+2014-06-15,2turno_aecio,Dilma Rousseff,avaliacao_governo,Regular,43
+2014-06-15,2turno_aecio,NS/NR*,avaliacao_governo,Regular,13
+2014-06-15,2turno_aecio,Aécio Neves,avaliacao_governo,Ruim e péssimo,51
+2014-06-15,2turno_aecio,Branco e Nulo,avaliacao_governo,Ruim e péssimo,40
+2014-06-15,2turno_aecio,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,3
+2014-06-15,2turno_aecio,NS/NR*,avaliacao_governo,Ruim e péssimo,6
+2014-06-15,2turno_aecio,Aécio Neves,avaliacao_governo,NS/NR*,24
+2014-06-15,2turno_aecio,Branco e Nulo,avaliacao_governo,NS/NR*,29
+2014-06-15,2turno_aecio,Dilma Rousseff,avaliacao_governo,NS/NR*,18
+2014-06-15,2turno_aecio,NS/NR*,avaliacao_governo,NS/NR*,29
+2014-06-15,2turno_campos,Branco e Nulo,avaliacao_governo,Ótimo e bom,2
+2014-06-15,2turno_campos,Dilma Rousseff,avaliacao_governo,Ótimo e bom,85
+2014-06-15,2turno_campos,Eduardo Campos,avaliacao_governo,Ótimo e bom,9
+2014-06-15,2turno_campos,NS/NR*,avaliacao_governo,Ótimo e bom,4
+2014-06-15,2turno_campos,Branco e Nulo,avaliacao_governo,Regular,17
+2014-06-15,2turno_campos,Dilma Rousseff,avaliacao_governo,Regular,43
+2014-06-15,2turno_campos,Eduardo Campos,avaliacao_governo,Regular,26
+2014-06-15,2turno_campos,NS/NR*,avaliacao_governo,Regular,14
+2014-06-15,2turno_campos,Branco e Nulo,avaliacao_governo,Ruim e péssimo,45
+2014-06-15,2turno_campos,Dilma Rousseff,avaliacao_governo,Ruim e péssimo,3
+2014-06-15,2turno_campos,Eduardo Campos,avaliacao_governo,Ruim e péssimo,44
+2014-06-15,2turno_campos,NS/NR*,avaliacao_governo,Ruim e péssimo,8
+2014-06-15,2turno_campos,Branco e Nulo,avaliacao_governo,NS/NR*,24
+2014-06-15,2turno_campos,Dilma Rousseff,avaliacao_governo,NS/NR*,12
+2014-06-15,2turno_campos,Eduardo Campos,avaliacao_governo,NS/NR*,29
+2014-06-15,2turno_campos,NS/NR*,avaliacao_governo,NS/NR*,35
+2014-06-15,interesse,Tem muito interesse,total,total,16
+2014-06-15,interesse,Tem médio interesse,total,total,29
+2014-06-15,interesse,Não tem interesse,total,total,55
+2014-06-15,interesse,NS/NR*,total,total,1
+2014-06-15,intencao_espontanea,Aécio Neves,total,total,11
+2014-06-15,intencao_espontanea,Branco e Nulo,total,total,16
+2014-06-15,intencao_espontanea,Dilma Rousseff,total,total,25
+2014-06-15,intencao_espontanea,Eduardo Campos,total,total,4
+2014-06-15,intencao_espontanea,Lula,total,total,3
+2014-06-15,intencao_espontanea,Marina Silva,total,total,1
+2014-06-15,intencao_espontanea,NS/NR*,total,total,37
+2014-06-15,intencao_espontanea,Outros,total,total,2
+2014-06-15,intencao_espontanea,Pastor Everaldo,total,total,1
+2014-06-15,intencao_estimulada,Aécio Neves,total,total,21
+2014-06-15,intencao_estimulada,Branco e Nulo,total,total,13
+2014-06-15,intencao_estimulada,Dilma Rousseff,total,total,39
+2014-06-15,intencao_estimulada,Eduardo Campos,total,total,10
+2014-06-15,intencao_estimulada,NS/NR*,total,total,8
+2014-06-15,intencao_estimulada,Outros,total,total,6
+2014-06-15,intencao_estimulada,Pastor Everaldo,total,total,3
+2014-06-15,avaliacao_governo,Ótimo e bom,total,total,31
+2014-06-15,avaliacao_governo,Regular,total,total,34
+2014-06-15,avaliacao_governo,Ruim e péssimo,total,total,33
+2014-06-15,avaliacao_governo,NS/NR*,total,total,1
+2014-06-15,aprova_dilma,Aprova,total,total,44
+2014-06-15,aprova_dilma,Desaprova,total,total,50
+2014-06-15,aprova_dilma,NS/NR*,total,total,6
+2014-06-15,2turno_aecio,Aécio Neves,total,total,30
+2014-06-15,2turno_aecio,Branco e Nulo,total,total,19
+2014-06-15,2turno_aecio,Dilma Rousseff,total,total,43
+2014-06-15,2turno_aecio,NS/NR*,total,total,8
+2014-06-15,2turno_campos,Branco e Nulo,total,total,21
+2014-06-15,2turno_campos,Dilma Rousseff,total,total,43
+2014-06-15,2turno_campos,Eduardo Campos,total,total,27
+2014-06-15,2turno_campos,NS/NR*,total,total,9

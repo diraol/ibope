@@ -52,6 +52,11 @@ body  {
   padding-right: 165px;
 }
 
+.funcionamento {
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
 #leia_tambem h5, #leia_tambem p {
   padding-left: 75px;
   padding-right: 180px;

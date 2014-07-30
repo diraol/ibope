@@ -307,7 +307,6 @@ var Main = (function() {
             crossroads.parse('/p/intencao_estimulada/cr/total/r/total');
         }
 
-
     }
 
     function _ordemLegenda(pergunta) {

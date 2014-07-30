@@ -87,7 +87,7 @@ var Main = (function() {
     var svg = null;
 
     function inicializa() {
-        svg = dimple.newSvg("#grafico", "100%", "60%");
+        svg = dimple.newSvg("#grafico", "100%", "80%");
 
         //desenha grafico
         d3.csv("dados/ibope_2014.csv", function (data) {

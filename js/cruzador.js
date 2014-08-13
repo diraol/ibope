@@ -22,9 +22,8 @@ var Main = (function() {
             'saude': 'Melhora da saúde pública',
             'emprego': 'Melhora das oport. de emprego',
             'educacao': 'Melhora da educação pública',
-            'nota': 'Nota média para o governo'            
+            'nota': 'Nota média para o governo'
         },
-        
         'recorte': {
             'total': {
                 'total': 'Total'
@@ -190,64 +189,19 @@ var Main = (function() {
     }
 
     function _filtra_recorte_por_pergunta(){
-        if (currentRoute["pergunta"] == "desejo_mudanca"){
-            $(".rec-avalia").show();
-            $(".rec-intencao").show();
-            $(".rec-muda").hide();
-            if (currentRoute["categoriaRecorte"] == "desejo_mudanca" ) {
-                currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
-                currentRoute["recorte"] = defaultFilters["recorte"];
-            }
-        } else if (currentRoute["pergunta"] == "avaliacao_governo") {
-            $(".rec-muda").show();
-            $(".rec-intencao").show();
-            $(".rec-avalia").hide();
-            if (currentRoute["categoriaRecorte"] == "avaliacao_governo") {
-                currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
-                currentRoute["recorte"] = defaultFilters["recorte"];
-            }
-        } else if (currentRoute["pergunta"] == "intencao_estimulada") {
-            $(".rec-muda").show();
-            $(".rec-avalia").show();
-            $(".rec-intencao").hide();
-            if (currentRoute["categoriaRecorte"] == "intencao_estimulada") {
-                currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
-                currentRoute["recorte"] = defaultFilters["recorte"];
-            }
-        } else {
-            $(".rec-muda").show();
-            $(".rec-avalia").show();
-            $(".rec-intencao").show();
+        $("[class*='rec-']").show();
+        $(".rec-"+currentRoute["pergunta"]).hide();
+        if (currentRoute["categoriaRecorte"] == currentRoute["pergunta"]) {
+            currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
+            currentRoute["recorte"] = defaultFilters["recorte"];
         }
     }
 
     function _filtra_pergunta_por_catRecorte() {
-        if (currentRoute["categoriaRecorte"] == "desejo_mudanca"){
-            $(".perg-avalia").show();
-            $(".perg-muda").hide();
-            $(".perg-intencao").show();
-            if (currentRoute["pergunta"] == "desejo_mudanca" ) {
-                currentRoute["pergunta"] = defaultFilters["pergunta"];
-            }
-        } else if (currentRoute["categoriaRecorte"] == "avaliacao_governo") {
-            $(".perg-muda").show();
-            $(".perg-avalia").hide();
-            $(".perg-intencao").show();
-            if (currentRoute["pergunta"] == "avaliacao_governo") {
-                currentRoute["pergunta"] = defaultFilters["pergunta"];
-            }
-        }  else if (currentRoute["categoriaRecorte"] == "intencao_estimulada") {
-            $(".perg-muda").show();
-            $(".perg-avalia").show();
-            $(".perg-intencao").hide();
-            if (currentRoute["pergunta"] == "intencao_estimulada") {
-                currentRoute["pergunta"] = defaultFilters["pergunta"];
-            }
-        } else {
-            $(".perg-muda").show();
-            $(".perg-avalia").show();
-            $(".perg-intencao").show();
-            
+        $("[class*='perg-']").show();
+        $(".perg-"+currentRoute["categoriaRecorte"]).hide();
+        if (currentRoute["pergunta"] == "desejo_mudanca") {
+            currentRoute["pergunta"] = defaultFilters["pergunta"];
         }
     }
 

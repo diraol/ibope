@@ -16,8 +16,15 @@ var Main = (function() {
             'desejo_mudanca': 'Desejo de mudança',
             'rejeicao': 'Rejeição',
             '2turno_aecio': '2º turno - com Aécio',
-            '2turno_campos': '2º turno - com Campos'
+            '2turno_campos': '2º turno - com Campos',
+            'favorito': 'Quem você acha que vai ganhar?',
+            'poder_compra': 'Melhora do poder de compra',
+            'saude': 'Melhora da saúde pública',
+            'emprego': 'Melhora das oport. de emprego',
+            'educacao': 'Melhora da educação pública',
+            'nota': 'Nota média para o governo'            
         },
+        
         'recorte': {
             'total': {
                 'total': 'Total'
@@ -74,6 +81,11 @@ var Main = (function() {
             'desejo_mudanca': {
                 'Quer mudança': 'que prefere Mudança',
                 'Quer continuidade': 'que prefere Continuidade'
+            },
+            'intencao_estimulada': {
+                'Dilma Rousseff': 'Dilma Rousseff',
+                'Aécio Neves': 'Aécio Neves',
+                'Eduardo Campos': 'Eduardo Campos'
             }
         }
     };
@@ -180,6 +192,7 @@ var Main = (function() {
     function _filtra_recorte_por_pergunta(){
         if (currentRoute["pergunta"] == "desejo_mudanca"){
             $(".rec-avalia").show();
+            $(".rec-intencao").show();
             $(".rec-muda").hide();
             if (currentRoute["categoriaRecorte"] == "desejo_mudanca" ) {
                 currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
@@ -187,14 +200,24 @@ var Main = (function() {
             }
         } else if (currentRoute["pergunta"] == "avaliacao_governo") {
             $(".rec-muda").show();
+            $(".rec-intencao").show();
             $(".rec-avalia").hide();
             if (currentRoute["categoriaRecorte"] == "avaliacao_governo") {
+                currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
+                currentRoute["recorte"] = defaultFilters["recorte"];
+            }
+        } else if (currentRoute["pergunta"] == "intencao_estimulada") {
+            $(".rec-muda").show();
+            $(".rec-avalia").show();
+            $(".rec-intencao").hide();
+            if (currentRoute["categoriaRecorte"] == "intencao_estimulada") {
                 currentRoute["categoriaRecorte"] = defaultFilters["categoriaRecorte"];
                 currentRoute["recorte"] = defaultFilters["recorte"];
             }
         } else {
             $(".rec-muda").show();
             $(".rec-avalia").show();
+            $(".rec-intencao").show();
         }
     }
 
@@ -202,18 +225,29 @@ var Main = (function() {
         if (currentRoute["categoriaRecorte"] == "desejo_mudanca"){
             $(".perg-avalia").show();
             $(".perg-muda").hide();
+            $(".perg-intencao").show();
             if (currentRoute["pergunta"] == "desejo_mudanca" ) {
                 currentRoute["pergunta"] = defaultFilters["pergunta"];
             }
         } else if (currentRoute["categoriaRecorte"] == "avaliacao_governo") {
             $(".perg-muda").show();
             $(".perg-avalia").hide();
+            $(".perg-intencao").show();
             if (currentRoute["pergunta"] == "avaliacao_governo") {
+                currentRoute["pergunta"] = defaultFilters["pergunta"];
+            }
+        }  else if (currentRoute["categoriaRecorte"] == "intencao_estimulada") {
+            $(".perg-muda").show();
+            $(".perg-avalia").show();
+            $(".perg-intencao").hide();
+            if (currentRoute["pergunta"] == "intencao_estimulada") {
                 currentRoute["pergunta"] = defaultFilters["pergunta"];
             }
         } else {
             $(".perg-muda").show();
             $(".perg-avalia").show();
+            $(".perg-intencao").show();
+            
         }
     }
 
@@ -236,7 +270,7 @@ var Main = (function() {
 
         var data = dimple.filterData(window.complete_data, "cat_pergunta", "intencao_estimulada"); //filtra pergunta
             data = dimple.filterData(data, "cat_recorte", "total"); //filtra categoria do recorte
-        var maximo_y = d3.max(data, function(d){ return parseInt(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
+        var maximo_y = d3.max(data, function(d){ return parseFloat(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
             data = dimple.filterData(data, "recorte", "total"); //filtra recorte na categoria
 
         var myChart = new dimple.chart(svg,data);
@@ -255,8 +289,7 @@ var Main = (function() {
         x.overrideMin = minimo_data.setDate(minimo_data.getDate()*0.95);
         x.overrideMax = maximo_data.setDate(maximo_data.getDate()*1.3);
 
-        myChart.addMeasureAxis("y","valor");
-
+        y = myChart.addMeasureAxis("y","valor");
         linha = myChart.addSeries("dado",dimple.plot.line);
 
         linha.lineWeight = 4
@@ -275,7 +308,6 @@ var Main = (function() {
         //x.fontFamily = "Arial";
         x.fontSize = "95%";
 
-        y = myChart.axes[1]
         y.overrideMax = maximo_y;
 
         //y.fontFamily = "Arial";
@@ -400,7 +432,7 @@ var Main = (function() {
         // filtra os dados de acordo com a pergunta e o recorte atuais
         var data = dimple.filterData(window.complete_data, "cat_pergunta", pergunta); //filtrando pergunta
             data = dimple.filterData(data, "cat_recorte",  cat_recorte); //filtrando categoria recorte
-        var maximo_y = d3.max(data, function(d){ return parseInt(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
+        var maximo_y = d3.max(data, function(d){ return parseFloat(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
             data = dimple.filterData(data, "recorte", recorte); //filtrando recorte
 
         //Escondendo opções de recorte que são incompatíveis com perguntas

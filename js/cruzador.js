@@ -85,7 +85,48 @@ var Main = (function() {
                 'Dilma Rousseff': 'Dilma Rousseff',
                 'Aécio Neves': 'Aécio Neves',
                 'Eduardo Campos': 'Eduardo Campos'
-            }
+            },
+            'favorito': {
+                'Dilma Rousseff': 'Dilma Rousseff',
+                'Aécio Neves': 'Aécio Neves',
+                'Eduardo Campos': 'Eduardo Campos'
+            },
+            'poder_compra': {
+                'Melhorou': 'Melhorou',
+                'Igual': 'Está igual',
+                'Piorou': 'Piorou'                
+            },
+            'emprego': {
+                'Melhorou': 'Melhorou',
+                'Igual': 'Está igual',
+                'Piorou': 'Piorou'                
+            },
+            'saude': {
+                'Melhorou': 'Melhorou',
+                'Igual': 'Está igual',
+                'Piorou': 'Piorou'                
+            },
+            'educacao': {
+                'Melhorou': 'Melhorou',
+                'Igual': 'Está igual',
+                'Piorou': 'Piorou'                
+            },
+            'nota': {
+                '7 ou mais': '7 ou mais',
+                'Entre 4 e 6': 'de 4 a 6',
+                '3 ou menos':'3 ou menos'
+            },
+            'partido': {
+                'PT': 'PT',
+                'PSDB': 'PSDB'                
+            },
+            'bolsa': {
+                'Sim': 'Qualquer benefício do governo',
+                'Não': 'Nenhum benefício do governo'                
+            },
+            'bolsa_familia': {
+                'Sim': 'Bolsa Família'
+            }            
         }
     };
     var currentRoute = {

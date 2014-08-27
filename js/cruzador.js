@@ -17,6 +17,7 @@ var Main = (function() {
             'rejeicao': 'Rejeição',
             '2turno_aecio': '2º turno - com Aécio',
             '2turno_campos': '2º turno - com Campos',
+            '2turno_marina': '2º turno - com Marina',
             'favorito': 'Quem você acha que vai ganhar?',
             'poder_compra': 'Melhora do poder de compra',
             'saude': 'Melhora da saúde pública',
@@ -83,11 +84,13 @@ var Main = (function() {
             },
             'intencao_estimulada': {
                 'Dilma Rousseff': 'Dilma Rousseff',
+                'Marina Silva': 'Marina Silva',
                 'Aécio Neves': 'Aécio Neves',
                 'Eduardo Campos': 'Eduardo Campos'
             },
             'favorito': {
                 'Dilma Rousseff': 'Dilma Rousseff',
+                'Marina Silva': 'Marina Silva',
                 'Aécio Neves': 'Aécio Neves',
                 'Eduardo Campos': 'Eduardo Campos'
             },
@@ -339,15 +342,17 @@ var Main = (function() {
     function _ordemLegenda(pergunta) {
         var orderedValues = []
         if (pergunta.indexOf("intencao_estimulada") != -1) {
-            orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Outros","Branco e Nulo","NS/NR*"];
+            orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Eduardo Campos","Pastor Everaldo","Outros","Branco e Nulo","NS/NR*"];
         } else if (pergunta.indexOf("intencao_espontanea") != -1) {
-            orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo","Lula","Marina Silva","Outros","Branco e Nulo","NS/NR*"];
+            orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Eduardo Campos","Pastor Everaldo","Lula","Outros","Branco e Nulo","NS/NR*"];
         } else if (pergunta.indexOf("rejeicao") != -1) {
-            orderedValues = ["Dilma Rousseff", "Aécio Neves", "Eduardo Campos","Pastor Everaldo"];
+            orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Eduardo Campos","Pastor Everaldo"];
         } else if (pergunta.indexOf("turno_aecio") != -1) {
             orderedValues = ["Dilma Rousseff", "Aécio Neves","Branco e Nulo","NS/NR*"];
         } else if (pergunta.indexOf("turno_campos") != -1) {
             orderedValues = ["Dilma Rousseff", "Eduardo Campos","Branco e Nulo","NS/NR*"];
+        } else if (pergunta.indexOf("turno_marina") != -1) {
+            orderedValues = ["Dilma Rousseff", "Marina Silva","Branco e Nulo","NS/NR*"];
         } else if (pergunta.indexOf("avaliacao") != -1) {
             orderedValues = ["Ótimo e bom","Regular","Ruim e péssimo","NS/NR*"]
         } else if (pergunta.indexOf("interesse")!= -1) {
@@ -378,6 +383,7 @@ var Main = (function() {
             grafico.assignColor("Aécio Neves","#1C4587");
             grafico.assignColor("Dilma Rousseff","#CC0000");
             grafico.assignColor("Eduardo Campos","#E69138");
+            grafico.assignColor("Marina Silva","#E69138");
             grafico.assignColor("Pastor Everaldo","#6AA84F");
             grafico.assignColor("NS/NR*","#2E2B2D");
             grafico.assignColor("Branco e Nulo","#C9C9C9");

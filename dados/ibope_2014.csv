@@ -20713,8 +20713,8 @@
 "2014-09-02","favorito","Marina Silva","sexo","MAS",28
 "2014-09-02","favorito","NS/NR*","sexo","MAS",14
 "2014-09-02","favorito","Outros","sexo","MAS",0
-"2014-09-02","nota","nota","sexo","FEM",5.8
-"2014-09-02","nota","nota","sexo","MAS",5.7
+"2014-09-02","nota","nota","sexo","FEM","5,8"
+"2014-09-02","nota","nota","sexo","MAS","5,7"
 "2014-09-02","poder_compra","Igual","sexo","FEM",28
 "2014-09-02","poder_compra","Melhorou","sexo","FEM",38
 "2014-09-02","poder_compra","NS/NR*","sexo","FEM",2
@@ -20950,11 +20950,11 @@
 "2014-09-02","favorito","Marina Silva","idade","55 ou mais",26
 "2014-09-02","favorito","NS/NR*","idade","55 ou mais",17
 "2014-09-02","favorito","Outros","idade","55 ou mais",0
-"2014-09-02","nota","nota","idade","16 a 24",5.4
-"2014-09-02","nota","nota","idade","25 a 34",5.7
-"2014-09-02","nota","nota","idade","35 a 44",5.5
+"2014-09-02","nota","nota","idade","16 a 24","5,4"
+"2014-09-02","nota","nota","idade","25 a 34","5,7"
+"2014-09-02","nota","nota","idade","35 a 44","5,5"
 "2014-09-02","nota","nota","idade","45 a 54",6
-"2014-09-02","nota","nota","idade","55 ou mais",6.3
+"2014-09-02","nota","nota","idade","55 ou mais","6,3"
 "2014-09-02","poder_compra","Igual","idade","16 a 24",32
 "2014-09-02","poder_compra","Melhorou","idade","16 a 24",33
 "2014-09-02","poder_compra","NS/NR*","idade","16 a 24",1
@@ -21211,10 +21211,10 @@
 "2014-09-02","favorito","Marina Silva","escolaridade","Superior",34
 "2014-09-02","favorito","NS/NR*","escolaridade","Superior",11
 "2014-09-02","favorito","Outros","escolaridade","Superior",0
-"2014-09-02","nota","nota","escolaridade","Fundamental 1",6.9
-"2014-09-02","nota","nota","escolaridade","Fundamental 2",6.2
-"2014-09-02","nota","nota","escolaridade","Medio",5.4
-"2014-09-02","nota","nota","escolaridade","Superior",4.9
+"2014-09-02","nota","nota","escolaridade","Fundamental 1","6,9"
+"2014-09-02","nota","nota","escolaridade","Fundamental 2","6,2"
+"2014-09-02","nota","nota","escolaridade","Medio","5,4"
+"2014-09-02","nota","nota","escolaridade","Superior","4,9"
 "2014-09-02","poder_compra","Igual","escolaridade","Fundamental 1",31
 "2014-09-02","poder_compra","Melhorou","escolaridade","Fundamental 1",36
 "2014-09-02","poder_compra","NS/NR*","escolaridade","Fundamental 1",3
@@ -21451,10 +21451,10 @@
 "2014-09-02","favorito","Marina Silva","renda_familiar","Ate 1",19
 "2014-09-02","favorito","NS/NR*","renda_familiar","Ate 1",19
 "2014-09-02","favorito","Outros","renda_familiar","Ate 1",0
-"2014-09-02","nota","nota","renda_familiar","Mais de 5",4.9
-"2014-09-02","nota","nota","renda_familiar","2 a 5",5.6
-"2014-09-02","nota","nota","renda_familiar","1 a 2",5.9
-"2014-09-02","nota","nota","renda_familiar","Ate 1",6.7
+"2014-09-02","nota","nota","renda_familiar","Mais de 5","4,9"
+"2014-09-02","nota","nota","renda_familiar","2 a 5","5,6"
+"2014-09-02","nota","nota","renda_familiar","1 a 2","5,9"
+"2014-09-02","nota","nota","renda_familiar","Ate 1","6,7"
 "2014-09-02","poder_compra","Igual","renda_familiar","Mais de 5",22
 "2014-09-02","poder_compra","Melhorou","renda_familiar","Mais de 5",43
 "2014-09-02","poder_compra","NS/NR*","renda_familiar","Mais de 5",2
@@ -21652,9 +21652,9 @@
 "2014-09-02","favorito","Marina Silva","condicao_municipio","PERIFERIA",30
 "2014-09-02","favorito","NS/NR*","condicao_municipio","PERIFERIA",21
 "2014-09-02","favorito","Outros","condicao_municipio","PERIFERIA",1
-"2014-09-02","nota","nota","condicao_municipio","CAPITAL",5.4
-"2014-09-02","nota","nota","condicao_municipio","INTERIOR",5.9
-"2014-09-02","nota","nota","condicao_municipio","PERIFERIA",5.7
+"2014-09-02","nota","nota","condicao_municipio","CAPITAL","5,4"
+"2014-09-02","nota","nota","condicao_municipio","INTERIOR","5,9"
+"2014-09-02","nota","nota","condicao_municipio","PERIFERIA","5,7"
 "2014-09-02","poder_compra","Igual","condicao_municipio","CAPITAL",27
 "2014-09-02","poder_compra","Melhorou","condicao_municipio","CAPITAL",41
 "2014-09-02","poder_compra","NS/NR*","condicao_municipio","CAPITAL",2
@@ -21871,10 +21871,10 @@
 "2014-09-02","favorito","Marina Silva","regiao","SUL",26
 "2014-09-02","favorito","NS/NR*","regiao","SUL",24
 "2014-09-02","favorito","Outros","regiao","SUL",1
-"2014-09-02","nota","nota","regiao","NORDESTE",6.7
-"2014-09-02","nota","nota","regiao","NORTE-CENTRO-OESTE",5.8
-"2014-09-02","nota","nota","regiao","SUDESTE",5.2
-"2014-09-02","nota","nota","regiao","SUL",5.7
+"2014-09-02","nota","nota","regiao","NORDESTE","6,7"
+"2014-09-02","nota","nota","regiao","NORTE-CENTRO-OESTE","5,8"
+"2014-09-02","nota","nota","regiao","SUDESTE","5,2"
+"2014-09-02","nota","nota","regiao","SUL","5,7"
 "2014-09-02","poder_compra","Igual","regiao","NORDESTE",28
 "2014-09-02","poder_compra","Melhorou","regiao","NORDESTE",46
 "2014-09-02","poder_compra","NS/NR*","regiao","NORDESTE",2
@@ -22072,9 +22072,9 @@
 "2014-09-02","favorito","Marina Silva","cor","Outras",24
 "2014-09-02","favorito","NS/NR*","cor","Outras",9
 "2014-09-02","favorito","Outros","cor","Outras",2
-"2014-09-02","nota","nota","cor","Branca",5.4
+"2014-09-02","nota","nota","cor","Branca","5,4"
 "2014-09-02","nota","nota","cor","Preta ou parda",6
-"2014-09-02","nota","nota","cor","Outras",5.9
+"2014-09-02","nota","nota","cor","Outras","5,9"
 "2014-09-02","poder_compra","Igual","cor","Branca",29
 "2014-09-02","poder_compra","Melhorou","cor","Branca",33
 "2014-09-02","poder_compra","NS/NR*","cor","Branca",3
@@ -22253,7 +22253,7 @@
 "2014-09-02","favorito","NS/NR*","religiao","Outras",15
 "2014-09-02","favorito","Outros","religiao","Outras",1
 "2014-09-02","nota","nota","religiao","Catolica",6
-"2014-09-02","nota","nota","religiao","Evangelica",5.4
+"2014-09-02","nota","nota","religiao","Evangelica","5,4"
 "2014-09-02","nota","nota","religiao","Outras",5
 "2014-09-02","poder_compra","Igual","religiao","Catolica",28
 "2014-09-02","poder_compra","Melhorou","religiao","Catolica",38
@@ -22423,9 +22423,9 @@
 "2014-09-02","favorito","Marina Silva","vida_hoje","NS/NR*",41
 "2014-09-02","favorito","NS/NR*","vida_hoje","NS/NR*",29
 "2014-09-02","favorito","Outros","vida_hoje","NS/NR*",0
-"2014-09-02","nota","nota","vida_hoje","Satisfeito",5.9
-"2014-09-02","nota","nota","vida_hoje","Insatisfeito",5.1
-"2014-09-02","nota","nota","vida_hoje","NS/NR*",5.8
+"2014-09-02","nota","nota","vida_hoje","Satisfeito","5,9"
+"2014-09-02","nota","nota","vida_hoje","Insatisfeito","5,1"
+"2014-09-02","nota","nota","vida_hoje","NS/NR*","5,8"
 "2014-09-02","poder_compra","Igual","vida_hoje","Satisfeito",28
 "2014-09-02","poder_compra","Melhorou","vida_hoje","Satisfeito",40
 "2014-09-02","poder_compra","NS/NR*","vida_hoje","Satisfeito",2
@@ -22626,10 +22626,10 @@
 "2014-09-02","favorito","Marina Silva","interesse","NS/NR*",29
 "2014-09-02","favorito","NS/NR*","interesse","NS/NR*",33
 "2014-09-02","favorito","Outros","interesse","NS/NR*",0
-"2014-09-02","nota","nota","interesse","Tem muito interesse",6.1
+"2014-09-02","nota","nota","interesse","Tem muito interesse","6,1"
 "2014-09-02","nota","nota","interesse","Tem médio interesse",6
-"2014-09-02","nota","nota","interesse","Não tem interesse",5.5
-"2014-09-02","nota","nota","interesse","NS/NR*",6.1
+"2014-09-02","nota","nota","interesse","Não tem interesse","5,5"
+"2014-09-02","nota","nota","interesse","NS/NR*","6,1"
 "2014-09-02","poder_compra","Igual","interesse","Tem muito interesse",22
 "2014-09-02","poder_compra","Melhorou","interesse","Tem muito interesse",43
 "2014-09-02","poder_compra","NS/NR*","interesse","Tem muito interesse",1
@@ -22818,8 +22818,8 @@
 "2014-09-02","favorito","Marina Silva","desejo_mudanca","NS/NR*",11
 "2014-09-02","favorito","NS/NR*","desejo_mudanca","NS/NR*",54
 "2014-09-02","favorito","Outros","desejo_mudanca","NS/NR*",0
-"2014-09-02","nota","nota","desejo_mudanca","Quer mudança",5.1
-"2014-09-02","nota","nota","desejo_mudanca","Quer continuidade",7.2
+"2014-09-02","nota","nota","desejo_mudanca","Quer mudança","5,1"
+"2014-09-02","nota","nota","desejo_mudanca","Quer continuidade","7,2"
 "2014-09-02","nota","nota","desejo_mudanca","NS/NR*",6
 "2014-09-02","poder_compra","Igual","desejo_mudanca","Quer mudança",29
 "2014-09-02","poder_compra","Melhorou","desejo_mudanca","Quer mudança",34
@@ -23037,10 +23037,10 @@
 "2014-09-02","favorito","Marina Silva","avaliacao_governo","Ruim e péssimo",47
 "2014-09-02","favorito","NS/NR*","avaliacao_governo","Ruim e péssimo",18
 "2014-09-02","favorito","Outros","avaliacao_governo","Ruim e péssimo",1
-"2014-09-02","nota","nota","avaliacao_governo","a",5.9
-"2014-09-02","nota","nota","avaliacao_governo","Ótimo e bom",8.2
-"2014-09-02","nota","nota","avaliacao_governo","Regular",5.8
-"2014-09-02","nota","nota","avaliacao_governo","Ruim e péssimo",2.3
+"2014-09-02","nota","nota","avaliacao_governo","a","5,9"
+"2014-09-02","nota","nota","avaliacao_governo","Ótimo e bom","8,2"
+"2014-09-02","nota","nota","avaliacao_governo","Regular","5,8"
+"2014-09-02","nota","nota","avaliacao_governo","Ruim e péssimo","2,3"
 "2014-09-02","poder_compra","Igual","avaliacao_governo","a",35
 "2014-09-02","poder_compra","Melhorou","avaliacao_governo","a",20
 "2014-09-02","poder_compra","NS/NR*","avaliacao_governo","a",10
@@ -23160,7 +23160,7 @@
 "2014-09-02","favorito","Marina Silva","total","total",28
 "2014-09-02","favorito","NS/NR*","total","total",16
 "2014-09-02","favorito","Outros","total","total",0
-"2014-09-02","nota","nota","total","total",5.8
+"2014-09-02","nota","nota","total","total","5,8"
 "2014-09-02","poder_compra","Igual","total","total",29
 "2014-09-02","poder_compra","Melhorou","total","total",37
 "2014-09-02","poder_compra","NS/NR*","total","total",2
@@ -23374,11 +23374,11 @@
 "2014-09-02","favorito","NS/NR*","intencao_estimulada","Outros",15
 "2014-09-02","favorito","Outros","intencao_estimulada","Outros",5
 "2014-09-02","nota","nota","intencao_estimulada","Aécio Neves",4
-"2014-09-02","nota","nota","intencao_estimulada","Branco e Nulo",3.4
+"2014-09-02","nota","nota","intencao_estimulada","Branco e Nulo","3,4"
 "2014-09-02","nota","nota","intencao_estimulada","Dilma Rousseff",8
-"2014-09-02","nota","nota","intencao_estimulada","Marina Silva",4.7
-"2014-09-02","nota","nota","intencao_estimulada","NS/NR*",5.4
-"2014-09-02","nota","nota","intencao_estimulada","Outros",4.7
+"2014-09-02","nota","nota","intencao_estimulada","Marina Silva","4,7"
+"2014-09-02","nota","nota","intencao_estimulada","NS/NR*","5,4"
+"2014-09-02","nota","nota","intencao_estimulada","Outros","4,7"
 "2014-09-02","poder_compra","Igual","intencao_estimulada","Aécio Neves",30
 "2014-09-02","poder_compra","Melhorou","intencao_estimulada","Aécio Neves",26
 "2014-09-02","poder_compra","NS/NR*","intencao_estimulada","Aécio Neves",1
@@ -23670,10 +23670,10 @@
 "2014-09-02","2turno_aecio","Dilma Rousseff","favorito","Outros",55
 "2014-09-02","2turno_aecio","NS/NR*","favorito","Outros",9
 "2014-09-02","nota","nota","favorito","Aécio Neves",4
-"2014-09-02","nota","nota","favorito","Dilma Rousseff",7.1
-"2014-09-02","nota","nota","favorito","Marina Silva",4.4
-"2014-09-02","nota","nota","favorito","NS/NR*",5.2
-"2014-09-02","nota","nota","favorito","Outros",4.9
+"2014-09-02","nota","nota","favorito","Dilma Rousseff","7,1"
+"2014-09-02","nota","nota","favorito","Marina Silva","4,4"
+"2014-09-02","nota","nota","favorito","NS/NR*","5,2"
+"2014-09-02","nota","nota","favorito","Outros","4,9"
 "2014-09-02","poder_compra","Igual","favorito","Aécio Neves",34
 "2014-09-02","poder_compra","Melhorou","favorito","Aécio Neves",24
 "2014-09-02","poder_compra","NS/NR*","favorito","Aécio Neves",0
@@ -23891,8 +23891,8 @@
 "2014-09-02","favorito","Marina Silva","nota","Entre 4 e 6",37
 "2014-09-02","favorito","NS/NR*","nota","Entre 4 e 6",17
 "2014-09-02","favorito","Outros","nota","Entre 4 e 6",0
-"2014-09-02","nota","nota","nota","3 ou menos",1.2
-"2014-09-02","nota","nota","nota","7 ou mais",8.3
+"2014-09-02","nota","nota","nota","3 ou menos","1,2"
+"2014-09-02","nota","nota","nota","7 ou mais","8,3"
 "2014-09-02","nota","nota","nota","Entre 4 e 6",5
 "2014-09-02","poder_compra","Igual","nota","3 ou menos",28
 "2014-09-02","poder_compra","Melhorou","nota","3 ou menos",16
@@ -24110,10 +24110,10 @@
 "2014-09-02","favorito","Marina Silva","poder_compra","Piorou",38
 "2014-09-02","favorito","NS/NR*","poder_compra","Piorou",18
 "2014-09-02","favorito","Outros","poder_compra","Piorou",0
-"2014-09-02","nota","nota","poder_compra","Igual",5.7
-"2014-09-02","nota","nota","poder_compra","Melhorou",6.8
-"2014-09-02","nota","nota","poder_compra","NS/NR*",6.6
-"2014-09-02","nota","nota","poder_compra","Piorou",4.5
+"2014-09-02","nota","nota","poder_compra","Igual","5,7"
+"2014-09-02","nota","nota","poder_compra","Melhorou","6,8"
+"2014-09-02","nota","nota","poder_compra","NS/NR*","6,6"
+"2014-09-02","nota","nota","poder_compra","Piorou","4,5"
 "2014-09-02","saude","Igual","poder_compra","Igual",30
 "2014-09-02","saude","Melhorou","poder_compra","Igual",15
 "2014-09-02","saude","NS/NR*","poder_compra","Igual",1
@@ -24334,10 +24334,10 @@
 "2014-09-02","favorito","Marina Silva","saude","Piorou",34
 "2014-09-02","favorito","NS/NR*","saude","Piorou",16
 "2014-09-02","favorito","Outros","saude","Piorou",1
-"2014-09-02","nota","nota","saude","Igual",6.3
-"2014-09-02","nota","nota","saude","Melhorou",7.2
+"2014-09-02","nota","nota","saude","Igual","6,3"
+"2014-09-02","nota","nota","saude","Melhorou","7,2"
 "2014-09-02","nota","nota","saude","NS/NR*",6
-"2014-09-02","nota","nota","saude","Piorou",5.1
+"2014-09-02","nota","nota","saude","Piorou","5,1"
 "2014-09-02","poder_compra","Igual","saude","Igual",36
 "2014-09-02","poder_compra","Melhorou","saude","Igual",41
 "2014-09-02","poder_compra","NS/NR*","saude","Igual",1
@@ -24558,10 +24558,10 @@
 "2014-09-02","favorito","Marina Silva","emprego","Piorou",35
 "2014-09-02","favorito","NS/NR*","emprego","Piorou",18
 "2014-09-02","favorito","Outros","emprego","Piorou",1
-"2014-09-02","nota","nota","emprego","Igual",5.6
-"2014-09-02","nota","nota","emprego","Melhorou",6.8
-"2014-09-02","nota","nota","emprego","NS/NR*",6.2
-"2014-09-02","nota","nota","emprego","Piorou",4.6
+"2014-09-02","nota","nota","emprego","Igual","5,6"
+"2014-09-02","nota","nota","emprego","Melhorou","6,8"
+"2014-09-02","nota","nota","emprego","NS/NR*","6,2"
+"2014-09-02","nota","nota","emprego","Piorou","4,6"
 "2014-09-02","poder_compra","Igual","emprego","Igual",44
 "2014-09-02","poder_compra","Melhorou","emprego","Igual",26
 "2014-09-02","poder_compra","NS/NR*","emprego","Igual",1
@@ -24782,10 +24782,10 @@
 "2014-09-02","favorito","Marina Silva","educacao","Piorou",36
 "2014-09-02","favorito","NS/NR*","educacao","Piorou",16
 "2014-09-02","favorito","Outros","educacao","Piorou",1
-"2014-09-02","nota","nota","educacao","Igual",5.9
-"2014-09-02","nota","nota","educacao","Melhorou",7.1
-"2014-09-02","nota","nota","educacao","NS/NR*",6.5
-"2014-09-02","nota","nota","educacao","Piorou",4.5
+"2014-09-02","nota","nota","educacao","Igual","5,9"
+"2014-09-02","nota","nota","educacao","Melhorou","7,1"
+"2014-09-02","nota","nota","educacao","NS/NR*","6,5"
+"2014-09-02","nota","nota","educacao","Piorou","4,5"
 "2014-09-02","poder_compra","Igual","educacao","Igual",38
 "2014-09-02","poder_compra","Melhorou","educacao","Igual",34
 "2014-09-02","poder_compra","NS/NR*","educacao","Igual",1
@@ -25318,18 +25318,18 @@
 "2014-09-02","favorito","Marina Silva","partido","PV",32
 "2014-09-02","favorito","NS/NR*","partido","PV",19
 "2014-09-02","favorito","Outros","partido","PV",3
-"2014-09-02","nota","nota","partido","Não sabe/ Não respondeu",5.8
-"2014-09-02","nota","nota","partido","Nenhum",5.4
-"2014-09-02","nota","nota","partido","Outros com menos de 1%",5.2
-"2014-09-02","nota","nota","partido","PDT",6.8
-"2014-09-02","nota","nota","partido","PMDB",5.7
-"2014-09-02","nota","nota","partido","PP",4.8
+"2014-09-02","nota","nota","partido","Não sabe/ Não respondeu","5,8"
+"2014-09-02","nota","nota","partido","Nenhum","5,4"
+"2014-09-02","nota","nota","partido","Outros com menos de 1%","5,2"
+"2014-09-02","nota","nota","partido","PDT","6,8"
+"2014-09-02","nota","nota","partido","PMDB","5,7"
+"2014-09-02","nota","nota","partido","PP","4,8"
 "2014-09-02","nota","nota","partido","PSB",5
-"2014-09-02","nota","nota","partido","PSD",4.2
-"2014-09-02","nota","nota","partido","PSDB",4.4
-"2014-09-02","nota","nota","partido","PT",7.9
-"2014-09-02","nota","nota","partido","PTB",5.8
-"2014-09-02","nota","nota","partido","PV",4.2
+"2014-09-02","nota","nota","partido","PSD","4,2"
+"2014-09-02","nota","nota","partido","PSDB","4,4"
+"2014-09-02","nota","nota","partido","PT","7,9"
+"2014-09-02","nota","nota","partido","PTB","5,8"
+"2014-09-02","nota","nota","partido","PV","4,2"
 "2014-09-02","poder_compra","Igual","partido","Não sabe/ Não respondeu",32
 "2014-09-02","poder_compra","Melhorou","partido","Não sabe/ Não respondeu",29
 "2014-09-02","poder_compra","NS/NR*","partido","Não sabe/ Não respondeu",17
@@ -25648,7 +25648,7 @@
 "2014-09-02","favorito","Marina Silva","bolsa_familia","Sim",22
 "2014-09-02","favorito","NS/NR*","bolsa_familia","Sim",15
 "2014-09-02","favorito","Outros","bolsa_familia","Sim",0
-"2014-09-02","nota","nota","bolsa_familia","Não",5.4
+"2014-09-02","nota","nota","bolsa_familia","Não","5,4"
 "2014-09-02","nota","nota","bolsa_familia","Sim",7
 "2014-09-02","poder_compra","Igual","bolsa_familia","Não",29
 "2014-09-02","poder_compra","Melhorou","bolsa_familia","Não",35
@@ -25768,8 +25768,8 @@
 "2014-09-02","favorito","Marina Silva","bolsa","Sim",24
 "2014-09-02","favorito","NS/NR*","bolsa","Sim",16
 "2014-09-02","favorito","Outros","bolsa","Sim",0
-"2014-09-02","nota","nota","bolsa","Não",5.3
-"2014-09-02","nota","nota","bolsa","Sim",6.4
+"2014-09-02","nota","nota","bolsa","Não","5,3"
+"2014-09-02","nota","nota","bolsa","Sim","6,4"
 "2014-09-02","poder_compra","Igual","bolsa","Não",30
 "2014-09-02","poder_compra","Melhorou","bolsa","Não",34
 "2014-09-02","poder_compra","NS/NR*","bolsa","Não",1
@@ -26166,3 +26166,1409 @@
 "2014-09-02","avaliacao_governo","Ruim e péssimo","bolsa","Não",30
 "2014-09-02","avaliacao_governo","Ótimo e bom","bolsa","Sim",46
 "2014-09-02","avaliacao_governo","Ruim e péssimo","bolsa","Sim",20
+"2014-09-08","vida_hoje","Satisfeito","sexo","FEM",79
+"2014-09-08","vida_hoje","Insatisfeito","sexo","FEM",21
+"2014-09-08","vida_hoje","NS/NR*","sexo","FEM",0
+"2014-09-08","vida_hoje","Satisfeito","sexo","MAS",83
+"2014-09-08","vida_hoje","Insatisfeito","sexo","MAS",17
+"2014-09-08","vida_hoje","NS/NR*","sexo","MAS",0
+"2014-09-08","interesse","Tem muito interesse","sexo","FEM",18
+"2014-09-08","interesse","Tem médio interesse","sexo","FEM",32
+"2014-09-08","interesse","Não tem interesse","sexo","FEM",50
+"2014-09-08","interesse","NS/NR*","sexo","FEM",0
+"2014-09-08","interesse","Tem muito interesse","sexo","MAS",23
+"2014-09-08","interesse","Tem médio interesse","sexo","MAS",31
+"2014-09-08","interesse","Não tem interesse","sexo","MAS",45
+"2014-09-08","interesse","NS/NR*","sexo","MAS",1
+"2014-09-08","intencao_espontanea","Aécio Neves","sexo","FEM",10
+"2014-09-08","intencao_espontanea","Branco e Nulo","sexo","FEM",12
+"2014-09-08","intencao_espontanea","Dilma Rousseff","sexo","FEM",33
+"2014-09-08","intencao_espontanea","Marina Silva","sexo","FEM",22
+"2014-09-08","intencao_espontanea","NS/NR*","sexo","FEM",22
+"2014-09-08","intencao_espontanea","Outros","sexo","FEM",1
+"2014-09-08","intencao_espontanea","Aécio Neves","sexo","MAS",13
+"2014-09-08","intencao_espontanea","Branco e Nulo","sexo","MAS",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","sexo","MAS",37
+"2014-09-08","intencao_espontanea","Marina Silva","sexo","MAS",24
+"2014-09-08","intencao_espontanea","NS/NR*","sexo","MAS",16
+"2014-09-08","intencao_espontanea","Outros","sexo","MAS",1
+"2014-09-08","intencao_estimulada","Aécio Neves","sexo","FEM",15
+"2014-09-08","intencao_estimulada","Branco e Nulo","sexo","FEM",9
+"2014-09-08","intencao_estimulada","Dilma Rousseff","sexo","FEM",39
+"2014-09-08","intencao_estimulada","Marina Silva","sexo","FEM",30
+"2014-09-08","intencao_estimulada","NS/NR*","sexo","FEM",5
+"2014-09-08","intencao_estimulada","Outros","sexo","FEM",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","sexo","FEM",1
+"2014-09-08","intencao_estimulada","Aécio Neves","sexo","MAS",16
+"2014-09-08","intencao_estimulada","Branco e Nulo","sexo","MAS",7
+"2014-09-08","intencao_estimulada","Dilma Rousseff","sexo","MAS",39
+"2014-09-08","intencao_estimulada","Marina Silva","sexo","MAS",32
+"2014-09-08","intencao_estimulada","NS/NR*","sexo","MAS",4
+"2014-09-08","intencao_estimulada","Outros","sexo","MAS",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","sexo","MAS",1
+"2014-09-08","aprova_dilma","Aprova","sexo","FEM",47
+"2014-09-08","aprova_dilma","Desaprova","sexo","FEM",45
+"2014-09-08","aprova_dilma","NS/NR*","sexo","FEM",8
+"2014-09-08","aprova_dilma","Aprova","sexo","MAS",48
+"2014-09-08","aprova_dilma","Desaprova","sexo","MAS",46
+"2014-09-08","aprova_dilma","NS/NR*","sexo","MAS",5
+"2014-09-08","2turno_aecio","Aécio Neves","sexo","FEM",32
+"2014-09-08","2turno_aecio","Branco e Nulo","sexo","FEM",14
+"2014-09-08","2turno_aecio","Dilma Rousseff","sexo","FEM",48
+"2014-09-08","2turno_aecio","NS/NR*","sexo","FEM",7
+"2014-09-08","2turno_aecio","Aécio Neves","sexo","MAS",35
+"2014-09-08","2turno_aecio","Branco e Nulo","sexo","MAS",12
+"2014-09-08","2turno_aecio","Dilma Rousseff","sexo","MAS",48
+"2014-09-08","2turno_aecio","NS/NR*","sexo","MAS",6
+"2014-09-08","2turno_marina","Branco e Nulo","sexo","FEM",11
+"2014-09-08","2turno_marina","Dilma Rousseff","sexo","FEM",41
+"2014-09-08","2turno_marina","Marina Silva","sexo","FEM",42
+"2014-09-08","2turno_marina","NS/NR*","sexo","FEM",5
+"2014-09-08","2turno_marina","Branco e Nulo","sexo","MAS",10
+"2014-09-08","2turno_marina","Dilma Rousseff","sexo","MAS",43
+"2014-09-08","2turno_marina","Marina Silva","sexo","MAS",44
+"2014-09-08","2turno_marina","NS/NR*","sexo","MAS",4
+"2014-09-08","vida_hoje","Satisfeito","idade","16 a 24",82
+"2014-09-08","vida_hoje","Insatisfeito","idade","16 a 24",18
+"2014-09-08","vida_hoje","NS/NR*","idade","16 a 24",0
+"2014-09-08","vida_hoje","Satisfeito","idade","25 a 34",82
+"2014-09-08","vida_hoje","Insatisfeito","idade","25 a 34",18
+"2014-09-08","vida_hoje","NS/NR*","idade","25 a 34",0
+"2014-09-08","vida_hoje","Satisfeito","idade","35 a 44",80
+"2014-09-08","vida_hoje","Insatisfeito","idade","35 a 44",20
+"2014-09-08","vida_hoje","NS/NR*","idade","35 a 44",0
+"2014-09-08","vida_hoje","Satisfeito","idade","45 a 54",82
+"2014-09-08","vida_hoje","Insatisfeito","idade","45 a 54",18
+"2014-09-08","vida_hoje","NS/NR*","idade","45 a 54",0
+"2014-09-08","vida_hoje","Satisfeito","idade","55 ou mais",78
+"2014-09-08","vida_hoje","Insatisfeito","idade","55 ou mais",22
+"2014-09-08","vida_hoje","NS/NR*","idade","55 ou mais",0
+"2014-09-08","interesse","Tem muito interesse","idade","16 a 24",17
+"2014-09-08","interesse","Tem médio interesse","idade","16 a 24",32
+"2014-09-08","interesse","Não tem interesse","idade","16 a 24",50
+"2014-09-08","interesse","NS/NR*","idade","16 a 24",1
+"2014-09-08","interesse","Tem muito interesse","idade","25 a 34",21
+"2014-09-08","interesse","Tem médio interesse","idade","25 a 34",33
+"2014-09-08","interesse","Não tem interesse","idade","25 a 34",46
+"2014-09-08","interesse","NS/NR*","idade","25 a 34",0
+"2014-09-08","interesse","Tem muito interesse","idade","35 a 44",23
+"2014-09-08","interesse","Tem médio interesse","idade","35 a 44",31
+"2014-09-08","interesse","Não tem interesse","idade","35 a 44",45
+"2014-09-08","interesse","NS/NR*","idade","35 a 44",1
+"2014-09-08","interesse","Tem muito interesse","idade","45 a 54",21
+"2014-09-08","interesse","Tem médio interesse","idade","45 a 54",30
+"2014-09-08","interesse","Não tem interesse","idade","45 a 54",49
+"2014-09-08","interesse","NS/NR*","idade","45 a 54",0
+"2014-09-08","interesse","Tem muito interesse","idade","55 ou mais",19
+"2014-09-08","interesse","Tem médio interesse","idade","55 ou mais",31
+"2014-09-08","interesse","Não tem interesse","idade","55 ou mais",49
+"2014-09-08","interesse","NS/NR*","idade","55 ou mais",1
+"2014-09-08","intencao_espontanea","Aécio Neves","idade","16 a 24",10
+"2014-09-08","intencao_espontanea","Branco e Nulo","idade","16 a 24",11
+"2014-09-08","intencao_espontanea","Dilma Rousseff","idade","16 a 24",32
+"2014-09-08","intencao_espontanea","Marina Silva","idade","16 a 24",24
+"2014-09-08","intencao_espontanea","NS/NR*","idade","16 a 24",22
+"2014-09-08","intencao_espontanea","Outros","idade","16 a 24",1
+"2014-09-08","intencao_espontanea","Aécio Neves","idade","25 a 34",13
+"2014-09-08","intencao_espontanea","Branco e Nulo","idade","25 a 34",11
+"2014-09-08","intencao_espontanea","Dilma Rousseff","idade","25 a 34",35
+"2014-09-08","intencao_espontanea","Marina Silva","idade","25 a 34",25
+"2014-09-08","intencao_espontanea","NS/NR*","idade","25 a 34",16
+"2014-09-08","intencao_espontanea","Outros","idade","25 a 34",1
+"2014-09-08","intencao_espontanea","Aécio Neves","idade","35 a 44",12
+"2014-09-08","intencao_espontanea","Branco e Nulo","idade","35 a 44",11
+"2014-09-08","intencao_espontanea","Dilma Rousseff","idade","35 a 44",32
+"2014-09-08","intencao_espontanea","Marina Silva","idade","35 a 44",25
+"2014-09-08","intencao_espontanea","NS/NR*","idade","35 a 44",19
+"2014-09-08","intencao_espontanea","Outros","idade","35 a 44",1
+"2014-09-08","intencao_espontanea","Aécio Neves","idade","45 a 54",12
+"2014-09-08","intencao_espontanea","Branco e Nulo","idade","45 a 54",12
+"2014-09-08","intencao_espontanea","Dilma Rousseff","idade","45 a 54",37
+"2014-09-08","intencao_espontanea","Marina Silva","idade","45 a 54",18
+"2014-09-08","intencao_espontanea","NS/NR*","idade","45 a 54",20
+"2014-09-08","intencao_espontanea","Outros","idade","45 a 54",1
+"2014-09-08","intencao_espontanea","Aécio Neves","idade","55 ou mais",11
+"2014-09-08","intencao_espontanea","Branco e Nulo","idade","55 ou mais",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","idade","55 ou mais",38
+"2014-09-08","intencao_espontanea","Marina Silva","idade","55 ou mais",20
+"2014-09-08","intencao_espontanea","NS/NR*","idade","55 ou mais",21
+"2014-09-08","intencao_espontanea","Outros","idade","55 ou mais",0
+"2014-09-08","intencao_estimulada","Aécio Neves","idade","16 a 24",14
+"2014-09-08","intencao_estimulada","Branco e Nulo","idade","16 a 24",8
+"2014-09-08","intencao_estimulada","Dilma Rousseff","idade","16 a 24",35
+"2014-09-08","intencao_estimulada","Marina Silva","idade","16 a 24",36
+"2014-09-08","intencao_estimulada","NS/NR*","idade","16 a 24",3
+"2014-09-08","intencao_estimulada","Outros","idade","16 a 24",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","idade","16 a 24",2
+"2014-09-08","intencao_estimulada","Aécio Neves","idade","25 a 34",15
+"2014-09-08","intencao_estimulada","Branco e Nulo","idade","25 a 34",9
+"2014-09-08","intencao_estimulada","Dilma Rousseff","idade","25 a 34",39
+"2014-09-08","intencao_estimulada","Marina Silva","idade","25 a 34",33
+"2014-09-08","intencao_estimulada","NS/NR*","idade","25 a 34",3
+"2014-09-08","intencao_estimulada","Outros","idade","25 a 34",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","idade","25 a 34",1
+"2014-09-08","intencao_estimulada","Aécio Neves","idade","35 a 44",17
+"2014-09-08","intencao_estimulada","Branco e Nulo","idade","35 a 44",6
+"2014-09-08","intencao_estimulada","Dilma Rousseff","idade","35 a 44",37
+"2014-09-08","intencao_estimulada","Marina Silva","idade","35 a 44",33
+"2014-09-08","intencao_estimulada","NS/NR*","idade","35 a 44",5
+"2014-09-08","intencao_estimulada","Outros","idade","35 a 44",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","idade","35 a 44",1
+"2014-09-08","intencao_estimulada","Aécio Neves","idade","45 a 54",19
+"2014-09-08","intencao_estimulada","Branco e Nulo","idade","45 a 54",10
+"2014-09-08","intencao_estimulada","Dilma Rousseff","idade","45 a 54",40
+"2014-09-08","intencao_estimulada","Marina Silva","idade","45 a 54",22
+"2014-09-08","intencao_estimulada","NS/NR*","idade","45 a 54",7
+"2014-09-08","intencao_estimulada","Outros","idade","45 a 54",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","idade","45 a 54",1
+"2014-09-08","intencao_estimulada","Aécio Neves","idade","55 ou mais",13
+"2014-09-08","intencao_estimulada","Branco e Nulo","idade","55 ou mais",7
+"2014-09-08","intencao_estimulada","Dilma Rousseff","idade","55 ou mais",44
+"2014-09-08","intencao_estimulada","Marina Silva","idade","55 ou mais",29
+"2014-09-08","intencao_estimulada","NS/NR*","idade","55 ou mais",6
+"2014-09-08","intencao_estimulada","Outros","idade","55 ou mais",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","idade","55 ou mais",0
+"2014-09-08","aprova_dilma","Aprova","idade","16 a 24",46
+"2014-09-08","aprova_dilma","Desaprova","idade","16 a 24",49
+"2014-09-08","aprova_dilma","NS/NR*","idade","16 a 24",5
+"2014-09-08","aprova_dilma","Aprova","idade","25 a 34",44
+"2014-09-08","aprova_dilma","Desaprova","idade","25 a 34",49
+"2014-09-08","aprova_dilma","NS/NR*","idade","25 a 34",6
+"2014-09-08","aprova_dilma","Aprova","idade","35 a 44",47
+"2014-09-08","aprova_dilma","Desaprova","idade","35 a 44",49
+"2014-09-08","aprova_dilma","NS/NR*","idade","35 a 44",4
+"2014-09-08","aprova_dilma","Aprova","idade","45 a 54",48
+"2014-09-08","aprova_dilma","Desaprova","idade","45 a 54",43
+"2014-09-08","aprova_dilma","NS/NR*","idade","45 a 54",9
+"2014-09-08","aprova_dilma","Aprova","idade","55 ou mais",54
+"2014-09-08","aprova_dilma","Desaprova","idade","55 ou mais",37
+"2014-09-08","aprova_dilma","NS/NR*","idade","55 ou mais",9
+"2014-09-08","2turno_aecio","Aécio Neves","idade","16 a 24",34
+"2014-09-08","2turno_aecio","Branco e Nulo","idade","16 a 24",14
+"2014-09-08","2turno_aecio","Dilma Rousseff","idade","16 a 24",48
+"2014-09-08","2turno_aecio","NS/NR*","idade","16 a 24",4
+"2014-09-08","2turno_aecio","Aécio Neves","idade","25 a 34",33
+"2014-09-08","2turno_aecio","Branco e Nulo","idade","25 a 34",14
+"2014-09-08","2turno_aecio","Dilma Rousseff","idade","25 a 34",49
+"2014-09-08","2turno_aecio","NS/NR*","idade","25 a 34",4
+"2014-09-08","2turno_aecio","Aécio Neves","idade","35 a 44",38
+"2014-09-08","2turno_aecio","Branco e Nulo","idade","35 a 44",11
+"2014-09-08","2turno_aecio","Dilma Rousseff","idade","35 a 44",45
+"2014-09-08","2turno_aecio","NS/NR*","idade","35 a 44",6
+"2014-09-08","2turno_aecio","Aécio Neves","idade","45 a 54",32
+"2014-09-08","2turno_aecio","Branco e Nulo","idade","45 a 54",14
+"2014-09-08","2turno_aecio","Dilma Rousseff","idade","45 a 54",46
+"2014-09-08","2turno_aecio","NS/NR*","idade","45 a 54",9
+"2014-09-08","2turno_aecio","Aécio Neves","idade","55 ou mais",29
+"2014-09-08","2turno_aecio","Branco e Nulo","idade","55 ou mais",10
+"2014-09-08","2turno_aecio","Dilma Rousseff","idade","55 ou mais",52
+"2014-09-08","2turno_aecio","NS/NR*","idade","55 ou mais",9
+"2014-09-08","2turno_marina","Branco e Nulo","idade","16 a 24",9
+"2014-09-08","2turno_marina","Dilma Rousseff","idade","16 a 24",40
+"2014-09-08","2turno_marina","Marina Silva","idade","16 a 24",49
+"2014-09-08","2turno_marina","NS/NR*","idade","16 a 24",3
+"2014-09-08","2turno_marina","Branco e Nulo","idade","25 a 34",11
+"2014-09-08","2turno_marina","Dilma Rousseff","idade","25 a 34",41
+"2014-09-08","2turno_marina","Marina Silva","idade","25 a 34",44
+"2014-09-08","2turno_marina","NS/NR*","idade","25 a 34",4
+"2014-09-08","2turno_marina","Branco e Nulo","idade","35 a 44",9
+"2014-09-08","2turno_marina","Dilma Rousseff","idade","35 a 44",40
+"2014-09-08","2turno_marina","Marina Silva","idade","35 a 44",46
+"2014-09-08","2turno_marina","NS/NR*","idade","35 a 44",5
+"2014-09-08","2turno_marina","Branco e Nulo","idade","45 a 54",14
+"2014-09-08","2turno_marina","Dilma Rousseff","idade","45 a 54",44
+"2014-09-08","2turno_marina","Marina Silva","idade","45 a 54",35
+"2014-09-08","2turno_marina","NS/NR*","idade","45 a 54",7
+"2014-09-08","2turno_marina","Branco e Nulo","idade","55 ou mais",9
+"2014-09-08","2turno_marina","Dilma Rousseff","idade","55 ou mais",46
+"2014-09-08","2turno_marina","Marina Silva","idade","55 ou mais",40
+"2014-09-08","2turno_marina","NS/NR*","idade","55 ou mais",6
+"2014-09-08","vida_hoje","Satisfeito","escolaridade","Fundamental 1",78
+"2014-09-08","vida_hoje","Insatisfeito","escolaridade","Fundamental 1",22
+"2014-09-08","vida_hoje","NS/NR*","escolaridade","Fundamental 1",0
+"2014-09-08","vida_hoje","Satisfeito","escolaridade","Fundamental 2",79
+"2014-09-08","vida_hoje","Insatisfeito","escolaridade","Fundamental 2",21
+"2014-09-08","vida_hoje","NS/NR*","escolaridade","Fundamental 2",0
+"2014-09-08","vida_hoje","Satisfeito","escolaridade","Medio",82
+"2014-09-08","vida_hoje","Insatisfeito","escolaridade","Medio",18
+"2014-09-08","vida_hoje","NS/NR*","escolaridade","Medio",0
+"2014-09-08","vida_hoje","Satisfeito","escolaridade","Superior",83
+"2014-09-08","vida_hoje","Insatisfeito","escolaridade","Superior",17
+"2014-09-08","vida_hoje","NS/NR*","escolaridade","Superior",0
+"2014-09-08","interesse","Tem muito interesse","escolaridade","Fundamental 1",14
+"2014-09-08","interesse","Tem médio interesse","escolaridade","Fundamental 1",32
+"2014-09-08","interesse","Não tem interesse","escolaridade","Fundamental 1",53
+"2014-09-08","interesse","NS/NR*","escolaridade","Fundamental 1",1
+"2014-09-08","interesse","Tem muito interesse","escolaridade","Fundamental 2",16
+"2014-09-08","interesse","Tem médio interesse","escolaridade","Fundamental 2",32
+"2014-09-08","interesse","Não tem interesse","escolaridade","Fundamental 2",51
+"2014-09-08","interesse","NS/NR*","escolaridade","Fundamental 2",1
+"2014-09-08","interesse","Tem muito interesse","escolaridade","Medio",20
+"2014-09-08","interesse","Tem médio interesse","escolaridade","Medio",30
+"2014-09-08","interesse","Não tem interesse","escolaridade","Medio",49
+"2014-09-08","interesse","NS/NR*","escolaridade","Medio",0
+"2014-09-08","interesse","Tem muito interesse","escolaridade","Superior",33
+"2014-09-08","interesse","Tem médio interesse","escolaridade","Superior",34
+"2014-09-08","interesse","Não tem interesse","escolaridade","Superior",33
+"2014-09-08","interesse","NS/NR*","escolaridade","Superior",1
+"2014-09-08","intencao_espontanea","Aécio Neves","escolaridade","Fundamental 1",7
+"2014-09-08","intencao_espontanea","Branco e Nulo","escolaridade","Fundamental 1",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","escolaridade","Fundamental 1",46
+"2014-09-08","intencao_espontanea","Marina Silva","escolaridade","Fundamental 1",15
+"2014-09-08","intencao_espontanea","NS/NR*","escolaridade","Fundamental 1",21
+"2014-09-08","intencao_espontanea","Outros","escolaridade","Fundamental 1",1
+"2014-09-08","intencao_espontanea","Aécio Neves","escolaridade","Fundamental 2",8
+"2014-09-08","intencao_espontanea","Branco e Nulo","escolaridade","Fundamental 2",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","escolaridade","Fundamental 2",37
+"2014-09-08","intencao_espontanea","Marina Silva","escolaridade","Fundamental 2",21
+"2014-09-08","intencao_espontanea","NS/NR*","escolaridade","Fundamental 2",24
+"2014-09-08","intencao_espontanea","Outros","escolaridade","Fundamental 2",1
+"2014-09-08","intencao_espontanea","Aécio Neves","escolaridade","Medio",11
+"2014-09-08","intencao_espontanea","Branco e Nulo","escolaridade","Medio",12
+"2014-09-08","intencao_espontanea","Dilma Rousseff","escolaridade","Medio",33
+"2014-09-08","intencao_espontanea","Marina Silva","escolaridade","Medio",25
+"2014-09-08","intencao_espontanea","NS/NR*","escolaridade","Medio",17
+"2014-09-08","intencao_espontanea","Outros","escolaridade","Medio",1
+"2014-09-08","intencao_espontanea","Aécio Neves","escolaridade","Superior",20
+"2014-09-08","intencao_espontanea","Branco e Nulo","escolaridade","Superior",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","escolaridade","Superior",24
+"2014-09-08","intencao_espontanea","Marina Silva","escolaridade","Superior",27
+"2014-09-08","intencao_espontanea","NS/NR*","escolaridade","Superior",17
+"2014-09-08","intencao_espontanea","Outros","escolaridade","Superior",1
+"2014-09-08","intencao_estimulada","Aécio Neves","escolaridade","Fundamental 1",11
+"2014-09-08","intencao_estimulada","Branco e Nulo","escolaridade","Fundamental 1",8
+"2014-09-08","intencao_estimulada","Dilma Rousseff","escolaridade","Fundamental 1",52
+"2014-09-08","intencao_estimulada","Marina Silva","escolaridade","Fundamental 1",21
+"2014-09-08","intencao_estimulada","NS/NR*","escolaridade","Fundamental 1",6
+"2014-09-08","intencao_estimulada","Outros","escolaridade","Fundamental 1",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","escolaridade","Fundamental 1",0
+"2014-09-08","intencao_estimulada","Aécio Neves","escolaridade","Fundamental 2",12
+"2014-09-08","intencao_estimulada","Branco e Nulo","escolaridade","Fundamental 2",6
+"2014-09-08","intencao_estimulada","Dilma Rousseff","escolaridade","Fundamental 2",43
+"2014-09-08","intencao_estimulada","Marina Silva","escolaridade","Fundamental 2",31
+"2014-09-08","intencao_estimulada","NS/NR*","escolaridade","Fundamental 2",6
+"2014-09-08","intencao_estimulada","Outros","escolaridade","Fundamental 2",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","escolaridade","Fundamental 2",1
+"2014-09-08","intencao_estimulada","Aécio Neves","escolaridade","Medio",15
+"2014-09-08","intencao_estimulada","Branco e Nulo","escolaridade","Medio",9
+"2014-09-08","intencao_estimulada","Dilma Rousseff","escolaridade","Medio",36
+"2014-09-08","intencao_estimulada","Marina Silva","escolaridade","Medio",34
+"2014-09-08","intencao_estimulada","NS/NR*","escolaridade","Medio",3
+"2014-09-08","intencao_estimulada","Outros","escolaridade","Medio",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","escolaridade","Medio",1
+"2014-09-08","intencao_estimulada","Aécio Neves","escolaridade","Superior",24
+"2014-09-08","intencao_estimulada","Branco e Nulo","escolaridade","Superior",9
+"2014-09-08","intencao_estimulada","Dilma Rousseff","escolaridade","Superior",27
+"2014-09-08","intencao_estimulada","Marina Silva","escolaridade","Superior",33
+"2014-09-08","intencao_estimulada","NS/NR*","escolaridade","Superior",4
+"2014-09-08","intencao_estimulada","Outros","escolaridade","Superior",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","escolaridade","Superior",1
+"2014-09-08","aprova_dilma","Aprova","escolaridade","Fundamental 1",60
+"2014-09-08","aprova_dilma","Desaprova","escolaridade","Fundamental 1",32
+"2014-09-08","aprova_dilma","NS/NR*","escolaridade","Fundamental 1",8
+"2014-09-08","aprova_dilma","Aprova","escolaridade","Fundamental 2",53
+"2014-09-08","aprova_dilma","Desaprova","escolaridade","Fundamental 2",38
+"2014-09-08","aprova_dilma","NS/NR*","escolaridade","Fundamental 2",8
+"2014-09-08","aprova_dilma","Aprova","escolaridade","Medio",45
+"2014-09-08","aprova_dilma","Desaprova","escolaridade","Medio",50
+"2014-09-08","aprova_dilma","NS/NR*","escolaridade","Medio",6
+"2014-09-08","aprova_dilma","Aprova","escolaridade","Superior",35
+"2014-09-08","aprova_dilma","Desaprova","escolaridade","Superior",60
+"2014-09-08","aprova_dilma","NS/NR*","escolaridade","Superior",5
+"2014-09-08","2turno_aecio","Aécio Neves","escolaridade","Fundamental 1",22
+"2014-09-08","2turno_aecio","Branco e Nulo","escolaridade","Fundamental 1",11
+"2014-09-08","2turno_aecio","Dilma Rousseff","escolaridade","Fundamental 1",59
+"2014-09-08","2turno_aecio","NS/NR*","escolaridade","Fundamental 1",8
+"2014-09-08","2turno_aecio","Aécio Neves","escolaridade","Fundamental 2",27
+"2014-09-08","2turno_aecio","Branco e Nulo","escolaridade","Fundamental 2",11
+"2014-09-08","2turno_aecio","Dilma Rousseff","escolaridade","Fundamental 2",54
+"2014-09-08","2turno_aecio","NS/NR*","escolaridade","Fundamental 2",8
+"2014-09-08","2turno_aecio","Aécio Neves","escolaridade","Medio",36
+"2014-09-08","2turno_aecio","Branco e Nulo","escolaridade","Medio",12
+"2014-09-08","2turno_aecio","Dilma Rousseff","escolaridade","Medio",46
+"2014-09-08","2turno_aecio","NS/NR*","escolaridade","Medio",5
+"2014-09-08","2turno_aecio","Aécio Neves","escolaridade","Superior",45
+"2014-09-08","2turno_aecio","Branco e Nulo","escolaridade","Superior",18
+"2014-09-08","2turno_aecio","Dilma Rousseff","escolaridade","Superior",33
+"2014-09-08","2turno_aecio","NS/NR*","escolaridade","Superior",5
+"2014-09-08","2turno_marina","Branco e Nulo","escolaridade","Fundamental 1",9
+"2014-09-08","2turno_marina","Dilma Rousseff","escolaridade","Fundamental 1",53
+"2014-09-08","2turno_marina","Marina Silva","escolaridade","Fundamental 1",31
+"2014-09-08","2turno_marina","NS/NR*","escolaridade","Fundamental 1",6
+"2014-09-08","2turno_marina","Branco e Nulo","escolaridade","Fundamental 2",8
+"2014-09-08","2turno_marina","Dilma Rousseff","escolaridade","Fundamental 2",47
+"2014-09-08","2turno_marina","Marina Silva","escolaridade","Fundamental 2",40
+"2014-09-08","2turno_marina","NS/NR*","escolaridade","Fundamental 2",5
+"2014-09-08","2turno_marina","Branco e Nulo","escolaridade","Medio",10
+"2014-09-08","2turno_marina","Dilma Rousseff","escolaridade","Medio",40
+"2014-09-08","2turno_marina","Marina Silva","escolaridade","Medio",46
+"2014-09-08","2turno_marina","NS/NR*","escolaridade","Medio",4
+"2014-09-08","2turno_marina","Branco e Nulo","escolaridade","Superior",15
+"2014-09-08","2turno_marina","Dilma Rousseff","escolaridade","Superior",29
+"2014-09-08","2turno_marina","Marina Silva","escolaridade","Superior",50
+"2014-09-08","2turno_marina","NS/NR*","escolaridade","Superior",5
+"2014-09-08","vida_hoje","Satisfeito","renda_familiar","Mais de 5",84
+"2014-09-08","vida_hoje","Insatisfeito","renda_familiar","Mais de 5",16
+"2014-09-08","vida_hoje","NS/NR*","renda_familiar","Mais de 5",0
+"2014-09-08","vida_hoje","Satisfeito","renda_familiar","2 a 5",83
+"2014-09-08","vida_hoje","Insatisfeito","renda_familiar","2 a 5",17
+"2014-09-08","vida_hoje","NS/NR*","renda_familiar","2 a 5",0
+"2014-09-08","vida_hoje","Satisfeito","renda_familiar","1 a 2",78
+"2014-09-08","vida_hoje","Insatisfeito","renda_familiar","1 a 2",22
+"2014-09-08","vida_hoje","NS/NR*","renda_familiar","1 a 2",0
+"2014-09-08","vida_hoje","Satisfeito","renda_familiar","Ate 1",76
+"2014-09-08","vida_hoje","Insatisfeito","renda_familiar","Ate 1",24
+"2014-09-08","vida_hoje","NS/NR*","renda_familiar","Ate 1",0
+"2014-09-08","interesse","Tem muito interesse","renda_familiar","Mais de 5",33
+"2014-09-08","interesse","Tem médio interesse","renda_familiar","Mais de 5",31
+"2014-09-08","interesse","Não tem interesse","renda_familiar","Mais de 5",34
+"2014-09-08","interesse","NS/NR*","renda_familiar","Mais de 5",1
+"2014-09-08","interesse","Tem muito interesse","renda_familiar","2 a 5",19
+"2014-09-08","interesse","Tem médio interesse","renda_familiar","2 a 5",33
+"2014-09-08","interesse","Não tem interesse","renda_familiar","2 a 5",48
+"2014-09-08","interesse","NS/NR*","renda_familiar","2 a 5",1
+"2014-09-08","interesse","Tem muito interesse","renda_familiar","1 a 2",17
+"2014-09-08","interesse","Tem médio interesse","renda_familiar","1 a 2",32
+"2014-09-08","interesse","Não tem interesse","renda_familiar","1 a 2",51
+"2014-09-08","interesse","NS/NR*","renda_familiar","1 a 2",1
+"2014-09-08","interesse","Tem muito interesse","renda_familiar","Ate 1",21
+"2014-09-08","interesse","Tem médio interesse","renda_familiar","Ate 1",28
+"2014-09-08","interesse","Não tem interesse","renda_familiar","Ate 1",50
+"2014-09-08","interesse","NS/NR*","renda_familiar","Ate 1",0
+"2014-09-08","intencao_espontanea","Aécio Neves","renda_familiar","Mais de 5",20
+"2014-09-08","intencao_espontanea","Branco e Nulo","renda_familiar","Mais de 5",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","renda_familiar","Mais de 5",24
+"2014-09-08","intencao_espontanea","Marina Silva","renda_familiar","Mais de 5",33
+"2014-09-08","intencao_espontanea","NS/NR*","renda_familiar","Mais de 5",13
+"2014-09-08","intencao_espontanea","Outros","renda_familiar","Mais de 5",0
+"2014-09-08","intencao_espontanea","Aécio Neves","renda_familiar","2 a 5",13
+"2014-09-08","intencao_espontanea","Branco e Nulo","renda_familiar","2 a 5",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","renda_familiar","2 a 5",31
+"2014-09-08","intencao_espontanea","Marina Silva","renda_familiar","2 a 5",26
+"2014-09-08","intencao_espontanea","NS/NR*","renda_familiar","2 a 5",19
+"2014-09-08","intencao_espontanea","Outros","renda_familiar","2 a 5",1
+"2014-09-08","intencao_espontanea","Aécio Neves","renda_familiar","1 a 2",8
+"2014-09-08","intencao_espontanea","Branco e Nulo","renda_familiar","1 a 2",12
+"2014-09-08","intencao_espontanea","Dilma Rousseff","renda_familiar","1 a 2",38
+"2014-09-08","intencao_espontanea","Marina Silva","renda_familiar","1 a 2",19
+"2014-09-08","intencao_espontanea","NS/NR*","renda_familiar","1 a 2",22
+"2014-09-08","intencao_espontanea","Outros","renda_familiar","1 a 2",1
+"2014-09-08","intencao_espontanea","Aécio Neves","renda_familiar","Ate 1",8
+"2014-09-08","intencao_espontanea","Branco e Nulo","renda_familiar","Ate 1",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","renda_familiar","Ate 1",52
+"2014-09-08","intencao_espontanea","Marina Silva","renda_familiar","Ate 1",15
+"2014-09-08","intencao_espontanea","NS/NR*","renda_familiar","Ate 1",14
+"2014-09-08","intencao_espontanea","Outros","renda_familiar","Ate 1",1
+"2014-09-08","intencao_estimulada","Aécio Neves","renda_familiar","Mais de 5",25
+"2014-09-08","intencao_estimulada","Branco e Nulo","renda_familiar","Mais de 5",7
+"2014-09-08","intencao_estimulada","Dilma Rousseff","renda_familiar","Mais de 5",24
+"2014-09-08","intencao_estimulada","Marina Silva","renda_familiar","Mais de 5",40
+"2014-09-08","intencao_estimulada","NS/NR*","renda_familiar","Mais de 5",3
+"2014-09-08","intencao_estimulada","Outros","renda_familiar","Mais de 5",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","renda_familiar","Mais de 5",0
+"2014-09-08","intencao_estimulada","Aécio Neves","renda_familiar","2 a 5",18
+"2014-09-08","intencao_estimulada","Branco e Nulo","renda_familiar","2 a 5",8
+"2014-09-08","intencao_estimulada","Dilma Rousseff","renda_familiar","2 a 5",35
+"2014-09-08","intencao_estimulada","Marina Silva","renda_familiar","2 a 5",33
+"2014-09-08","intencao_estimulada","NS/NR*","renda_familiar","2 a 5",4
+"2014-09-08","intencao_estimulada","Outros","renda_familiar","2 a 5",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","renda_familiar","2 a 5",1
+"2014-09-08","intencao_estimulada","Aécio Neves","renda_familiar","1 a 2",11
+"2014-09-08","intencao_estimulada","Branco e Nulo","renda_familiar","1 a 2",8
+"2014-09-08","intencao_estimulada","Dilma Rousseff","renda_familiar","1 a 2",45
+"2014-09-08","intencao_estimulada","Marina Silva","renda_familiar","1 a 2",28
+"2014-09-08","intencao_estimulada","NS/NR*","renda_familiar","1 a 2",5
+"2014-09-08","intencao_estimulada","Outros","renda_familiar","1 a 2",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","renda_familiar","1 a 2",1
+"2014-09-08","intencao_estimulada","Aécio Neves","renda_familiar","Ate 1",9
+"2014-09-08","intencao_estimulada","Branco e Nulo","renda_familiar","Ate 1",8
+"2014-09-08","intencao_estimulada","Dilma Rousseff","renda_familiar","Ate 1",56
+"2014-09-08","intencao_estimulada","Marina Silva","renda_familiar","Ate 1",19
+"2014-09-08","intencao_estimulada","NS/NR*","renda_familiar","Ate 1",6
+"2014-09-08","intencao_estimulada","Outros","renda_familiar","Ate 1",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","renda_familiar","Ate 1",0
+"2014-09-08","aprova_dilma","Aprova","renda_familiar","Mais de 5",37
+"2014-09-08","aprova_dilma","Desaprova","renda_familiar","Mais de 5",60
+"2014-09-08","aprova_dilma","NS/NR*","renda_familiar","Mais de 5",4
+"2014-09-08","aprova_dilma","Aprova","renda_familiar","2 a 5",45
+"2014-09-08","aprova_dilma","Desaprova","renda_familiar","2 a 5",47
+"2014-09-08","aprova_dilma","NS/NR*","renda_familiar","2 a 5",8
+"2014-09-08","aprova_dilma","Aprova","renda_familiar","1 a 2",51
+"2014-09-08","aprova_dilma","Desaprova","renda_familiar","1 a 2",44
+"2014-09-08","aprova_dilma","NS/NR*","renda_familiar","1 a 2",5
+"2014-09-08","aprova_dilma","Aprova","renda_familiar","Ate 1",57
+"2014-09-08","aprova_dilma","Desaprova","renda_familiar","Ate 1",36
+"2014-09-08","aprova_dilma","NS/NR*","renda_familiar","Ate 1",7
+"2014-09-08","2turno_aecio","Aécio Neves","renda_familiar","Mais de 5",47
+"2014-09-08","2turno_aecio","Branco e Nulo","renda_familiar","Mais de 5",15
+"2014-09-08","2turno_aecio","Dilma Rousseff","renda_familiar","Mais de 5",33
+"2014-09-08","2turno_aecio","NS/NR*","renda_familiar","Mais de 5",4
+"2014-09-08","2turno_aecio","Aécio Neves","renda_familiar","2 a 5",38
+"2014-09-08","2turno_aecio","Branco e Nulo","renda_familiar","2 a 5",13
+"2014-09-08","2turno_aecio","Dilma Rousseff","renda_familiar","2 a 5",44
+"2014-09-08","2turno_aecio","NS/NR*","renda_familiar","2 a 5",5
+"2014-09-08","2turno_aecio","Aécio Neves","renda_familiar","1 a 2",27
+"2014-09-08","2turno_aecio","Branco e Nulo","renda_familiar","1 a 2",12
+"2014-09-08","2turno_aecio","Dilma Rousseff","renda_familiar","1 a 2",53
+"2014-09-08","2turno_aecio","NS/NR*","renda_familiar","1 a 2",7
+"2014-09-08","2turno_aecio","Aécio Neves","renda_familiar","Ate 1",18
+"2014-09-08","2turno_aecio","Branco e Nulo","renda_familiar","Ate 1",10
+"2014-09-08","2turno_aecio","Dilma Rousseff","renda_familiar","Ate 1",63
+"2014-09-08","2turno_aecio","NS/NR*","renda_familiar","Ate 1",8
+"2014-09-08","2turno_marina","Branco e Nulo","renda_familiar","Mais de 5",12
+"2014-09-08","2turno_marina","Dilma Rousseff","renda_familiar","Mais de 5",30
+"2014-09-08","2turno_marina","Marina Silva","renda_familiar","Mais de 5",56
+"2014-09-08","2turno_marina","NS/NR*","renda_familiar","Mais de 5",2
+"2014-09-08","2turno_marina","Branco e Nulo","renda_familiar","2 a 5",10
+"2014-09-08","2turno_marina","Dilma Rousseff","renda_familiar","2 a 5",38
+"2014-09-08","2turno_marina","Marina Silva","renda_familiar","2 a 5",48
+"2014-09-08","2turno_marina","NS/NR*","renda_familiar","2 a 5",4
+"2014-09-08","2turno_marina","Branco e Nulo","renda_familiar","1 a 2",10
+"2014-09-08","2turno_marina","Dilma Rousseff","renda_familiar","1 a 2",48
+"2014-09-08","2turno_marina","Marina Silva","renda_familiar","1 a 2",37
+"2014-09-08","2turno_marina","NS/NR*","renda_familiar","1 a 2",5
+"2014-09-08","2turno_marina","Branco e Nulo","renda_familiar","Ate 1",8
+"2014-09-08","2turno_marina","Dilma Rousseff","renda_familiar","Ate 1",58
+"2014-09-08","2turno_marina","Marina Silva","renda_familiar","Ate 1",28
+"2014-09-08","2turno_marina","NS/NR*","renda_familiar","Ate 1",7
+"2014-09-08","vida_hoje","Satisfeito","condicao_municipio","CAPITAL",82
+"2014-09-08","vida_hoje","Insatisfeito","condicao_municipio","CAPITAL",18
+"2014-09-08","vida_hoje","NS/NR*","condicao_municipio","CAPITAL",0
+"2014-09-08","vida_hoje","Satisfeito","condicao_municipio","INTERIOR",81
+"2014-09-08","vida_hoje","Insatisfeito","condicao_municipio","INTERIOR",19
+"2014-09-08","vida_hoje","NS/NR*","condicao_municipio","INTERIOR",0
+"2014-09-08","vida_hoje","Satisfeito","condicao_municipio","PERIFERIA",80
+"2014-09-08","vida_hoje","Insatisfeito","condicao_municipio","PERIFERIA",20
+"2014-09-08","vida_hoje","NS/NR*","condicao_municipio","PERIFERIA",0
+"2014-09-08","interesse","Tem muito interesse","condicao_municipio","CAPITAL",22
+"2014-09-08","interesse","Tem médio interesse","condicao_municipio","CAPITAL",33
+"2014-09-08","interesse","Não tem interesse","condicao_municipio","CAPITAL",45
+"2014-09-08","interesse","NS/NR*","condicao_municipio","CAPITAL",0
+"2014-09-08","interesse","Tem muito interesse","condicao_municipio","INTERIOR",19
+"2014-09-08","interesse","Tem médio interesse","condicao_municipio","INTERIOR",33
+"2014-09-08","interesse","Não tem interesse","condicao_municipio","INTERIOR",47
+"2014-09-08","interesse","NS/NR*","condicao_municipio","INTERIOR",1
+"2014-09-08","interesse","Tem muito interesse","condicao_municipio","PERIFERIA",26
+"2014-09-08","interesse","Tem médio interesse","condicao_municipio","PERIFERIA",21
+"2014-09-08","interesse","Não tem interesse","condicao_municipio","PERIFERIA",54
+"2014-09-08","interesse","NS/NR*","condicao_municipio","PERIFERIA",0
+"2014-09-08","intencao_espontanea","Aécio Neves","condicao_municipio","CAPITAL",13
+"2014-09-08","intencao_espontanea","Branco e Nulo","condicao_municipio","CAPITAL",13
+"2014-09-08","intencao_espontanea","Dilma Rousseff","condicao_municipio","CAPITAL",30
+"2014-09-08","intencao_espontanea","Marina Silva","condicao_municipio","CAPITAL",27
+"2014-09-08","intencao_espontanea","NS/NR*","condicao_municipio","CAPITAL",17
+"2014-09-08","intencao_espontanea","Outros","condicao_municipio","CAPITAL",1
+"2014-09-08","intencao_espontanea","Aécio Neves","condicao_municipio","INTERIOR",12
+"2014-09-08","intencao_espontanea","Branco e Nulo","condicao_municipio","INTERIOR",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","condicao_municipio","INTERIOR",37
+"2014-09-08","intencao_espontanea","Marina Silva","condicao_municipio","INTERIOR",21
+"2014-09-08","intencao_espontanea","NS/NR*","condicao_municipio","INTERIOR",20
+"2014-09-08","intencao_espontanea","Outros","condicao_municipio","INTERIOR",1
+"2014-09-08","intencao_espontanea","Aécio Neves","condicao_municipio","PERIFERIA",8
+"2014-09-08","intencao_espontanea","Branco e Nulo","condicao_municipio","PERIFERIA",11
+"2014-09-08","intencao_espontanea","Dilma Rousseff","condicao_municipio","PERIFERIA",33
+"2014-09-08","intencao_espontanea","Marina Silva","condicao_municipio","PERIFERIA",25
+"2014-09-08","intencao_espontanea","NS/NR*","condicao_municipio","PERIFERIA",21
+"2014-09-08","intencao_espontanea","Outros","condicao_municipio","PERIFERIA",1
+"2014-09-08","intencao_estimulada","Aécio Neves","condicao_municipio","CAPITAL",18
+"2014-09-08","intencao_estimulada","Branco e Nulo","condicao_municipio","CAPITAL",9
+"2014-09-08","intencao_estimulada","Dilma Rousseff","condicao_municipio","CAPITAL",32
+"2014-09-08","intencao_estimulada","Marina Silva","condicao_municipio","CAPITAL",34
+"2014-09-08","intencao_estimulada","NS/NR*","condicao_municipio","CAPITAL",4
+"2014-09-08","intencao_estimulada","Outros","condicao_municipio","CAPITAL",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","condicao_municipio","CAPITAL",1
+"2014-09-08","intencao_estimulada","Aécio Neves","condicao_municipio","INTERIOR",15
+"2014-09-08","intencao_estimulada","Branco e Nulo","condicao_municipio","INTERIOR",7
+"2014-09-08","intencao_estimulada","Dilma Rousseff","condicao_municipio","INTERIOR",43
+"2014-09-08","intencao_estimulada","Marina Silva","condicao_municipio","INTERIOR",29
+"2014-09-08","intencao_estimulada","NS/NR*","condicao_municipio","INTERIOR",5
+"2014-09-08","intencao_estimulada","Outros","condicao_municipio","INTERIOR",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","condicao_municipio","INTERIOR",1
+"2014-09-08","intencao_estimulada","Aécio Neves","condicao_municipio","PERIFERIA",14
+"2014-09-08","intencao_estimulada","Branco e Nulo","condicao_municipio","PERIFERIA",10
+"2014-09-08","intencao_estimulada","Dilma Rousseff","condicao_municipio","PERIFERIA",35
+"2014-09-08","intencao_estimulada","Marina Silva","condicao_municipio","PERIFERIA",32
+"2014-09-08","intencao_estimulada","NS/NR*","condicao_municipio","PERIFERIA",6
+"2014-09-08","intencao_estimulada","Outros","condicao_municipio","PERIFERIA",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","condicao_municipio","PERIFERIA",2
+"2014-09-08","aprova_dilma","Aprova","condicao_municipio","CAPITAL",40
+"2014-09-08","aprova_dilma","Desaprova","condicao_municipio","CAPITAL",54
+"2014-09-08","aprova_dilma","NS/NR*","condicao_municipio","CAPITAL",6
+"2014-09-08","aprova_dilma","Aprova","condicao_municipio","INTERIOR",51
+"2014-09-08","aprova_dilma","Desaprova","condicao_municipio","INTERIOR",42
+"2014-09-08","aprova_dilma","NS/NR*","condicao_municipio","INTERIOR",7
+"2014-09-08","aprova_dilma","Aprova","condicao_municipio","PERIFERIA",47
+"2014-09-08","aprova_dilma","Desaprova","condicao_municipio","PERIFERIA",48
+"2014-09-08","aprova_dilma","NS/NR*","condicao_municipio","PERIFERIA",4
+"2014-09-08","2turno_aecio","Aécio Neves","condicao_municipio","CAPITAL",37
+"2014-09-08","2turno_aecio","Branco e Nulo","condicao_municipio","CAPITAL",16
+"2014-09-08","2turno_aecio","Dilma Rousseff","condicao_municipio","CAPITAL",41
+"2014-09-08","2turno_aecio","NS/NR*","condicao_municipio","CAPITAL",6
+"2014-09-08","2turno_aecio","Aécio Neves","condicao_municipio","INTERIOR",31
+"2014-09-08","2turno_aecio","Branco e Nulo","condicao_municipio","INTERIOR",12
+"2014-09-08","2turno_aecio","Dilma Rousseff","condicao_municipio","INTERIOR",51
+"2014-09-08","2turno_aecio","NS/NR*","condicao_municipio","INTERIOR",6
+"2014-09-08","2turno_aecio","Aécio Neves","condicao_municipio","PERIFERIA",34
+"2014-09-08","2turno_aecio","Branco e Nulo","condicao_municipio","PERIFERIA",12
+"2014-09-08","2turno_aecio","Dilma Rousseff","condicao_municipio","PERIFERIA",45
+"2014-09-08","2turno_aecio","NS/NR*","condicao_municipio","PERIFERIA",9
+"2014-09-08","2turno_marina","Branco e Nulo","condicao_municipio","CAPITAL",11
+"2014-09-08","2turno_marina","Dilma Rousseff","condicao_municipio","CAPITAL",35
+"2014-09-08","2turno_marina","Marina Silva","condicao_municipio","CAPITAL",49
+"2014-09-08","2turno_marina","NS/NR*","condicao_municipio","CAPITAL",5
+"2014-09-08","2turno_marina","Branco e Nulo","condicao_municipio","INTERIOR",10
+"2014-09-08","2turno_marina","Dilma Rousseff","condicao_municipio","INTERIOR",46
+"2014-09-08","2turno_marina","Marina Silva","condicao_municipio","INTERIOR",40
+"2014-09-08","2turno_marina","NS/NR*","condicao_municipio","INTERIOR",4
+"2014-09-08","2turno_marina","Branco e Nulo","condicao_municipio","PERIFERIA",12
+"2014-09-08","2turno_marina","Dilma Rousseff","condicao_municipio","PERIFERIA",37
+"2014-09-08","2turno_marina","Marina Silva","condicao_municipio","PERIFERIA",43
+"2014-09-08","2turno_marina","NS/NR*","condicao_municipio","PERIFERIA",8
+"2014-09-08","vida_hoje","Satisfeito","regiao","NORDESTE",85
+"2014-09-08","vida_hoje","Insatisfeito","regiao","NORDESTE",15
+"2014-09-08","vida_hoje","NS/NR*","regiao","NORDESTE",0
+"2014-09-08","vida_hoje","Satisfeito","regiao","NORTE-CENTRO-OESTE",80
+"2014-09-08","vida_hoje","Insatisfeito","regiao","NORTE-CENTRO-OESTE",20
+"2014-09-08","vida_hoje","NS/NR*","regiao","NORTE-CENTRO-OESTE",0
+"2014-09-08","vida_hoje","Satisfeito","regiao","SUDESTE",78
+"2014-09-08","vida_hoje","Insatisfeito","regiao","SUDESTE",22
+"2014-09-08","vida_hoje","NS/NR*","regiao","SUDESTE",0
+"2014-09-08","vida_hoje","Satisfeito","regiao","SUL",83
+"2014-09-08","vida_hoje","Insatisfeito","regiao","SUL",17
+"2014-09-08","vida_hoje","NS/NR*","regiao","SUL",0
+"2014-09-08","interesse","Tem muito interesse","regiao","NORDESTE",25
+"2014-09-08","interesse","Tem médio interesse","regiao","NORDESTE",28
+"2014-09-08","interesse","Não tem interesse","regiao","NORDESTE",47
+"2014-09-08","interesse","NS/NR*","regiao","NORDESTE",0
+"2014-09-08","interesse","Tem muito interesse","regiao","NORTE-CENTRO-OESTE",18
+"2014-09-08","interesse","Tem médio interesse","regiao","NORTE-CENTRO-OESTE",43
+"2014-09-08","interesse","Não tem interesse","regiao","NORTE-CENTRO-OESTE",37
+"2014-09-08","interesse","NS/NR*","regiao","NORTE-CENTRO-OESTE",1
+"2014-09-08","interesse","Tem muito interesse","regiao","SUDESTE",20
+"2014-09-08","interesse","Tem médio interesse","regiao","SUDESTE",29
+"2014-09-08","interesse","Não tem interesse","regiao","SUDESTE",51
+"2014-09-08","interesse","NS/NR*","regiao","SUDESTE",1
+"2014-09-08","interesse","Tem muito interesse","regiao","SUL",17
+"2014-09-08","interesse","Tem médio interesse","regiao","SUL",35
+"2014-09-08","interesse","Não tem interesse","regiao","SUL",48
+"2014-09-08","interesse","NS/NR*","regiao","SUL",0
+"2014-09-08","intencao_espontanea","Aécio Neves","regiao","NORDESTE",6
+"2014-09-08","intencao_espontanea","Branco e Nulo","regiao","NORDESTE",8
+"2014-09-08","intencao_espontanea","Dilma Rousseff","regiao","NORDESTE",53
+"2014-09-08","intencao_espontanea","Marina Silva","regiao","NORDESTE",19
+"2014-09-08","intencao_espontanea","NS/NR*","regiao","NORDESTE",13
+"2014-09-08","intencao_espontanea","Outros","regiao","NORDESTE",0
+"2014-09-08","intencao_espontanea","Aécio Neves","regiao","NORTE-CENTRO-OESTE",12
+"2014-09-08","intencao_espontanea","Branco e Nulo","regiao","NORTE-CENTRO-OESTE",5
+"2014-09-08","intencao_espontanea","Dilma Rousseff","regiao","NORTE-CENTRO-OESTE",44
+"2014-09-08","intencao_espontanea","Marina Silva","regiao","NORTE-CENTRO-OESTE",21
+"2014-09-08","intencao_espontanea","NS/NR*","regiao","NORTE-CENTRO-OESTE",17
+"2014-09-08","intencao_espontanea","Outros","regiao","NORTE-CENTRO-OESTE",1
+"2014-09-08","intencao_espontanea","Aécio Neves","regiao","SUDESTE",15
+"2014-09-08","intencao_espontanea","Branco e Nulo","regiao","SUDESTE",15
+"2014-09-08","intencao_espontanea","Dilma Rousseff","regiao","SUDESTE",23
+"2014-09-08","intencao_espontanea","Marina Silva","regiao","SUDESTE",26
+"2014-09-08","intencao_espontanea","NS/NR*","regiao","SUDESTE",20
+"2014-09-08","intencao_espontanea","Outros","regiao","SUDESTE",1
+"2014-09-08","intencao_espontanea","Aécio Neves","regiao","SUL",12
+"2014-09-08","intencao_espontanea","Branco e Nulo","regiao","SUL",8
+"2014-09-08","intencao_espontanea","Dilma Rousseff","regiao","SUL",29
+"2014-09-08","intencao_espontanea","Marina Silva","regiao","SUL",21
+"2014-09-08","intencao_espontanea","NS/NR*","regiao","SUL",29
+"2014-09-08","intencao_espontanea","Outros","regiao","SUL",0
+"2014-09-08","intencao_estimulada","Aécio Neves","regiao","NORDESTE",8
+"2014-09-08","intencao_estimulada","Branco e Nulo","regiao","NORDESTE",6
+"2014-09-08","intencao_estimulada","Dilma Rousseff","regiao","NORDESTE",57
+"2014-09-08","intencao_estimulada","Marina Silva","regiao","NORDESTE",24
+"2014-09-08","intencao_estimulada","NS/NR*","regiao","NORDESTE",4
+"2014-09-08","intencao_estimulada","Outros","regiao","NORDESTE",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","regiao","NORDESTE",0
+"2014-09-08","intencao_estimulada","Aécio Neves","regiao","NORTE-CENTRO-OESTE",16
+"2014-09-08","intencao_estimulada","Branco e Nulo","regiao","NORTE-CENTRO-OESTE",4
+"2014-09-08","intencao_estimulada","Dilma Rousseff","regiao","NORTE-CENTRO-OESTE",47
+"2014-09-08","intencao_estimulada","Marina Silva","regiao","NORTE-CENTRO-OESTE",26
+"2014-09-08","intencao_estimulada","NS/NR*","regiao","NORTE-CENTRO-OESTE",3
+"2014-09-08","intencao_estimulada","Outros","regiao","NORTE-CENTRO-OESTE",3
+"2014-09-08","intencao_estimulada","Pastor Everaldo","regiao","NORTE-CENTRO-OESTE",1
+"2014-09-08","intencao_estimulada","Aécio Neves","regiao","SUDESTE",19
+"2014-09-08","intencao_estimulada","Branco e Nulo","regiao","SUDESTE",11
+"2014-09-08","intencao_estimulada","Dilma Rousseff","regiao","SUDESTE",26
+"2014-09-08","intencao_estimulada","Marina Silva","regiao","SUDESTE",35
+"2014-09-08","intencao_estimulada","NS/NR*","regiao","SUDESTE",6
+"2014-09-08","intencao_estimulada","Outros","regiao","SUDESTE",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","regiao","SUDESTE",1
+"2014-09-08","intencao_estimulada","Aécio Neves","regiao","SUL",17
+"2014-09-08","intencao_estimulada","Branco e Nulo","regiao","SUL",6
+"2014-09-08","intencao_estimulada","Dilma Rousseff","regiao","SUL",37
+"2014-09-08","intencao_estimulada","Marina Silva","regiao","SUL",34
+"2014-09-08","intencao_estimulada","NS/NR*","regiao","SUL",6
+"2014-09-08","intencao_estimulada","Outros","regiao","SUL",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","regiao","SUL",1
+"2014-09-08","aprova_dilma","Aprova","regiao","NORDESTE",63
+"2014-09-08","aprova_dilma","Desaprova","regiao","NORDESTE",33
+"2014-09-08","aprova_dilma","NS/NR*","regiao","NORDESTE",4
+"2014-09-08","aprova_dilma","Aprova","regiao","NORTE-CENTRO-OESTE",49
+"2014-09-08","aprova_dilma","Desaprova","regiao","NORTE-CENTRO-OESTE",43
+"2014-09-08","aprova_dilma","NS/NR*","regiao","NORTE-CENTRO-OESTE",8
+"2014-09-08","aprova_dilma","Aprova","regiao","SUDESTE",37
+"2014-09-08","aprova_dilma","Desaprova","regiao","SUDESTE",57
+"2014-09-08","aprova_dilma","NS/NR*","regiao","SUDESTE",6
+"2014-09-08","aprova_dilma","Aprova","regiao","SUL",52
+"2014-09-08","aprova_dilma","Desaprova","regiao","SUL",39
+"2014-09-08","aprova_dilma","NS/NR*","regiao","SUL",10
+"2014-09-08","2turno_aecio","Aécio Neves","regiao","NORDESTE",19
+"2014-09-08","2turno_aecio","Branco e Nulo","regiao","NORDESTE",10
+"2014-09-08","2turno_aecio","Dilma Rousseff","regiao","NORDESTE",65
+"2014-09-08","2turno_aecio","NS/NR*","regiao","NORDESTE",6
+"2014-09-08","2turno_aecio","Aécio Neves","regiao","NORTE-CENTRO-OESTE",34
+"2014-09-08","2turno_aecio","Branco e Nulo","regiao","NORTE-CENTRO-OESTE",6
+"2014-09-08","2turno_aecio","Dilma Rousseff","regiao","NORTE-CENTRO-OESTE",56
+"2014-09-08","2turno_aecio","NS/NR*","regiao","NORTE-CENTRO-OESTE",4
+"2014-09-08","2turno_aecio","Aécio Neves","regiao","SUDESTE",40
+"2014-09-08","2turno_aecio","Branco e Nulo","regiao","SUDESTE",19
+"2014-09-08","2turno_aecio","Dilma Rousseff","regiao","SUDESTE",35
+"2014-09-08","2turno_aecio","NS/NR*","regiao","SUDESTE",7
+"2014-09-08","2turno_aecio","Aécio Neves","regiao","SUL",37
+"2014-09-08","2turno_aecio","Branco e Nulo","regiao","SUL",8
+"2014-09-08","2turno_aecio","Dilma Rousseff","regiao","SUL",48
+"2014-09-08","2turno_aecio","NS/NR*","regiao","SUL",7
+"2014-09-08","2turno_marina","Branco e Nulo","regiao","NORDESTE",6
+"2014-09-08","2turno_marina","Dilma Rousseff","regiao","NORDESTE",58
+"2014-09-08","2turno_marina","Marina Silva","regiao","NORDESTE",31
+"2014-09-08","2turno_marina","NS/NR*","regiao","NORDESTE",4
+"2014-09-08","2turno_marina","Branco e Nulo","regiao","NORTE-CENTRO-OESTE",6
+"2014-09-08","2turno_marina","Dilma Rousseff","regiao","NORTE-CENTRO-OESTE",50
+"2014-09-08","2turno_marina","Marina Silva","regiao","NORTE-CENTRO-OESTE",39
+"2014-09-08","2turno_marina","NS/NR*","regiao","NORTE-CENTRO-OESTE",4
+"2014-09-08","2turno_marina","Branco e Nulo","regiao","SUDESTE",15
+"2014-09-08","2turno_marina","Dilma Rousseff","regiao","SUDESTE",29
+"2014-09-08","2turno_marina","Marina Silva","regiao","SUDESTE",50
+"2014-09-08","2turno_marina","NS/NR*","regiao","SUDESTE",5
+"2014-09-08","2turno_marina","Branco e Nulo","regiao","SUL",8
+"2014-09-08","2turno_marina","Dilma Rousseff","regiao","SUL",42
+"2014-09-08","2turno_marina","Marina Silva","regiao","SUL",45
+"2014-09-08","2turno_marina","NS/NR*","regiao","SUL",4
+"2014-09-08","vida_hoje","Satisfeito","religiao","Catolica",82
+"2014-09-08","vida_hoje","Insatisfeito","religiao","Catolica",18
+"2014-09-08","vida_hoje","NS/NR*","religiao","Catolica",0
+"2014-09-08","vida_hoje","Satisfeito","religiao","Evangelica",79
+"2014-09-08","vida_hoje","Insatisfeito","religiao","Evangelica",21
+"2014-09-08","vida_hoje","NS/NR*","religiao","Evangelica",0
+"2014-09-08","vida_hoje","Satisfeito","religiao","Outras",75
+"2014-09-08","vida_hoje","Insatisfeito","religiao","Outras",25
+"2014-09-08","vida_hoje","NS/NR*","religiao","Outras",0
+"2014-09-08","interesse","Tem muito interesse","religiao","Catolica",20
+"2014-09-08","interesse","Tem médio interesse","religiao","Catolica",33
+"2014-09-08","interesse","Não tem interesse","religiao","Catolica",46
+"2014-09-08","interesse","NS/NR*","religiao","Catolica",0
+"2014-09-08","interesse","Tem muito interesse","religiao","Evangelica",17
+"2014-09-08","interesse","Tem médio interesse","religiao","Evangelica",32
+"2014-09-08","interesse","Não tem interesse","religiao","Evangelica",50
+"2014-09-08","interesse","NS/NR*","religiao","Evangelica",1
+"2014-09-08","interesse","Tem muito interesse","religiao","Outras",26
+"2014-09-08","interesse","Tem médio interesse","religiao","Outras",21
+"2014-09-08","interesse","Não tem interesse","religiao","Outras",50
+"2014-09-08","interesse","NS/NR*","religiao","Outras",2
+"2014-09-08","intencao_espontanea","Aécio Neves","religiao","Catolica",13
+"2014-09-08","intencao_espontanea","Branco e Nulo","religiao","Catolica",9
+"2014-09-08","intencao_espontanea","Dilma Rousseff","religiao","Catolica",40
+"2014-09-08","intencao_espontanea","Marina Silva","religiao","Catolica",19
+"2014-09-08","intencao_espontanea","NS/NR*","religiao","Catolica",19
+"2014-09-08","intencao_espontanea","Outros","religiao","Catolica",0
+"2014-09-08","intencao_espontanea","Aécio Neves","religiao","Evangelica",7
+"2014-09-08","intencao_espontanea","Branco e Nulo","religiao","Evangelica",10
+"2014-09-08","intencao_espontanea","Dilma Rousseff","religiao","Evangelica",27
+"2014-09-08","intencao_espontanea","Marina Silva","religiao","Evangelica",34
+"2014-09-08","intencao_espontanea","NS/NR*","religiao","Evangelica",20
+"2014-09-08","intencao_espontanea","Outros","religiao","Evangelica",1
+"2014-09-08","intencao_espontanea","Aécio Neves","religiao","Outras",15
+"2014-09-08","intencao_espontanea","Branco e Nulo","religiao","Outras",19
+"2014-09-08","intencao_espontanea","Dilma Rousseff","religiao","Outras",22
+"2014-09-08","intencao_espontanea","Marina Silva","religiao","Outras",21
+"2014-09-08","intencao_espontanea","NS/NR*","religiao","Outras",21
+"2014-09-08","intencao_espontanea","Outros","religiao","Outras",2
+"2014-09-08","intencao_estimulada","Aécio Neves","religiao","Catolica",16
+"2014-09-08","intencao_estimulada","Branco e Nulo","religiao","Catolica",7
+"2014-09-08","intencao_estimulada","Dilma Rousseff","religiao","Catolica",44
+"2014-09-08","intencao_estimulada","Marina Silva","religiao","Catolica",27
+"2014-09-08","intencao_estimulada","NS/NR*","religiao","Catolica",5
+"2014-09-08","intencao_estimulada","Outros","religiao","Catolica",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","religiao","Catolica",0
+"2014-09-08","intencao_estimulada","Aécio Neves","religiao","Evangelica",10
+"2014-09-08","intencao_estimulada","Branco e Nulo","religiao","Evangelica",8
+"2014-09-08","intencao_estimulada","Dilma Rousseff","religiao","Evangelica",30
+"2014-09-08","intencao_estimulada","Marina Silva","religiao","Evangelica",44
+"2014-09-08","intencao_estimulada","NS/NR*","religiao","Evangelica",5
+"2014-09-08","intencao_estimulada","Outros","religiao","Evangelica",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","religiao","Evangelica",2
+"2014-09-08","intencao_estimulada","Aécio Neves","religiao","Outras",18
+"2014-09-08","intencao_estimulada","Branco e Nulo","religiao","Outras",13
+"2014-09-08","intencao_estimulada","Dilma Rousseff","religiao","Outras",27
+"2014-09-08","intencao_estimulada","Marina Silva","religiao","Outras",31
+"2014-09-08","intencao_estimulada","NS/NR*","religiao","Outras",6
+"2014-09-08","intencao_estimulada","Outros","religiao","Outras",3
+"2014-09-08","intencao_estimulada","Pastor Everaldo","religiao","Outras",1
+"2014-09-08","aprova_dilma","Aprova","religiao","Catolica",52
+"2014-09-08","aprova_dilma","Desaprova","religiao","Catolica",43
+"2014-09-08","aprova_dilma","NS/NR*","religiao","Catolica",6
+"2014-09-08","aprova_dilma","Aprova","religiao","Evangelica",42
+"2014-09-08","aprova_dilma","Desaprova","religiao","Evangelica",50
+"2014-09-08","aprova_dilma","NS/NR*","religiao","Evangelica",8
+"2014-09-08","aprova_dilma","Aprova","religiao","Outras",36
+"2014-09-08","aprova_dilma","Desaprova","religiao","Outras",58
+"2014-09-08","aprova_dilma","NS/NR*","religiao","Outras",7
+"2014-09-08","2turno_aecio","Aécio Neves","religiao","Catolica",31
+"2014-09-08","2turno_aecio","Branco e Nulo","religiao","Catolica",10
+"2014-09-08","2turno_aecio","Dilma Rousseff","religiao","Catolica",53
+"2014-09-08","2turno_aecio","NS/NR*","religiao","Catolica",6
+"2014-09-08","2turno_aecio","Aécio Neves","religiao","Evangelica",39
+"2014-09-08","2turno_aecio","Branco e Nulo","religiao","Evangelica",14
+"2014-09-08","2turno_aecio","Dilma Rousseff","religiao","Evangelica",40
+"2014-09-08","2turno_aecio","NS/NR*","religiao","Evangelica",7
+"2014-09-08","2turno_aecio","Aécio Neves","religiao","Outras",35
+"2014-09-08","2turno_aecio","Branco e Nulo","religiao","Outras",24
+"2014-09-08","2turno_aecio","Dilma Rousseff","religiao","Outras",34
+"2014-09-08","2turno_aecio","NS/NR*","religiao","Outras",7
+"2014-09-08","2turno_marina","Branco e Nulo","religiao","Catolica",9
+"2014-09-08","2turno_marina","Dilma Rousseff","religiao","Catolica",47
+"2014-09-08","2turno_marina","Marina Silva","religiao","Catolica",39
+"2014-09-08","2turno_marina","NS/NR*","religiao","Catolica",5
+"2014-09-08","2turno_marina","Branco e Nulo","religiao","Evangelica",8
+"2014-09-08","2turno_marina","Dilma Rousseff","religiao","Evangelica",32
+"2014-09-08","2turno_marina","Marina Silva","religiao","Evangelica",55
+"2014-09-08","2turno_marina","NS/NR*","religiao","Evangelica",5
+"2014-09-08","2turno_marina","Branco e Nulo","religiao","Outras",21
+"2014-09-08","2turno_marina","Dilma Rousseff","religiao","Outras",30
+"2014-09-08","2turno_marina","Marina Silva","religiao","Outras",44
+"2014-09-08","2turno_marina","NS/NR*","religiao","Outras",5
+"2014-09-08","interesse","Tem muito interesse","vida_hoje","Satisfeito",22
+"2014-09-08","interesse","Tem médio interesse","vida_hoje","Satisfeito",34
+"2014-09-08","interesse","Não tem interesse","vida_hoje","Satisfeito",43
+"2014-09-08","interesse","NS/NR*","vida_hoje","Satisfeito",0
+"2014-09-08","interesse","Tem muito interesse","vida_hoje","Insatisfeito",13
+"2014-09-08","interesse","Tem médio interesse","vida_hoje","Insatisfeito",22
+"2014-09-08","interesse","Não tem interesse","vida_hoje","Insatisfeito",65
+"2014-09-08","interesse","NS/NR*","vida_hoje","Insatisfeito",1
+"2014-09-08","intencao_espontanea","Aécio Neves","vida_hoje","Satisfeito",11
+"2014-09-08","intencao_espontanea","Branco e Nulo","vida_hoje","Satisfeito",9
+"2014-09-08","intencao_espontanea","Dilma Rousseff","vida_hoje","Satisfeito",38
+"2014-09-08","intencao_espontanea","Marina Silva","vida_hoje","Satisfeito",22
+"2014-09-08","intencao_espontanea","NS/NR*","vida_hoje","Satisfeito",18
+"2014-09-08","intencao_espontanea","Outros","vida_hoje","Satisfeito",1
+"2014-09-08","intencao_espontanea","Aécio Neves","vida_hoje","Insatisfeito",13
+"2014-09-08","intencao_espontanea","Branco e Nulo","vida_hoje","Insatisfeito",16
+"2014-09-08","intencao_espontanea","Dilma Rousseff","vida_hoje","Insatisfeito",21
+"2014-09-08","intencao_espontanea","Marina Silva","vida_hoje","Insatisfeito",25
+"2014-09-08","intencao_espontanea","NS/NR*","vida_hoje","Insatisfeito",24
+"2014-09-08","intencao_espontanea","Outros","vida_hoje","Insatisfeito",1
+"2014-09-08","intencao_estimulada","Aécio Neves","vida_hoje","Satisfeito",15
+"2014-09-08","intencao_estimulada","Branco e Nulo","vida_hoje","Satisfeito",7
+"2014-09-08","intencao_estimulada","Dilma Rousseff","vida_hoje","Satisfeito",42
+"2014-09-08","intencao_estimulada","Marina Silva","vida_hoje","Satisfeito",30
+"2014-09-08","intencao_estimulada","NS/NR*","vida_hoje","Satisfeito",4
+"2014-09-08","intencao_estimulada","Outros","vida_hoje","Satisfeito",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","vida_hoje","Satisfeito",1
+"2014-09-08","intencao_estimulada","Aécio Neves","vida_hoje","Insatisfeito",17
+"2014-09-08","intencao_estimulada","Branco e Nulo","vida_hoje","Insatisfeito",13
+"2014-09-08","intencao_estimulada","Dilma Rousseff","vida_hoje","Insatisfeito",26
+"2014-09-08","intencao_estimulada","Marina Silva","vida_hoje","Insatisfeito",34
+"2014-09-08","intencao_estimulada","NS/NR*","vida_hoje","Insatisfeito",7
+"2014-09-08","intencao_estimulada","Outros","vida_hoje","Insatisfeito",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","vida_hoje","Insatisfeito",1
+"2014-09-08","aprova_dilma","Aprova","vida_hoje","Satisfeito",51
+"2014-09-08","aprova_dilma","Desaprova","vida_hoje","Satisfeito",43
+"2014-09-08","aprova_dilma","NS/NR*","vida_hoje","Satisfeito",6
+"2014-09-08","aprova_dilma","Aprova","vida_hoje","Insatisfeito",34
+"2014-09-08","aprova_dilma","Desaprova","vida_hoje","Insatisfeito",59
+"2014-09-08","aprova_dilma","NS/NR*","vida_hoje","Insatisfeito",8
+"2014-09-08","2turno_aecio","Aécio Neves","vida_hoje","Satisfeito",31
+"2014-09-08","2turno_aecio","Branco e Nulo","vida_hoje","Satisfeito",12
+"2014-09-08","2turno_aecio","Dilma Rousseff","vida_hoje","Satisfeito",50
+"2014-09-08","2turno_aecio","NS/NR*","vida_hoje","Satisfeito",6
+"2014-09-08","2turno_aecio","Aécio Neves","vida_hoje","Insatisfeito",41
+"2014-09-08","2turno_aecio","Branco e Nulo","vida_hoje","Insatisfeito",16
+"2014-09-08","2turno_aecio","Dilma Rousseff","vida_hoje","Insatisfeito",37
+"2014-09-08","2turno_aecio","NS/NR*","vida_hoje","Insatisfeito",6
+"2014-09-08","2turno_marina","Branco e Nulo","vida_hoje","Satisfeito",9
+"2014-09-08","2turno_marina","Dilma Rousseff","vida_hoje","Satisfeito",45
+"2014-09-08","2turno_marina","Marina Silva","vida_hoje","Satisfeito",41
+"2014-09-08","2turno_marina","NS/NR*","vida_hoje","Satisfeito",5
+"2014-09-08","2turno_marina","Branco e Nulo","vida_hoje","Insatisfeito",16
+"2014-09-08","2turno_marina","Dilma Rousseff","vida_hoje","Insatisfeito",30
+"2014-09-08","2turno_marina","Marina Silva","vida_hoje","Insatisfeito",49
+"2014-09-08","2turno_marina","NS/NR*","vida_hoje","Insatisfeito",5
+"2014-09-08","vida_hoje","Satisfeito","interesse","Tem muito interesse",88
+"2014-09-08","vida_hoje","Insatisfeito","interesse","Tem muito interesse",12
+"2014-09-08","vida_hoje","NS/NR*","interesse","Tem muito interesse",0
+"2014-09-08","vida_hoje","Satisfeito","interesse","Tem médio interesse",87
+"2014-09-08","vida_hoje","Insatisfeito","interesse","Tem médio interesse",13
+"2014-09-08","vida_hoje","NS/NR*","interesse","Tem médio interesse",0
+"2014-09-08","vida_hoje","Satisfeito","interesse","Não tem interesse",74
+"2014-09-08","vida_hoje","Insatisfeito","interesse","Não tem interesse",26
+"2014-09-08","vida_hoje","NS/NR*","interesse","Não tem interesse",0
+"2014-09-08","vida_hoje","Satisfeito","interesse","NS/NR*",62
+"2014-09-08","vida_hoje","Insatisfeito","interesse","NS/NR*",38
+"2014-09-08","vida_hoje","NS/NR*","interesse","NS/NR*",0
+"2014-09-08","intencao_espontanea","Aécio Neves","interesse","Tem muito interesse",16
+"2014-09-08","intencao_espontanea","Branco e Nulo","interesse","Tem muito interesse",2
+"2014-09-08","intencao_espontanea","Dilma Rousseff","interesse","Tem muito interesse",45
+"2014-09-08","intencao_espontanea","Marina Silva","interesse","Tem muito interesse",26
+"2014-09-08","intencao_espontanea","NS/NR*","interesse","Tem muito interesse",9
+"2014-09-08","intencao_espontanea","Outros","interesse","Tem muito interesse",1
+"2014-09-08","intencao_espontanea","Aécio Neves","interesse","Tem médio interesse",11
+"2014-09-08","intencao_espontanea","Branco e Nulo","interesse","Tem médio interesse",2
+"2014-09-08","intencao_espontanea","Dilma Rousseff","interesse","Tem médio interesse",42
+"2014-09-08","intencao_espontanea","Marina Silva","interesse","Tem médio interesse",25
+"2014-09-08","intencao_espontanea","NS/NR*","interesse","Tem médio interesse",19
+"2014-09-08","intencao_espontanea","Outros","interesse","Tem médio interesse",1
+"2014-09-08","intencao_espontanea","Aécio Neves","interesse","Não tem interesse",10
+"2014-09-08","intencao_espontanea","Branco e Nulo","interesse","Não tem interesse",20
+"2014-09-08","intencao_espontanea","Dilma Rousseff","interesse","Não tem interesse",26
+"2014-09-08","intencao_espontanea","Marina Silva","interesse","Não tem interesse",20
+"2014-09-08","intencao_espontanea","NS/NR*","interesse","Não tem interesse",23
+"2014-09-08","intencao_espontanea","Outros","interesse","Não tem interesse",1
+"2014-09-08","intencao_espontanea","Aécio Neves","interesse","NS/NR*",0
+"2014-09-08","intencao_espontanea","Branco e Nulo","interesse","NS/NR*",27
+"2014-09-08","intencao_espontanea","Dilma Rousseff","interesse","NS/NR*",27
+"2014-09-08","intencao_espontanea","Marina Silva","interesse","NS/NR*",9
+"2014-09-08","intencao_espontanea","NS/NR*","interesse","NS/NR*",36
+"2014-09-08","intencao_espontanea","Outros","interesse","NS/NR*",0
+"2014-09-08","intencao_estimulada","Aécio Neves","interesse","Tem muito interesse",18
+"2014-09-08","intencao_estimulada","Branco e Nulo","interesse","Tem muito interesse",2
+"2014-09-08","intencao_estimulada","Dilma Rousseff","interesse","Tem muito interesse",45
+"2014-09-08","intencao_estimulada","Marina Silva","interesse","Tem muito interesse",31
+"2014-09-08","intencao_estimulada","NS/NR*","interesse","Tem muito interesse",3
+"2014-09-08","intencao_estimulada","Outros","interesse","Tem muito interesse",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","interesse","Tem muito interesse",0
+"2014-09-08","intencao_estimulada","Aécio Neves","interesse","Tem médio interesse",14
+"2014-09-08","intencao_estimulada","Branco e Nulo","interesse","Tem médio interesse",2
+"2014-09-08","intencao_estimulada","Dilma Rousseff","interesse","Tem médio interesse",46
+"2014-09-08","intencao_estimulada","Marina Silva","interesse","Tem médio interesse",32
+"2014-09-08","intencao_estimulada","NS/NR*","interesse","Tem médio interesse",4
+"2014-09-08","intencao_estimulada","Outros","interesse","Tem médio interesse",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","interesse","Tem médio interesse",1
+"2014-09-08","intencao_estimulada","Aécio Neves","interesse","Não tem interesse",15
+"2014-09-08","intencao_estimulada","Branco e Nulo","interesse","Não tem interesse",14
+"2014-09-08","intencao_estimulada","Dilma Rousseff","interesse","Não tem interesse",31
+"2014-09-08","intencao_estimulada","Marina Silva","interesse","Não tem interesse",30
+"2014-09-08","intencao_estimulada","NS/NR*","interesse","Não tem interesse",6
+"2014-09-08","intencao_estimulada","Outros","interesse","Não tem interesse",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","interesse","Não tem interesse",1
+"2014-09-08","intencao_estimulada","Aécio Neves","interesse","NS/NR*",0
+"2014-09-08","intencao_estimulada","Branco e Nulo","interesse","NS/NR*",27
+"2014-09-08","intencao_estimulada","Dilma Rousseff","interesse","NS/NR*",27
+"2014-09-08","intencao_estimulada","Marina Silva","interesse","NS/NR*",27
+"2014-09-08","intencao_estimulada","NS/NR*","interesse","NS/NR*",18
+"2014-09-08","intencao_estimulada","Outros","interesse","NS/NR*",0
+"2014-09-08","intencao_estimulada","Pastor Everaldo","interesse","NS/NR*",0
+"2014-09-08","aprova_dilma","Aprova","interesse","Tem muito interesse",52
+"2014-09-08","aprova_dilma","Desaprova","interesse","Tem muito interesse",44
+"2014-09-08","aprova_dilma","NS/NR*","interesse","Tem muito interesse",5
+"2014-09-08","aprova_dilma","Aprova","interesse","Tem médio interesse",52
+"2014-09-08","aprova_dilma","Desaprova","interesse","Tem médio interesse",41
+"2014-09-08","aprova_dilma","NS/NR*","interesse","Tem médio interesse",7
+"2014-09-08","aprova_dilma","Aprova","interesse","Não tem interesse",43
+"2014-09-08","aprova_dilma","Desaprova","interesse","Não tem interesse",51
+"2014-09-08","aprova_dilma","NS/NR*","interesse","Não tem interesse",7
+"2014-09-08","aprova_dilma","Aprova","interesse","NS/NR*",55
+"2014-09-08","aprova_dilma","Desaprova","interesse","NS/NR*",9
+"2014-09-08","aprova_dilma","NS/NR*","interesse","NS/NR*",36
+"2014-09-08","2turno_aecio","Aécio Neves","interesse","Tem muito interesse",37
+"2014-09-08","2turno_aecio","Branco e Nulo","interesse","Tem muito interesse",6
+"2014-09-08","2turno_aecio","Dilma Rousseff","interesse","Tem muito interesse",54
+"2014-09-08","2turno_aecio","NS/NR*","interesse","Tem muito interesse",3
+"2014-09-08","2turno_aecio","Aécio Neves","interesse","Tem médio interesse",31
+"2014-09-08","2turno_aecio","Branco e Nulo","interesse","Tem médio interesse",8
+"2014-09-08","2turno_aecio","Dilma Rousseff","interesse","Tem médio interesse",56
+"2014-09-08","2turno_aecio","NS/NR*","interesse","Tem médio interesse",6
+"2014-09-08","2turno_aecio","Aécio Neves","interesse","Não tem interesse",33
+"2014-09-08","2turno_aecio","Branco e Nulo","interesse","Não tem interesse",19
+"2014-09-08","2turno_aecio","Dilma Rousseff","interesse","Não tem interesse",40
+"2014-09-08","2turno_aecio","NS/NR*","interesse","Não tem interesse",8
+"2014-09-08","2turno_aecio","Aécio Neves","interesse","NS/NR*",0
+"2014-09-08","2turno_aecio","Branco e Nulo","interesse","NS/NR*",36
+"2014-09-08","2turno_aecio","Dilma Rousseff","interesse","NS/NR*",27
+"2014-09-08","2turno_aecio","NS/NR*","interesse","NS/NR*",36
+"2014-09-08","2turno_marina","Branco e Nulo","interesse","Tem muito interesse",4
+"2014-09-08","2turno_marina","Dilma Rousseff","interesse","Tem muito interesse",49
+"2014-09-08","2turno_marina","Marina Silva","interesse","Tem muito interesse",44
+"2014-09-08","2turno_marina","NS/NR*","interesse","Tem muito interesse",3
+"2014-09-08","2turno_marina","Branco e Nulo","interesse","Tem médio interesse",5
+"2014-09-08","2turno_marina","Dilma Rousseff","interesse","Tem médio interesse",50
+"2014-09-08","2turno_marina","Marina Silva","interesse","Tem médio interesse",41
+"2014-09-08","2turno_marina","NS/NR*","interesse","Tem médio interesse",4
+"2014-09-08","2turno_marina","Branco e Nulo","interesse","Não tem interesse",16
+"2014-09-08","2turno_marina","Dilma Rousseff","interesse","Não tem interesse",34
+"2014-09-08","2turno_marina","Marina Silva","interesse","Não tem interesse",44
+"2014-09-08","2turno_marina","NS/NR*","interesse","Não tem interesse",6
+"2014-09-08","2turno_marina","Branco e Nulo","interesse","NS/NR*",27
+"2014-09-08","2turno_marina","Dilma Rousseff","interesse","NS/NR*",27
+"2014-09-08","2turno_marina","Marina Silva","interesse","NS/NR*",27
+"2014-09-08","2turno_marina","NS/NR*","interesse","NS/NR*",18
+"2014-09-08","vida_hoje","Satisfeito","avaliacao_governo","a",77
+"2014-09-08","vida_hoje","Insatisfeito","avaliacao_governo","a",23
+"2014-09-08","vida_hoje","NS/NR*","avaliacao_governo","a",0
+"2014-09-08","vida_hoje","Satisfeito","avaliacao_governo","Ótimo e bom",88
+"2014-09-08","vida_hoje","Insatisfeito","avaliacao_governo","Ótimo e bom",12
+"2014-09-08","vida_hoje","NS/NR*","avaliacao_governo","Ótimo e bom",0
+"2014-09-08","vida_hoje","Satisfeito","avaliacao_governo","Regular",79
+"2014-09-08","vida_hoje","Insatisfeito","avaliacao_governo","Regular",21
+"2014-09-08","vida_hoje","NS/NR*","avaliacao_governo","Regular",0
+"2014-09-08","vida_hoje","Satisfeito","avaliacao_governo","Ruim e péssimo",73
+"2014-09-08","vida_hoje","Insatisfeito","avaliacao_governo","Ruim e péssimo",27
+"2014-09-08","vida_hoje","NS/NR*","avaliacao_governo","Ruim e péssimo",0
+"2014-09-08","interesse","Tem muito interesse","avaliacao_governo","a",0
+"2014-09-08","interesse","Tem médio interesse","avaliacao_governo","a",23
+"2014-09-08","interesse","Não tem interesse","avaliacao_governo","a",73
+"2014-09-08","interesse","NS/NR*","avaliacao_governo","a",5
+"2014-09-08","interesse","Tem muito interesse","avaliacao_governo","Ótimo e bom",26
+"2014-09-08","interesse","Tem médio interesse","avaliacao_governo","Ótimo e bom",37
+"2014-09-08","interesse","Não tem interesse","avaliacao_governo","Ótimo e bom",37
+"2014-09-08","interesse","NS/NR*","avaliacao_governo","Ótimo e bom",1
+"2014-09-08","interesse","Tem muito interesse","avaliacao_governo","Regular",18
+"2014-09-08","interesse","Tem médio interesse","avaliacao_governo","Regular",31
+"2014-09-08","interesse","Não tem interesse","avaliacao_governo","Regular",50
+"2014-09-08","interesse","NS/NR*","avaliacao_governo","Regular",1
+"2014-09-08","interesse","Tem muito interesse","avaliacao_governo","Ruim e péssimo",17
+"2014-09-08","interesse","Tem médio interesse","avaliacao_governo","Ruim e péssimo",24
+"2014-09-08","interesse","Não tem interesse","avaliacao_governo","Ruim e péssimo",58
+"2014-09-08","interesse","NS/NR*","avaliacao_governo","Ruim e péssimo",0
+"2014-09-08","intencao_espontanea","Aécio Neves","avaliacao_governo","a",0
+"2014-09-08","intencao_espontanea","Branco e Nulo","avaliacao_governo","a",41
+"2014-09-08","intencao_espontanea","Dilma Rousseff","avaliacao_governo","a",5
+"2014-09-08","intencao_espontanea","Marina Silva","avaliacao_governo","a",5
+"2014-09-08","intencao_espontanea","NS/NR*","avaliacao_governo","a",50
+"2014-09-08","intencao_espontanea","Outros","avaliacao_governo","a",0
+"2014-09-08","intencao_espontanea","Aécio Neves","avaliacao_governo","Ótimo e bom",3
+"2014-09-08","intencao_espontanea","Branco e Nulo","avaliacao_governo","Ótimo e bom",3
+"2014-09-08","intencao_espontanea","Dilma Rousseff","avaliacao_governo","Ótimo e bom",74
+"2014-09-08","intencao_espontanea","Marina Silva","avaliacao_governo","Ótimo e bom",7
+"2014-09-08","intencao_espontanea","NS/NR*","avaliacao_governo","Ótimo e bom",13
+"2014-09-08","intencao_espontanea","Outros","avaliacao_governo","Ótimo e bom",0
+"2014-09-08","intencao_espontanea","Aécio Neves","avaliacao_governo","Regular",12
+"2014-09-08","intencao_espontanea","Branco e Nulo","avaliacao_governo","Regular",9
+"2014-09-08","intencao_espontanea","Dilma Rousseff","avaliacao_governo","Regular",19
+"2014-09-08","intencao_espontanea","Marina Silva","avaliacao_governo","Regular",30
+"2014-09-08","intencao_espontanea","NS/NR*","avaliacao_governo","Regular",28
+"2014-09-08","intencao_espontanea","Outros","avaliacao_governo","Regular",2
+"2014-09-08","intencao_espontanea","Aécio Neves","avaliacao_governo","Ruim e péssimo",23
+"2014-09-08","intencao_espontanea","Branco e Nulo","avaliacao_governo","Ruim e péssimo",22
+"2014-09-08","intencao_espontanea","Dilma Rousseff","avaliacao_governo","Ruim e péssimo",1
+"2014-09-08","intencao_espontanea","Marina Silva","avaliacao_governo","Ruim e péssimo",36
+"2014-09-08","intencao_espontanea","NS/NR*","avaliacao_governo","Ruim e péssimo",16
+"2014-09-08","intencao_espontanea","Outros","avaliacao_governo","Ruim e péssimo",1
+"2014-09-08","intencao_estimulada","Aécio Neves","avaliacao_governo","a",5
+"2014-09-08","intencao_estimulada","Branco e Nulo","avaliacao_governo","a",36
+"2014-09-08","intencao_estimulada","Dilma Rousseff","avaliacao_governo","a",5
+"2014-09-08","intencao_estimulada","Marina Silva","avaliacao_governo","a",14
+"2014-09-08","intencao_estimulada","NS/NR*","avaliacao_governo","a",41
+"2014-09-08","intencao_estimulada","Outros","avaliacao_governo","a",0
+"2014-09-08","intencao_estimulada","Pastor Everaldo","avaliacao_governo","a",0
+"2014-09-08","intencao_estimulada","Aécio Neves","avaliacao_governo","Ótimo e bom",5
+"2014-09-08","intencao_estimulada","Branco e Nulo","avaliacao_governo","Ótimo e bom",1
+"2014-09-08","intencao_estimulada","Dilma Rousseff","avaliacao_governo","Ótimo e bom",80
+"2014-09-08","intencao_estimulada","Marina Silva","avaliacao_governo","Ótimo e bom",11
+"2014-09-08","intencao_estimulada","NS/NR*","avaliacao_governo","Ótimo e bom",2
+"2014-09-08","intencao_estimulada","Outros","avaliacao_governo","Ótimo e bom",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","avaliacao_governo","Ótimo e bom",0
+"2014-09-08","intencao_estimulada","Aécio Neves","avaliacao_governo","Regular",16
+"2014-09-08","intencao_estimulada","Branco e Nulo","avaliacao_governo","Regular",6
+"2014-09-08","intencao_estimulada","Dilma Rousseff","avaliacao_governo","Regular",24
+"2014-09-08","intencao_estimulada","Marina Silva","avaliacao_governo","Regular",43
+"2014-09-08","intencao_estimulada","NS/NR*","avaliacao_governo","Regular",8
+"2014-09-08","intencao_estimulada","Outros","avaliacao_governo","Regular",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","avaliacao_governo","Regular",2
+"2014-09-08","intencao_estimulada","Aécio Neves","avaliacao_governo","Ruim e péssimo",29
+"2014-09-08","intencao_estimulada","Branco e Nulo","avaliacao_governo","Ruim e péssimo",19
+"2014-09-08","intencao_estimulada","Dilma Rousseff","avaliacao_governo","Ruim e péssimo",2
+"2014-09-08","intencao_estimulada","Marina Silva","avaliacao_governo","Ruim e péssimo",45
+"2014-09-08","intencao_estimulada","NS/NR*","avaliacao_governo","Ruim e péssimo",4
+"2014-09-08","intencao_estimulada","Outros","avaliacao_governo","Ruim e péssimo",2
+"2014-09-08","intencao_estimulada","Pastor Everaldo","avaliacao_governo","Ruim e péssimo",1
+"2014-09-08","aprova_dilma","Aprova","avaliacao_governo","a",9
+"2014-09-08","aprova_dilma","Desaprova","avaliacao_governo","a",9
+"2014-09-08","aprova_dilma","NS/NR*","avaliacao_governo","a",82
+"2014-09-08","aprova_dilma","Aprova","avaliacao_governo","Ótimo e bom",88
+"2014-09-08","aprova_dilma","Desaprova","avaliacao_governo","Ótimo e bom",10
+"2014-09-08","aprova_dilma","NS/NR*","avaliacao_governo","Ótimo e bom",3
+"2014-09-08","aprova_dilma","Aprova","avaliacao_governo","Regular",42
+"2014-09-08","aprova_dilma","Desaprova","avaliacao_governo","Regular",46
+"2014-09-08","aprova_dilma","NS/NR*","avaliacao_governo","Regular",12
+"2014-09-08","aprova_dilma","Aprova","avaliacao_governo","Ruim e péssimo",1
+"2014-09-08","aprova_dilma","Desaprova","avaliacao_governo","Ruim e péssimo",96
+"2014-09-08","aprova_dilma","NS/NR*","avaliacao_governo","Ruim e péssimo",2
+"2014-09-08","2turno_aecio","Aécio Neves","avaliacao_governo","a",9
+"2014-09-08","2turno_aecio","Branco e Nulo","avaliacao_governo","a",36
+"2014-09-08","2turno_aecio","Dilma Rousseff","avaliacao_governo","a",5
+"2014-09-08","2turno_aecio","NS/NR*","avaliacao_governo","a",50
+"2014-09-08","2turno_aecio","Aécio Neves","avaliacao_governo","Ótimo e bom",9
+"2014-09-08","2turno_aecio","Branco e Nulo","avaliacao_governo","Ótimo e bom",1
+"2014-09-08","2turno_aecio","Dilma Rousseff","avaliacao_governo","Ótimo e bom",88
+"2014-09-08","2turno_aecio","NS/NR*","avaliacao_governo","Ótimo e bom",2
+"2014-09-08","2turno_aecio","Aécio Neves","avaliacao_governo","Regular",39
+"2014-09-08","2turno_aecio","Branco e Nulo","avaliacao_governo","Regular",11
+"2014-09-08","2turno_aecio","Dilma Rousseff","avaliacao_governo","Regular",40
+"2014-09-08","2turno_aecio","NS/NR*","avaliacao_governo","Regular",10
+"2014-09-08","2turno_aecio","Aécio Neves","avaliacao_governo","Ruim e péssimo",60
+"2014-09-08","2turno_aecio","Branco e Nulo","avaliacao_governo","Ruim e péssimo",29
+"2014-09-08","2turno_aecio","Dilma Rousseff","avaliacao_governo","Ruim e péssimo",4
+"2014-09-08","2turno_aecio","NS/NR*","avaliacao_governo","Ruim e péssimo",6
+"2014-09-08","2turno_marina","Branco e Nulo","avaliacao_governo","a",36
+"2014-09-08","2turno_marina","Dilma Rousseff","avaliacao_governo","a",9
+"2014-09-08","2turno_marina","Marina Silva","avaliacao_governo","a",18
+"2014-09-08","2turno_marina","NS/NR*","avaliacao_governo","a",36
+"2014-09-08","2turno_marina","Branco e Nulo","avaliacao_governo","Ótimo e bom",2
+"2014-09-08","2turno_marina","Dilma Rousseff","avaliacao_governo","Ótimo e bom",83
+"2014-09-08","2turno_marina","Marina Silva","avaliacao_governo","Ótimo e bom",14
+"2014-09-08","2turno_marina","NS/NR*","avaliacao_governo","Ótimo e bom",2
+"2014-09-08","2turno_marina","Branco e Nulo","avaliacao_governo","Regular",7
+"2014-09-08","2turno_marina","Dilma Rousseff","avaliacao_governo","Regular",29
+"2014-09-08","2turno_marina","Marina Silva","avaliacao_governo","Regular",56
+"2014-09-08","2turno_marina","NS/NR*","avaliacao_governo","Regular",8
+"2014-09-08","2turno_marina","Branco e Nulo","avaliacao_governo","Ruim e péssimo",25
+"2014-09-08","2turno_marina","Dilma Rousseff","avaliacao_governo","Ruim e péssimo",3
+"2014-09-08","2turno_marina","Marina Silva","avaliacao_governo","Ruim e péssimo",68
+"2014-09-08","2turno_marina","NS/NR*","avaliacao_governo","Ruim e péssimo",4
+"2014-09-08","vida_hoje","Satisfeito","total","total",81
+"2014-09-08","vida_hoje","Insatisfeito","total","total",19
+"2014-09-08","vida_hoje","NS/NR*","total","total",0
+"2014-09-08","interesse","Tem muito interesse","total","total",20
+"2014-09-08","interesse","Tem médio interesse","total","total",32
+"2014-09-08","interesse","Não tem interesse","total","total",48
+"2014-09-08","interesse","NS/NR*","total","total",1
+"2014-09-08","intencao_espontanea","Aécio Neves","total","total",12
+"2014-09-08","intencao_espontanea","Branco e Nulo","total","total",11
+"2014-09-08","intencao_espontanea","Dilma Rousseff","total","total",35
+"2014-09-08","intencao_espontanea","Marina Silva","total","total",23
+"2014-09-08","intencao_espontanea","NS/NR*","total","total",19
+"2014-09-08","intencao_espontanea","Outros","total","total",1
+"2014-09-08","intencao_estimulada","Aécio Neves","total","total",15
+"2014-09-08","intencao_estimulada","Branco e Nulo","total","total",8
+"2014-09-08","intencao_estimulada","Dilma Rousseff","total","total",39
+"2014-09-08","intencao_estimulada","Marina Silva","total","total",31
+"2014-09-08","intencao_estimulada","NS/NR*","total","total",5
+"2014-09-08","intencao_estimulada","Outros","total","total",1
+"2014-09-08","intencao_estimulada","Pastor Everaldo","total","total",1
+"2014-09-08","aprova_dilma","Aprova","total","total",48
+"2014-09-08","aprova_dilma","Desaprova","total","total",46
+"2014-09-08","aprova_dilma","NS/NR*","total","total",6
+"2014-09-08","2turno_aecio","Aécio Neves","total","total",33
+"2014-09-08","2turno_aecio","Branco e Nulo","total","total",13
+"2014-09-08","2turno_aecio","Dilma Rousseff","total","total",48
+"2014-09-08","2turno_aecio","NS/NR*","total","total",6
+"2014-09-08","2turno_marina","Branco e Nulo","total","total",10
+"2014-09-08","2turno_marina","Dilma Rousseff","total","total",42
+"2014-09-08","2turno_marina","Marina Silva","total","total",43
+"2014-09-08","2turno_marina","NS/NR*","total","total",5
+"2014-09-08","vida_hoje","Satisfeito","intencao_estimulada","Aécio Neves",79
+"2014-09-08","vida_hoje","Insatisfeito","intencao_estimulada","Aécio Neves",21
+"2014-09-08","vida_hoje","NS/NR*","intencao_estimulada","Aécio Neves",0
+"2014-09-08","vida_hoje","Satisfeito","intencao_estimulada","Branco e Nulo",69
+"2014-09-08","vida_hoje","Insatisfeito","intencao_estimulada","Branco e Nulo",31
+"2014-09-08","vida_hoje","NS/NR*","intencao_estimulada","Branco e Nulo",0
+"2014-09-08","vida_hoje","Satisfeito","intencao_estimulada","Dilma Rousseff",87
+"2014-09-08","vida_hoje","Insatisfeito","intencao_estimulada","Dilma Rousseff",13
+"2014-09-08","vida_hoje","NS/NR*","intencao_estimulada","Dilma Rousseff",0
+"2014-09-08","vida_hoje","Satisfeito","intencao_estimulada","Marina Silva",79
+"2014-09-08","vida_hoje","Insatisfeito","intencao_estimulada","Marina Silva",21
+"2014-09-08","vida_hoje","NS/NR*","intencao_estimulada","Marina Silva",0
+"2014-09-08","vida_hoje","Satisfeito","intencao_estimulada","NS/NR*",74
+"2014-09-08","vida_hoje","Insatisfeito","intencao_estimulada","NS/NR*",26
+"2014-09-08","vida_hoje","NS/NR*","intencao_estimulada","NS/NR*",0
+"2014-09-08","vida_hoje","Satisfeito","intencao_estimulada","Outros",73
+"2014-09-08","vida_hoje","Insatisfeito","intencao_estimulada","Outros",27
+"2014-09-08","vida_hoje","NS/NR*","intencao_estimulada","Outros",0
+"2014-09-08","interesse","Tem muito interesse","intencao_estimulada","Aécio Neves",24
+"2014-09-08","interesse","Tem médio interesse","intencao_estimulada","Aécio Neves",29
+"2014-09-08","interesse","Não tem interesse","intencao_estimulada","Aécio Neves",47
+"2014-09-08","interesse","NS/NR*","intencao_estimulada","Aécio Neves",0
+"2014-09-08","interesse","Tem muito interesse","intencao_estimulada","Branco e Nulo",4
+"2014-09-08","interesse","Tem médio interesse","intencao_estimulada","Branco e Nulo",8
+"2014-09-08","interesse","Não tem interesse","intencao_estimulada","Branco e Nulo",86
+"2014-09-08","interesse","NS/NR*","intencao_estimulada","Branco e Nulo",2
+"2014-09-08","interesse","Tem muito interesse","intencao_estimulada","Dilma Rousseff",24
+"2014-09-08","interesse","Tem médio interesse","intencao_estimulada","Dilma Rousseff",38
+"2014-09-08","interesse","Não tem interesse","intencao_estimulada","Dilma Rousseff",38
+"2014-09-08","interesse","NS/NR*","intencao_estimulada","Dilma Rousseff",0
+"2014-09-08","interesse","Tem muito interesse","intencao_estimulada","Marina Silva",20
+"2014-09-08","interesse","Tem médio interesse","intencao_estimulada","Marina Silva",32
+"2014-09-08","interesse","Não tem interesse","intencao_estimulada","Marina Silva",47
+"2014-09-08","interesse","NS/NR*","intencao_estimulada","Marina Silva",0
+"2014-09-08","interesse","Tem muito interesse","intencao_estimulada","NS/NR*",15
+"2014-09-08","interesse","Tem médio interesse","intencao_estimulada","NS/NR*",25
+"2014-09-08","interesse","Não tem interesse","intencao_estimulada","NS/NR*",58
+"2014-09-08","interesse","NS/NR*","intencao_estimulada","NS/NR*",2
+"2014-09-08","interesse","Tem muito interesse","intencao_estimulada","Outros",17
+"2014-09-08","interesse","Tem médio interesse","intencao_estimulada","Outros",23
+"2014-09-08","interesse","Não tem interesse","intencao_estimulada","Outros",60
+"2014-09-08","interesse","NS/NR*","intencao_estimulada","Outros",0
+"2014-09-08","intencao_espontanea","Aécio Neves","intencao_estimulada","Aécio Neves",73
+"2014-09-08","intencao_espontanea","Branco e Nulo","intencao_estimulada","Aécio Neves",5
+"2014-09-08","intencao_espontanea","Dilma Rousseff","intencao_estimulada","Aécio Neves",2
+"2014-09-08","intencao_espontanea","Marina Silva","intencao_estimulada","Aécio Neves",3
+"2014-09-08","intencao_espontanea","NS/NR*","intencao_estimulada","Aécio Neves",18
+"2014-09-08","intencao_espontanea","Outros","intencao_estimulada","Aécio Neves",0
+"2014-09-08","intencao_espontanea","Aécio Neves","intencao_estimulada","Branco e Nulo",1
+"2014-09-08","intencao_espontanea","Branco e Nulo","intencao_estimulada","Branco e Nulo",89
+"2014-09-08","intencao_espontanea","Dilma Rousseff","intencao_estimulada","Branco e Nulo",0
+"2014-09-08","intencao_espontanea","Marina Silva","intencao_estimulada","Branco e Nulo",0
+"2014-09-08","intencao_espontanea","NS/NR*","intencao_estimulada","Branco e Nulo",10
+"2014-09-08","intencao_espontanea","Outros","intencao_estimulada","Branco e Nulo",0
+"2014-09-08","intencao_espontanea","Aécio Neves","intencao_estimulada","Dilma Rousseff",0
+"2014-09-08","intencao_espontanea","Branco e Nulo","intencao_estimulada","Dilma Rousseff",2
+"2014-09-08","intencao_espontanea","Dilma Rousseff","intencao_estimulada","Dilma Rousseff",85
+"2014-09-08","intencao_espontanea","Marina Silva","intencao_estimulada","Dilma Rousseff",1
+"2014-09-08","intencao_espontanea","NS/NR*","intencao_estimulada","Dilma Rousseff",12
+"2014-09-08","intencao_espontanea","Outros","intencao_estimulada","Dilma Rousseff",0
+"2014-09-08","intencao_espontanea","Aécio Neves","intencao_estimulada","Marina Silva",0
+"2014-09-08","intencao_espontanea","Branco e Nulo","intencao_estimulada","Marina Silva",6
+"2014-09-08","intencao_espontanea","Dilma Rousseff","intencao_estimulada","Marina Silva",2
+"2014-09-08","intencao_espontanea","Marina Silva","intencao_estimulada","Marina Silva",72
+"2014-09-08","intencao_espontanea","NS/NR*","intencao_estimulada","Marina Silva",19
+"2014-09-08","intencao_espontanea","Outros","intencao_estimulada","Marina Silva",0
+"2014-09-08","intencao_espontanea","Aécio Neves","intencao_estimulada","NS/NR*",0
+"2014-09-08","intencao_espontanea","Branco e Nulo","intencao_estimulada","NS/NR*",6
+"2014-09-08","intencao_espontanea","Dilma Rousseff","intencao_estimulada","NS/NR*",8
+"2014-09-08","intencao_espontanea","Marina Silva","intencao_estimulada","NS/NR*",1
+"2014-09-08","intencao_espontanea","NS/NR*","intencao_estimulada","NS/NR*",83
+"2014-09-08","intencao_espontanea","Outros","intencao_estimulada","NS/NR*",1
+"2014-09-08","intencao_espontanea","Aécio Neves","intencao_estimulada","Outros",7
+"2014-09-08","intencao_espontanea","Branco e Nulo","intencao_estimulada","Outros",13
+"2014-09-08","intencao_espontanea","Dilma Rousseff","intencao_estimulada","Outros",13
+"2014-09-08","intencao_espontanea","Marina Silva","intencao_estimulada","Outros",0
+"2014-09-08","intencao_espontanea","NS/NR*","intencao_estimulada","Outros",47
+"2014-09-08","intencao_espontanea","Outros","intencao_estimulada","Outros",20
+"2014-09-08","aprova_dilma","Aprova","intencao_estimulada","Aécio Neves",20
+"2014-09-08","aprova_dilma","Desaprova","intencao_estimulada","Aécio Neves",76
+"2014-09-08","aprova_dilma","NS/NR*","intencao_estimulada","Aécio Neves",4
+"2014-09-08","aprova_dilma","Aprova","intencao_estimulada","Branco e Nulo",13
+"2014-09-08","aprova_dilma","Desaprova","intencao_estimulada","Branco e Nulo",77
+"2014-09-08","aprova_dilma","NS/NR*","intencao_estimulada","Branco e Nulo",11
+"2014-09-08","aprova_dilma","Aprova","intencao_estimulada","Dilma Rousseff",86
+"2014-09-08","aprova_dilma","Desaprova","intencao_estimulada","Dilma Rousseff",10
+"2014-09-08","aprova_dilma","NS/NR*","intencao_estimulada","Dilma Rousseff",4
+"2014-09-08","aprova_dilma","Aprova","intencao_estimulada","Marina Silva",27
+"2014-09-08","aprova_dilma","Desaprova","intencao_estimulada","Marina Silva",67
+"2014-09-08","aprova_dilma","NS/NR*","intencao_estimulada","Marina Silva",6
+"2014-09-08","aprova_dilma","Aprova","intencao_estimulada","NS/NR*",25
+"2014-09-08","aprova_dilma","Desaprova","intencao_estimulada","NS/NR*",49
+"2014-09-08","aprova_dilma","NS/NR*","intencao_estimulada","NS/NR*",26
+"2014-09-08","aprova_dilma","Aprova","intencao_estimulada","Outros",33
+"2014-09-08","aprova_dilma","Desaprova","intencao_estimulada","Outros",53
+"2014-09-08","aprova_dilma","NS/NR*","intencao_estimulada","Outros",13
+"2014-09-08","2turno_aecio","Aécio Neves","intencao_estimulada","Aécio Neves",97
+"2014-09-08","2turno_aecio","Branco e Nulo","intencao_estimulada","Aécio Neves",0
+"2014-09-08","2turno_aecio","Dilma Rousseff","intencao_estimulada","Aécio Neves",3
+"2014-09-08","2turno_aecio","NS/NR*","intencao_estimulada","Aécio Neves",0
+"2014-09-08","2turno_aecio","Aécio Neves","intencao_estimulada","Branco e Nulo",3
+"2014-09-08","2turno_aecio","Branco e Nulo","intencao_estimulada","Branco e Nulo",89
+"2014-09-08","2turno_aecio","Dilma Rousseff","intencao_estimulada","Branco e Nulo",4
+"2014-09-08","2turno_aecio","NS/NR*","intencao_estimulada","Branco e Nulo",4
+"2014-09-08","2turno_aecio","Aécio Neves","intencao_estimulada","Dilma Rousseff",1
+"2014-09-08","2turno_aecio","Branco e Nulo","intencao_estimulada","Dilma Rousseff",0
+"2014-09-08","2turno_aecio","Dilma Rousseff","intencao_estimulada","Dilma Rousseff",98
+"2014-09-08","2turno_aecio","NS/NR*","intencao_estimulada","Dilma Rousseff",1
+"2014-09-08","2turno_aecio","Aécio Neves","intencao_estimulada","Marina Silva",53
+"2014-09-08","2turno_aecio","Branco e Nulo","intencao_estimulada","Marina Silva",15
+"2014-09-08","2turno_aecio","Dilma Rousseff","intencao_estimulada","Marina Silva",26
+"2014-09-08","2turno_aecio","NS/NR*","intencao_estimulada","Marina Silva",6
+"2014-09-08","2turno_aecio","Aécio Neves","intencao_estimulada","NS/NR*",7
+"2014-09-08","2turno_aecio","Branco e Nulo","intencao_estimulada","NS/NR*",12
+"2014-09-08","2turno_aecio","Dilma Rousseff","intencao_estimulada","NS/NR*",4
+"2014-09-08","2turno_aecio","NS/NR*","intencao_estimulada","NS/NR*",76
+"2014-09-08","2turno_aecio","Aécio Neves","intencao_estimulada","Outros",37
+"2014-09-08","2turno_aecio","Branco e Nulo","intencao_estimulada","Outros",23
+"2014-09-08","2turno_aecio","Dilma Rousseff","intencao_estimulada","Outros",37
+"2014-09-08","2turno_aecio","NS/NR*","intencao_estimulada","Outros",3
+"2014-09-08","2turno_marina","Branco e Nulo","intencao_estimulada","Aécio Neves",17
+"2014-09-08","2turno_marina","Dilma Rousseff","intencao_estimulada","Aécio Neves",18
+"2014-09-08","2turno_marina","Marina Silva","intencao_estimulada","Aécio Neves",62
+"2014-09-08","2turno_marina","NS/NR*","intencao_estimulada","Aécio Neves",3
+"2014-09-08","2turno_marina","Branco e Nulo","intencao_estimulada","Branco e Nulo",84
+"2014-09-08","2turno_marina","Dilma Rousseff","intencao_estimulada","Branco e Nulo",3
+"2014-09-08","2turno_marina","Marina Silva","intencao_estimulada","Branco e Nulo",8
+"2014-09-08","2turno_marina","NS/NR*","intencao_estimulada","Branco e Nulo",4
+"2014-09-08","2turno_marina","Branco e Nulo","intencao_estimulada","Dilma Rousseff",0
+"2014-09-08","2turno_marina","Dilma Rousseff","intencao_estimulada","Dilma Rousseff",97
+"2014-09-08","2turno_marina","Marina Silva","intencao_estimulada","Dilma Rousseff",3
+"2014-09-08","2turno_marina","NS/NR*","intencao_estimulada","Dilma Rousseff",1
+"2014-09-08","2turno_marina","Branco e Nulo","intencao_estimulada","Marina Silva",0
+"2014-09-08","2turno_marina","Dilma Rousseff","intencao_estimulada","Marina Silva",2
+"2014-09-08","2turno_marina","Marina Silva","intencao_estimulada","Marina Silva",98
+"2014-09-08","2turno_marina","NS/NR*","intencao_estimulada","Marina Silva",0
+"2014-09-08","2turno_marina","Branco e Nulo","intencao_estimulada","NS/NR*",12
+"2014-09-08","2turno_marina","Dilma Rousseff","intencao_estimulada","NS/NR*",4
+"2014-09-08","2turno_marina","Marina Silva","intencao_estimulada","NS/NR*",9
+"2014-09-08","2turno_marina","NS/NR*","intencao_estimulada","NS/NR*",74
+"2014-09-08","2turno_marina","Branco e Nulo","intencao_estimulada","Outros",13
+"2014-09-08","2turno_marina","Dilma Rousseff","intencao_estimulada","Outros",37
+"2014-09-08","2turno_marina","Marina Silva","intencao_estimulada","Outros",43
+"2014-09-08","2turno_marina","NS/NR*","intencao_estimulada","Outros",7
+"2014-09-08","avaliacao_governo","NS/NR*","sexo","FEM",2
+"2014-09-08","avaliacao_governo","Regular","sexo","FEM",32
+"2014-09-08","avaliacao_governo","NS/NR*","sexo","MAS",1
+"2014-09-08","avaliacao_governo","Regular","sexo","MAS",33
+"2014-09-08","avaliacao_governo","NS/NR*","idade","16 a 24",1
+"2014-09-08","avaliacao_governo","Regular","idade","16 a 24",35
+"2014-09-08","avaliacao_governo","NS/NR*","idade","25 a 34",1
+"2014-09-08","avaliacao_governo","Regular","idade","25 a 34",31
+"2014-09-08","avaliacao_governo","NS/NR*","idade","35 a 44",1
+"2014-09-08","avaliacao_governo","Regular","idade","35 a 44",30
+"2014-09-08","avaliacao_governo","NS/NR*","idade","45 a 54",1
+"2014-09-08","avaliacao_governo","Regular","idade","45 a 54",33
+"2014-09-08","avaliacao_governo","NS/NR*","idade","55 ou mais",2
+"2014-09-08","avaliacao_governo","Regular","idade","55 ou mais",35
+"2014-09-08","avaliacao_governo","NS/NR*","escolaridade","Fundamental 1",2
+"2014-09-08","avaliacao_governo","Regular","escolaridade","Fundamental 1",30
+"2014-09-08","avaliacao_governo","NS/NR*","escolaridade","Fundamental 2",2
+"2014-09-08","avaliacao_governo","Regular","escolaridade","Fundamental 2",38
+"2014-09-08","avaliacao_governo","NS/NR*","escolaridade","Medio",1
+"2014-09-08","avaliacao_governo","Regular","escolaridade","Medio",31
+"2014-09-08","avaliacao_governo","NS/NR*","escolaridade","Superior",1
+"2014-09-08","avaliacao_governo","Regular","escolaridade","Superior",32
+"2014-09-08","avaliacao_governo","NS/NR*","renda_familiar","Mais de 5",1
+"2014-09-08","avaliacao_governo","Regular","renda_familiar","Mais de 5",29
+"2014-09-08","avaliacao_governo","NS/NR*","renda_familiar","2 a 5",1
+"2014-09-08","avaliacao_governo","Regular","renda_familiar","2 a 5",33
+"2014-09-08","avaliacao_governo","NS/NR*","renda_familiar","1 a 2",1
+"2014-09-08","avaliacao_governo","Regular","renda_familiar","1 a 2",34
+"2014-09-08","avaliacao_governo","NS/NR*","renda_familiar","Ate 1",2
+"2014-09-08","avaliacao_governo","Regular","renda_familiar","Ate 1",29
+"2014-09-08","avaliacao_governo","NS/NR*","condicao_municipio","CAPITAL",0
+"2014-09-08","avaliacao_governo","Regular","condicao_municipio","CAPITAL",32
+"2014-09-08","avaliacao_governo","NS/NR*","condicao_municipio","INTERIOR",2
+"2014-09-08","avaliacao_governo","Regular","condicao_municipio","INTERIOR",32
+"2014-09-08","avaliacao_governo","NS/NR*","condicao_municipio","PERIFERIA",2
+"2014-09-08","avaliacao_governo","Regular","condicao_municipio","PERIFERIA",36
+"2014-09-08","avaliacao_governo","NS/NR*","regiao","NORDESTE",1
+"2014-09-08","avaliacao_governo","Regular","regiao","NORDESTE",31
+"2014-09-08","avaliacao_governo","NS/NR*","regiao","NORTE-CENTRO-OESTE",1
+"2014-09-08","avaliacao_governo","Regular","regiao","NORTE-CENTRO-OESTE",26
+"2014-09-08","avaliacao_governo","NS/NR*","regiao","SUDESTE",1
+"2014-09-08","avaliacao_governo","Regular","regiao","SUDESTE",33
+"2014-09-08","avaliacao_governo","NS/NR*","regiao","SUL",1
+"2014-09-08","avaliacao_governo","Regular","regiao","SUL",40
+"2014-09-08","avaliacao_governo","NS/NR*","religiao","Catolica",1
+"2014-09-08","avaliacao_governo","Regular","religiao","Catolica",32
+"2014-09-08","avaliacao_governo","NS/NR*","religiao","Evangelica",3
+"2014-09-08","avaliacao_governo","Regular","religiao","Evangelica",34
+"2014-09-08","avaliacao_governo","NS/NR*","religiao","Outras",1
+"2014-09-08","avaliacao_governo","Regular","religiao","Outras",35
+"2014-09-08","avaliacao_governo","NS/NR*","vida_hoje","Satisfeito",1
+"2014-09-08","avaliacao_governo","Regular","vida_hoje","Satisfeito",32
+"2014-09-08","avaliacao_governo","NS/NR*","vida_hoje","Insatisfeito",1
+"2014-09-08","avaliacao_governo","Regular","vida_hoje","Insatisfeito",35
+"2014-09-08","avaliacao_governo","NS/NR*","interesse","Tem muito interesse",0
+"2014-09-08","avaliacao_governo","Regular","interesse","Tem muito interesse",28
+"2014-09-08","avaliacao_governo","NS/NR*","interesse","Tem médio interesse",1
+"2014-09-08","avaliacao_governo","Regular","interesse","Tem médio interesse",32
+"2014-09-08","avaliacao_governo","NS/NR*","interesse","Não tem interesse",2
+"2014-09-08","avaliacao_governo","Regular","interesse","Não tem interesse",34
+"2014-09-08","avaliacao_governo","NS/NR*","interesse","NS/NR*",9
+"2014-09-08","avaliacao_governo","Regular","interesse","NS/NR*",45
+"2014-09-08","avaliacao_governo","NS/NR*","avaliacao_governo","a",100
+"2014-09-08","avaliacao_governo","Regular","avaliacao_governo","a",0
+"2014-09-08","avaliacao_governo","NS/NR*","avaliacao_governo","Ótimo e bom",0
+"2014-09-08","avaliacao_governo","Regular","avaliacao_governo","Ótimo e bom",0
+"2014-09-08","avaliacao_governo","NS/NR*","avaliacao_governo","Regular",0
+"2014-09-08","avaliacao_governo","Regular","avaliacao_governo","Regular",100
+"2014-09-08","avaliacao_governo","NS/NR*","avaliacao_governo","Ruim e péssimo",0
+"2014-09-08","avaliacao_governo","Regular","avaliacao_governo","Ruim e péssimo",0
+"2014-09-08","avaliacao_governo","NS/NR*","total","total",1
+"2014-09-08","avaliacao_governo","Regular","total","total",33
+"2014-09-08","avaliacao_governo","NS/NR*","intencao_estimulada","Aécio Neves",0
+"2014-09-08","avaliacao_governo","Regular","intencao_estimulada","Aécio Neves",35
+"2014-09-08","avaliacao_governo","NS/NR*","intencao_estimulada","Branco e Nulo",5
+"2014-09-08","avaliacao_governo","Regular","intencao_estimulada","Branco e Nulo",23
+"2014-09-08","avaliacao_governo","NS/NR*","intencao_estimulada","Dilma Rousseff",0
+"2014-09-08","avaliacao_governo","Regular","intencao_estimulada","Dilma Rousseff",20
+"2014-09-08","avaliacao_governo","NS/NR*","intencao_estimulada","Marina Silva",0
+"2014-09-08","avaliacao_governo","Regular","intencao_estimulada","Marina Silva",46
+"2014-09-08","avaliacao_governo","NS/NR*","intencao_estimulada","NS/NR*",9
+"2014-09-08","avaliacao_governo","Regular","intencao_estimulada","NS/NR*",53
+"2014-09-08","avaliacao_governo","NS/NR*","intencao_estimulada","Outros",0
+"2014-09-08","avaliacao_governo","Regular","intencao_estimulada","Outros",40
+"2014-09-08","avaliacao_governo","Ótimo e bom","sexo","FEM",38
+"2014-09-08","avaliacao_governo","Ruim e péssimo","sexo","FEM",28
+"2014-09-08","avaliacao_governo","Ótimo e bom","sexo","MAS",38
+"2014-09-08","avaliacao_governo","Ruim e péssimo","sexo","MAS",28
+"2014-09-08","avaliacao_governo","Ótimo e bom","idade","16 a 24",34
+"2014-09-08","avaliacao_governo","Ruim e péssimo","idade","16 a 24",31
+"2014-09-08","avaliacao_governo","Ótimo e bom","idade","25 a 34",37
+"2014-09-08","avaliacao_governo","Ruim e péssimo","idade","25 a 34",31
+"2014-09-08","avaliacao_governo","Ótimo e bom","idade","35 a 44",39
+"2014-09-08","avaliacao_governo","Ruim e péssimo","idade","35 a 44",31
+"2014-09-08","avaliacao_governo","Ótimo e bom","idade","45 a 54",40
+"2014-09-08","avaliacao_governo","Ruim e péssimo","idade","45 a 54",26
+"2014-09-08","avaliacao_governo","Ótimo e bom","idade","55 ou mais",42
+"2014-09-08","avaliacao_governo","Ruim e péssimo","idade","55 ou mais",22
+"2014-09-08","avaliacao_governo","Ótimo e bom","escolaridade","Fundamental 1",49
+"2014-09-08","avaliacao_governo","Ruim e péssimo","escolaridade","Fundamental 1",20
+"2014-09-08","avaliacao_governo","Ótimo e bom","escolaridade","Fundamental 2",40
+"2014-09-08","avaliacao_governo","Ruim e péssimo","escolaridade","Fundamental 2",19
+"2014-09-08","avaliacao_governo","Ótimo e bom","escolaridade","Medio",37
+"2014-09-08","avaliacao_governo","Ruim e péssimo","escolaridade","Medio",31
+"2014-09-08","avaliacao_governo","Ótimo e bom","escolaridade","Superior",28
+"2014-09-08","avaliacao_governo","Ruim e péssimo","escolaridade","Superior",39
+"2014-09-08","avaliacao_governo","Ótimo e bom","renda_familiar","Mais de 5",30
+"2014-09-08","avaliacao_governo","Ruim e péssimo","renda_familiar","Mais de 5",40
+"2014-09-08","avaliacao_governo","Ótimo e bom","renda_familiar","2 a 5",33
+"2014-09-08","avaliacao_governo","Ruim e péssimo","renda_familiar","2 a 5",34
+"2014-09-08","avaliacao_governo","Ótimo e bom","renda_familiar","1 a 2",42
+"2014-09-08","avaliacao_governo","Ruim e péssimo","renda_familiar","1 a 2",22
+"2014-09-08","avaliacao_governo","Ótimo e bom","renda_familiar","Ate 1",51
+"2014-09-08","avaliacao_governo","Ruim e péssimo","renda_familiar","Ate 1",18
+"2014-09-08","avaliacao_governo","Ótimo e bom","condicao_municipio","CAPITAL",32
+"2014-09-08","avaliacao_governo","Ruim e péssimo","condicao_municipio","CAPITAL",36
+"2014-09-08","avaliacao_governo","Ótimo e bom","condicao_municipio","INTERIOR",42
+"2014-09-08","avaliacao_governo","Ruim e péssimo","condicao_municipio","INTERIOR",25
+"2014-09-08","avaliacao_governo","Ótimo e bom","condicao_municipio","PERIFERIA",34
+"2014-09-08","avaliacao_governo","Ruim e péssimo","condicao_municipio","PERIFERIA",29
+"2014-09-08","avaliacao_governo","Ótimo e bom","regiao","NORDESTE",52
+"2014-09-08","avaliacao_governo","Ruim e péssimo","regiao","NORDESTE",16
+"2014-09-08","avaliacao_governo","Ótimo e bom","regiao","NORTE-CENTRO-OESTE",48
+"2014-09-08","avaliacao_governo","Ruim e péssimo","regiao","NORTE-CENTRO-OESTE",25
+"2014-09-08","avaliacao_governo","Ótimo e bom","regiao","SUDESTE",28
+"2014-09-08","avaliacao_governo","Ruim e péssimo","regiao","SUDESTE",39
+"2014-09-08","avaliacao_governo","Ótimo e bom","regiao","SUL",36
+"2014-09-08","avaliacao_governo","Ruim e péssimo","regiao","SUL",23
+"2014-09-08","avaliacao_governo","Ótimo e bom","religiao","Catolica",43
+"2014-09-08","avaliacao_governo","Ruim e péssimo","religiao","Catolica",25
+"2014-09-08","avaliacao_governo","Ótimo e bom","religiao","Evangelica",32
+"2014-09-08","avaliacao_governo","Ruim e péssimo","religiao","Evangelica",32
+"2014-09-08","avaliacao_governo","Ótimo e bom","religiao","Outras",25
+"2014-09-08","avaliacao_governo","Ruim e péssimo","religiao","Outras",39
+"2014-09-08","avaliacao_governo","Ótimo e bom","vida_hoje","Satisfeito",42
+"2014-09-08","avaliacao_governo","Ruim e péssimo","vida_hoje","Satisfeito",26
+"2014-09-08","avaliacao_governo","Ótimo e bom","vida_hoje","Insatisfeito",23
+"2014-09-08","avaliacao_governo","Ruim e péssimo","vida_hoje","Insatisfeito",40
+"2014-09-08","avaliacao_governo","Ótimo e bom","interesse","Tem muito interesse",47
+"2014-09-08","avaliacao_governo","Ruim e péssimo","interesse","Tem muito interesse",25
+"2014-09-08","avaliacao_governo","Ótimo e bom","interesse","Tem médio interesse",45
+"2014-09-08","avaliacao_governo","Ruim e péssimo","interesse","Tem médio interesse",22
+"2014-09-08","avaliacao_governo","Ótimo e bom","interesse","Não tem interesse",29
+"2014-09-08","avaliacao_governo","Ruim e péssimo","interesse","Não tem interesse",34
+"2014-09-08","avaliacao_governo","Ótimo e bom","interesse","NS/NR*",36
+"2014-09-08","avaliacao_governo","Ruim e péssimo","interesse","NS/NR*",9
+"2014-09-08","avaliacao_governo","Ótimo e bom","avaliacao_governo","a",0
+"2014-09-08","avaliacao_governo","Ruim e péssimo","avaliacao_governo","a",0
+"2014-09-08","avaliacao_governo","Ótimo e bom","avaliacao_governo","Ótimo e bom",100
+"2014-09-08","avaliacao_governo","Ruim e péssimo","avaliacao_governo","Ótimo e bom",0
+"2014-09-08","avaliacao_governo","Ótimo e bom","avaliacao_governo","Regular",0
+"2014-09-08","avaliacao_governo","Ruim e péssimo","avaliacao_governo","Regular",0
+"2014-09-08","avaliacao_governo","Ótimo e bom","avaliacao_governo","Ruim e péssimo",0
+"2014-09-08","avaliacao_governo","Ruim e péssimo","avaliacao_governo","Ruim e péssimo",100
+"2014-09-08","avaliacao_governo","Ótimo e bom","total","total",38
+"2014-09-08","avaliacao_governo","Ruim e péssimo","total","total",28
+"2014-09-08","avaliacao_governo","Ótimo e bom","intencao_estimulada","Aécio Neves",12
+"2014-09-08","avaliacao_governo","Ruim e péssimo","intencao_estimulada","Aécio Neves",53
+"2014-09-08","avaliacao_governo","Ótimo e bom","intencao_estimulada","Branco e Nulo",6
+"2014-09-08","avaliacao_governo","Ruim e péssimo","intencao_estimulada","Branco e Nulo",66
+"2014-09-08","avaliacao_governo","Ótimo e bom","intencao_estimulada","Dilma Rousseff",79
+"2014-09-08","avaliacao_governo","Ruim e péssimo","intencao_estimulada","Dilma Rousseff",2
+"2014-09-08","avaliacao_governo","Ótimo e bom","intencao_estimulada","Marina Silva",13
+"2014-09-08","avaliacao_governo","Ruim e péssimo","intencao_estimulada","Marina Silva",40
+"2014-09-08","avaliacao_governo","Ótimo e bom","intencao_estimulada","NS/NR*",13
+"2014-09-08","avaliacao_governo","Ruim e péssimo","intencao_estimulada","NS/NR*",24
+"2014-09-08","avaliacao_governo","Ótimo e bom","intencao_estimulada","Outros",30
+"2014-09-08","avaliacao_governo","Ruim e péssimo","intencao_estimulada","Outros",30

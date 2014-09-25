@@ -23,7 +23,10 @@ var Main = (function() {
             'saude': 'Melhora da saúde pública',
             'emprego': 'Melhora das oport. de emprego',
             'educacao': 'Melhora da educação pública',
-            'nota': 'Nota média para o governo'
+            'nota': 'Nota média para o governo',
+            'aecio':'Potencial de voto - Aécio',
+            'dilma':'Potencial de voto - Dilma',
+            'marina':'Potencial de voto - Marina'
         },
         'recorte': {
             'total': {
@@ -94,6 +97,37 @@ var Main = (function() {
                 'Aécio Neves': 'Aécio Neves',
                 'Eduardo Campos': 'Eduardo Campos'
             },
+            'nota': {
+                '7 ou mais': '7 ou mais',
+                'Entre 4 e 6': 'de 4 a 6',
+                '3 ou menos':'3 ou menos'
+            },
+            'partido': {
+                'PT': 'PT',
+                'PSDB': 'PSDB'                
+            },
+            'bolsa': {
+                'Sim': 'Qualquer benefício do governo',
+                'Não': 'Nenhum benefício do governo'                
+            },
+            'bolsa_familia': {
+                'Sim': 'Bolsa Família'
+            },
+            'dilma':{
+                'Votaria com certeza':'Votaria com certeza (Dilma)',
+                'Poderia votar':'Poderia votar (Dilma)',
+                'Não votaria de jeito nenhum':'Não votaria de jeito nenhum (Dilma)'
+            },
+            'marina':{
+                'Votaria com certeza':'Votaria com certeza (Marina)',
+                'Poderia votar':'Poderia votar (Marina)',
+                'Não votaria de jeito nenhum':'Não votaria de jeito nenhum (Marina)'
+            },
+            'aecio':{
+                'Votaria com certeza':'Votaria com certeza (Aecio)',
+                'Poderia votar':'Poderia votar (Aecio)',
+                'Não votaria de jeito nenhum':'Não votaria de jeito nenhum (Aecio)'
+            },
             'poder_compra': {
                 'Melhorou': 'Melhorou',
                 'Igual': 'Está igual',
@@ -113,23 +147,7 @@ var Main = (function() {
                 'Melhorou': 'Melhorou',
                 'Igual': 'Está igual',
                 'Piorou': 'Piorou'                
-            },
-            'nota': {
-                '7 ou mais': '7 ou mais',
-                'Entre 4 e 6': 'de 4 a 6',
-                '3 ou menos':'3 ou menos'
-            },
-            'partido': {
-                'PT': 'PT',
-                'PSDB': 'PSDB'                
-            },
-            'bolsa': {
-                'Sim': 'Qualquer benefício do governo',
-                'Não': 'Nenhum benefício do governo'                
-            },
-            'bolsa_familia': {
-                'Sim': 'Bolsa Família'
-            }            
+            }           
         }
     };
     var currentRoute = {
@@ -328,7 +346,7 @@ var Main = (function() {
         x.shapes.selectAll("text").attr("transform",
             function (d) {
                 //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
-                return d3.select(this).attr("transform") + " translate(0, 5)";
+                return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
             });
 
         if (window.location.hash) {
@@ -361,8 +379,9 @@ var Main = (function() {
             orderedValues = ["Aprova","Desaprova","NS/NR*"]
         } else if (pergunta.indexOf("desejo")!= -1) {
             orderedValues = ["Quer mudança","Quer continuidade","NS/NR*"]
+        } else if (pergunta == "dilma" || pergunta == "aecio" || pergunta == "marina") {
+            orderedValues = ["Votaria com certeza","Poderia votar","Não votaria de jeito nenhum","NS/NR*"]
         }
-
         var entries = [];
         orderedValues.forEach(function (v) {
             entries.push(
@@ -387,6 +406,12 @@ var Main = (function() {
             grafico.assignColor("Pastor Everaldo","#6AA84F");
             grafico.assignColor("NS/NR*","#2E2B2D");
             grafico.assignColor("Branco e Nulo","#C9C9C9");
+        } else if (pergunta == "dilma" || pergunta == "aecio" || pergunta == "marina") {
+            grafico.assignColor("Votaria com certeza","#003900"),
+            grafico.assignColor("Poderia votar","#FFD819"),
+            grafico.assignColor("Não votaria de jeito nenhum","#CB5B5B"),
+            grafico.assignColor("NS/NR*","#2E2B2D")
+        
         } else if (pergunta.indexOf("avalia") != -1 || pergunta.indexOf("aprova") != -1 ) {
             grafico.defaultColors = [
                 new dimple.color("#592640"),
@@ -470,6 +495,12 @@ var Main = (function() {
         y.overrideMax = maximo_y;
 
         chart.draw(750); // Desenhando novo gráfico com animação durando 1000 ms
+
+        chart.axes[0].shapes.selectAll("text").attr("transform",
+            function (d) {
+                //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
+                return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
+            });
 
         //muda os meses para o nome em extenso
         _nomeMes()

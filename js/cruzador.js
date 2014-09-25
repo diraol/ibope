@@ -507,25 +507,27 @@ var Main = (function() {
         if (pergunta.indexOf("validos") > 0) {                     
             if (maximo_y < 50) {
                 y.overrideMax = 50
-                altura_y = $("#background_plot_area").attr("y")
             }                
             else {
                 y.overrideMax = maximo_y
-                altura_y = $("#background_plot_area").attr("y")
-    /*        myLine = svg.append("svg:line")
-                .attr("x1", $("#background_plot_area").attr("x"))
-                .attr("y1", altura_y)
-                .attr("x2", $("#background_plot_area").attr("width"))
-                .attr("y2", altura_y)
-                .style({
-                    "stroke": "black",
-                    "stroke-dasharray":"5.5",
-                    "stroke-width":"4",
-                    "stroke-opacity":"0.3"
-                })*/
             }
-        } else 
+            //sendo votos válidos, ele aproveita para fazer uma série nova que será a linha cinza de 50%
+            datas = dimple.getUniqueValues(data,"data")
+            var s3 = chart.addSeries("metade", dimple.plot.line);
+            s3.data = [
+                { "metade" : "metade", "valor" : 50, "data" : datas[0] }, 
+                { "metade" : "metade", "valor" : 50, "data" : datas[datas.length-1] }];
+            
+        } else  {
+            //se não for votos válidos e se tiver a linha de 50%, ele remove
             y.overrideMax = maximo_y;
+            if (chart.series.length>1) {
+                chart.series.pop(1)
+                $("path[id*='metade']").remove()
+                
+            }
+        }
+            
 
         chart.draw(750); // Desenhando novo gráfico com animação durando 1000 ms
 
@@ -537,11 +539,25 @@ var Main = (function() {
 
         //muda os meses para o nome em extenso
         _nomeMes()
+        
+        //arruma a barra de 50% se houver
+        _arruma_50()
 
     }
     
     function atualiza_recorte(cat_recorte, recorte, texto){
         _atualiza_grafico({cat_recorte: cat_recorte, recorte: recorte, texto_recorte: texto});
+    }
+    
+    function _arruma_50() {
+    
+        $("circle[id*='metade']").remove()
+        $("path[id*='metade']").css({
+            "stroke": "black",
+            "stroke-dasharray":"5.5",
+            "stroke-width":"4",
+            "stroke-opacity":"0.3"
+        })
     }
 
     function atualiza_pergunta(pergunta, texto){

@@ -8,16 +8,20 @@ var Main = (function() {
 
     var extensao = {
         'pergunta': {
-            'intencao_estimulada': 'Intenção de voto estimulada',
-            'intencao_espontanea': 'Intenção de voto espontânea',
+            'intencao_estimulada': 'Intenção estimulada (votos totais)',
+            'estimulada_validos': 'Intenção estimulada (votos válidos)',
+            'intencao_espontanea': 'Intenção espontânea (votos totais)',
+            'espontanea_validos': 'Intenção espontânea (votos válidos)',
             'interesse': 'Qual interesse nas eleições',
             'avaliacao_governo': 'Avaliação do governo',
             'aprova_dilma': 'Aprovação da Dilma',
             'desejo_mudanca': 'Desejo de mudança',
             'rejeicao': 'Rejeição',
-            '2turno_aecio': '2º turno - com Aécio',
-            '2turno_campos': '2º turno - com Campos',
-            '2turno_marina': '2º turno - com Marina',
+            '2turno_aecio': '2º turno - Aécio (votos totais)',
+            '2aecio_validos': '2º turno - Aécio (votos válidos)',
+            '2turno_campos': '2º turno - Campos',
+            '2turno_marina': '2º turno - Marina (votos totais)',
+            '2marina_validos': '2º turno - Marina (votos válidos)',
             'favorito': 'Quem você acha que vai ganhar?',
             'poder_compra': 'Melhora do poder de compra',
             'saude': 'Melhora da saúde pública',
@@ -323,7 +327,7 @@ var Main = (function() {
 
         //x.fontFamily = "Arial";
         x.fontSize = "95%";
-
+        
         y.overrideMax = maximo_y;
 
         //y.fontFamily = "Arial";
@@ -361,16 +365,22 @@ var Main = (function() {
         var orderedValues = []
         if (pergunta.indexOf("intencao_estimulada") != -1) {
             orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Eduardo Campos","Pastor Everaldo","Outros","Branco e Nulo","NS/NR*"];
-        } else if (pergunta.indexOf("intencao_espontanea") != -1) {
+        } else if (pergunta.indexOf("estimulada_validos") != -1 || pergunta.indexOf("espontanea_validos") != -1) {
+            orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Pastor Everaldo","Outros"];
+        } else if (pergunta.indexOf("espontanea") != -1) {
             orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Eduardo Campos","Pastor Everaldo","Lula","Outros","Branco e Nulo","NS/NR*"];
         } else if (pergunta.indexOf("rejeicao") != -1) {
             orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Eduardo Campos","Pastor Everaldo"];
         } else if (pergunta.indexOf("turno_aecio") != -1) {
             orderedValues = ["Dilma Rousseff", "Aécio Neves","Branco e Nulo","NS/NR*"];
+        } else if (pergunta.indexOf("aecio_validos") != -1) {
+            orderedValues = ["Dilma Rousseff", "Aécio Neves"];
         } else if (pergunta.indexOf("turno_campos") != -1) {
             orderedValues = ["Dilma Rousseff", "Eduardo Campos","Branco e Nulo","NS/NR*"];
         } else if (pergunta.indexOf("turno_marina") != -1) {
             orderedValues = ["Dilma Rousseff", "Marina Silva","Branco e Nulo","NS/NR*"];
+        } else if (pergunta.indexOf("marina_validos") != -1) {
+            orderedValues = ["Dilma Rousseff", "Marina Silva"];
         } else if (pergunta.indexOf("avaliacao") != -1) {
             orderedValues = ["Ótimo e bom","Regular","Ruim e péssimo","NS/NR*"]
         } else if (pergunta.indexOf("interesse")!= -1) {
@@ -492,7 +502,30 @@ var Main = (function() {
 
         //coloca o nome certo e % no eixo y
         y.title = texto_pergunta + " (%)";
-        y.overrideMax = maximo_y;
+        
+        //coloca mínimo de 50% se for votos válidos. se não, usa a fórmula antiga mesmo
+        if (pergunta.indexOf("validos") > 0) {                     
+            if (maximo_y < 50) {
+                y.overrideMax = 50
+                altura_y = $("#background_plot_area").attr("y")
+            }                
+            else {
+                y.overrideMax = maximo_y
+                altura_y = $("#background_plot_area").attr("y")
+    /*        myLine = svg.append("svg:line")
+                .attr("x1", $("#background_plot_area").attr("x"))
+                .attr("y1", altura_y)
+                .attr("x2", $("#background_plot_area").attr("width"))
+                .attr("y2", altura_y)
+                .style({
+                    "stroke": "black",
+                    "stroke-dasharray":"5.5",
+                    "stroke-width":"4",
+                    "stroke-opacity":"0.3"
+                })*/
+            }
+        } else 
+            y.overrideMax = maximo_y;
 
         chart.draw(750); // Desenhando novo gráfico com animação durando 1000 ms
 
@@ -506,7 +539,7 @@ var Main = (function() {
         _nomeMes()
 
     }
-
+    
     function atualiza_recorte(cat_recorte, recorte, texto){
         _atualiza_grafico({cat_recorte: cat_recorte, recorte: recorte, texto_recorte: texto});
     }

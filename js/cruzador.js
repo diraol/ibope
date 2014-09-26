@@ -505,8 +505,8 @@ var Main = (function() {
         
         //coloca mínimo de 50% se for votos válidos. se não, usa a fórmula antiga mesmo
         if (pergunta.indexOf("validos") > 0) {                     
-            if (maximo_y < 50) {
-                y.overrideMax = 50
+            if (maximo_y < 60) {
+                y.overrideMax = 60
             }                
             else {
                 y.overrideMax = maximo_y
@@ -514,9 +514,18 @@ var Main = (function() {
             //sendo votos válidos, ele aproveita para fazer uma série nova que será a linha cinza de 50%
             datas = dimple.getUniqueValues(data,"data")
             var s3 = chart.addSeries("metade", dimple.plot.line);
+            
+            primeira_data = datas[0].split("-")
+            primeira_data[1] = parseInt(primeira_data[1])-1
+            primeira_data = primeira_data.join("-")
+            
+            ultima_data = datas[datas.length-1].split("-")
+            ultima_data[1] = (parseInt(ultima_data[1])+1)
+            ultima_data = ultima_data.join("-")
+
             s3.data = [
-                { "metade" : "metade", "valor" : 50, "data" : datas[0] }, 
-                { "metade" : "metade", "valor" : 50, "data" : datas[datas.length-1] }];
+                { "metade" : "metade", "valor" : 50, "data" : primeira_data }, 
+                { "metade" : "metade", "valor" : 50, "data" :  ultima_data}];
             
         } else  {
             //se não for votos válidos e se tiver a linha de 50%, ele remove

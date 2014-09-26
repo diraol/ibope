@@ -1,5 +1,9 @@
 var Main = (function() {
-
+    
+    var div = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+    
     var defaultFilters = {
             pergunta: 'intencao_estimulada',
             categoriaRecorte: 'total',
@@ -417,8 +421,8 @@ var Main = (function() {
             grafico.assignColor("NS/NR*","#2E2B2D");
             grafico.assignColor("Branco e Nulo","#C9C9C9");
         } else if (pergunta == "dilma" || pergunta == "aecio" || pergunta == "marina") {
-            grafico.assignColor("Votaria com certeza","#003900"),
-            grafico.assignColor("Poderia votar","#FFD819"),
+            grafico.assignColor("Votaria com certeza","#1C4587"),
+            grafico.assignColor("Poderia votar","#6b94b0"),
             grafico.assignColor("Não votaria de jeito nenhum","#CB5B5B"),
             grafico.assignColor("NS/NR*","#2E2B2D")
         
@@ -561,12 +565,32 @@ var Main = (function() {
     function _arruma_50() {
     
         $("circle[id*='metade']").remove()
-        $("path[id*='metade']").css({
-            "stroke": "black",
-            "stroke-dasharray":"5.5",
-            "stroke-width":"4",
-            "stroke-opacity":"0.3"
-        })
+        
+        $("path[id*='metade']")
+            .css({
+                "stroke": "#000000",
+                "stroke-dasharray":"5.5",
+                "stroke-width":"4",
+                "stroke-opacity":"0.5"
+            })
+            .attr("stroke","#000000")
+            .attr("opacity","#0.5")
+        
+        d3.select("path[id*='metade']")
+            .on("mouseover",function(d){
+                div.transition()
+                    .duration(0)
+                    .style("opacity", 1)
+                div.html("Metade dos votos válidos; acima disso significa vitória no 1o turno")
+                    .style("left", (d3.event.pageX - 10) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px")})
+            .on("mouseout", function(d) {
+                div.transition()
+                .duration(1500)
+                .style("opacity", 0);
+            });
+            
+        
     }
 
     function atualiza_pergunta(pergunta, texto){

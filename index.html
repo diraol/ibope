@@ -17,8 +17,8 @@
   <meta property="og:locale" content="pt_BR">
 
   <!-- meta tags específicas de cada projeto -->
-  <meta name="author" content="Diego Rabatone Oliveira"> <!-- A pessoa responsável pelo desenvolvimento deste arquivo -->
-  <meta name="DC.creator " content="Diego Rabatone Oliveira"> <!-- Desenvolvedor da página -->
+  <meta name="author" content="Diego Rabatone Oliveira e Rodrigo Burgarelli"> <!-- A pessoa responsável pelo desenvolvimento deste arquivo -->
+  <meta name="DC.creator " content="Diego Rabatone Oliveira e Rodrigo Burgarelli"> <!-- Desenvolvedor da página -->
   <meta name="DC.creator.address" content="diraol@diraol.eng.br"> <!-- email do autor da página -->
   <meta name="application-name" content="Cruzador de Opiniões"> <!-- O nome desta aplicação -->
   <meta name="description" content="Cruzador de Opiniões: Selecione um tema pesquisado pelo Ibope e cruze pelo tipo de eleitor. #estadaodados"> <!-- Descrição curta e precisa do conteúdo desta página -->
@@ -127,13 +127,21 @@
 
   <!-- Conteúdo Principal -->
   <section id="main_content" class="container-fluid">
+      <span class="tooltip-r" data-placement="left" data-toggle="tooltip" data-original-title="Explanation">
+      
         <div class="col-xs-12 col-sm-4 div-botao-pergunta">
           <div class="input-group">
             <div class="input-group-btn">
-              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-pergunta" data-pergunta="intencao_estimulada">Intenção de Voto Estimulada</span>&nbsp;<span class="caret"></span></button>
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="botao-selecao-pergunta" data-pergunta="intencao_estimulada">Intenção estimulada (votos totais)</span>&nbsp;<span class="caret"></span></button>
               <ul class="dropdown-menu text-right pull-right">
-                <li class="perg-intencao_estimulada"><a class="link-pergunta" href="#p/intencao_estimulada">Intenção de voto estimulada</a></li>
-                <li class="perg-intencao_espontanea"><a class="link-pergunta" href="#p/intencao_espontanea">Intenção de voto espontânea</a></li>
+                <li class="perg-intencao_estimulada"><a class="link-pergunta" href="#p/intencao_estimulada">Intenção estimulada (votos totais)</a></li>
+                <li class="perg-estimulada_validos"><a class="link-pergunta" href="#p/estimulada_validos">Intenção estimulada (votos válidos)</a></li>
+                <li class="perg-intencao_espontanea"><a class="link-pergunta" href="#p/intencao_espontanea">Intenção espontânea (votos totais)</a></li>
+                <li class="perg-espontanea_validos"><a class="link-pergunta" href="#p/espontanea_validos">Intenção espontânea (votos válidos)</a></li>
+                <li class="perg-2turno_marina"><a class="link-pergunta" href="#p/2turno_marina">2o. turno - Marina (votos totais)</a></li>
+                <li class="perg-2marina_validos"><a class="link-pergunta" href="#p/2marina_validos">2o. turno - Marina (votos válidos)</a></li>
+                <li class="perg-2turno_aecio"><a class="link-pergunta" href="#p/2turno_aecio">2o. turno - Aécio (votos totais)</a></li>
+                <li class="perg-2aecio_validos"><a class="link-pergunta" href="#p/2aecio_validos">2o. turno - Aécio (votos válidos)</a></li>
                 <li class="perg-interesse"><a class="link-pergunta" href="#p/interesse">Qual seu interesse nas eleições?</a></li>
                 <li class="perg-avaliacao_governo"><a class="link-pergunta" href="#p/avaliacao_governo">Avaliação do governo</a></li>
                 <li class="perg-aprova_dilma"><a class="link-pergunta" href="#p/aprova_dilma">Aprovação da Dilma</a></li>
@@ -141,9 +149,10 @@
                 <li class="perg-desejo_mudanca"><a class="link-pergunta" href="#p/desejo_mudanca">Desejo de mudança</a></li>
                 <li class="perg-rejeicao"><a class="link-pergunta" href="#p/rejeicao">Rejeição</a></li>
                 <li class="perg-favorito"><a class="link-pergunta" href="#p/favorito">Quem você acha que vai ganhar?</a></li>
-                <li class="perg-2turno_marina"><a class="link-pergunta" href="#p/2turno_marina">2o. turno - com Marina</a></li>
-                <li class="perg-2turno_aecio"><a class="link-pergunta" href="#p/2turno_aecio">2o. turno - com Aécio</a></li>
                 <li class="perg-2turno_campos"><a class="link-pergunta" href="#p/2turno_campos">2o. turno - com Campos</a></li>
+                <li class="perg-dilma"><a class="link-pergunta" href="#p/dilma">Potencial de voto - Dilma</a></li>
+                <li class="perg-marina"><a class="link-pergunta" href="#p/marina">Potencial de voto - Marina</a></li>
+                <li class="perg-aecio"><a class="link-pergunta" href="#p/aecio">Potencial de voto - Aécio</a></li>
                 <li class="perg-poder_compra"><a class="link-pergunta" href="#p/poder_compra">Melhora do poder de compra</a></li>
                 <li class="perg-saude"><a class="link-pergunta" href="#p/saude">Melhora da saúde pública</a></li>
                 <li class="perg-emprego"><a class="link-pergunta" href="#p/emprego">Melhora das oport. de emprego</a></li>
@@ -225,6 +234,18 @@
                 <li class="rec-nota"><a class="link-recorte" href="#cr/nota/r/7 ou mais">7 ou mais</a></li>
                 <li class="rec-nota"><a class="link-recorte" href="#cr/nota/r/Entre 4 e 6">de 4 a 6</a></li>
                 <li class="rec-nota"><a class="link-recorte" href="#cr/nota/r/3 ou menos">3 ou menos</a></li>
+                <li class="rec-dilma cat-label">cujo potencial de voto em relação a Dilma é:</li>
+                <li class="rec-dilma"><a class="link-recorte" href="#cr/dilma/r/Votaria com certeza">Votaria com certeza</a></li>
+                <li class="rec-dilma"><a class="link-recorte" href="#cr/dilma/r/Poderia votar">Poderia votar</a></li>
+                <li class="rec-dilma"><a class="link-recorte" href="#cr/dilma/r/Não votaria de jeito nenhum">Não votaria de jeito nenhum</a></li>
+                <li class="rec-marina cat-label">cujo potencial de voto em relação a Marina é:</li>
+                <li class="rec-marina"><a class="link-recorte" href="#cr/marina/r/Votaria com certeza">Votaria com certeza</a></li>
+                <li class="rec-marina"><a class="link-recorte" href="#cr/marina/r/Poderia votar">Poderia votar</a></li>
+                <li class="rec-marina"><a class="link-recorte" href="#cr/marina/r/Não votaria de jeito nenhum">Não votaria de jeito nenhum</a></li>
+                <li class="rec-aecio cat-label">cujo potencial de voto em relação a Aécio é:</li>
+                <li class="rec-aecio"><a class="link-recorte" href="#cr/aecio/r/Votaria com certeza">Votaria com certeza</a></li>
+                <li class="rec-aecio"><a class="link-recorte" href="#cr/aecio/r/Poderia votar">Poderia votar</a></li>
+                <li class="rec-aecio"><a class="link-recorte" href="#cr/aecio/r/Não votaria de jeito nenhum">Não votaria de jeito nenhum</a></li>
                 <li class="rec-poder_compra cat-label">para quem o poder de compra:</li>
                 <li class="rec-poder_compra"><a class="link-recorte" href="#cr/poder_compra/r/Melhorou">Melhorou</a></li>
                 <li class="rec-poder_compra"><a class="link-recorte" href="#cr/poder_compra/r/Igual">Está igual</a></li>

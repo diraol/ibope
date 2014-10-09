@@ -5,7 +5,7 @@ var Main = (function() {
         .style("opacity", 0);
 
     var defaultFilters = {
-            pergunta: 'intencao_estimulada',
+            pergunta: '2aecio_validos',
             categoriaRecorte: 'total',
             recorte: 'total'
     };
@@ -159,7 +159,7 @@ var Main = (function() {
         }
     };
     var currentRoute = {
-        pergunta: "intencao_estimulada",
+        pergunta: "2aecio_validos",
         categoriaRecorte: "total",
         recorte: "total"
     };
@@ -292,7 +292,7 @@ var Main = (function() {
             .attr("height", dimple._parentHeight(svg.node()) - 100)
             .style("fill", "#fff");
 
-        var data = dimple.filterData(window.complete_data, "cat_pergunta", "intencao_estimulada"); //filtra pergunta
+        var data = dimple.filterData(window.complete_data, "cat_pergunta", currentRoute["pergunta"]); //filtra pergunta
             data = dimple.filterData(data, "cat_recorte", "total"); //filtra categoria do recorte
         var maximo_y = d3.max(data, function(d){ return parseFloat(d.valor);}); //encontra maior valor de uma determianda categoria de recorte
             data = dimple.filterData(data, "recorte", "total"); //filtra recorte na categoria
@@ -329,10 +329,10 @@ var Main = (function() {
         linha.lineMarkers = true;
 
         legend = myChart.addLegend(-200, 30, 195, 220, "right");
-        myChart = _configuraCores(myChart, "intencao_estimulada");
+        myChart = _configuraCores(myChart, currentRoute["pergunta"]);
 
         //arruma ordem da legenda
-        legend._getEntries = function () { return _ordemLegenda("intencao_estimulada"); };
+        legend._getEntries = function () { return _ordemLegenda(currentRoute["pergunta"]); };
 
         //arruma as fontes
         //legend.fontFamily = "Arial";
@@ -369,7 +369,7 @@ var Main = (function() {
         if (window.location.hash) {
             crossroads.parse('/' + window.location.hash.split("#").pop());
         } else {
-            crossroads.parse('/p/intencao_estimulada/cr/total/r/total');
+            crossroads.parse('/p/2aecio_validos/cr/total/r/total');
         }
 
     }

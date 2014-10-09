@@ -1,9 +1,9 @@
 var Main = (function() {
-    
+
     var div = d3.select("body").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
-    
+
     var defaultFilters = {
             pergunta: 'intencao_estimulada',
             categoriaRecorte: 'total',
@@ -112,11 +112,11 @@ var Main = (function() {
             },
             'partido': {
                 'PT': 'PT',
-                'PSDB': 'PSDB'                
+                'PSDB': 'PSDB'
             },
             'bolsa': {
                 'Sim': 'Qualquer benefício do governo',
-                'Não': 'Nenhum benefício do governo'                
+                'Não': 'Nenhum benefício do governo'
             },
             'bolsa_familia': {
                 'Sim': 'Bolsa Família'
@@ -139,23 +139,23 @@ var Main = (function() {
             'poder_compra': {
                 'Melhorou': 'Melhorou',
                 'Igual': 'Está igual',
-                'Piorou': 'Piorou'                
+                'Piorou': 'Piorou'
             },
             'emprego': {
                 'Melhorou': 'Melhorou',
                 'Igual': 'Está igual',
-                'Piorou': 'Piorou'                
+                'Piorou': 'Piorou'
             },
             'saude': {
                 'Melhorou': 'Melhorou',
                 'Igual': 'Está igual',
-                'Piorou': 'Piorou'                
+                'Piorou': 'Piorou'
             },
             'educacao': {
                 'Melhorou': 'Melhorou',
                 'Igual': 'Está igual',
-                'Piorou': 'Piorou'                
-            }           
+                'Piorou': 'Piorou'
+            }
         }
     };
     var currentRoute = {
@@ -316,6 +316,15 @@ var Main = (function() {
         y = myChart.addMeasureAxis("y","valor");
         linha = myChart.addSeries("dado",dimple.plot.line);
 
+        if (maximo_data > new Date("2014-10-05")) {
+            console.log("teste");
+            var s4 = myChart.addSeries("segturno", dimple.plot.line);
+                s4.data = [
+                    { "segturno": "segturno", "valor": 0, "data": "2014-10-06"},
+                    { "segturno": "segturno", "valor": 100, "data": "2014-10-07"}
+                ];
+        }
+
         linha.lineWeight = 4
         linha.lineMarkers = true;
 
@@ -331,7 +340,7 @@ var Main = (function() {
 
         //x.fontFamily = "Arial";
         x.fontSize = "95%";
-        
+
         y.overrideMax = maximo_y;
 
         //y.fontFamily = "Arial";
@@ -425,7 +434,7 @@ var Main = (function() {
             grafico.assignColor("Poderia votar","#6b94b0"),
             grafico.assignColor("Não votaria de jeito nenhum","#CB5B5B"),
             grafico.assignColor("NS/NR*","#2E2B2D")
-        
+
         } else if (pergunta.indexOf("avalia") != -1 || pergunta.indexOf("aprova") != -1 ) {
             grafico.defaultColors = [
                 new dimple.color("#592640"),
@@ -506,41 +515,43 @@ var Main = (function() {
 
         //coloca o nome certo e % no eixo y
         y.title = texto_pergunta + " (%)";
-        
+
         //coloca mínimo de 50% se for votos válidos. se não, usa a fórmula antiga mesmo
-        if (pergunta.indexOf("validos") > 0) {                     
+        if (pergunta.indexOf("validos") > 0) {
             if (maximo_y < 60) {
                 y.overrideMax = 60
-            }                
+            }
             else {
                 y.overrideMax = maximo_y
             }
             //sendo votos válidos, ele aproveita para fazer uma série nova que será a linha cinza de 50%
             datas = dimple.getUniqueValues(data,"data")
             var s3 = chart.addSeries("metade", dimple.plot.line);
-            
+
             primeira_data = datas[0].split("-")
             primeira_data[1] = parseInt(primeira_data[1])-1
             primeira_data = primeira_data.join("-")
-            
+
             ultima_data = datas[datas.length-1].split("-")
             ultima_data[1] = (parseInt(ultima_data[1])+1)
             ultima_data = ultima_data.join("-")
 
+            console.log(primeira_data, ultima_data);
+
             s3.data = [
-                { "metade" : "metade", "valor" : 50, "data" : primeira_data }, 
+                { "metade" : "metade", "valor" : 50, "data" : primeira_data },
                 { "metade" : "metade", "valor" : 50, "data" :  ultima_data}];
-            
+
         } else  {
             //se não for votos válidos e se tiver a linha de 50%, ele remove
             y.overrideMax = maximo_y;
             if (chart.series.length>1) {
                 chart.series.pop(1)
                 $("path[id*='metade']").remove()
-                
+
             }
         }
-            
+
 
         chart.draw(750); // Desenhando novo gráfico com animação durando 1000 ms
 
@@ -552,20 +563,20 @@ var Main = (function() {
 
         //muda os meses para o nome em extenso
         _nomeMes()
-        
+
         //arruma a barra de 50% se houver
         _arruma_50()
 
     }
-    
+
     function atualiza_recorte(cat_recorte, recorte, texto){
         _atualiza_grafico({cat_recorte: cat_recorte, recorte: recorte, texto_recorte: texto});
     }
-    
+
     function _arruma_50() {
-    
+
         $("circle[id*='metade']").remove()
-        
+
         $("path[id*='metade']")
             .css({
                 "stroke": "#000000",
@@ -575,7 +586,7 @@ var Main = (function() {
             })
             .attr("stroke","#000000")
             .attr("opacity","#0.5")
-        
+
         d3.select("path[id*='metade']")
             .on("mouseover",function(d){
                 div.transition()
@@ -589,8 +600,31 @@ var Main = (function() {
                 .duration(1500)
                 .style("opacity", 0);
             });
-            
-        
+
+         $("path[id*='segturno']")
+            .css({
+                "stroke": "#000000",
+                "stroke-dasharray":"5.5",
+                "stroke-width":"4",
+                "stroke-opacity":"0.5"
+            })
+            .attr("stroke","#000000")
+            .attr("opacity","#0.5")
+
+        d3.select("path[id*='segturno']")
+            .on("mouseover",function(d){
+                div.transition()
+                    .duration(0)
+                    .style("opacity", 1)
+                div.html("Linha que divide pesquisas realizadas antes e depois do primeiro")
+                    .style("left", (d3.event.pageX - 10) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px")})
+            .on("mouseout", function(d) {
+                div.transition()
+                .duration(1500)
+                .style("opacity", 0);
+            });
+
     }
 
     function atualiza_pergunta(pergunta, texto){

@@ -316,12 +316,13 @@ var Main = (function() {
         y = myChart.addMeasureAxis("y","valor");
         linha = myChart.addSeries("dado",dimple.plot.line);
 
+        //se tiver segundo turno
         if (maximo_data > new Date("2014-10-05")) {
-            console.log("teste");
             var s4 = myChart.addSeries("segturno", dimple.plot.line);
                 s4.data = [
-                    { "segturno": "segturno", "valor": 0, "data": "2014-10-06"},
-                    { "segturno": "segturno", "valor": 100, "data": "2014-10-07"}
+                    { "segturno": "segturno", "valor": 0, "data": "2014-10-05"},
+                    { "segturno": "segturno", "valor": 100, "data": "2014-10-06"},
+
                 ];
         }
 
@@ -349,8 +350,10 @@ var Main = (function() {
 
         //customiza a tooltip
         linha.getTooltipText = function (e) {
+            var nome = e.aggField[0]
+            if (nome.slice(-1) == "2") { nome = nome.substring(0, nome.length - 1);}
             return [
-                e.aggField[0]+": "+ e.y
+                nome+": "+ e.y
             ];
         };
 
@@ -371,7 +374,40 @@ var Main = (function() {
         } else {
             crossroads.parse('/p/2aecio_validos/cr/total/r/total');
         }
+        
+        //cria linha de 2o turno
+        if (maximo_data > new Date("2014-10-05")) {
+            cria_linha()
+        }       
+        
+        //arruma a barra de 50% se houver
+        _arruma_50()
+         
 
+    }
+    
+    function cria_linha() {
+        //acha as coordenadas x e y para a reta, de acordo com a série do dimple s4 (segturno)
+        $(".dimple-segturno").each(function() {
+            if ($(this).is("circle")) { 
+                //se for a primeira bolinha (do dia 5), que está no valor 0
+                if ($(this).attr("class") == "dimple-sun-oct-05-2014-00-00-00-gmt-0300--brt- dimple-marker dimple-series-1 dimple-segturno") { 
+                    x = $(this).attr("cx")
+                    y1 = $(this).attr("cy")
+                } else { //segunda bolinha, do dia 6
+                    y2 = $(this).attr("cy")                    
+                }
+            }
+            $(this).remove()
+        })
+        
+        var myLine = svg.append("svg:line")
+            .attr("x1", x)
+            .attr("y1", y1)
+            .attr("x2", x)
+            .attr("y2", y2)
+            .style("stroke", "rgb(6,120,155)")
+            .attr("id","segturno");
     }
 
     function _ordemLegenda(pergunta) {
@@ -421,9 +457,12 @@ var Main = (function() {
         return entries
     }
     function _configuraCores(grafico, pergunta) {
-        if (pergunta.indexOf("intencao") != -1 || pergunta.indexOf("rejeicao") != -1 || pergunta.indexOf("turno") != -1) {
+    
+        if (pergunta.indexOf("intencao") != -1 || pergunta.indexOf("rejeicao") != -1 || pergunta.indexOf("turno") != -1 || pergunta.indexOf("aecio") != -1) {
             grafico.assignColor("Aécio Neves","#1C4587");
             grafico.assignColor("Dilma Rousseff","#CC0000");
+            grafico.assignColor("Aécio Neves2","#1C4587");
+            grafico.assignColor("Dilma Rousseff2","#CC0000");
             grafico.assignColor("Eduardo Campos","#E69138");
             grafico.assignColor("Marina Silva","#E69138");
             grafico.assignColor("Pastor Everaldo","#6AA84F");
@@ -536,8 +575,6 @@ var Main = (function() {
             ultima_data[1] = (parseInt(ultima_data[1])+1)
             ultima_data = ultima_data.join("-")
 
-            console.log(primeira_data, ultima_data);
-
             s3.data = [
                 { "metade" : "metade", "valor" : 50, "data" : primeira_data },
                 { "metade" : "metade", "valor" : 50, "data" :  ultima_data}];
@@ -592,7 +629,7 @@ var Main = (function() {
                 div.transition()
                     .duration(0)
                     .style("opacity", 1)
-                div.html("Metade dos votos válidos; acima disso significa vitória no 1o turno")
+                div.html("Metade dos votos válidos")
                     .style("left", (d3.event.pageX - 10) + "px")
                     .style("top", (d3.event.pageY - 28) + "px")})
             .on("mouseout", function(d) {
@@ -601,7 +638,7 @@ var Main = (function() {
                 .style("opacity", 0);
             });
 
-         $("path[id*='segturno']")
+         $("line[id*='segturno']")
             .css({
                 "stroke": "#000000",
                 "stroke-dasharray":"5.5",
@@ -610,8 +647,8 @@ var Main = (function() {
             })
             .attr("stroke","#000000")
             .attr("opacity","#0.5")
-
-        d3.select("path[id*='segturno']")
+            
+        d3.select("line[id*='segturno']")
             .on("mouseover",function(d){
                 div.transition()
                     .duration(0)

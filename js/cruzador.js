@@ -554,7 +554,7 @@ var Main = (function() {
         // pergunta, recorte, variavel
 
         // Definindo valor padrão para as variáveis, caso nenhum seja passado.
-        var pergunta = currentRoute["pergunta"] || "segundo_turno_aecio",
+        var pergunta = currentRoute["pergunta"] || "segundo_aecio_validos",
             cat_recorte = currentRoute["categoriaRecorte"]  || "total",
             recorte = currentRoute["recorte"] || "total",
             texto_pergunta = extensao['pergunta'][pergunta],

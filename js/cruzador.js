@@ -5,7 +5,7 @@ var Main = (function() {
         .style("opacity", 0);
 
     var defaultFilters = {
-            pergunta: '2aecio_validos',
+            pergunta: 'segundo_aecio_validos',
             categoriaRecorte: 'total',
             recorte: 'total'
     };
@@ -21,8 +21,8 @@ var Main = (function() {
             'aprova_dilma': 'Aprovação da Dilma',
             'desejo_mudanca': 'Desejo de mudança',
             'rejeicao': 'Rejeição',
-            '2turno_aecio': '2º turno - Aécio (votos totais)',
-            '2aecio_validos': '2º turno - Aécio (votos válidos)',
+            'segundo_turno_aecio': '2º turno - Aécio (votos totais)',
+            'segundo_aecio_validos': '2º turno - Aécio (votos válidos)',
             '2turno_campos': '2º turno - Campos',
             '2turno_marina': '2º turno - Marina (votos totais)',
             '2marina_validos': '2º turno - Marina (votos válidos)',
@@ -34,7 +34,9 @@ var Main = (function() {
             'nota': 'Nota média para o governo',
             'aecio':'Potencial de voto - Aécio',
             'dilma':'Potencial de voto - Dilma',
-            'marina':'Potencial de voto - Marina'
+            'marina':'Potencial de voto - Marina',
+            'certeza_voto':'Certeza sobre o voto',
+            'voto_1turno':'Voto no 1o turno'
         },
         'recorte': {
             'total': {
@@ -99,6 +101,12 @@ var Main = (function() {
                 'Aécio Neves': 'Aécio Neves',
                 'Eduardo Campos': 'Eduardo Campos'
             },
+            'segundo_turno_aecio': {
+                'Dilma Rousseff': 'Dilma Rousseff',
+                'Aécio Neves': 'Aécio Neves',
+                'Branco e Nulo': 'Branco e Nulo'
+            },
+            
             'favorito': {
                 'Dilma Rousseff': 'Dilma Rousseff',
                 'Marina Silva': 'Marina Silva',
@@ -155,11 +163,22 @@ var Main = (function() {
                 'Melhorou': 'Melhorou',
                 'Igual': 'Está igual',
                 'Piorou': 'Piorou'
+            },
+            'certeza_voto': {
+                'É definitiva': 'É definitiva',
+                'Pode mudar': 'Pode mudar'
+            },
+            'voto_1turno': {
+                'Dilma Rousseff': 'Dilma Rousseff',
+                'Marina Silva': 'Marina Silva',
+                'Aécio Neves': 'Aécio Neves',
+                'Outros': 'Outros',
+                'Branco e Nulo': 'Branco e Nulo'
             }
         }
     };
     var currentRoute = {
-        pergunta: "2aecio_validos",
+        pergunta: "segundo_aecio_validos",
         categoriaRecorte: "total",
         recorte: "total"
     };
@@ -308,6 +327,7 @@ var Main = (function() {
         x.title = "";
         var maximo_data = new Date(d3.max(data, function(d){ return d.data;})); //encontra maior data
         var minimo_data = new Date(d3.min(data, function(d){ return d.data;})); //encontra menor data
+        var ultima_data = new Date(d3.max(data, function(d){ return d.data;})); //encontra maior data
 
         //aruma tamanho do eixo de data
         x.overrideMin = minimo_data.setDate(minimo_data.getDate()*0.95);
@@ -315,16 +335,6 @@ var Main = (function() {
 
         y = myChart.addMeasureAxis("y","valor");
         linha = myChart.addSeries("dado",dimple.plot.line);
-
-        //se tiver segundo turno
-        if (maximo_data > new Date("2014-10-05")) {
-            var s4 = myChart.addSeries("segturno", dimple.plot.line);
-                s4.data = [
-                    { "segturno": "segturno", "valor": 0, "data": "2014-10-05"},
-                    { "segturno": "segturno", "valor": 100, "data": "2014-10-06"},
-
-                ];
-        }
 
         linha.lineWeight = 4
         linha.lineMarkers = true;
@@ -368,46 +378,67 @@ var Main = (function() {
                 //return d3.select(this).attr("transform") + " translate(-14, 38) rotate(-90)";
                 return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
             });
-
-        if (window.location.hash) {
-            crossroads.parse('/' + window.location.hash.split("#").pop());
-        } else {
-            crossroads.parse('/p/2aecio_validos/cr/total/r/total');
-        }
-        
-        //cria linha de 2o turno
-        if (maximo_data > new Date("2014-10-05")) {
-            cria_linha()
-        }       
         
         //arruma a barra de 50% se houver
         _arruma_50()
          
 
+        if (window.location.hash) {
+            crossroads.parse('/' + window.location.hash.split("#").pop());
+        } else {
+            crossroads.parse('/p/segundo_aecio_validos/cr/total/r/total');
+        }
+
     }
     
     function cria_linha() {
         //acha as coordenadas x e y para a reta, de acordo com a série do dimple s4 (segturno)
-        $(".dimple-segturno").each(function() {
-            if ($(this).is("circle")) { 
-                //se for a primeira bolinha (do dia 5), que está no valor 0
-                if ($(this).attr("class") == "dimple-sun-oct-05-2014-00-00-00-gmt-0300--brt- dimple-marker dimple-series-1 dimple-segturno") { 
-                    x = $(this).attr("cx")
-                    y1 = $(this).attr("cy")
-                } else { //segunda bolinha, do dia 6
-                    y2 = $(this).attr("cy")                    
-                }
-            }
-            $(this).remove()
-        })
+        var pos1 = false
+        var pos2 = false 
+        var pos3 = false
         
-        var myLine = svg.append("svg:line")
-            .attr("x1", x)
-            .attr("y1", y1)
-            .attr("x2", x)
-            .attr("y2", y2)
-            .style("stroke", "rgb(6,120,155)")
-            .attr("id","segturno");
+        circulo1 = $("circle[class*='dimple-sun-oct-05-2014-00-00-00-gmt-0300--brt-']")
+        if (circulo1.length == 0) { 
+            pos1 = false 
+        } else { 
+            pos1 = circulo1.attr("cx") 
+            pos2 = circulo1.attr("cy")
+            pos3 = 30
+        }
+
+        if (pos1) { //se as bolinhas existirem
+            if (pos2 != pos3) {
+                var myLine = svg.append("svg:line")
+                    .attr("x1", pos1)
+                    .attr("y1", pos2)
+                    .attr("x2", pos1)
+                    .attr("y2", pos3)
+                    .attr("class","linha2turno")
+                    .style("stroke", "rgb(6,120,155)")
+                    .style({
+                        "stroke": "#000000",
+                        "stroke-dasharray":"5.5",
+                        "stroke-width":"4",
+                        "stroke-opacity":"0.5"
+                    })
+                    .style("stroke","#000000")
+                    .style("opacity","#0.5")
+                    .on("mouseover",function(d){
+                        div.transition()
+                            .duration(0)
+                            .style("opacity", 1)
+                        div.html("Linha que divide pesquisas realizadas antes e depois do primeiro")
+                            .style("left", (d3.event.pageX - 10) + "px")
+                            .style("top", (d3.event.pageY - 28) + "px")})
+                    .on("mouseout", function(d) {
+                        div.transition()
+                        .duration(1500)
+                        .style("opacity", 0);
+                    });
+                $("circle[id*='segturno']").remove()                     
+            }
+        }
+        
     }
 
     function _ordemLegenda(pergunta) {
@@ -420,7 +451,7 @@ var Main = (function() {
             orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Eduardo Campos","Pastor Everaldo","Lula","Outros","Branco e Nulo","NS/NR*"];
         } else if (pergunta.indexOf("rejeicao") != -1) {
             orderedValues = ["Dilma Rousseff", "Marina Silva","Aécio Neves", "Eduardo Campos","Pastor Everaldo"];
-        } else if (pergunta.indexOf("turno_aecio") != -1) {
+        } else if (pergunta.indexOf("aecio") != -1) {
             orderedValues = ["Dilma Rousseff", "Aécio Neves","Branco e Nulo","NS/NR*"];
         } else if (pergunta.indexOf("aecio_validos") != -1) {
             orderedValues = ["Dilma Rousseff", "Aécio Neves"];
@@ -440,6 +471,8 @@ var Main = (function() {
             orderedValues = ["Quer mudança","Quer continuidade","NS/NR*"]
         } else if (pergunta == "dilma" || pergunta == "aecio" || pergunta == "marina") {
             orderedValues = ["Votaria com certeza","Poderia votar","Não votaria de jeito nenhum","NS/NR*"]
+        }  else if (pergunta.indexOf("certeza")!= -1) {
+            orderedValues = ["É definitiva","Pode mudar","NS/NR*"]
         }
         var entries = [];
         orderedValues.forEach(function (v) {
@@ -460,14 +493,19 @@ var Main = (function() {
     
         if (pergunta.indexOf("intencao") != -1 || pergunta.indexOf("rejeicao") != -1 || pergunta.indexOf("turno") != -1 || pergunta.indexOf("aecio") != -1) {
             grafico.assignColor("Aécio Neves","#1C4587");
-            grafico.assignColor("Dilma Rousseff","#CC0000");
-            grafico.assignColor("Aécio Neves2","#1C4587");
-            grafico.assignColor("Dilma Rousseff2","#CC0000");
             grafico.assignColor("Eduardo Campos","#E69138");
             grafico.assignColor("Marina Silva","#E69138");
             grafico.assignColor("Pastor Everaldo","#6AA84F");
+            grafico.assignColor("Dilma Rousseff","#CC0000");
+            grafico.assignColor("Dilma Rousseff2","#CC0000");
+            grafico.assignColor("Aécio Neves2","#1C4587");
+            grafico.assignColor("NS/NR*2","#2E2B2D");
+            grafico.assignColor("Branco e Nulo2","#C9C9C9");
+            grafico.assignColor("Outros","#c6c9b7");
+            grafico.assignColor("Outros2","#c6c9b7");
             grafico.assignColor("NS/NR*","#2E2B2D");
             grafico.assignColor("Branco e Nulo","#C9C9C9");
+
         } else if (pergunta == "dilma" || pergunta == "aecio" || pergunta == "marina") {
             grafico.assignColor("Votaria com certeza","#1C4587"),
             grafico.assignColor("Poderia votar","#6b94b0"),
@@ -489,6 +527,11 @@ var Main = (function() {
                 new dimple.color("#1E5DAE"),
                 new dimple.color("#D3CAD3")
              ]
+        } else if (pergunta.indexOf("certeza") != -1) {
+            grafico.assignColor("É definitiva","#1C4587"),
+            grafico.assignColor("Pode mudar","#CB5B5B"),
+            grafico.assignColor("NS/NR*","#2E2B2D");
+            
         } else {
              grafico.defaultColors = [
                 new dimple.color("#6C2817"),
@@ -526,6 +569,7 @@ var Main = (function() {
         //Escondendo opções de recorte que são incompatíveis com perguntas
         var maximo_data = new Date(d3.max(data, function(d){ return d.data;})); //encontra maior data
         var minimo_data = new Date(d3.min(data, function(d){ return d.data;})); //encontra menor data
+        var dia_1oturno = new Date(d3.max(data, function(d){ return d.data;})); //encontra maior data
 
         //aruma tamanho do eixo de data
         chart.axes[0].overrideMin = minimo_data.setDate(minimo_data.getDate()*0.95);
@@ -588,7 +632,25 @@ var Main = (function() {
 
             }
         }
+        
+       //se tiver segundo turno
+        if (dia_1oturno > new Date("2014-10-07") && minimo_data < new Date("2014-10-07")) {
+            chart.series.forEach(function(d,i) { 
+                if (d.data) {
+                    if (d.data[0].hasOwnProperty("segturno")) {
+                        chart.series.pop(i)
 
+                        $(".linha2turno").remove()
+                    } 
+                }
+            })
+            var s4 = chart.addSeries("segturno", dimple.plot.bubble);
+            s4.data = [
+                { "segturno": "segturno", "valor": 0, "data": "2014-10-05"},
+                { "segturno": "segturno", "valor": 100, "data": "2014-10-06"},
+                ];
+        }
+        
 
         chart.draw(750); // Desenhando novo gráfico com animação durando 1000 ms
 
@@ -598,6 +660,14 @@ var Main = (function() {
                 return d3.select(this).attr("transform") + " translate(0, 20) rotate(-45)";
             });
 
+        //cria linha de 2o turno
+        if (dia_1oturno > new Date("2014-10-07") && minimo_data < new Date("2014-10-07")) {
+            $(".linha2turno").remove()
+            cria_linha()
+        } else {
+            $(".linha2turno").remove()
+        }
+            
         //muda os meses para o nome em extenso
         _nomeMes()
 
@@ -630,30 +700,6 @@ var Main = (function() {
                     .duration(0)
                     .style("opacity", 1)
                 div.html("Metade dos votos válidos")
-                    .style("left", (d3.event.pageX - 10) + "px")
-                    .style("top", (d3.event.pageY - 28) + "px")})
-            .on("mouseout", function(d) {
-                div.transition()
-                .duration(1500)
-                .style("opacity", 0);
-            });
-
-         $("line[id*='segturno']")
-            .css({
-                "stroke": "#000000",
-                "stroke-dasharray":"5.5",
-                "stroke-width":"4",
-                "stroke-opacity":"0.5"
-            })
-            .attr("stroke","#000000")
-            .attr("opacity","#0.5")
-            
-        d3.select("line[id*='segturno']")
-            .on("mouseover",function(d){
-                div.transition()
-                    .duration(0)
-                    .style("opacity", 1)
-                div.html("Linha que divide pesquisas realizadas antes e depois do primeiro")
                     .style("left", (d3.event.pageX - 10) + "px")
                     .style("top", (d3.event.pageY - 28) + "px")})
             .on("mouseout", function(d) {
